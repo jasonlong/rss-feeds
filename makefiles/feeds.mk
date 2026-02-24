@@ -177,6 +177,13 @@ feeds_dagster: ## Generate RSS feed for Dagster Blog
 	$(Q)python feed_generators/dagster_blog.py
 	$(call print_success,Dagster Blog feed generated)
 
+.PHONY: feeds_tomsachs
+feeds_tomsachs: ## Generate RSS feed for Tom Sachs Store
+	$(call check_venv)
+	$(call print_info,Generating Tom Sachs Store feed)
+	$(Q)python feed_generators/tomsachs_store.py
+	$(call print_success,Tom Sachs Store feed generated)
+
 .PHONY: feeds_acmeweather
 feeds_acmeweather: ## Generate RSS feed for Acme Weather Blog
 	$(call check_venv)
