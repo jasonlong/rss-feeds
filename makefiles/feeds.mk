@@ -177,6 +177,13 @@ feeds_dagster: ## Generate RSS feed for Dagster Blog
 	$(Q)python feed_generators/dagster_blog.py
 	$(call print_success,Dagster Blog feed generated)
 
+.PHONY: feeds_acmeweather
+feeds_acmeweather: ## Generate RSS feed for Acme Weather Blog
+	$(call check_venv)
+	$(call print_info,Generating Acme Weather Blog feed)
+	$(Q)python feed_generators/acmeweather_blog.py
+	$(call print_success,Acme Weather Blog feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
