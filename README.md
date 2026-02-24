@@ -7,27 +7,29 @@
 
 | Blog                                                                                      | Feed                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Anthropic News](https://www.anthropic.com/news)                                          | [feed_anthropic_news.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml)                                   |
-| [Anthropic Engineering](https://www.anthropic.com/engineering)                            | [feed_anthropic_engineering.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml)                     |
-| [Anthropic Research](https://www.anthropic.com/research)                                  | [feed_anthropic_research.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml)                           |
-| [Anthropic Frontier Red Team](https://red.anthropic.com/)                                 | [feed_anthropic_red.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml)                                     |
-| [Claude Code Changelog](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) | [feed_anthropic_changelog_claude_code.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_changelog_claude_code.xml) |
-| [OpenAI Research](https://openai.com/news/research/)                                      | [feed_openai_research.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_openai_research.xml)                                 |
-| [Ollama Blog](https://ollama.com/blog)                                                    | [feed_ollama.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml)                                                   |
-| [Paul Graham's Articles](https://www.paulgraham.com/articles.html)                        | [feed_paulgraham.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_paulgraham.xml)                                           |
-| [Surge AI Blog](https://www.surgehq.ai/blog)                                              | [feed_blogsurgeai.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_blogsurgeai.xml)                                         |
-| [xAI News](https://x.ai/news)                                                             | [feed_xainews.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml)                                                 |
-| [Chander Ramesh's Writing](https://chanderramesh.com/writing)                             | [feed_chanderramesh.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_chanderramesh.xml)                                     |
-| [Claude Blog](https://claude.com/blog)                                                    | [feed_claude.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml)                                                   |
-| [Thinking Machines Lab](https://thinkingmachines.ai/blog/)                                | [feed_thinkingmachines.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_thinkingmachines.xml)                               |
-| [Hamel Husain's Blog](https://hamel.dev/)                                                 | [feed_hamel.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_hamel.xml)                                                     |
-| [Cursor Blog](https://cursor.com/blog)                                                    | [feed_cursor.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml)                                                   |
-| [Dagster Blog](https://dagster.io/blog)                                                   | [feed_dagster.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_dagster.xml)                                                 |
-| [Windsurf Blog](https://windsurf.com/blog)                                                | [feed_windsurf_blog.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_blog.xml)                                     |
-| [Windsurf Changelog](https://windsurf.com/changelog)                                      | [feed_windsurf_changelog.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_changelog.xml)                           |
-| [Windsurf Next Changelog](https://windsurf.com/changelog/windsurf-next)                   | [feed_windsurf_next_changelog.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_next_changelog.xml)                 |
-| [The Batch by DeepLearning.AI](https://www.deeplearning.ai/the-batch/)                    | [feed_the_batch.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_the_batch.xml)                                             |
-| [Google Developers Blog - AI](https://developers.googleblog.com/search/?technology_categories=AI) | [feed_google_ai.xml](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_google_ai.xml)                                             |
+| [Anthropic News](https://www.anthropic.com/news)                                          | [feed_anthropic_news.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_anthropic_news.xml)                                   |
+| [Anthropic Engineering](https://www.anthropic.com/engineering)                            | [feed_anthropic_engineering.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_anthropic_engineering.xml)                     |
+| [Anthropic Research](https://www.anthropic.com/research)                                  | [feed_anthropic_research.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_anthropic_research.xml)                           |
+| [Anthropic Frontier Red Team](https://red.anthropic.com/)                                 | [feed_anthropic_red.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_anthropic_red.xml)                                     |
+| [Claude Code Changelog](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) | [feed_anthropic_changelog_claude_code.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_anthropic_changelog_claude_code.xml) |
+| [OpenAI Research](https://openai.com/news/research/)                                      | [feed_openai_research.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_openai_research.xml)                                 |
+| [Ollama Blog](https://ollama.com/blog)                                                    | [feed_ollama.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_ollama.xml)                                                   |
+| [Paul Graham's Articles](https://www.paulgraham.com/articles.html)                        | [feed_paulgraham.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_paulgraham.xml)                                           |
+| [Surge AI Blog](https://www.surgehq.ai/blog)                                              | [feed_blogsurgeai.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_blogsurgeai.xml)                                         |
+| [xAI News](https://x.ai/news)                                                             | [feed_xainews.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_xainews.xml)                                                 |
+| [Chander Ramesh's Writing](https://chanderramesh.com/writing)                             | [feed_chanderramesh.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_chanderramesh.xml)                                     |
+| [Claude Blog](https://claude.com/blog)                                                    | [feed_claude.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_claude.xml)                                                   |
+| [Thinking Machines Lab](https://thinkingmachines.ai/blog/)                                | [feed_thinkingmachines.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_thinkingmachines.xml)                               |
+| [Hamel Husain's Blog](https://hamel.dev/)                                                 | [feed_hamel.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_hamel.xml)                                                     |
+| [Cursor Blog](https://cursor.com/blog)                                                    | [feed_cursor.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_cursor.xml)                                                   |
+| [Acme Weather Blog](https://acmeweather.com/blog)                                         | [feed_acmeweather.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_acmeweather.xml)                                       |
+| [Dagster Blog](https://dagster.io/blog)                                                   | [feed_dagster.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_dagster.xml)                                                 |
+| [Windsurf Blog](https://windsurf.com/blog)                                                | [feed_windsurf_blog.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_windsurf_blog.xml)                                     |
+| [Windsurf Changelog](https://windsurf.com/changelog)                                      | [feed_windsurf_changelog.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_windsurf_changelog.xml)                           |
+| [Windsurf Next Changelog](https://windsurf.com/changelog/windsurf-next)                   | [feed_windsurf_next_changelog.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_windsurf_next_changelog.xml)                 |
+| [The Batch by DeepLearning.AI](https://www.deeplearning.ai/the-batch/)                    | [feed_the_batch.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_the_batch.xml)                                             |
+| [Tom Sachs Store](https://store.tomsachs.com/)                                            | [feed_tomsachs.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_tomsachs.xml)                                             |
+| [Google Developers Blog - AI](https://developers.googleblog.com/search/?technology_categories=AI) | [feed_google_ai.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_google_ai.xml)                                             |
 | [Patrick Collison's Blog](https://patrickcollison.com/culture)                            | _planned_                                                                                                                                            |
 | [Supabase Blog](https://supabase.com/blog)                                                | _planned_                                                                                                                                            |
 | [David Crawshaw](https://crawshaw.io/)                                                    | _planned_                                                                                                                                            |
@@ -59,7 +61,7 @@ You know that blog you like that doesn't have an RSS feed and might never will?
 - Use the **raw** link for your RSS reader. Example:
 
   ```text
-    https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml
+    https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_ollama.xml
   ```
 
 - Use your RSS reader of choice to subscribe to the feed (e.g., [Blogtrottr](https://blogtrottr.com/)).
@@ -68,7 +70,7 @@ You know that blog you like that doesn't have an RSS feed and might never will?
 
 Want me to create a feed for you?
 
-[Open a GitHub issue](https://github.com/Olshansk/rss-feeds/issues/new?template=request_rss_feed.md) and include the blog URL.
+[Open a GitHub issue](https://github.com/jasonlong/rss-feeds/issues/new?template=request_rss_feed.md) and include the blog URL.
 
 If I do, consider supporting my 🌟🧋 addiction by [buying me a coffee](https://buymeacoffee.com/olshansky).
 
@@ -84,7 +86,7 @@ Use @cmd_rss_feed_generator.md to convert @<html_file>.html to a RSS feed for <b
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Olshansk/rss-feeds&type=Date)](https://star-history.com/#Olshansk/rss-feeds&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=jasonlong/rss-feeds&type=Date)](https://star-history.com/#jasonlong/rss-feeds&Date)
 
 ## Ideas
 
