@@ -1,0 +1,2107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>La Marzocco Blog</title>
+    <link>https://home.lamarzoccousa.com/blog/</link>
+    <description>Latest from the La Marzocco blog</description>
+    <atom:link href="https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_lamarzocco.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Feb 2026 19:01:49 +0000</lastBuildDate>
+    <item>
+      <title>the espresso house with tj’s coffee adventures</title>
+      <link>https://home.lamarzoccousa.com/the-espresso-house-with-tjs-coffee-adventures/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-espresso-house-with-tjs-coffee-adventures/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>zest specialty coffee roasters x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/zest-specialty-coffee-roasters-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/zest-specialty-coffee-roasters-x-la-marzocco-home/</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Siri Shortcuts for La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/siri-shortcuts-for-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/siri-shortcuts-for-la-marzocco-app/</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seven Coffee Resolutions for the New Year</title>
+      <link>https://home.lamarzoccousa.com/seven-coffee-resolutions-for-the-new-year/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/seven-coffee-resolutions-for-the-new-year/</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>accademia del caffè espresso x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/accademia-del-caffe-espresso-x-la-marzocco-home-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/accademia-del-caffe-espresso-x-la-marzocco-home-2/</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comprehensive Guide to the GS3 MP: is it right for you?</title>
+      <link>https://home.lamarzoccousa.com/comprehensive-guide-to-the-gs3-mp-is-it-right-for-you/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/comprehensive-guide-to-the-gs3-mp-is-it-right-for-you/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>coava coffee roasters x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/coava-coffee-roasters-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coava-coffee-roasters-x-la-marzocco-home/</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Affogato Advent Calendar</title>
+      <link>https://home.lamarzoccousa.com/the-affogato-advent-calendar/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-affogato-advent-calendar/</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>App Update: Introducing Smart Scheduling and Local Mode</title>
+      <link>https://home.lamarzoccousa.com/local-mode-smart-scheduling/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/local-mode-smart-scheduling/</guid>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Tale of the Dirty Solenoid</title>
+      <link>https://home.lamarzoccousa.com/backflush-from-the-living-dead-tales-of-the-dirty-solenoid/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/backflush-from-the-living-dead-tales-of-the-dirty-solenoid/</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>bluebeard coffee roasters x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/bluebeard-coffee-roasters-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/bluebeard-coffee-roasters-x-la-marzocco-home/</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Anywhere with Francisco Lindor</title>
+      <link>https://home.lamarzoccousa.com/espresso-anywhere-with-francisco-lindor/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-anywhere-with-francisco-lindor/</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Anywhere with Benjamin Hardman</title>
+      <link>https://home.lamarzoccousa.com/espresso-anywhere-with-benjamin-hardman/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-anywhere-with-benjamin-hardman/</guid>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s On—Out of the Box Milan 2025</title>
+      <link>https://home.lamarzoccousa.com/whats-on-out-of-the-box-milan-2025/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/whats-on-out-of-the-box-milan-2025/</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>dune coffee roasters x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/dune-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/dune-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comprehensive Guide to the Linea Micra: Is It Right for You?</title>
+      <link>https://home.lamarzoccousa.com/comprehensive-guide-to-the-linea-micra-is-it-right-for-you/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/comprehensive-guide-to-the-linea-micra-is-it-right-for-you/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A History of the Espresso Break</title>
+      <link>https://home.lamarzoccousa.com/a-history-of-the-espresso-break/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/a-history-of-the-espresso-break/</guid>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Story of Made in Italy</title>
+      <link>https://home.lamarzoccousa.com/the-story-of-made-in-italy/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-story-of-made-in-italy/</guid>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OUT OF THE BOX — MILAN</title>
+      <link>https://home.lamarzoccousa.com/out-of-the-box-milan/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/out-of-the-box-milan/</guid>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comprehensive Guide to the Linea Mini : Is It Right for You?</title>
+      <link>https://home.lamarzoccousa.com/comprehensive-guide-to-the-linea-mini-is-it-right-for-you/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/comprehensive-guide-to-the-linea-mini-is-it-right-for-you/</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>chloé cà phê + roastery and la marzocco</title>
+      <link>https://home.lamarzoccousa.com/chloe-ca-phe-roastery-and-la-marzocco/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/chloe-ca-phe-roastery-and-la-marzocco/</guid>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BIGFACE x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/bigface-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/bigface-x-la-marzocco-home/</guid>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco App Update (Version 1.3.0)</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-app-update-version-1-3-0/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-app-update-version-1-3-0/</guid>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>civil coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/civil-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/civil-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Anywhere Summer ‘25</title>
+      <link>https://home.lamarzoccousa.com/espresso-on-the-shoreline-linea-mini-yellow/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-on-the-shoreline-linea-mini-yellow/</guid>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>race service x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/race-service-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/race-service-x-la-marzocco-home/</guid>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ahava coffee co x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/ahava-coffee-co-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/ahava-coffee-co-x-la-marzocco-home/</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Koio x La Marzocco Limited Edition Sneaker</title>
+      <link>https://home.lamarzoccousa.com/introducing-the-koio-x-la-marzocco-limited-edition-sneaker/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-koio-x-la-marzocco-limited-edition-sneaker/</guid>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>THE HISTORY OF ESPRESSO NEW YORK WALKING TOUR</title>
+      <link>https://home.lamarzoccousa.com/the-history-of-espresso-new-york-walking-tour/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-history-of-espresso-new-york-walking-tour/</guid>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home at the Specialty Coffee Expo</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-at-the-specialty-coffee-expo/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-at-the-specialty-coffee-expo/</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter Culture x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/counter-culture-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/counter-culture-x-la-marzocco-home/</guid>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coffee Station FAQ</title>
+      <link>https://home.lamarzoccousa.com/coffee-station-faq/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coffee-station-faq/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: Connecting the Pico to the La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/connect-the-pico-to-the-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-the-pico-to-the-la-marzocco-app/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: Coffee Station by La Marzocco</title>
+      <link>https://home.lamarzoccousa.com/a-guide-to-coffee-station/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/a-guide-to-coffee-station/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: Connecting the Linea Mini to the La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/connect-the-linea-mini-to-the-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-the-linea-mini-to-the-la-marzocco-app/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dialing-In Espresso with Coffee Station</title>
+      <link>https://home.lamarzoccousa.com/dialing-in-espresso-with-coffee-station/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/dialing-in-espresso-with-coffee-station/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Connect Your Coffee Station</title>
+      <link>https://home.lamarzoccousa.com/connect-your-coffee-station/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-your-coffee-station/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grind-by-Weight on the Pico</title>
+      <link>https://home.lamarzoccousa.com/grind-by-weight-on-the-pico/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/grind-by-weight-on-the-pico/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Coffee Station</title>
+      <link>https://home.lamarzoccousa.com/introducing-coffee-station/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-coffee-station/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Press Release: Introducing Grind-by-Weight, Coffee Station, and a New La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/introducing-coffee-station-grind-by-weight-and-a-new-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-coffee-station-grind-by-weight-and-a-new-la-marzocco-app/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>blue bottle coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/blue-bottle-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/blue-bottle-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-Brew in Espresso: Explained</title>
+      <link>https://home.lamarzoccousa.com/pre-brew-in-espresso-explained/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pre-brew-in-espresso-explained/</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Essential Guide to Mastering Espresso at Home</title>
+      <link>https://home.lamarzoccousa.com/the-essential-guide-to-mastering-espresso-at-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-essential-guide-to-mastering-espresso-at-home/</guid>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>joe coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/joe-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/joe-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sisters coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/sisters-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/sisters-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home/</guid>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Install the Linea Mini Customization Kit</title>
+      <link>https://home.lamarzoccousa.com/how-to-install-the-linea-mini-customization-kit/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-install-the-linea-mini-customization-kit/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canyon Coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/canyon-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/canyon-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Anywhere with Thunder Coffee</title>
+      <link>https://home.lamarzoccousa.com/espresso-anywhere-with-thunder-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-anywhere-with-thunder-coffee/</guid>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autumn in New York</title>
+      <link>https://home.lamarzoccousa.com/autumn-in-new-york/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/autumn-in-new-york/</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>wonderstate coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/wonderstate-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/wonderstate-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KOS x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/kos-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/kos-x-la-marzocco-home/</guid>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Anywhere with Hannes Becker</title>
+      <link>https://home.lamarzoccousa.com/espresso-anywhere-with-hannes-becker/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-anywhere-with-hannes-becker/</guid>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Should My Espresso Puck Look Like?</title>
+      <link>https://home.lamarzoccousa.com/what-should-my-espresso-puck-look-like/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/what-should-my-espresso-puck-look-like/</guid>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>airship coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/airship-coffee-x-la-marzocco-home-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/airship-coffee-x-la-marzocco-home-2/</guid>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso at Home With John John Florence — Interview</title>
+      <link>https://home.lamarzoccousa.com/espresso-at-home-with-john-john-florence-interview/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-at-home-with-john-john-florence-interview/</guid>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>stereoscope x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/stereoscope-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/stereoscope-x-la-marzocco-home/</guid>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>rising above: the remarkable story of caitlin campbell</title>
+      <link>https://home.lamarzoccousa.com/the-remarkable-story-of-caitlin-campbell/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-remarkable-story-of-caitlin-campbell/</guid>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Details of Calibration: Fine-Tuning Your Pico</title>
+      <link>https://home.lamarzoccousa.com/the-details-of-calibration-fine-tuning-your-pico/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-details-of-calibration-fine-tuning-your-pico/</guid>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>swapping out the linea mini flow restrictor</title>
+      <link>https://home.lamarzoccousa.com/swapping-out-the-linea-mini-flow-restrictor/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/swapping-out-the-linea-mini-flow-restrictor/</guid>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>golden brown coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/golden-brown-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/golden-brown-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>night swim coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/night-swim-x-la-marzocco-home-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/night-swim-x-la-marzocco-home-2/</guid>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deadstock x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/deadstock-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/deadstock-x-la-marzocco-home/</guid>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>la marzocco home app update v3.1.0</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-app-update-v3-1-0/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-app-update-v3-1-0/</guid>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your Journey with the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/your-journey-with-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/your-journey-with-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experimenting with Pressure &amp; Espresso on the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/experimenting-with-pressure-espresso-on-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/experimenting-with-pressure-espresso-on-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Brew-by-Weight with the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/using-brew-by-weight-with-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/using-brew-by-weight-with-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tips &amp; Tricks for an Espresso Pop-Up</title>
+      <link>https://home.lamarzoccousa.com/tips-tricks-for-an-espresso-pop-up/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/tips-tricks-for-an-espresso-pop-up/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bar Flow with the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/bar-flow-with-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/bar-flow-with-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso as a Cocktail Ingredient</title>
+      <link>https://home.lamarzoccousa.com/espresso-as-a-cocktail-ingredient/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-as-a-cocktail-ingredient/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preparing for an Espresso Pop-Up with the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/preparing-for-an-espresso-pop-up-with-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/preparing-for-an-espresso-pop-up-with-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a House Menu with the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/building-a-house-menu-with-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/building-a-house-menu-with-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steaming Milk on the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/steaming-milk-on-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/steaming-milk-on-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Features of the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/features-of-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/features-of-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delivering &amp; Unboxing the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/delivering-unboxing-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/delivering-unboxing-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-Introducing the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/re-introducing-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/re-introducing-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Passenger x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/passenger-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/passenger-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idle Hands x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/idle-hands-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/idle-hands-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Replace the Group Gasket</title>
+      <link>https://home.lamarzoccousa.com/how-to-replace-the-group-gasket/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-replace-the-group-gasket/</guid>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accademia del Caffè Espresso x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/accademia-del-caffe-espresso-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/accademia-del-caffe-espresso-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>journeys with pico</title>
+      <link>https://home.lamarzoccousa.com/journeys-with-pico-grinder/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/journeys-with-pico-grinder/</guid>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dialing in a Modern Espresso</title>
+      <link>https://home.lamarzoccousa.com/dialing-in-a-modern-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/dialing-in-a-modern-espresso/</guid>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dialing in a Traditional Espresso</title>
+      <link>https://home.lamarzoccousa.com/dialing-in-traditional-espresso-ristretto/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/dialing-in-traditional-espresso-ristretto/</guid>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grind Size for Espresso</title>
+      <link>https://home.lamarzoccousa.com/grind-size-for-espresso-pico/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/grind-size-for-espresso-pico/</guid>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Buy a Home Espresso Grinder?</title>
+      <link>https://home.lamarzoccousa.com/why-buy-a-home-espresso-grinder/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/why-buy-a-home-espresso-grinder/</guid>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parlor x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/parlor-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/parlor-x-la-marzocco-home/</guid>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Mystery of the Hissing Vacuum Breaker</title>
+      <link>https://home.lamarzoccousa.com/the-mystery-of-the-hissing-vacuum-breaker/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-mystery-of-the-hissing-vacuum-breaker/</guid>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Brew-by-Weight</title>
+      <link>https://home.lamarzoccousa.com/introducing-brew-by-weight/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-brew-by-weight/</guid>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Little Amps x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/little-amps-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/little-amps-x-la-marzocco-home/</guid>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pipe &amp; Tabor x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/pipe-tabor-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pipe-tabor-x-la-marzocco-home/</guid>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heart x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/aug-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/aug-roaster-2023/</guid>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Wallpaper</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-wallpaper/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-wallpaper/</guid>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Important Firmware Update Necessary for Connected La Marzocco Machines</title>
+      <link>https://home.lamarzoccousa.com/important-firmware-update/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/important-firmware-update/</guid>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madcap x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/july-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/july-roaster-2023/</guid>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Tale of the Leaky Gasket</title>
+      <link>https://home.lamarzoccousa.com/the-tale-of-the-leaky-gasket/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-tale-of-the-leaky-gasket/</guid>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Methodical Coffee x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/june-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/june-roaster-2023/</guid>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Refill and Remove the Linea Micra Reservoir</title>
+      <link>https://home.lamarzoccousa.com/refill-linea-micra-reservoir/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/refill-linea-micra-reservoir/</guid>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bean &amp; Bean x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/may-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/may-roaster-2023/</guid>
+      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The La Marzocco Home TED 2023 Menu</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-ted-2023-menu/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-ted-2023-menu/</guid>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Familiar Charm: an At-Home Version of Anthony Douglas’ 2022 WBC Signature Drink</title>
+      <link>https://home.lamarzoccousa.com/the-familiar-charm-recipe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-familiar-charm-recipe/</guid>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny Arms x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/april-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/april-roaster-2023/</guid>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noble Coffee Roasting x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/march-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/march-roaster-2023/</guid>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini in White featured in David Harbour &amp; Lily Allen’s Brooklyn Kitchen</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-in-white-featured-in-david-harbour-lily-allens-brooklyn-kitchen/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-in-white-featured-in-david-harbour-lily-allens-brooklyn-kitchen/</guid>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wonderstate Coffee x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/february-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/february-roaster-2023/</guid>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Square One Coffee x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/january-roaster-2023-1/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/january-roaster-2023-1/</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go Get Em Tiger x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/december-roaster-2022/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/december-roaster-2022/</guid>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Making Drinks for Friends</title>
+      <link>https://home.lamarzoccousa.com/making-drinks-for-friends/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/making-drinks-for-friends/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Espresso Drinks</title>
+      <link>https://home.lamarzoccousa.com/building-espresso-drinks/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/building-espresso-drinks/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pouring Latte Art</title>
+      <link>https://home.lamarzoccousa.com/pouring-latte-art/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pouring-latte-art/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Steam Milk</title>
+      <link>https://home.lamarzoccousa.com/how-to-steam-milk-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-steam-milk-2/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Espresso Brew Ratios</title>
+      <link>https://home.lamarzoccousa.com/using-espresso-brew-ratios/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/using-espresso-brew-ratios/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tasting Espresso Styles</title>
+      <link>https://home.lamarzoccousa.com/tasting-espresso-styles/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/tasting-espresso-styles/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using a Burr Espresso Grinder</title>
+      <link>https://home.lamarzoccousa.com/using-a-burr-espresso-grinder/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/using-a-burr-espresso-grinder/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Workflow</title>
+      <link>https://home.lamarzoccousa.com/espresso-workflow/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-workflow/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starting Up the Linea Micra</title>
+      <link>https://home.lamarzoccousa.com/starting-up-the-linea-micra/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/starting-up-the-linea-micra/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to the Linea Micra Lifestyle</title>
+      <link>https://home.lamarzoccousa.com/welcome-to-the-linea-micra-lifestyle/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/welcome-to-the-linea-micra-lifestyle/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home App V. 2 is Now Live</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-app-v-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-app-v-2/</guid>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso, Sneakers, and Nail Art</title>
+      <link>https://home.lamarzoccousa.com/espresso-sneakers-nail-art-laha-cafe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-sneakers-nail-art-laha-cafe/</guid>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thunder x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/november-roaster-22/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/november-roaster-22/</guid>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atomic Coffee Roasters x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/september-roaster-22/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/september-roaster-22/</guid>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brewing at 6-Bar</title>
+      <link>https://home.lamarzoccousa.com/brewing-espresso-at-6-bar/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/brewing-espresso-at-6-bar/</guid>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Andytown x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/andytown/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/andytown/</guid>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Street Coffee Car With Heart</title>
+      <link>https://home.lamarzoccousa.com/a-street-coffee-car-with-heart/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/a-street-coffee-car-with-heart/</guid>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coava Coffee x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/coava-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coava-coffee/</guid>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partners Coffee￼</title>
+      <link>https://home.lamarzoccousa.com/partners-coffee%ef%bf%bc/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/partners-coffee%ef%bf%bc/</guid>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interview with Kent Bakke</title>
+      <link>https://home.lamarzoccousa.com/interview-with-kent-bakke/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/interview-with-kent-bakke/</guid>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black Acres Roastery x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/black-acres-roastery/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/black-acres-roastery/</guid>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-Brew, Pre-Infusion, and Pressure Manipulation Explained</title>
+      <link>https://home.lamarzoccousa.com/pre-brew-pre-infusion-and-pressure-manipulation-explained/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pre-brew-pre-infusion-and-pressure-manipulation-explained/</guid>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tech Tips for Home Espresso Machines</title>
+      <link>https://home.lamarzoccousa.com/tech-tips-for-home-espresso-machines/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/tech-tips-for-home-espresso-machines/</guid>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Water for Home Espresso Machines</title>
+      <link>https://home.lamarzoccousa.com/water-for-home-espresso-machines/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/water-for-home-espresso-machines/</guid>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mother Tongue x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/mother-tongue-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/mother-tongue-x-la-marzocco-home/</guid>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Little Wolf x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/little-wolf-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/little-wolf-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Tasting Experiment</title>
+      <link>https://home.lamarzoccousa.com/espresso-tasting-experiment/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-tasting-experiment/</guid>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOMA x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/doma-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/doma-x-la-marzocco-home/</guid>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>East One x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/east-one-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/east-one-x-la-marzocco-home/</guid>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holiday-Style Espresso Con Panna</title>
+      <link>https://home.lamarzoccousa.com/espresso-con-panna-holiday/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-con-panna-holiday/</guid>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spiced Drinking Chocolate with Espresso</title>
+      <link>https://home.lamarzoccousa.com/spiced-drinking-chocolate-with-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/spiced-drinking-chocolate-with-espresso/</guid>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Variety Coffee: December 2021</title>
+      <link>https://home.lamarzoccousa.com/variety-december-2021/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/variety-december-2021/</guid>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Find Your Espresso Style</title>
+      <link>https://home.lamarzoccousa.com/find-your-espresso-style/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/find-your-espresso-style/</guid>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BUNA: November 2021</title>
+      <link>https://home.lamarzoccousa.com/buna-november-2021/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/buna-november-2021/</guid>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scuderia La Marzocco</title>
+      <link>https://home.lamarzoccousa.com/scuderia-la-marzocco/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/scuderia-la-marzocco/</guid>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter Culture Coffee: October 2021</title>
+      <link>https://home.lamarzoccousa.com/october-counter-culture-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/october-counter-culture-coffee/</guid>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upper Left Roasters: September 2021</title>
+      <link>https://home.lamarzoccousa.com/september-upperleft/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/september-upperleft/</guid>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Onyx Coffee Lab: August 2021</title>
+      <link>https://home.lamarzoccousa.com/august-2021-onyx-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/august-2021-onyx-2/</guid>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gilly Brew Bar: July 2021</title>
+      <link>https://home.lamarzoccousa.com/july-2021-gilly-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/july-2021-gilly-2/</guid>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Barista Gift Guide</title>
+      <link>https://home.lamarzoccousa.com/home-barista-gift-guide/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-gift-guide/</guid>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Florin Coffee: June 2021</title>
+      <link>https://home.lamarzoccousa.com/june-2021-florin/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/june-2021-florin/</guid>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Caffe : May 2021</title>
+      <link>https://home.lamarzoccousa.com/may-2021-linea/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/may-2021-linea/</guid>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>03 Coffee Encounters</title>
+      <link>https://home.lamarzoccousa.com/03_coffee-encounters/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/03_coffee-encounters/</guid>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Before 8</title>
+      <link>https://home.lamarzoccousa.com/before-8/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/before-8/</guid>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Red Bay Coffee : April 2021</title>
+      <link>https://home.lamarzoccousa.com/april-2021-redbay/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/april-2021-redbay/</guid>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fanto Spritz</title>
+      <link>https://home.lamarzoccousa.com/the-fanto-spritz/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-fanto-spritz/</guid>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brandywine Coffee Roasters: March 2021</title>
+      <link>https://home.lamarzoccousa.com/march-2021-brandywine/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/march-2021-brandywine/</guid>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support the Coffee Center at UC Davis</title>
+      <link>https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>02 Coffee Encounters</title>
+      <link>https://home.lamarzoccousa.com/02_coffee-encounters/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/02_coffee-encounters/</guid>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Tuscan Sunrise</title>
+      <link>https://home.lamarzoccousa.com/the-tuscan-sunrise/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-tuscan-sunrise/</guid>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2021: Caffe Vita Roasting Co.</title>
+      <link>https://home.lamarzoccousa.com/february-2021-caffe-vita-roasting-co/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/february-2021-caffe-vita-roasting-co/</guid>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blind Tiger Coffee: January 2021</title>
+      <link>https://home.lamarzoccousa.com/blind-tiger-coffee-january-2021/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/blind-tiger-coffee-january-2021/</guid>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gingerbread Latte Recipe</title>
+      <link>https://home.lamarzoccousa.com/gingerbread-latte-recipe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/gingerbread-latte-recipe/</guid>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruby Coffee Roasters: December 2020</title>
+      <link>https://home.lamarzoccousa.com/ruby-coffee-roasters-december-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/ruby-coffee-roasters-december-2020/</guid>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Beginner’s Guide to Espresso Drinks</title>
+      <link>https://home.lamarzoccousa.com/the-beginners-guide-to-espresso-drinks-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-beginners-guide-to-espresso-drinks-2/</guid>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Home Barista Gift Guide 2020</title>
+      <link>https://home.lamarzoccousa.com/the-home-barista-gift-guide-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-home-barista-gift-guide-2020/</guid>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultimate Holiday Upgrade 2020—Win a Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/ultimate-holiday-upgrade-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/ultimate-holiday-upgrade-2020/</guid>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fritz Coffee Company: November 2020</title>
+      <link>https://home.lamarzoccousa.com/fritz-coffee-company-november-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/fritz-coffee-company-november-2020/</guid>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portrait Coffee: October 2020</title>
+      <link>https://home.lamarzoccousa.com/portrait-coffee-october-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/portrait-coffee-october-2020/</guid>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parlor Coffee: September 2020</title>
+      <link>https://home.lamarzoccousa.com/parlor-coffee-september-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/parlor-coffee-september-2020/</guid>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Installation Guide: GS3 Connected Machine Retrofit Kit</title>
+      <link>https://home.lamarzoccousa.com/installation-guide-gs3-connected-machine-retrofit-kit/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/installation-guide-gs3-connected-machine-retrofit-kit/</guid>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Swift Mini by La Marzocco</title>
+      <link>https://home.lamarzoccousa.com/introducing-swift-mini-by-la-marzocco/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-swift-mini-by-la-marzocco/</guid>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vagrant Coffee: August 2020</title>
+      <link>https://home.lamarzoccousa.com/vagrant-coffee-august-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/vagrant-coffee-august-2020/</guid>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stamp Act Coffee: July 2020</title>
+      <link>https://home.lamarzoccousa.com/stamp-act-coffee-july-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/stamp-act-coffee-july-2020/</guid>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Installation Guide: Linea Mini Connected Machine Retrofit Kit</title>
+      <link>https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</guid>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Connected Machine Retrofit Kits are Now Available</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEY Coffee: June 2020</title>
+      <link>https://home.lamarzoccousa.com/sey-coffee-june-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/sey-coffee-june-2020/</guid>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso at Home with Aida Batlle</title>
+      <link>https://home.lamarzoccousa.com/espresso-at-home-with-aida-batlle/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-at-home-with-aida-batlle/</guid>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced Espresso: Dialing in by Roast Level Online Class</title>
+      <link>https://home.lamarzoccousa.com/advanced-espresso-dialing-in-by-roast-level-online-class/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/advanced-espresso-dialing-in-by-roast-level-online-class/</guid>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elm Coffee Roasters: May 2020</title>
+      <link>https://home.lamarzoccousa.com/elm-coffee-roasters-may-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/elm-coffee-roasters-may-2020/</guid>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latte Art Basics Online Class</title>
+      <link>https://home.lamarzoccousa.com/latte-art-basics-online-class/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/latte-art-basics-online-class/</guid>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fittest Home Barista on Earth</title>
+      <link>https://home.lamarzoccousa.com/the-fittest-home-barista-on-earth/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-fittest-home-barista-on-earth/</guid>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sisters Coffee: April 2020</title>
+      <link>https://home.lamarzoccousa.com/sisters-coffee-april-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/sisters-coffee-april-2020/</guid>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milk Steaming Basics Live Class</title>
+      <link>https://home.lamarzoccousa.com/milk-steaming-basics-live-class/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/milk-steaming-basics-live-class/</guid>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso Basics Live Class</title>
+      <link>https://home.lamarzoccousa.com/espresso-basics-live-class/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-basics-live-class/</guid>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing La Marzocco Home Connected Espresso Machines</title>
+      <link>https://home.lamarzoccousa.com/introducing-la-marzocco-home-connected-espresso-machines/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-la-marzocco-home-connected-espresso-machines/</guid>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fulcrum Coffee: March 2020</title>
+      <link>https://home.lamarzoccousa.com/fulcrum-coffee-march-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/fulcrum-coffee-march-2020/</guid>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alternative Milks for Home Espresso</title>
+      <link>https://home.lamarzoccousa.com/alternative-milks-for-home-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/alternative-milks-for-home-espresso/</guid>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Middle State: February 2020</title>
+      <link>https://home.lamarzoccousa.com/middle-state-february-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/middle-state-february-2020/</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Onda Origins: January 2020</title>
+      <link>https://home.lamarzoccousa.com/onda-origins-january-2020/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/onda-origins-january-2020/</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2019 Home Barista Gift Guide</title>
+      <link>https://home.lamarzoccousa.com/the-2019-home-barista-gift-guide/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-2019-home-barista-gift-guide/</guid>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Elephant: December 2019</title>
+      <link>https://home.lamarzoccousa.com/five-elephant-december-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/five-elephant-december-2019/</guid>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denver Coffee Tour: Tasting the Evolution of Colorado’s Coffee Scene</title>
+      <link>https://home.lamarzoccousa.com/denver-coffee-tour/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/denver-coffee-tour/</guid>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2019 Ultimate Holiday Upgrade Giveaway: Win a Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/the-2019-ultimate-holiday-upgrade-giveaway/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-2019-ultimate-holiday-upgrade-giveaway/</guid>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kuma Coffee: November 2019</title>
+      <link>https://home.lamarzoccousa.com/kuma-coffee-november-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/kuma-coffee-november-2019/</guid>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Little Waves Coffee: October 2019</title>
+      <link>https://home.lamarzoccousa.com/little-waves-coffee-october-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/little-waves-coffee-october-2019/</guid>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Distribution Methods for Making Espresso</title>
+      <link>https://home.lamarzoccousa.com/9-distribution-methods-for-making-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/9-distribution-methods-for-making-espresso/</guid>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Panther Coffee: September 2019</title>
+      <link>https://home.lamarzoccousa.com/panther-coffee-september-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/panther-coffee-september-2019/</guid>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>At Home Barista’s Mise En Place</title>
+      <link>https://home.lamarzoccousa.com/at-home-baristas-mise-en-place/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/at-home-baristas-mise-en-place/</guid>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro Tips for Latte Art</title>
+      <link>https://home.lamarzoccousa.com/pro-tips-for-latte-art/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pro-tips-for-latte-art/</guid>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coffee Seasonality</title>
+      <link>https://home.lamarzoccousa.com/coffee-seasonality/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coffee-seasonality/</guid>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ditta Artigianale: August 2019</title>
+      <link>https://home.lamarzoccousa.com/ditta-artigianale-august-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/ditta-artigianale-august-2019/</guid>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home at Crush the Rush 2</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-at-crush-the-rush-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-at-crush-the-rush-2/</guid>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verve Coffee Roasters: July 2019</title>
+      <link>https://home.lamarzoccousa.com/verve-coffee-roasters-july-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/verve-coffee-roasters-july-2019/</guid>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso at Home with Brooke Williamson</title>
+      <link>https://home.lamarzoccousa.com/espresso-at-home-with-brooke-williamson/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-at-home-with-brooke-williamson/</guid>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Espresso Field Trip: Los Angeles</title>
+      <link>https://home.lamarzoccousa.com/home-espresso-field-trip-los-angeles/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-espresso-field-trip-los-angeles/</guid>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bonanza x ONIBUS: June 2019</title>
+      <link>https://home.lamarzoccousa.com/bonanza-x-onibus-june-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/bonanza-x-onibus-june-2019/</guid>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Basic Espresso Theory</title>
+      <link>https://home.lamarzoccousa.com/basic-espresso-theory/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/basic-espresso-theory/</guid>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intelligentsia Coffee: May 2019</title>
+      <link>https://home.lamarzoccousa.com/intelligentsia-coffee-may-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/intelligentsia-coffee-may-2019/</guid>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open House Bay Area 2019</title>
+      <link>https://home.lamarzoccousa.com/open-house-bay-area-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/open-house-bay-area-2019/</guid>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Looking For an Espresso Machine?</title>
+      <link>https://home.lamarzoccousa.com/dave/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/dave/</guid>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Program the GS3 AV</title>
+      <link>https://home.lamarzoccousa.com/how-to-program-the-gs3-av/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-program-the-gs3-av/</guid>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Barista Snapshot: Kevin Sze</title>
+      <link>https://home.lamarzoccousa.com/home-barista-snapshot-kevin-sze/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-snapshot-kevin-sze/</guid>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metric Coffee: April 2019</title>
+      <link>https://home.lamarzoccousa.com/metric-coffee-april-2019/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/metric-coffee-april-2019/</guid>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Find Consistency in Home Espresso</title>
+      <link>https://home.lamarzoccousa.com/how-to-find-consistency-in-home-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-find-consistency-in-home-espresso/</guid>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Barista Classes</title>
+      <link>https://home.lamarzoccousa.com/home-barista-classes/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-classes/</guid>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Barista Snapshot: Laila Ghambari</title>
+      <link>https://home.lamarzoccousa.com/home-barista-snapshot-laila-ghambari/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-snapshot-laila-ghambari/</guid>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open House Denver</title>
+      <link>https://home.lamarzoccousa.com/open-house-denver/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/open-house-denver/</guid>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open House Chicago</title>
+      <link>https://home.lamarzoccousa.com/open-house-chicago/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/open-house-chicago/</guid>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro Tips for the Home Barista</title>
+      <link>https://home.lamarzoccousa.com/pro-tips-for-the-home-barista/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pro-tips-for-the-home-barista/</guid>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter Culture Coffee: March 2019</title>
+      <link>https://home.lamarzoccousa.com/espresso-sub-ccc/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-sub-ccc/</guid>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso at Home with James Freeman</title>
+      <link>https://home.lamarzoccousa.com/espresso-at-home-james-freeman/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-at-home-james-freeman/</guid>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Clean Espresso Machine Makes Better Coffee</title>
+      <link>https://home.lamarzoccousa.com/a-clean-espresso-machine-makes-better-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/a-clean-espresso-machine-makes-better-coffee/</guid>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Barista Snapshot: Ken O’Day</title>
+      <link>https://home.lamarzoccousa.com/home-barista-snapshot-ken-oday/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-snapshot-ken-oday/</guid>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2019: Elixr Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/february-2019-elixr-espresso-specs/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/february-2019-elixr-espresso-specs/</guid>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practicing Latte Art</title>
+      <link>https://home.lamarzoccousa.com/practicing-latte-art/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/practicing-latte-art/</guid>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2019: Linea Caffe Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/january-2019-linea-caffe-espresso-specs/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/january-2019-linea-caffe-espresso-specs/</guid>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chocolate Peppermint Biscotti</title>
+      <link>https://home.lamarzoccousa.com/recipe-chocolate-peppermint-biscotti/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/recipe-chocolate-peppermint-biscotti/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>White Chocolate + Orange Madeleines</title>
+      <link>https://home.lamarzoccousa.com/white-chocolate-orange-madeleines/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/white-chocolate-orange-madeleines/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spiced Vanilla Bean Shortbread</title>
+      <link>https://home.lamarzoccousa.com/spiced-vanilla-bean-shortbread/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/spiced-vanilla-bean-shortbread/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holiday Kitchen Takeover: the Food &amp; Drink</title>
+      <link>https://home.lamarzoccousa.com/holiday-kitchen-takeover-the-food-drink/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/holiday-kitchen-takeover-the-food-drink/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Holiday Kitchen Takeover: the Recap</title>
+      <link>https://home.lamarzoccousa.com/holiday-kitchen-takeover-the-recap/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/holiday-kitchen-takeover-the-recap/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Winter Espresso in the Rockies</title>
+      <link>https://home.lamarzoccousa.com/winter-espresso-in-the-rockies/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/winter-espresso-in-the-rockies/</guid>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2018: Dapper &amp; Wise Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/december-2018-dapper-wise-espresso-specs/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/december-2018-dapper-wise-espresso-specs/</guid>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 Espresso Gifts for the Home Barista</title>
+      <link>https://home.lamarzoccousa.com/11-espresso-gifts-for-the-home-barista/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/11-espresso-gifts-for-the-home-barista/</guid>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini in White</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-in-white/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-in-white/</guid>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>San Francisco Home Espresso Pop-Up at Fellow</title>
+      <link>https://home.lamarzoccousa.com/san-francisco-home-espresso-pop-up-at-fellow/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/san-francisco-home-espresso-pop-up-at-fellow/</guid>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2018: Campos Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/campos-coffee-espresso-specs/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/campos-coffee-espresso-specs/</guid>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Holiday Kitchen Takeover</title>
+      <link>https://home.lamarzoccousa.com/the-holiday-kitchen-takeover/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-holiday-kitchen-takeover/</guid>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New York Coffee Festival 2018</title>
+      <link>https://home.lamarzoccousa.com/new-york-coffee-festival-2018/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/new-york-coffee-festival-2018/</guid>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2018: The Coffee Collective Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/october-2018-coffee-collective-specs-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/october-2018-coffee-collective-specs-espresso-subscription/</guid>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is Espresso?</title>
+      <link>https://home.lamarzoccousa.com/what-is-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/what-is-espresso/</guid>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2018: Go Get Em Tiger Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/september-2018-go-get-em-tiger-espresso-specs/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/september-2018-go-get-em-tiger-espresso-specs/</guid>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The La Marzocco Home YesAQ</title>
+      <link>https://home.lamarzoccousa.com/yesaq/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/yesaq/</guid>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini in the Wild</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-in-the-wild/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-in-the-wild/</guid>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2018: Equator Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/august-2018-equator-coffee-espresso-specs/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/august-2018-equator-coffee-espresso-specs/</guid>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Bleed the Group on the GS3 MP</title>
+      <link>https://home.lamarzoccousa.com/how-to-bleed-the-group-on-the-gs3-mp/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-bleed-the-group-on-the-gs3-mp/</guid>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2018: La Colombe Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/july2018-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/july2018-espresso-subscription/</guid>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los Angeles Open House 2018</title>
+      <link>https://home.lamarzoccousa.com/los-angeles-open-house-2018/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/los-angeles-open-house-2018/</guid>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2018 Home Barista Gift Guide: Summer Edition</title>
+      <link>https://home.lamarzoccousa.com/2018-home-barista-gift-guide-summer-edition/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/2018-home-barista-gift-guide-summer-edition/</guid>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The GS3 MP is $400 off in June</title>
+      <link>https://home.lamarzoccousa.com/the-gs3-mp-is-400-off-in-june/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-gs3-mp-is-400-off-in-june/</guid>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2018: Sweet Bloom Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/junes-espresso-specs-sweet-bloom/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/junes-espresso-specs-sweet-bloom/</guid>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing The Story of La Marzocco</title>
+      <link>https://home.lamarzoccousa.com/introducing-the-story-of-la-marzocco/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-story-of-la-marzocco/</guid>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Coffee, Two Ways: Coffee at Home with Counter Culture &amp; La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/one-coffee-two-ways-coffee-at-home-with-counter-culture-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/one-coffee-two-ways-coffee-at-home-with-counter-culture-la-marzocco-home/</guid>
+      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2018: Cuvée Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/cuvee-coffee-mays-espresso-subscription-shipment/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/cuvee-coffee-mays-espresso-subscription-shipment/</guid>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home at the Specialty Coffee Expo 2018</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-at-the-specialty-coffee-expo-2018/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-at-the-specialty-coffee-expo-2018/</guid>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Update: March 2018</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-update-march-2018/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-update-march-2018/</guid>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2018: George Howell Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/george-howell-coffee-aprils-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/george-howell-coffee-aprils-espresso-subscription/</guid>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Incredible Places We’ve Seen the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/10-incredible-places-weve-seen-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/10-incredible-places-weve-seen-the-linea-mini/</guid>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Espresso in the Mountains: an Interview with Alex Strohl</title>
+      <link>https://home.lamarzoccousa.com/espresso-in-the-mountains/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-in-the-mountains/</guid>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practice Latte Art (without using milk!)</title>
+      <link>https://home.lamarzoccousa.com/practice-latte-art-without-using-milk/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/practice-latte-art-without-using-milk/</guid>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>March 2018: Onyx Coffee Lab Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/onyx-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/onyx-espresso-subscription/</guid>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Practice Latte Art (without wasting coffee)</title>
+      <link>https://home.lamarzoccousa.com/practice-latte-art-without-wasting-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/practice-latte-art-without-wasting-coffee/</guid>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Machine Overview: Linea Mini vs. GS3</title>
+      <link>https://home.lamarzoccousa.com/machine-overview-linea-mini-vs-gs3/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/machine-overview-linea-mini-vs-gs3/</guid>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>February 2018: Stumptown Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/february-espresso-subscription-stumptown/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/february-espresso-subscription-stumptown/</guid>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>January 2018: Kickapoo Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/january-espresso-subscription-caffe-kickapoo/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/january-espresso-subscription-caffe-kickapoo/</guid>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2017 Home Barista Gift Guide</title>
+      <link>https://home.lamarzoccousa.com/the-2017-home-barista-gift-guide/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-2017-home-barista-gift-guide/</guid>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>December 2017: Caffè Umbria Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/december-espresso-subscription-caffe-umbria/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/december-espresso-subscription-caffe-umbria/</guid>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>And the Linea Mini Winner is…</title>
+      <link>https://home.lamarzoccousa.com/and-the-linea-mini-winner-is/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/and-the-linea-mini-winner-is/</guid>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>November 2017: Quills Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/november-espresso-subscription-quills-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/november-espresso-subscription-quills-coffee/</guid>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A (Very) Brief History of NYC Espresso</title>
+      <link>https://home.lamarzoccousa.com/history-of-nyc-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/history-of-nyc-espresso/</guid>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Home Lab #1: Brew Ratios</title>
+      <link>https://home.lamarzoccousa.com/home-lab-1-brew-ratios/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-lab-1-brew-ratios/</guid>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>October 2017: Belleville Brûlerie Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/october-espresso-subscription-belleville-brulerie/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/october-espresso-subscription-belleville-brulerie/</guid>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>September 2017: Olympia Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/espresso-subscription-olympia/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-subscription-olympia/</guid>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home Open House: San Francisco</title>
+      <link>https://home.lamarzoccousa.com/open-house-sf/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/open-house-sf/</guid>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home x Instrument</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-instrument/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-instrument/</guid>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Install Pantechnicon Steam Knobs on the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/how-to-install-pantechnicon-steam-knobs-on-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-install-pantechnicon-steam-knobs-on-the-linea-mini/</guid>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Steam Milk</title>
+      <link>https://home.lamarzoccousa.com/how-to-steam-milk/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-steam-milk/</guid>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August 2017: Coffee Supreme Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/august-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/august-espresso-subscription/</guid>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Dial In Your Grinder for Espresso</title>
+      <link>https://home.lamarzoccousa.com/how-to-dial-in-your-grinder-for-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-dial-in-your-grinder-for-espresso/</guid>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demystifying the GS3: MP or AV?</title>
+      <link>https://home.lamarzoccousa.com/demystifying-the-gs3-mp-or-av/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/demystifying-the-gs3-mp-or-av/</guid>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>July 2017: Four Barrel Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/july-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/july-espresso-subscription/</guid>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home Open House: Los Angeles</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</guid>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>June 2017: Madcap Coffee Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/june-subscription-madcap/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/june-subscription-madcap/</guid>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video: May Espresso Subscription – Toby’s Estate</title>
+      <link>https://home.lamarzoccousa.com/video-may-espresso-subscription-tobys-estate/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/video-may-espresso-subscription-tobys-estate/</guid>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>May 2017: Toby’s Estate Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/may-subscription-tobys-estate/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/may-subscription-tobys-estate/</guid>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing La Marzocco Home Australia</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-australia/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-australia/</guid>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome Home at the SCA Expo</title>
+      <link>https://home.lamarzoccousa.com/welcomehome/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/welcomehome/</guid>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the La Marzocco Home Espresso Subscription</title>
+      <link>https://home.lamarzoccousa.com/introducing-the-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-espresso-subscription/</guid>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>April 2017: Tim Wendelboe Espresso Specs</title>
+      <link>https://home.lamarzoccousa.com/april-subscription-tim-wendelboe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/april-subscription-tim-wendelboe/</guid>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Taste Espresso (and Make it Taste Better)</title>
+      <link>https://home.lamarzoccousa.com/how-to-taste-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-taste-espresso/</guid>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Affirm: Financing for Your Home Espresso Machine</title>
+      <link>https://home.lamarzoccousa.com/introducing-affirm-financing-for-your-home-espresso-machine/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-affirm-financing-for-your-home-espresso-machine/</guid>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the New GS3 MP</title>
+      <link>https://home.lamarzoccousa.com/introducing-the-new-gs3-mp/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-new-gs3-mp/</guid>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn Espresso from a United States Barista Champion</title>
+      <link>https://home.lamarzoccousa.com/class-with-laila/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/class-with-laila/</guid>
+      <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2016 Home Barista Gift Guide</title>
+      <link>https://home.lamarzoccousa.com/the-2016-home-barista-gift-guide/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-2016-home-barista-gift-guide/</guid>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: Panther Coffee</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-panther-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-panther-coffee/</guid>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make Espresso</title>
+      <link>https://home.lamarzoccousa.com/how-to-make-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-make-espresso/</guid>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: Intelligentsia Coffee</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-intelligentsia/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-intelligentsia/</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Clean Your Espresso Machine</title>
+      <link>https://home.lamarzoccousa.com/how-to-clean-your-espresso-machine/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-clean-your-espresso-machine/</guid>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DIY Experience Bar at New York Coffee Festival</title>
+      <link>https://home.lamarzoccousa.com/experience-bar-at-new-york-coffee-festival/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/experience-bar-at-new-york-coffee-festival/</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: Counter Culture</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-counter-culture/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-counter-culture/</guid>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recipe: Iced Drinks with your Home Espresso Machine</title>
+      <link>https://home.lamarzoccousa.com/recipe-iced-drinks-with-your-home-espresso-machine/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/recipe-iced-drinks-with-your-home-espresso-machine/</guid>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: Campos Coffee</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-campos-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-campos-coffee/</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coffee Sprudgecast On The Road: Bay Area</title>
+      <link>https://home.lamarzoccousa.com/coffee-sprudgecast-on-the-road-bay-area/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coffee-sprudgecast-on-the-road-bay-area/</guid>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Craftsman Series: Pantechnicon Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/pantechnicon-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pantechnicon-linea-mini/</guid>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: Buna</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-buna/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-buna/</guid>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: G&amp;B Coffee</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-gb-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-gb-coffee/</guid>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Home Barista Gift Guide: Father’s Day Edition</title>
+      <link>https://home.lamarzoccousa.com/the-home-barista-gift-guide-fathers-day-edition/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-home-barista-gift-guide-fathers-day-edition/</guid>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Should I Make Espresso at Home?</title>
+      <link>https://home.lamarzoccousa.com/why-should-i-make-espresso-at-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/why-should-i-make-espresso-at-home/</guid>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visual Menu: G&amp;B Coffee</title>
+      <link>https://home.lamarzoccousa.com/visual-menu-gb-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/visual-menu-gb-coffee/</guid>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roaster-in-Residence: Stumptown Coffee</title>
+      <link>https://home.lamarzoccousa.com/may-roaster-stumptown/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/may-roaster-stumptown/</guid>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Home Espresso Lab</title>
+      <link>https://home.lamarzoccousa.com/introducing-the-home-espresso-lab/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-home-espresso-lab/</guid>
+      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experience Bar at SCAA 2016</title>
+      <link>https://home.lamarzoccousa.com/experience-bar-at-scaa-2016/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/experience-bar-at-scaa-2016/</guid>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini: One Year Later</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-one-year-later/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-one-year-later/</guid>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to do a Flow Rate Test</title>
+      <link>https://home.lamarzoccousa.com/flow-rate-test/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/flow-rate-test/</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convince Your Boss</title>
+      <link>https://home.lamarzoccousa.com/convince-your-boss/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/convince-your-boss/</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home at Uppers &amp; Downers 2016</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-at-uppers-downers-2016/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-at-uppers-downers-2016/</guid>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recipe: French Toast &amp; Americano Breakfast</title>
+      <link>https://home.lamarzoccousa.com/french-toast-americano-breakfast/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/french-toast-americano-breakfast/</guid>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recipe: Holiday Scones &amp; Cappuccino</title>
+      <link>https://home.lamarzoccousa.com/recipe-scones-and-capps/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/recipe-scones-and-capps/</guid>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Home Barista Gift Guide: 2015</title>
+      <link>https://home.lamarzoccousa.com/home-barista-gift-guide-2015/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-gift-guide-2015/</guid>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Holiday Update</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-holiday-update/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-holiday-update/</guid>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Handmade Ceramics from La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/handmade-ceramics/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/handmade-ceramics/</guid>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Ways To Convince Your Loved Ones to Gift You an Espresso Machine</title>
+      <link>https://home.lamarzoccousa.com/8-ways-to-convince-your-loved-ones-to-gift-you-an-espresso-machine/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/8-ways-to-convince-your-loved-ones-to-gift-you-an-espresso-machine/</guid>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Happy Holiday Mornings</title>
+      <link>https://home.lamarzoccousa.com/happy-holiday-mornings/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/happy-holiday-mornings/</guid>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Craftsman Series  –  Saint Anthony Industries</title>
+      <link>https://home.lamarzoccousa.com/stanthony/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/stanthony/</guid>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video: The Making of a GS3</title>
+      <link>https://home.lamarzoccousa.com/video-the-making-of-a-gs3/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/video-the-making-of-a-gs3/</guid>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drink Preferences With Charles Babinski, Part II</title>
+      <link>https://home.lamarzoccousa.com/drink-preferences-with-charles-babinski-part-ii/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/drink-preferences-with-charles-babinski-part-ii/</guid>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sitting Down With Max Levchin</title>
+      <link>https://home.lamarzoccousa.com/sitting-down-with-max-levchin/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/sitting-down-with-max-levchin/</guid>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Brief History of the PID</title>
+      <link>https://home.lamarzoccousa.com/history-of-the-pid/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/history-of-the-pid/</guid>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Stock Update</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-stock-update/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-stock-update/</guid>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sitting Down With Larry Fong</title>
+      <link>https://home.lamarzoccousa.com/sitting-down-with-larry-fong/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/sitting-down-with-larry-fong/</guid>
+      <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Home + Columbus, OH</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-columbus-oh/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-columbus-oh/</guid>
+      <pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acaia Lunar Scale Features</title>
+      <link>https://home.lamarzoccousa.com/acaia-lunar-scale-features/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/acaia-lunar-scale-features/</guid>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DIY at the New York Coffee Festival</title>
+      <link>https://home.lamarzoccousa.com/diy-at-the-new-york-coffee-festival/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/diy-at-the-new-york-coffee-festival/</guid>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drink Preferences With Charles Babinski, Part I</title>
+      <link>https://home.lamarzoccousa.com/drink-preferences-with-charles-babinski-part-i/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/drink-preferences-with-charles-babinski-part-i/</guid>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sitting Down with Everyman Espresso</title>
+      <link>https://home.lamarzoccousa.com/sitting-down-with-everyman-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/sitting-down-with-everyman-espresso/</guid>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acaia Lunar Scales Now Available</title>
+      <link>https://home.lamarzoccousa.com/acaia-lunar-scales-now-available/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/acaia-lunar-scales-now-available/</guid>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coffee &amp; Bicycles: SF</title>
+      <link>https://home.lamarzoccousa.com/coffee-bicycles-sf-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coffee-bicycles-sf-2/</guid>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Survey: Drink Preferences at Home</title>
+      <link>https://home.lamarzoccousa.com/survey-drink-preferences-at-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/survey-drink-preferences-at-home/</guid>
+      <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milk Basics &amp; Latte Art Class</title>
+      <link>https://home.lamarzoccousa.com/milk-basics-class-by-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/milk-basics-class-by-la-marzocco-home/</guid>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Reasons Having Your Own Espresso Machine Is Awesome</title>
+      <link>https://home.lamarzoccousa.com/7-reasons-having-your-own-espresso-machine-is-awesome/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/7-reasons-having-your-own-espresso-machine-is-awesome/</guid>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Linea Mini Has Arrived</title>
+      <link>https://home.lamarzoccousa.com/order-the-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/order-the-linea-mini/</guid>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Q&amp;A on Periscope</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-periscope/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-periscope/</guid>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The La Marzocco Home Experience at SCAA</title>
+      <link>https://home.lamarzoccousa.com/the-la-marzocco-home-experience-at-scaa/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-la-marzocco-home-experience-at-scaa/</guid>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acaia Lunar Pre-Order</title>
+      <link>https://home.lamarzoccousa.com/acaia-lunar-pre-order/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/acaia-lunar-pre-order/</guid>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/born-from-a-classic/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/born-from-a-classic/</guid>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dialing In: How to Reduce Your Sink-Shots and Still Make a Beautiful Espresso</title>
+      <link>https://home.lamarzoccousa.com/dialing-in-how-to-reduce-your-sink-shots-and-still-make-a-beautiful-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/dialing-in-how-to-reduce-your-sink-shots-and-still-make-a-beautiful-espresso/</guid>
+      <pubDate>Wed, 04 Feb 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Barista Basics Class by La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/barista-basics-class/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/barista-basics-class/</guid>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Demand Grind with the La Marzocco Lux D</title>
+      <link>https://home.lamarzoccousa.com/on-demand-grind-with-the-la-marzocco-lux-d/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/on-demand-grind-with-the-la-marzocco-lux-d/</guid>
+      <pubDate>Tue, 30 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coffees We Love: Holiday Edition</title>
+      <link>https://home.lamarzoccousa.com/coffees_we_love_holiday/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coffees_we_love_holiday/</guid>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brew Ratios Around the World</title>
+      <link>https://home.lamarzoccousa.com/brew-ratios-around-world/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/brew-ratios-around-world/</guid>
+      <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Story Behind the GS3</title>
+      <link>https://home.lamarzoccousa.com/the-story-behind-gs3/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-story-behind-gs3/</guid>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next Steps for Your New La Marzocco</title>
+      <link>https://home.lamarzoccousa.com/next-steps-for-your-new-la-marzocco/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/next-steps-for-your-new-la-marzocco/</guid>
+      <pubDate>Fri, 18 Nov 1927 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

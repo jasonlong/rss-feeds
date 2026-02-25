@@ -16,6 +16,13 @@ feeds_acmeweather: ## Generate RSS feed for Acme Weather Blog
 	$(Q)python feed_generators/acmeweather_blog.py
 	$(call print_success,Acme Weather Blog feed generated)
 
+.PHONY: feeds_lamarzocco
+feeds_lamarzocco: ## Generate RSS feed for La Marzocco Blog
+	$(call check_venv)
+	$(call print_info,Generating La Marzocco Blog feed)
+	$(Q)python feed_generators/lamarzocco_blog.py
+	$(call print_success,La Marzocco Blog feed generated)
+
 .PHONY: feeds_tomsachs
 feeds_tomsachs: ## Generate RSS feed for Tom Sachs Store
 	$(call check_venv)
