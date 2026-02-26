@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Shu Ding – Thoughts</title>
+    <link>https://shud.in/thoughts</link>
+    <description>Thoughts by Shu Ding</description>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_shuding.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Feb 2026 17:08:22 +0000</lastBuildDate>
+    <item>
+      <title>伪命题</title>
+      <link>https://shud.in/thoughts/false-premise</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/false-premise</guid>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notes on A Programmable Web by Aaron Swartz</title>
+      <link>https://shud.in/thoughts/aaron-swartz-a-programmable-web</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/aaron-swartz-a-programmable-web</guid>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best Things</title>
+      <link>https://shud.in/thoughts/the-best-things</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/the-best-things</guid>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>不存在的乡愁</title>
+      <link>https://shud.in/thoughts/the-non-existing-nostalgic</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/the-non-existing-nostalgic</guid>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>实验文学的形式</title>
+      <link>https://shud.in/thoughts/the-form-of-experimental-literature</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/the-form-of-experimental-literature</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On UI Animations</title>
+      <link>https://shud.in/thoughts/on-ui-animations</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/on-ui-animations</guid>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COVID, BTC, M1</title>
+      <link>https://shud.in/thoughts/covid-btc-m1</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/covid-btc-m1</guid>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>COBE: WebGL Globe in 5kB</title>
+      <link>https://shud.in/thoughts/cobe</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/cobe</guid>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SSR, Streaming, and CSS-in-JS</title>
+      <link>https://shud.in/thoughts/ssr-streaming-and-css-in-js</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/ssr-streaming-and-css-in-js</guid>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Polynomial Curve Fitting</title>
+      <link>https://shud.in/thoughts/adaptive-polynomial-curve-fitting</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/adaptive-polynomial-curve-fitting</guid>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good Design</title>
+      <link>https://shud.in/thoughts/good-design</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/good-design</guid>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enlightment</title>
+      <link>https://shud.in/thoughts/enlightment</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/enlightment</guid>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enlightment II</title>
+      <link>https://shud.in/thoughts/enlightment-2</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/enlightment-2</guid>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>On Dynamic Island</title>
+      <link>https://shud.in/thoughts/on-dynamic-island</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/on-dynamic-island</guid>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance Is Not a Technical Problem</title>
+      <link>https://shud.in/thoughts/performance-is-not-a-technical-problem</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/performance-is-not-a-technical-problem</guid>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building Bulletproof React Components</title>
+      <link>https://shud.in/thoughts/build-bulletproof-react-components</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/build-bulletproof-react-components</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which</title>
+      <link>https://shud.in/thoughts/which</link>
+      <guid isPermaLink="false">https://shud.in/thoughts/which</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
