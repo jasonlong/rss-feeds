@@ -48,6 +48,10 @@ def parse_blog_posts(html_content):
             continue
         link = link_tag["href"]
 
+        # Skip relative URLs (e.g. /register/ for member-only content)
+        if not link.startswith("http"):
+            continue
+
         # Get title
         title_tag = item.select_one("div.gridtitle")
         title = title_tag.get_text(strip=True) if title_tag else ""
