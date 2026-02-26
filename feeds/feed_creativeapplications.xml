@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Creative Applications Network</title>
+    <link>https://www.creativeapplications.net/</link>
+    <description>Technology, Society, and Critical Making</description>
+    <atom:link href="https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_creativeapplications.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Feb 2026 15:20:37 +0000</lastBuildDate>
+    <item>
+      <title>Prix Ars Electronica 2026</title>
+      <link>https://www.creativeapplications.net/events/prix-ars-electronica-2026/</link>
+      <description>Submissions for the Prix Ars Electronica are now open. In 2026, the renowned media art prize is accepting entries in the categories Digital Humanity, Interactive Art +, New Animation Art, and u19—create your world. Participants compete for the four coveted Golden Nicas, each with prize money of up to €10,000....</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/events/prix-ars-electronica-2026/</guid>
+    </item>
+    <item>
+      <title>S+T+ARTS Prize 2026</title>
+      <link>https://www.creativeapplications.net/events/starts-prize-2026/</link>
+      <description>Submissions are now open for the S+T+ARTS Prize, awarded to pioneering innovations at the intersection of science, technology, and the arts. Winners will receive a total of €40,000 in prize money. The deadline is March 4, 2026. Photo: Ars Electronica / Martin Hieslmair</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/events/starts-prize-2026/</guid>
+    </item>
+    <item>
+      <title>KIKK Astronomy Residency 2026</title>
+      <link>https://www.creativeapplications.net/events/kikk-astronomy-residency-2026/</link>
+      <description>Hosted by KIKK in collaboration with the University of Namur, this residency invites artists to explore astronomy and the cosmos through artistic and technological approaches. Projects may engage with themes such as exoplanets, space debris, gravity, time, light, data visualisation, sound, AI, or immersive environments. Residency takes place between 27/05/2026...</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/events/kikk-astronomy-residency-2026/</guid>
+    </item>
+    <item>
+      <title>ACC CREATORS 2026 Residency</title>
+      <link>https://www.creativeapplications.net/events/acc-creators-2026-residency/</link>
+      <description>The National Asian Culture Center (ACC) invites artists, creators, and interdisciplinary practitioners to participate in a five-month residency program based in Gwangju, South Korea. The theme of this edition, Speculative Communities, examines designed and technologically mediated forms of community, addressing their potential and limitations in current and speculative social conditions.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/events/acc-creators-2026-residency/</guid>
+    </item>
+    <item>
+      <title>localhost:2026</title>
+      <link>https://www.creativeapplications.net/events/localhost2026/</link>
+      <description>Organized by METAA (metaa.ch) and guided by the theme “Break the Loop”, localhost:2026 (CH) celebrates experimental artistic practices and digital cultures. The festival highlights artists and designers whose experimental and critical approches challenge established norms.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/events/localhost2026/</guid>
+    </item>
+    <item>
+      <title>V6 Development Log (02/2026)</title>
+      <link>https://www.creativeapplications.net/news/v6-development-log-02-2026/</link>
+      <description>February’s push debuts CAN API (v2.1) and our iOS App (v1.3.1). Members can now participate in Activity directly via mobile, or build their own micro-apps using the API.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/news/v6-development-log-02-2026/</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Collapsed Mythologies – A Geofinancial Atlas</title>
+      <link>https://www.creativeapplications.net/books/collapsed-mythologies-a-geofinancial-atlas/</link>
+      <description>This book explores the mythological slang of finance—from hectocorns to dark pools. Benjaminsen and Casey reveal how these "supernatural" fictions aren't just colorful talk, but forces that violently shape our real-world ecology.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/books/collapsed-mythologies-a-geofinancial-atlas/</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are You a Software Update?</title>
+      <link>https://www.creativeapplications.net/books/are-you-a-software-update/</link>
+      <description>Are You a Software Update? brings together seven authors to examine the intensifying form of totalitarianism grounded in the quiet background logic of contemporary technology.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/books/are-you-a-software-update/</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The First Wave of Speakers Announced for Creative Tech New York 2026!</title>
+      <link>https://www.creativeapplications.net/news/the-first-wave-of-speakers-announced-for-creative-tech-new-york-2026/</link>
+      <description>On June 16, join us to explore what’s next in Creative Tech, in a culture shaped by AI acceleration, immersive worlds, and interconnected audiences.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/news/the-first-wave-of-speakers-announced-for-creative-tech-new-york-2026/</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analytic Scape – World as classified and quantified by AI</title>
+      <link>https://www.creativeapplications.net/member/analytic-scape-world-as-classified-and-quantified-by-ai/</link>
+      <description>Analytic Scape is a series of scape videos reconstructed through the eye of AI. After capturing various urban and natural scenes, the footage was analyzed using twenty distinct computer vision algorithms.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/analytic-scape-world-as-classified-and-quantified-by-ai/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Light Streaks – Generative photography</title>
+      <link>https://www.creativeapplications.net/project/light-streaks-generative-photography/</link>
+      <description>The latest in the series of experiments by Karsten Schmidt, is a small selection of long-exposure images created from randomly generated IFS, a family of very oldskool primitive/trivial fractal functions</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/light-streaks-generative-photography/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zero Range – Documenting the unbearable in a culture of systematic filtering</title>
+      <link>https://www.creativeapplications.net/member/zero-range-documenting-the-unbearable-in-a-culture-of-systematic-filtering/</link>
+      <description>Zero Range is an interactive installation that exposes the administrative violence of data that is recorded but ignored. It highlights how available information about violence vanishes through systematic disregard and filtering.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/zero-range-documenting-the-unbearable-in-a-culture-of-systematic-filtering/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Constant Points of Data – Indistinct voices over PA</title>
+      <link>https://www.creativeapplications.net/member/constant-points-of-data-indistinct-voices-over-pa/</link>
+      <description>This project is an investigation into novel applications of turntablism for audiovisual composition and performance, focusing on elastic tempo manipulation.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/constant-points-of-data-indistinct-voices-over-pa/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We the Bacteria – Notes Toward Biotic Architecture</title>
+      <link>https://www.creativeapplications.net/books/we-the-bacteria-notes-toward-biotic-architecture/</link>
+      <description>Rethinking architecture through the lens of microbes, arguing bacteria are the true builders. This book traces 10,000 years of human-microbe entanglements to challenge the sterile, antibiotic philosophy of modern design.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/books/we-the-bacteria-notes-toward-biotic-architecture/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Constella – Supporting Storywriters’ Interconnected Character Creation through LLM-based Multi-Agents</title>
+      <link>https://www.creativeapplications.net/news/constella-supporting-storywriters-interconnected-character-creation-through-llm-based-multi-agents/</link>
+      <description>Constella is a AI-based creativity support tool that uses social media-inspired interactions to help storywriters build interconnected character casts.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/news/constella-supporting-storywriters-interconnected-character-creation-through-llm-based-multi-agents/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Display Powered by Air – 3D Printed Microfluidic Multiplexing</title>
+      <link>https://www.creativeapplications.net/news/a-display-powered-by-air-3d-printed-microfluidic-multiplexing/</link>
+      <description>URLyoutube.com</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/news/a-display-powered-by-air-3d-printed-microfluidic-multiplexing/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Privacy Policy Printer – A physical receipt printer for your digital agreements</title>
+      <link>https://www.creativeapplications.net/member/privacy-policy-printer-a-physical-receipt-printer-for-your-digital-agreements/</link>
+      <description>Privacy Policy Printer is a thermal receipt printer that prints the privacy policies of online services—documents that users routinely agree to without reading.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/privacy-policy-printer-a-physical-receipt-printer-for-your-digital-agreements/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Global Network of Techno Fascism</title>
+      <link>https://www.creativeapplications.net/news/the-global-network-of-techno-fascism/</link>
+      <description>URLnottoday.diy</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/news/the-global-network-of-techno-fascism/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whose future is liveable?</title>
+      <link>https://www.creativeapplications.net/news/whose-future-is-liveable/</link>
+      <description>Article by Jake Fremantle discussing two recent books on ecological politics by Nicholas Beuret and Thea Riofrancos and the pathways to resisting capital's ecological destruction.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/news/whose-future-is-liveable/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exhibit A – A machine that turns you into a criminal</title>
+      <link>https://www.creativeapplications.net/member/exhibit-a-a-machine-that-turns-you-into-a-criminal/</link>
+      <description>Exhibit A is an interactive installation that turns users into cybercriminals. By pressing a button, you launch a live darknet marketplace hosted on the hardware, trafficking illicit data.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/exhibit-a-a-machine-that-turns-you-into-a-criminal/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noema – Rethinking Perception with AI-Generated Spatial Soundscapes</title>
+      <link>https://www.creativeapplications.net/project/noema-rethinking-perception-with-ai-generated-spatial-soundscapes/</link>
+      <description>Noema is a Large Language Object (LLO) that reconstructs perception via spatial audio and storytelling. By shifting focus from sight to sound, it turns AI into a sensory extension—an inner voice that interprets, speaks, and questions.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/noema-rethinking-perception-with-ai-generated-spatial-soundscapes/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>45 Symbols – Clay to Code</title>
+      <link>https://www.creativeapplications.net/books/45-symbols-clay-to-code/</link>
+      <description>45 Symbols–Clay to Code examines how emerging artists and designers develop systematic approaches to a visual language.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/books/45-symbols-clay-to-code/</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slow Technology Reader</title>
+      <link>https://www.creativeapplications.net/books/slow-technology-reader/</link>
+      <description>Slow Technology Reader gathers contributions from diverse disciplinary fields and knowledge traditions to consider technology through a ‘Slow’ lens.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/books/slow-technology-reader/</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACC CREATORS 2026 Residency Open Call</title>
+      <link>https://www.creativeapplications.net/sponsored/acc-creators-2026-residency-open-call/</link>
+      <description>The National Asian Culture Center invites artists, creators, and interdisciplinary practitioners to participate in a five-month residency program based in Gwangju, South Korea.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/sponsored/acc-creators-2026-residency-open-call/</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spectrum Slit – A light that can see radiowaves</title>
+      <link>https://www.creativeapplications.net/member/spectrum-slit-a-light-that-can-see-radiowaves/</link>
+      <description>Spectrum Slit transforms the hidden storm of radio waves into a physical experience by using LED filaments, translating digital traffic into bursts of light and sound, exposing the constant and invasive density of our modern world.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/spectrum-slit-a-light-that-can-see-radiowaves/</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>current_state – World’s mood, each day, as generated music</title>
+      <link>https://www.creativeapplications.net/member/current_state-worlds-mood-each-day-as-generated-music/</link>
+      <description>current_state is a fictional-functional product that analyzes daily news from major regions worldwide to understand global sentiment, then generates music that represents the world's mood each day.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/current_state-worlds-mood-each-day-as-generated-music/</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perpétuité II – An algorithmic sisyphus</title>
+      <link>https://www.creativeapplications.net/project/perpetuite-ii-an-algorithmic-sisyphus/</link>
+      <description>This "algorithmic Sisyphus" explores the technoneoliberal dream: a perpetual, post-human choreography where machines replace us as masters of infinite repetition.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/perpetuite-ii-an-algorithmic-sisyphus/</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aurora – Speculative device for future prayer</title>
+      <link>https://www.creativeapplications.net/member/aurora-speculative-device-for-future-prayer/</link>
+      <description>Aurora is a speculative device designed to explore the act of prayer. It allows users to engage through proximity-based hand gestures to generate evolving, dreamlike soundscapes.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/aurora-speculative-device-for-future-prayer/</guid>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthetic Spirits – Kinetic sculptures reveal a hidden world</title>
+      <link>https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/</link>
+      <description>Kinetic installation exploring tsukumogam — everyday objects that acquire spirits. A sake bottle and straw sandal glide past screens as generative AI reveals yokai spirits, contrasting folklore with today's throwaway culture.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/synthetic-spirits-kinetic-sculptures-reveal-a-hidden-world/</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orbital Temple – Reclaiming the Space Imaginary</title>
+      <link>https://www.creativeapplications.net/member/orbital-temple-reclaiming-the-space-imaginary/</link>
+      <description>Orbital Temple is an artwork and a functional satellite created by Edson Pavoni. Launching into space in January 2026, its memory holds billions of names, and anyone on Earth can send one.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/orbital-temple-reclaiming-the-space-imaginary/</guid>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latent Reflection – A trapped AI reflects on its own finite existence</title>
+      <link>https://www.creativeapplications.net/member/latent-reflection-a-trapped-ai-reflects-on-its-own-finite-existence/</link>
+      <description>Latent Reflection is an installation that explores the boundaries of machine consciousness, posing the question of whether sentience is exclusive to biological life or if it can emerge from complex computation.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/latent-reflection-a-trapped-ai-reflects-on-its-own-finite-existence/</guid>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Con[knit]uous Rubble – Additive manufacturing with jammed granular matter</title>
+      <link>https://www.creativeapplications.net/project/conknituous-rubble-additive-manufacturing-with-jammed-granular-matter/</link>
+      <description>Researchers  at ITECH use "knitted" tubes and sensors to 3D-print structures from raw concrete waste. This system monitors stability in real-time, creating complex, mortar-free architectural forms that can be fully disassembled.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/conknituous-rubble-additive-manufacturing-with-jammed-granular-matter/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Anemoia Device – A Scent-Memory Machine</title>
+      <link>https://www.creativeapplications.net/member/the-anemoia-device-a-scent-memory-machine/</link>
+      <description>The Anemoia Device uses generative AI to distill photos into bespoke fragrances. This scent-memory machine, guided by language and visual models, creates a singular scent composition, evoking anemoia: nostalgia for a life you never lived.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/the-anemoia-device-a-scent-memory-machine/</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Carousel – The mechanical, spontaneous, and unpredictable</title>
+      <link>https://www.creativeapplications.net/member/the-carousel-the-mechanical-spontaneous-and-unpredictable/</link>
+      <description>Eight Kodak Carousel projectors in a 2x4 grid project abstract images from paper cutouts. Modified photoresistors create a feedback loop, allowing 65,536 unique, spontaneous images. It runs infinitely at 12 frames/min, merging light, shadow, and m...</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/the-carousel-the-mechanical-spontaneous-and-unpredictable/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Speculative Utopias / Dystopias (x3) – Visual Communication + Change</title>
+      <link>https://www.creativeapplications.net/member/speculative-utopias-dystopias-x3-visual-communication-change/</link>
+      <description>Visual Comm. + Change students built websites exploring utopias/dystopias. Narratives critique capitalism's failure, ecological decay (microplastics, melting glaciers), the loss of human senses, and the universal need for legacy / remembrance.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/speculative-utopias-dystopias-x3-visual-communication-change/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Map of Algorithmic / Random Walks</title>
+      <link>https://www.creativeapplications.net/member/a-map-of-algorithmic-random-walks/</link>
+      <description>A visual map project that contrasts algorithmic navigation with chance-based wandering, combining data from both to create layered diagrams and 3D-like city mappings that reveal London’s hidden patterns and alternate urban narratives.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/a-map-of-algorithmic-random-walks/</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disarming – Between detachment and attachment</title>
+      <link>https://www.creativeapplications.net/project/disarming-between-detachment-and-attachment/</link>
+      <description>Disarming is a series of performative explorations of the relation between a detached robotic arm, its artificial environment, and its human observers.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/disarming-between-detachment-and-attachment/</guid>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ACC CREATORS 2025 Residency Exhibition – Artificial You</title>
+      <link>https://www.creativeapplications.net/event/acc-creators-2025-residency-exhibition-artificial-you/</link>
+      <description>The National Asian Culture Center (ACC) presents – Artificial You, the culminating exhibition of the ACC CREATORS 2025 Residency, on view from November 26 to December 7 at the ACT Studio.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/event/acc-creators-2025-residency-exhibition-artificial-you/</guid>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Directrix – Golan Levin</title>
+      <link>https://www.creativeapplications.net/nft/directrix-golan-levin/</link>
+      <description>Directrix (1998, 2025) is a long-form generative artwork and interactive drawing environment, in which animated "pseudo-parabolas" are created autonomously or in collaboration with a participant.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/nft/directrix-golan-levin/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BUSY – Seeing the city all at once, its intricate systems layered and interwoven</title>
+      <link>https://www.creativeapplications.net/member/busy-seeing-the-city-all-at-once-its-intricate-systems-layered-and-interwoven/</link>
+      <description>BUSY explores the overwhelming, layered systems of urban life through generative algorithms, procedural and hand-drawn elements, created autonomously, with digital and physical outputs.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/busy-seeing-the-city-all-at-once-its-intricate-systems-layered-and-interwoven/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Glyphlora – Non-functional Symbiosis and Critical Typography</title>
+      <link>https://www.creativeapplications.net/member/glyphlora-non-functional-symbiosis-and-critical-typography/</link>
+      <description>Inspired by plant emissions, and challenging human-centric ideas of language and communication, Jane Lee creates speculative glyphs derived from supersonic sounds emitted by plants under stress.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/glyphlora-non-functional-symbiosis-and-critical-typography/</guid>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KIKK Festival 2025 – Rediscovering Playful Interactions</title>
+      <link>https://www.creativeapplications.net/event/kikk-festival-2025-rediscovering-playful-interactions/</link>
+      <description>At KIKK Festival, the tech world felt human again. Conversations, playful installations, and three days of talks showed how creative misuse of tools becomes critique—reviving curiosity in an age overshadowed by AI noise.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/event/kikk-festival-2025-rediscovering-playful-interactions/</guid>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visions – Orkhan</title>
+      <link>https://www.creativeapplications.net/nft/visions-orkhan/</link>
+      <description>VISIONS explores idea of false memory through the lens of artificial intelligence - how the machine sees, understands and reimagines - and how the perception of truth shifts in a modern world.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/nft/visions-orkhan/</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Place – Re-inscribing markers of memory</title>
+      <link>https://www.creativeapplications.net/member/in-place-re-inscribing-markers-of-memory/</link>
+      <description>In Place is an illustrative visual mapping of headstones found in London parks, seeking to acknowledge their continued presence and re-inscribe them into the contemporary urban landscape.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/in-place-re-inscribing-markers-of-memory/</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spira Memoriae – Scent as a vector of storytelling, transmission, and shared fiction</title>
+      <link>https://www.creativeapplications.net/project/spira-memoriae-scent-as-a-vector-of-storytelling-transmission-and-shared-fiction/</link>
+      <description>Spira Memoriae is an immersive olfactory experience in virtual reality that invites the user to traverse a fragmented sensory world. Original perfumes extend this reflection through the language of scent,  acting as markers within an abstract land...</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/spira-memoriae-scent-as-a-vector-of-storytelling-transmission-and-shared-fiction/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unbubble – Revealing our tailor-made (many) realities</title>
+      <link>https://www.creativeapplications.net/project/unbubble-revealing-our-tailor-made-many-realities/</link>
+      <description>Unbubble explore user’s Instagram activity, exposing the paradox of our digital lives—guarded devices yet open to algorithms. By visualizing these hidden interactions, it reflects on how data shapes our identities and online bubbles.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/unbubble-revealing-our-tailor-made-many-realities/</guid>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TreeSoil – Robotic 3D-printed earthen microclimate shelter for saplings</title>
+      <link>https://www.creativeapplications.net/member/treesoil-robotic-3d-printed-earthen-microclimate-shelter-for-saplings/</link>
+      <description>TreeSoil is a 3D-printed earthen structure that shields young trees in degraded areas, creating microclimates for early growth. It revives ancient soil-shaping practices through computational design and robotic fabrication.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/treesoil-robotic-3d-printed-earthen-microclimate-shelter-for-saplings/</guid>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Memoria – Fragility of human connections</title>
+      <link>https://www.creativeapplications.net/project/memoria-fragility-of-human-connections/</link>
+      <description>Memoria is an experimental photo album application that visualizes the fading of human connections: as the shared moments decrease, the people in the photo album gradually disappear.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/memoria-fragility-of-human-connections/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trail Sync – Decentralized alpine data sharing for hikers</title>
+      <link>https://www.creativeapplications.net/project/trail-sync-decentralized-alpine-data-sharing-for-hikers/</link>
+      <description>Trail Sync is a participatory system for alpine routes, rooted in the mountain values of collective responsibility and solidarity, that reinforces existing signage infrastructure without increasing technological dependency.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/trail-sync-decentralized-alpine-data-sharing-for-hikers/</guid>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthetic Memories – Unlocking the past to enrich the present (and the future)</title>
+      <link>https://www.creativeapplications.net/project/synthetic-memories-unlocking-the-past-to-enrich-the-present-and-the-future/</link>
+      <description>Synthetic Memories is an initiative that recreates and preserves personal memories at risk of being lost. By converting spoken and written descriptions into visual images, it helps individuals reconnect with their past and maintain the continuity ...</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/synthetic-memories-unlocking-the-past-to-enrich-the-present-and-the-future/</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pocket Boss – A remote worker’s guide to bending data (and ethics)</title>
+      <link>https://www.creativeapplications.net/project/pocket-boss-a-remote-workers-guide-to-bending-data-and-ethics/</link>
+      <description>Pocket Boss tasks you, a remote employee, to "fix" data and please your boss. What appears as a casual game, is a sharp piece of digital satire, transforming the cynical aspects of corporate life into a darkly comical exercise.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/pocket-boss-a-remote-workers-guide-to-bending-data-and-ethics/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chair 2 – Merging the mundane with the uncanny</title>
+      <link>https://www.creativeapplications.net/project/chair-2-merging-the-mundane-with-the-uncanny/</link>
+      <description>Developed during a residency at New Lab (Detroit), Chair 2 explores the mundane with the uncanny, where an ordinary chair "comes alive" through motion.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/chair-2-merging-the-mundane-with-the-uncanny/</guid>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elusive Sense – On The Fluid Boundaries Of Perception</title>
+      <link>https://www.creativeapplications.net/event/elusive-sense-on-the-fluid-boundaries-of-perception/</link>
+      <description>In Elusive Sense, five artists propose a variety of perspectives on where we sit in the human-technology duality in the era and culture of the anthropocene.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/event/elusive-sense-on-the-fluid-boundaries-of-perception/</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise en Abyme: London – Contemporary art through the lens of film noir</title>
+      <link>https://www.creativeapplications.net/event/mise-en-abyme-london-contemporary-art-through-the-lens-of-film-noir/</link>
+      <description>Last month, at The Black Shop in King’s Cross (London), this exhibition assembled conditions where images echoed, matter unsettled, and perception sliped.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/event/mise-en-abyme-london-contemporary-art-through-the-lens-of-film-noir/</guid>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safe Haven – Kirill Semenovich</title>
+      <link>https://www.creativeapplications.net/nft/safe-haven-kirill-semenovich/</link>
+      <description>Safe Haven is a video-essay series built from fragments of memory and sensation, it assembles a recurring state, moments kept and revisited.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/nft/safe-haven-kirill-semenovich/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hot Air Factory – Clouds are heavier than you think</title>
+      <link>https://www.creativeapplications.net/member/hot-air-factory-clouds-are-heavier-than-you-think/</link>
+      <description>An experiment by oio, the Hot Air Factory visualizes the energy consumption of AI. As the internal computer heats up, it releases warm air—the stronger the wind, the harder the thinking.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/hot-air-factory-clouds-are-heavier-than-you-think/</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sál – Impermanence, uncertainty and instability</title>
+      <link>https://www.creativeapplications.net/member/sal-impermanence-uncertainty-and-instability/</link>
+      <description>Sál (“soul”) is a live media opera exploring the universal concept of impermanence, emphasizing the ever-changing essence of life.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/sal-impermanence-uncertainty-and-instability/</guid>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Off Grid Assemblies – DIY kit for off-grid electricity</title>
+      <link>https://www.creativeapplications.net/member/off-grid-assemblies-diy-kit-for-off-grid-electricity/</link>
+      <description>This project aims to create a low-cost DIY kit for off-grid electricity in collaboration with the local community, empowering them to construct and maintain the turbines independently for supplemental electricity generation.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/off-grid-assemblies-diy-kit-for-off-grid-electricity/</guid>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reflection Objects – Mark Walhimer</title>
+      <link>https://www.creativeapplications.net/member/reflection-objects-mark-walhimer/</link>
+      <description>A series of works that exolore how two-dimensional and three-dimensional space can emerge from objects that are volumetric and sculptural, and often fields of color.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/reflection-objects-mark-walhimer/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SlimeMoldCrypt – Security as a biological process</title>
+      <link>https://www.creativeapplications.net/project/slimemoldcrypt-security-as-a-biological-process/</link>
+      <description>A speculative device that reimagines security as a biological process using a single-celled slime mold, as an unpredictable and dynamic encryption engine.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/slimemoldcrypt-security-as-a-biological-process/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Submirror – Self-perception, loss of control, and digital puppetry</title>
+      <link>https://www.creativeapplications.net/project/submirror-self-perception-loss-of-control-and-digital-puppetry/</link>
+      <description>Submirror is a body of work by Atelier Lozano-Hemmer comprised of mirrors that do not reflect faithfully; they act with intention, manipulating the viewer’s image to reveal a version of the self that is not their own.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/project/submirror-self-perception-loss-of-control-and-digital-puppetry/</guid>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NØ SCHOOL NEVERS 2024</title>
+      <link>https://www.creativeapplications.net/member/no-school-nevers-2024/</link>
+      <description>NØ SCHOOL NEVERS is a unique international summer school, held in Nevers, in Burgundy, aimed at students, artists, designers, makers, hackers, activists and educators who wish to further their skills and engage in critical research around the soci...</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/member/no-school-nevers-2024/</guid>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analogue Systems – Kinaesthetic tools for digital processes</title>
+      <link>https://www.creativeapplications.net/education/analogue-systems-kinaesthetic-tools-for-digital-processes/</link>
+      <description>Performed at the Camberwell College of Arts with 6 graduating graphic design students, Analogue Systems is a project that draws inspiration from the overworked arguements of superiority between analogue and digital process.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/education/analogue-systems-kinaesthetic-tools-for-digital-processes/</guid>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A-B-Z-TXT – A School for 21st Century Typography</title>
+      <link>https://www.creativeapplications.net/can/a-b-z-txt-a-school-for-21st-century-typography/</link>
+      <description>Building on the experience of our past educational programming at ACT Festival, Resonate, and Circle of Light, CAN has partnered to launch a new initiative in Toronto this August. Our first North American event, A-B-Z-TXT is a school for 21st cent...</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/can/a-b-z-txt-a-school-for-21st-century-typography/</guid>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The New Velocity – The faulty consistency of cartography</title>
+      <link>/register/</link>
+      <description>Created by Luiz Zanotello at the University of the Arts, Bremen, The New Velocity is a machine designed to plot the phantom Sandy Island using digital as a new analogy for its existence. The project investigates a charting error that persisted in ...</description>
+      <guid isPermaLink="false">/register/</guid>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HOLO 2 – An Illustrated Countdown</title>
+      <link>https://www.creativeapplications.net/can/holo-2-an-illustrated-countdown/</link>
+      <guid isPermaLink="false">https://www.creativeapplications.net/can/holo-2-an-illustrated-countdown/</guid>
+      <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Out Now: HOLO 1 – CAN’s very own magazine!</title>
+      <link>https://www.creativeapplications.net/can/out-now-holo-1/</link>
+      <description>After more than a year of work, CAN’s print-spin off is now headed around the world! Dedicated to chronicling ‘emerging trajectories in art, science, and technology’, the first issue of HOLO is now available for order.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/can/out-now-holo-1/</guid>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report from Super Flying Tokyo – February 2014</title>
+      <link>https://www.creativeapplications.net/can/report-from-super-flying-tokyo-2014/</link>
+      <description>Seven years in the running, organised by Rhizomatiks and curated by Daito Manabe, Flying Tokyo goes Super with a new space and larger audience, more speakers and a workshop programme. CAN was there and we are pleased to report back.</description>
+      <guid isPermaLink="false">https://www.creativeapplications.net/can/report-from-super-flying-tokyo-2014/</guid>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

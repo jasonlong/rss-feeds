@@ -16,15 +16,19 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BLOG_URL = "https://home.lamarzoccousa.com/blog/"
-FEED_NAME = "lamarzocco"
-CACHE_FILE = get_cache_dir() / "lamarzocco_posts.json"
+BLOG_URL = "https://www.creativeapplications.net/"
+FEED_NAME = "creativeapplications"
+CACHE_FILE = get_cache_dir() / "creativeapplications_posts.json"
 
 
 def fetch_blog_content(url):
     """Fetch blog content from the given URL."""
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
     }
     response = requests.get(url, headers=headers, timeout=10)
     response.raise_for_status()
@@ -36,38 +40,55 @@ def parse_blog_posts(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     posts = []
 
-    cards = soup.select("div.news-thumb")
-    for card in cards:
-        link_tag = card.find_parent("a")
+    items = soup.select("div.griditem")
+    for item in items:
+        # Get link from the first anchor tag (image link)
+        link_tag = item.select_one("div.gridmedia a")
         if not link_tag or not link_tag.get("href"):
             continue
-
         link = link_tag["href"]
 
-        title_tag = card.select_one("h3")
+        # Get title
+        title_tag = item.select_one("div.gridtitle")
         title = title_tag.get_text(strip=True) if title_tag else ""
         if not title:
             continue
 
-        date_tag = card.select_one("span.news-thumb--date")
-        pub_date = None
-        if date_tag:
-            date_str = date_tag.get_text(strip=True)
-            try:
-                pub_date = datetime.strptime(date_str, "%m/%d/%Y")
-                pub_date = pub_date.replace(tzinfo=pytz.UTC)
-            except ValueError:
-                logger.warning(f"Could not parse date: {date_str}")
+        # Get excerpt
+        excerpt_tag = item.select_one("div.gridexcerpt")
+        excerpt = excerpt_tag.get_text(strip=True) if excerpt_tag else None
 
-        img_tag = card.select_one("img.wp-post-image")
-        image_url = img_tag["src"] if img_tag and img_tag.get("src") else None
+        # Get date from metadata (D label followed by date)
+        pub_date = None
+        meta = item.select_one("div.gridmeta")
+        if meta:
+            meta_items = meta.select("li")
+            for li in meta_items:
+                spans = li.select("span")
+                if len(spans) >= 2 and spans[0].get_text(strip=True) == "D":
+                    date_str = spans[1].get_text(strip=True)
+                    try:
+                        pub_date = datetime.strptime(date_str, "%d/%m/%Y")
+                        pub_date = pub_date.replace(tzinfo=pytz.UTC)
+                    except ValueError:
+                        logger.warning(f"Could not parse date: {date_str}")
+
+        # Get author from metadata (A label)
+        author = None
+        if meta:
+            meta_items = meta.select("li")
+            for li in meta_items:
+                spans = li.select("span")
+                if len(spans) >= 2 and spans[0].get_text(strip=True) == "A":
+                    author = spans[1].get_text(strip=True).lstrip("@")
 
         posts.append(
             {
                 "title": title,
                 "date": pub_date.isoformat() if pub_date else None,
                 "link": link,
-                "image": image_url,
+                "description": excerpt,
+                "author": author,
             }
         )
 
@@ -77,9 +98,9 @@ def parse_blog_posts(html_content):
 def get_next_page_url(html_content):
     """Extract the next page URL from pagination."""
     soup = BeautifulSoup(html_content, "html.parser")
-    for link in soup.select("div.pagination a"):
-        if "next" in link.get_text(strip=True).lower():
-            return link.get("href")
+    next_link = soup.select_one("a.next.page-numbers")
+    if next_link:
+        return next_link.get("href")
     return None
 
 
@@ -138,10 +159,10 @@ def merge_posts(new_posts, cached_posts):
 def generate_rss_feed(posts):
     """Generate RSS feed from blog posts."""
     fg = FeedGenerator()
-    fg.title("La Marzocco Blog")
-    fg.description("Latest from the La Marzocco blog")
+    fg.title("Creative Applications Network")
+    fg.description("Technology, Society, and Critical Making")
     fg.language("en")
-    fg.author({"name": "La Marzocco"})
+    fg.author({"name": "Creative Applications Network"})
 
     setup_feed_links(fg, blog_url=BLOG_URL, feed_name=FEED_NAME)
 
@@ -157,6 +178,12 @@ def generate_rss_feed(posts):
             pub_date = datetime.fromisoformat(post["date"])
             fe.published(pub_date)
 
+        if post.get("description"):
+            fe.description(post["description"])
+
+        if post.get("author"):
+            fe.author({"name": post["author"]})
+
     logger.info("Successfully generated RSS feed")
     return fg
 
@@ -171,7 +198,7 @@ def save_rss_feed(feed_generator):
 
 
 def main():
-    """Main function to generate RSS feed for La Marzocco blog."""
+    """Main function to generate RSS feed for Creative Applications Network."""
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--full", action="store_true", help="Fetch all pages (not just page 1)"
@@ -181,7 +208,7 @@ def main():
     cached_posts = load_cache()
 
     if args.full or not cached_posts:
-        new_posts = fetch_all_pages()
+        new_posts = fetch_all_pages(max_pages=5)
     else:
         logger.info("Incremental mode: fetching page 1 only")
         html = fetch_blog_content(BLOG_URL)

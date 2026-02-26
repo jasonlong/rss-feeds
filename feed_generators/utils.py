@@ -46,7 +46,9 @@ def setup_feed_links(fg: FeedGenerator, blog_url: str, feed_name: str) -> None:
     fg.link(href=blog_url, rel="alternate")
 
 
-def sort_posts_for_feed(posts: list[dict[str, Any]], date_field: str = "date") -> list[dict[str, Any]]:
+def sort_posts_for_feed(
+    posts: list[dict[str, Any]], date_field: str = "date"
+) -> list[dict[str, Any]]:
     """Sort posts so newest appears first in the final RSS feed.
 
     IMPORTANT: feedgen reverses the order when writing entries to XML.

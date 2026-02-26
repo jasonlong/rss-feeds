@@ -1,14 +1,16 @@
-import re
-import requests
-from datetime import datetime
-import pytz
-from feedgen.feed import FeedGenerator
 import logging
+import re
+from datetime import datetime
 
+import pytz
+import requests
+from feedgen.feed import FeedGenerator
 from utils import get_feeds_dir, setup_feed_links
 
 # Set up logging
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 logger = logging.getLogger(__name__)
 
 STORE_URL = "https://store.tomsachs.com"
@@ -72,19 +74,23 @@ def parse_products(products):
         if variants:
             price = variants[0].get("price")
             if price:
-                description = f"${price} — {description}" if description else f"${price}"
+                description = (
+                    f"${price} — {description}" if description else f"${price}"
+                )
 
         # Get first image for enclosure
         images = product.get("images", [])
         image_url = images[0].get("src") if images else None
 
-        entries.append({
-            "title": title,
-            "link": link,
-            "description": description,
-            "pub_date": pub_date,
-            "image_url": image_url,
-        })
+        entries.append(
+            {
+                "title": title,
+                "link": link,
+                "description": description,
+                "pub_date": pub_date,
+                "image_url": image_url,
+            }
+        )
 
     # Sort by date descending (newest first)
     entries.sort(key=lambda x: x["pub_date"], reverse=True)

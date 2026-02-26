@@ -1,11 +1,14 @@
+import logging
 import os
 import subprocess
-import logging
 import sys
 
 # Set up logging
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 logger = logging.getLogger(__name__)
+
 
 def run_all_feeds():
     """Run all Python scripts in the feed_generators directory.
@@ -26,7 +29,9 @@ def run_all_feeds():
 
             script_path = os.path.join(feed_generators_dir, filename)
             logger.info(f"Running script: {script_path}")
-            result = subprocess.run(["python", script_path], capture_output=True, text=True)
+            result = subprocess.run(
+                ["python", script_path], capture_output=True, text=True
+            )
             if result.returncode == 0:
                 logger.info(f"Successfully ran script: {script_path}")
                 successful_scripts.append(filename)
@@ -54,6 +59,7 @@ def run_all_feeds():
 
     logger.info(f"{'='*60}\n")
     return 0
+
 
 if __name__ == "__main__":
     exit_code = run_all_feeds()

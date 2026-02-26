@@ -1,15 +1,17 @@
-import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
-import pytz
-from feedgen.feed import FeedGenerator
 import logging
+from datetime import datetime
 from pathlib import Path
 
+import pytz
+import requests
+from bs4 import BeautifulSoup
+from feedgen.feed import FeedGenerator
 from utils import get_feeds_dir, setup_feed_links
 
 # Set up logging
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 logger = logging.getLogger(__name__)
 
 BLOG_URL = "https://acmeweather.com/blog"
@@ -64,6 +66,7 @@ def parse_blog_posts(html_content):
             for fmt in date_formats:
                 # Search for a date pattern at the end of the byline
                 import re
+
                 # Match month name followed by day and year
                 pattern = r"([A-Z][a-z]+ \d{1,2},? \d{4})"
                 match = re.search(pattern, byline_text)
@@ -93,12 +96,14 @@ def parse_blog_posts(html_content):
                 if first_p:
                     description = first_p.get_text(strip=True)
 
-            blog_posts.append({
-                "title": title,
-                "date": pub_date,
-                "description": description,
-                "link": link,
-            })
+            blog_posts.append(
+                {
+                    "title": title,
+                    "date": pub_date,
+                    "description": description,
+                    "link": link,
+                }
+            )
 
         logger.info(f"Successfully parsed {len(blog_posts)} blog posts")
         return blog_posts
