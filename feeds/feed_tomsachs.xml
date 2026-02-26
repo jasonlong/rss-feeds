@@ -4,11 +4,11 @@
     <title>Tom Sachs Store</title>
     <link>https://store.tomsachs.com</link>
     <description>Latest drops from the Tom Sachs Store</description>
-    <atom:link href="https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_tomsachs.xml" rel="self"/>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_tomsachs.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 14:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:28:22 +0000</lastBuildDate>
     <item>
       <title>No Skateboarding Skateboard Deck</title>
       <link>https://store.tomsachs.com/products/no-skateboarding-skateboarding-deck</link>

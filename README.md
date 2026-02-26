@@ -4,10 +4,10 @@
 
 | Source | Feed |
 | ------ | ---- |
-| [Acme Weather Blog](https://acmeweather.com/blog) | [feed_acmeweather.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_acmeweather.xml) |
-| [Creative Applications Network](https://www.creativeapplications.net/) | [feed_creativeapplications.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_creativeapplications.xml) |
-| [La Marzocco Blog](https://home.lamarzoccousa.com/blog/) | [feed_lamarzocco.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_lamarzocco.xml) |
-| [Tom Sachs Store](https://store.tomsachs.com/) | [feed_tomsachs.xml](https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_tomsachs.xml) |
+| [Acme Weather Blog](https://acmeweather.com/blog) | [feed_acmeweather.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_acmeweather.xml) |
+| [Creative Applications Network](https://www.creativeapplications.net/) | [feed_creativeapplications.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_creativeapplications.xml) |
+| [La Marzocco Blog](https://home.lamarzoccousa.com/blog/) | [feed_lamarzocco.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_lamarzocco.xml) |
+| [Tom Sachs Store](https://store.tomsachs.com/) | [feed_tomsachs.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_tomsachs.xml) |
 
 RSS feeds for sites that don't provide them. A GitHub Action runs hourly to regenerate feeds.
 

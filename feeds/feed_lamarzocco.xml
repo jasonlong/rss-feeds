@@ -4,11 +4,11 @@
     <title>La Marzocco Blog</title>
     <link>https://home.lamarzoccousa.com/blog/</link>
     <description>Latest from the La Marzocco blog</description>
-    <atom:link href="https://raw.githubusercontent.com/jasonlong/rss-feeds/main/feeds/feed_lamarzocco.xml" rel="self"/>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_lamarzocco.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 19:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 15:28:24 +0000</lastBuildDate>
     <item>
       <title>the espresso house with tj’s coffee adventures</title>
       <link>https://home.lamarzoccousa.com/the-espresso-house-with-tjs-coffee-adventures/</link>
