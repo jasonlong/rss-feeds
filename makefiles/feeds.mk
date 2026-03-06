@@ -16,6 +16,13 @@ feeds_acmeweather: ## Generate RSS feed for Acme Weather Blog
 	$(Q)python feed_generators/acmeweather_blog.py
 	$(call print_success,Acme Weather Blog feed generated)
 
+.PHONY: feeds_every_to
+feeds_every_to: ## Generate RSS feed for Every
+	$(call check_venv)
+	$(call print_info,Generating Every feed)
+	$(Q)python feed_generators/every_to_blog.py
+	$(call print_success,Every feed generated)
+
 .PHONY: feeds_creativeapplications
 feeds_creativeapplications: ## Generate RSS feed for Creative Applications Network
 	$(call check_venv)

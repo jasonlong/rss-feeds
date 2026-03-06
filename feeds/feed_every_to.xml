@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Every</title>
+    <link>https://every.to/</link>
+    <description>The only subscription you need to stay at the edge of AI. Ideas, apps, and training.</description>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_every_to.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Mar 2026 14:29:12 +0000</lastBuildDate>
+    <item>
+      <title>Vibe Check: GPT-5.4—OpenAI Is Back</title>
+      <link>https://every.to/vibe-check/gpt-5-4-openai-is-back</link>
+      <description>GPT-5.4 is fast, opinionated, and good enough to tempt our Opus loyalist</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-4-openai-is-back</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Creative Work Is About to Look a Lot More Like Programming</title>
+      <link>https://every.to/thesis/creative-work-is-about-to-look-a-lot-more-like-programming</link>
+      <description>Flora's Weber Wong on why creative professionals need to stop thinking in artifacts and start thinking in systems</description>
+      <guid isPermaLink="false">https://every.to/thesis/creative-work-is-about-to-look-a-lot-more-like-programming</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> How Claws Took Over Every</title>
+      <link>https://every.to/context-window/how-claws-took-over-every</link>
+      <description>Plus: Partners at the world’s slowest incubator share their secrets on company building</description>
+      <guid isPermaLink="false">https://every.to/context-window/how-claws-took-over-every</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Have a Claw. Now What?</title>
+      <link>https://every.to/source-code/you-have-a-claw-now-what</link>
+      <description>Our comprehensive guide to OpenClaw is here</description>
+      <guid isPermaLink="false">https://every.to/source-code/you-have-a-claw-now-what</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw: Setting Up Your First Personal AI Agent </title>
+      <link>https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent</link>
+      <description>Demos, workflows, and hard-won lessons from building agents that run 24/7</description>
+      <guid isPermaLink="false">https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>You Should Never Go Viral With Your AI App</title>
+      <link>https://every.to/p/you-should-never-go-viral-with-your-ai-app</link>
+      <description>In the agent-native era, growth follows different rules</description>
+      <guid isPermaLink="false">https://every.to/p/you-should-never-go-viral-with-your-ai-app</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Case for Letting Your AI Forget</title>
+      <link>https://every.to/context-window/the-case-for-letting-your-ai-forget</link>
+      <description>Plus: How we use AI in our writing</description>
+      <guid isPermaLink="false">https://every.to/context-window/the-case-for-letting-your-ai-forget</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Design Software With Weight</title>
+      <link>https://every.to/source-code/how-to-design-software-with-weight</link>
+      <description>A look at the design principles that guided our smart dictation app from desktop to iPhone</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-to-design-software-with-weight</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Is How the Every Editorial Team Uses AI </title>
+      <link>https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</link>
+      <description>We’re publishing our editorial guidelines, plus the workflows our writers, editors, and producers have built around them</description>
+      <guid isPermaLink="false">https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why I Turned Off ChatGPT’s Memory</title>
+      <link>https://every.to/also-true-for-humans/why-i-turned-off-chatgpt-s-memory</link>
+      <description>The case for keeping your AI on a need-to-know basis</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/why-i-turned-off-chatgpt-s-memory</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Board Games Taught Me About Working with AI </title>
+      <link>https://every.to/working-overtime/what-board-games-taught-me-about-working-with-ai</link>
+      <description>The skills I transferred to my writing agent from playing Settlers of Catan</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/what-board-games-taught-me-about-working-with-ai</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe Check: Anthropic Just Made Opus Cheaper Without Calling It That </title>
+      <link>https://every.to/vibe-check/vibe-check-anthropic-just-made-opus-cheaper-without-calling-it-that</link>
+      <description>Sonnet 4.6 delivers Opus-close performance at half the price—but speed didn't come along for the ride</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/vibe-check-anthropic-just-made-opus-cheaper-without-calling-it-that</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build Agent-native: Lessons From Four Apps </title>
+      <link>https://every.to/source-code/how-to-build-agent-native-lessons-from-four-apps</link>
+      <description>Start with three simple tools, and let the AI figure out the rest</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-to-build-agent-native-lessons-from-four-apps</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Two-slice Team</title>
+      <link>https://every.to/chain-of-thought/the-two-slice-team</link>
+      <description>Amazon’s “two-pizza rule” worked for the past twenty-four years. We need a new heuristic for the next twenty-four.</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-two-slice-team</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compound Engineering: The Definitive Guide</title>
+      <link>https://every.to/source-code/compound-engineering-the-definitive-guide</link>
+      <description>A comprehensive handbook for the AI-native engineering philosophy</description>
+      <guid isPermaLink="false">https://every.to/source-code/compound-engineering-the-definitive-guide</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe Check: Opus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits)</title>
+      <link>https://every.to/vibe-check/opus-4-6</link>
+      <description>It one-shotted a problem other models missed—and brings agentic, parallel work to non-coding tasks</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/opus-4-6</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe Check: OpenAI's Codex App Gains Ground on Claude Code</title>
+      <link>https://every.to/vibe-check/vibe-check-openai-s-codex-app-gains-ground-on-claude-code</link>
+      <description>OpenAI nailed the interface. But it's built for hardcore engineering.</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/vibe-check-openai-s-codex-app-gains-ground-on-claude-code</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Heyday of the Writing-first Practitioner</title>
+      <link>https://every.to/p/the-heyday-of-the-writing-first-practitioner</link>
+      <description>How some of the world’s most famous investors and operators stand out—and why AI sharpens this edge</description>
+      <guid isPermaLink="false">https://every.to/p/the-heyday-of-the-writing-first-practitioner</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> I Asked Claude the Question I Could Never Ask My Boss</title>
+      <link>https://every.to/working-overtime/i-asked-claude-the-question-i-could-never-ask-my-boss</link>
+      <description>‘Does this mean I'm good at my job?’</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/i-asked-claude-the-question-i-could-never-ask-my-boss</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How AI Can Cut Your Planning Cycle From Two Weeks to Two Days</title>
+      <link>https://every.to/p/how-ai-can-cut-your-planning-cycle-from-two-weeks-to-two-days</link>
+      <description>Three simple tools will save you hours—plus, the seven-step process for implementation</description>
+      <guid isPermaLink="false">https://every.to/p/how-ai-can-cut-your-planning-cycle-from-two-weeks-to-two-days</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Think First, AI Second</title>
+      <link>https://every.to/p/think-first-ai-second</link>
+      <description>Three principles for keeping your cognitive edge while leveraging AI's capabilities</description>
+      <guid isPermaLink="false">https://every.to/p/think-first-ai-second</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Tested Claude Sonnet 4.5 for Writing and Editing</title>
+      <link>https://every.to/vibe-check/vibe-check-we-tested-claude-sonnet-4-5-for-writing-and-editing</link>
+      <description>Five tests across blind comparisons, editorial standards, and deadlines—here's what changed our setup</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/vibe-check-we-tested-claude-sonnet-4-5-for-writing-and-editing</guid>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
