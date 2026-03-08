@@ -16,6 +16,27 @@ feeds_acmeweather: ## Generate RSS feed for Acme Weather Blog
 	$(Q)python feed_generators/acmeweather_blog.py
 	$(call print_success,Acme Weather Blog feed generated)
 
+.PHONY: feeds_athletic_formula1
+feeds_athletic_formula1: ## Generate RSS feed for The Athletic Formula 1
+	$(call check_venv)
+	$(call print_info,Generating The Athletic Formula 1 feed)
+	$(Q)python feed_generators/athletic_formula1_blog.py
+	$(call print_success,The Athletic Formula 1 feed generated)
+
+.PHONY: feeds_athletic_ohio_state
+feeds_athletic_ohio_state: ## Generate RSS feed for The Athletic Ohio State Buckeyes
+	$(call check_venv)
+	$(call print_info,Generating The Athletic Ohio State Buckeyes feed)
+	$(Q)python feed_generators/athletic_ohio_state_blog.py
+	$(call print_success,The Athletic Ohio State Buckeyes feed generated)
+
+.PHONY: feeds_athletic_steelers
+feeds_athletic_steelers: ## Generate RSS feed for The Athletic Pittsburgh Steelers
+	$(call check_venv)
+	$(call print_info,Generating The Athletic Pittsburgh Steelers feed)
+	$(Q)python feed_generators/athletic_steelers_blog.py
+	$(call print_success,The Athletic Pittsburgh Steelers feed generated)
+
 .PHONY: feeds_every_to
 feeds_every_to: ## Generate RSS feed for Every
 	$(call check_venv)

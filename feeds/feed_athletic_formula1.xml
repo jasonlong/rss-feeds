@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The Athletic - Formula 1</title>
+    <link>https://www.nytimes.com/athletic/formula-1/</link>
+    <description>Formula 1 news from The Athletic (NYTimes).</description>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_athletic_formula1.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2026 00:29:30 +0000</lastBuildDate>
+    <item>
+      <title>Nerve damage and a battery shortage: What's going on at Aston Martin?</title>
+      <link>https://www.nytimes.com/athletic/7096255/2026/03/07/aston-martin-f1-engine-australian-gp/</link>
+      <description>Aston Martin's 2026 to this point nightmarish. Now it goes into the Australian GP unsure it will finish more than a few laps</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7096255/2026/03/07/aston-martin-f1-engine-australian-gp/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercedes dominated Australia qualifying. Its rivals fear F1 2026 is already over</title>
+      <link>https://www.nytimes.com/athletic/7096230/2026/03/07/mercedes-2026-f1-car-advantage/</link>
+      <description>Mercedes' gap over the rest of the field in Australian GP qualifying have rivals fearing the season's contest is already over</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7096230/2026/03/07/mercedes-2026-f1-car-advantage/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lance Stroll to race in F1 Australian Grand Prix despite failing to set qualifying lap time</title>
+      <link>https://www.nytimes.com/athletic/7096211/2026/03/07/lance-stroll-f1-australian-grand-prix/</link>
+      <description>Stroll failed to set a qualifying lap time, and Aston Martin needed to request for the stewards to allow him to start Sunday’s F1 race.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7096211/2026/03/07/lance-stroll-f1-australian-grand-prix/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Max Verstappen escapes injury in Australian GP qualifying crash</title>
+      <link>https://www.nytimes.com/athletic/7096203/2026/03/07/max-verstappen-australian-gp-qualifying-crash/</link>
+      <description>Max Verstappen had to be sent to have his hands x-ray after his crash in 2026 F1 Australian GP qualifying</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7096203/2026/03/07/max-verstappen-australian-gp-qualifying-crash/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qualifying recap from the 2026 F1 Australian Grand Prix</title>
+      <link>https://www.nytimes.com/athletic/7096113/2026/03/07/2026-australian-grand-prix-qualifying-results/</link>
+      <description>George Russell swept to the first pole of the 2026 Formula 1 season with a dominant display for Mercedes in Australian GP qualifying</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7096113/2026/03/07/2026-australian-grand-prix-qualifying-results/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>500 races for the F1 driver you never see. Plus: 30 years of F1 in Melbourne</title>
+      <link>https://www.nytimes.com/athletic/7094145/2026/03/06/australian-gp-2026-prime-tire/</link>
+      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7094145/2026/03/06/australian-gp-2026-prime-tire/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oscar Piastri is carrying 45 years of Australian F1 hope. This time, he's brought help</title>
+      <link>https://www.nytimes.com/athletic/7093013/2026/03/06/oscar-piastri-australian-gp-f1-2026/</link>
+      <description>Australia took Piastri's title loss to parliament. He took it to his mindset coach</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7093013/2026/03/06/oscar-piastri-australian-gp-f1-2026/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1 stewards to be more lenient over clashes between drivers in 2026 under expanded racing guidelines</title>
+      <link>https://www.nytimes.com/athletic/7093007/2026/03/06/f1-driver-clashes-guidelines/</link>
+      <description>The FIA's guideline changes cover “racing to the apex” driving and how drivers cannot simply disappear once they have been overtaken.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7093007/2026/03/06/f1-driver-clashes-guidelines/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>With Iranian air strikes near its circuits, F1's Middle East races are in real doubt</title>
+      <link>https://www.nytimes.com/athletic/7092791/2026/03/06/f1-bahrain-saudi-arabia-races-cancellation-fears/</link>
+      <description>Like many, F1 staff are anxiously watching the current Middle East conflict. Decisions on the 2026 races occurring there soon must be taken</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7092791/2026/03/06/f1-bahrain-saudi-arabia-races-cancellation-fears/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aston Martin F1 crisis deepens with engine battery shortage at 2026 Australian GP</title>
+      <link>https://www.nytimes.com/athletic/7092547/2026/03/06/aston-martin-f1-engine-battery/</link>
+      <description>Aston Martin team boss Adrian Newey has revealed just how short the F1 team is running on critical engine parts ahead of the first 2026 race</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7092547/2026/03/06/aston-martin-f1-engine-battery/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian GP track breakdown: F1's new era begins in Melbourne</title>
+      <link>https://www.nytimes.com/athletic/5354287/2026/03/05/australian-gp-track-circuit-albert-park-specs/</link>
+      <description>The layout of this F1 track is true to its name: a high-speed rush around a park.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5354287/2026/03/05/australian-gp-track-circuit-albert-park-specs/</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>After a nightmare season, Lewis Hamilton is putting himself back together</title>
+      <link>https://www.nytimes.com/athletic/7089218/2026/03/05/lewis-hamilton-ferrari-f1-2026/</link>
+      <description>Hamilton has outlined recovering from a tough first season with Ferrari to be better this year: "You won't see that person again"</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7089218/2026/03/05/lewis-hamilton-ferrari-f1-2026/</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1 season predictions: Our picks for 2026's title race, surprises and one 'dumpster fire'</title>
+      <link>https://www.nytimes.com/athletic/7087225/2026/03/05/f1-formula-1-2026-predictions/</link>
+      <description>From champions to best of the rest, our staff is ready to lock in their F1 forecasts as a new era begins</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7087225/2026/03/05/f1-formula-1-2026-predictions/</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aston Martin F1 drivers at risk of nerve damage from car vibrations, will have laps capped in Australian GP</title>
+      <link>https://www.nytimes.com/athletic/7088263/2026/03/04/aston-martin-laps-capped-retire-early-nerve-damage-risk/</link>
+      <description>Aston Martin will retire early from the Australian Grand Prix due to an unsafe vibration in the car</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7088263/2026/03/04/aston-martin-laps-capped-retire-early-nerve-damage-risk/</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Daniel Ricciardo's mailbag: Ex-F1 driver answers your questions</title>
+      <link>https://www.nytimes.com/athletic/7086265/2026/03/04/daniel-ricciardo-2026-f1/</link>
+      <description>Ex-F1 driver and Australian racer Daniel Ricciardo exclusively answers fan questions on the eve of the 2026 Australian GP</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7086265/2026/03/04/daniel-ricciardo-2026-f1/</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How F1 finally put its cars on a diet: 'It doesn't feel like such a big bus'</title>
+      <link>https://www.nytimes.com/athletic/7085191/2026/03/04/f1-2026-car-size-explained/</link>
+      <description>F1's 2026 cars are lighter, smaller, and sharper. But will this make the racing better?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7085191/2026/03/04/f1-2026-car-size-explained/</guid>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My doubts ahead of the season opener. Plus: Leclerc's dog Leo, very good boy</title>
+      <link>https://www.nytimes.com/athletic/7084405/2026/03/03/f1-season-opener-2026-doubts-beliefs-prime-tire/</link>
+      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7084405/2026/03/03/f1-season-opener-2026-doubts-beliefs-prime-tire/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The 2026 F1 season was supposed to be Aston Martin's moment. It faces embarrassment instead</title>
+      <link>https://www.nytimes.com/athletic/7083067/2026/03/03/aston-martin-honda-f1-engine-problem/</link>
+      <description>Aston Martin was supposed to be an F1 title contender in 2026. Instead, it may barely race in Australia. Here's what has gone so wrong</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7083067/2026/03/03/aston-martin-honda-f1-engine-problem/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ferrari's stunning starts will be a key F1 2026 advantage. And its rivals can't copy</title>
+      <link>https://www.nytimes.com/athletic/7072886/2026/03/03/ferrari-f1-engines-new-starts/</link>
+      <description>The F1 pecking order remains shrouded in mystery ahead of the 2026 season. But the Ferrari team seems to have an edge its rivals can't copy</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7072886/2026/03/03/ferrari-f1-engines-new-starts/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1 chartering flights to ensure key staff arrive at Australian Grand Prix on time</title>
+      <link>https://www.nytimes.com/athletic/7080696/2026/03/02/f1-australian-grand-prix-iran-conflict/</link>
+      <description>The fallout from the U.S.-Israeli strikes on Iran on Saturday is disrupting travel in the Middle East, a major global transport hub.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7080696/2026/03/02/f1-australian-grand-prix-iran-conflict/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
+      <link>https://www.nytimes.com/athletic/7080185/2026/03/02/f1-overtake-mode-explained/</link>
+      <description>DRS is out. Overtake Mode is in. Here's why drivers say passing just got a lot harder</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7080185/2026/03/02/f1-overtake-mode-explained/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Formula 1 monitoring Middle East conflict after Iran strikes U.S. base near Bahrain circuit</title>
+      <link>https://www.nytimes.com/athletic/7077602/2026/02/28/f1-iran-attack-united-states-bahrain-saudi-arabia/</link>
+      <description>F1's new season visits Bahrain and Saudi Arabia in six weeks</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7077602/2026/02/28/f1-iran-attack-united-states-bahrain-saudi-arabia/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1 manufacturers agree to engine testing rule change after compression ratio row</title>
+      <link>https://www.nytimes.com/athletic/7077002/2026/02/28/f1-engine-rule-change-compression-ratio/</link>
+      <description>In December, it emerged that Mercedes had found a possible loophole in the rules that could lead to a performance advantage.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7077002/2026/02/28/f1-engine-rule-change-compression-ratio/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The first time Alonso-Honda went wrong. Plus: How you rank 2026 car liveries</title>
+      <link>https://www.nytimes.com/athletic/7076236/2026/02/27/fernando-alonso-honda-aston-martin-f1-prime-tire/</link>
+      <description>Welcome to Prime Tire, The Athletic’s F1 newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7076236/2026/02/27/fernando-alonso-honda-aston-martin-f1-prime-tire/</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>McLaren agrees settlement with Chip Ganassi Racing over Alex Palou’s contract breach</title>
+      <link>https://www.nytimes.com/athletic/7075839/2026/02/27/mclaren-alex-palou-chip-ganassi-racing-settlement/</link>
+      <description>McLaren won the case it brought against Palou following his decision to renege on his agreement to join its IndyCar team in 2023.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7075839/2026/02/27/mclaren-alex-palou-chip-ganassi-racing-settlement/</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why F1's boiling drama over engine compression ratios matters for the 2026 season</title>
+      <link>https://www.nytimes.com/athletic/7054817/2026/02/18/f1-engine-compression-ratio-car-controversy/</link>
+      <description>Has Mercedes found a loophole with its engines? And what exactly is the loophole, anyway?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7054817/2026/02/18/f1-engine-compression-ratio-car-controversy/</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1's new cars behave unlike any others. It's all down to new aerodynamics</title>
+      <link>https://www.nytimes.com/athletic/7047903/2026/02/16/new-f1-aerodynamics-explained/</link>
+      <description>F1 has new cars in 2026, which look different to previous eras in grand prix racing. Here's how they work and what the drivers think</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7047903/2026/02/16/new-f1-aerodynamics-explained/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1 hits reset in 2026. Your guide to the new cars, new rules and new era</title>
+      <link>https://www.nytimes.com/athletic/7009213/2026/01/30/f1-new-regulations-explained-2026/</link>
+      <description>Formula 1 evolves dramatically in 2026. Here's your year-long guide to it all</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7009213/2026/01/30/f1-new-regulations-explained-2026/</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1's new engines are the sport's biggest gamble in 12 years. Here's what changed</title>
+      <link>https://www.nytimes.com/athletic/7006922/2026/01/30/new-f1-engines-explained/</link>
+      <description>F1 is introducing new hybrid engines ahead of the 2026 season. Here's how they work and why they matter</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7006922/2026/01/30/new-f1-engines-explained/</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Formula 1's cost cap works: Rules, penalties and past breaches explained</title>
+      <link>https://www.nytimes.com/athletic/6757239/2025/10/28/formula-1-cost-cap-explained/</link>
+      <description>The sport's $135 million spending limit aims to create parity — but compliance isn't always simple</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/6757239/2025/10/28/formula-1-cost-cap-explained/</guid>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>F1 penalty points: How they work and why they're needed even though drivers have doubts</title>
+      <link>https://www.nytimes.com/athletic/6456754/2025/06/28/f1-penalty-points-explained/</link>
+      <description>A deep dive into the details - and arguments - of Formula One penalty points for driver infractions</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/6456754/2025/06/28/f1-penalty-points-explained/</guid>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are F1 driver development programs? Inside the academies that nurture future champions</title>
+      <link>https://www.nytimes.com/athletic/6083978/2025/01/29/f1-driver-development-programs-explained/</link>
+      <description>All of F1's new 2025 drivers have one thing in common - they were part of a team’s driver development program or academy.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/6083978/2025/01/29/f1-driver-development-programs-explained/</guid>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What are F1’s racing rules? A look at race stewards and drivers' battle for clarity</title>
+      <link>https://www.nytimes.com/athletic/5870747/2024/10/25/f1-racing-rules-explained-steward-driver/</link>
+      <description>Multiple times during the 2024 season, drivers have faced questions — and raised their own — about what is and is not allowed on track.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5870747/2024/10/25/f1-racing-rules-explained-steward-driver/</guid>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is F1’s DRS replacement, and how is it different from IndyCar’s push-to-pass?</title>
+      <link>https://www.nytimes.com/athletic/5549798/2024/06/08/f1-drs-replacement-manual-override-mode/</link>
+      <description>F1's incoming Manual Override Mode looks a lot like IndyCar's overtaking aid, with a few key differences.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5549798/2024/06/08/f1-drs-replacement-manual-override-mode/</guid>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How F1's Red Bull mastered the art of the 2-second pit stop</title>
+      <link>https://www.nytimes.com/athletic/5446337/2024/04/26/f1-red-bull-pit-stop/</link>
+      <description>A deep dive into the positions, the practice, and the fine-tuned production that is the Formula One pit stop.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5446337/2024/04/26/f1-red-bull-pit-stop/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to Between the Racing Lines, your new guide to all things F1</title>
+      <link>https://www.nytimes.com/athletic/5295193/2024/02/26/f1-explainers-between-racing-lines/</link>
+      <description>F1 is complicated and confusing at times, and is constantly evolving. Here's your guide to keeping up.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5295193/2024/02/26/f1-explainers-between-racing-lines/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sim time, data crunching and Candy Crush: The life of an F1 reserve driver</title>
+      <link>https://www.nytimes.com/athletic/5295836/2024/02/26/f1-reserve-drivers-explained/</link>
+      <description>Reserve drivers are more than simple substitutes — they play important roles within their teams, even if they rarely get to hit the track.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5295836/2024/02/26/f1-reserve-drivers-explained/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How F1 drivers train physically and mentally to go from 'gym fit' to 'race fit'</title>
+      <link>https://www.nytimes.com/athletic/5275474/2024/02/19/how-f1-drivers-train-workout/</link>
+      <description>To have a chance at the title, drivers need not just a top-caliber car but to extract the maximum performance from it — and themselves.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/5275474/2024/02/19/how-f1-drivers-train-workout/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

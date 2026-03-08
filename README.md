@@ -5,6 +5,9 @@
 | Source | Feed |
 | ------ | ---- |
 | [Acme Weather Blog](https://acmeweather.com/blog) | [feed_acmeweather.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_acmeweather.xml) |
+| [Athletic - Formula 1](https://www.nytimes.com/athletic/formula-1/) | [feed_athletic_formula1.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_athletic_formula1.xml) |
+| [Athletic - Ohio State Buckeyes (College Football)](https://www.nytimes.com/athletic/college-football/team/ohio-state-buckeyes-college-football/) | [feed_athletic_ohio_state.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_athletic_ohio_state.xml) |
+| [Athletic - Pittsburgh Steelers (NFL)](https://www.nytimes.com/athletic/nfl/team/steelers/) | [feed_athletic_steelers.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_athletic_steelers.xml) |
 | [Creative Applications Network](https://www.creativeapplications.net/) | [feed_creativeapplications.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_creativeapplications.xml) |
 | [Every](https://every.to/) | [feed_every_to.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_every_to.xml) |
 | [La Marzocco Blog](https://home.lamarzoccousa.com/blog/) | [feed_lamarzocco.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_lamarzocco.xml) |
