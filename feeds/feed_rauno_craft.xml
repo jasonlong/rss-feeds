@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Rauno – Craft</title>
+    <link>https://rauno.me/craft</link>
+    <description>Craft by Rauno Freiberg</description>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_rauno_craft.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Mar 2026 13:48:29 +0000</lastBuildDate>
+    <item>
+      <title>SwiftUI MercuryOS</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+    </item>
+    <item>
+      <title>Novelty</title>
+      <link>https://rauno.me/craft/novelty</link>
+      <guid isPermaLink="false">https://rauno.me/craft/novelty</guid>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>History of Software Design</title>
+      <link>https://historyofsoftware.org</link>
+      <guid isPermaLink="false">https://historyofsoftware.org</guid>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combobox</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Testimonials</title>
+      <link>https://devouringdetails.com</link>
+      <guid isPermaLink="false">https://devouringdetails.com</guid>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devouring Details</title>
+      <link>https://devouringdetails.com</link>
+      <guid isPermaLink="false">https://devouringdetails.com</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next.js Dev Tools</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sidebar</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inline Conversion</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gooey Tooltip</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spatial Tooltip</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toolbar Morph</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Staggered Text</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Designing Depth</title>
+      <link>https://rauno.me/craft/depth</link>
+      <guid isPermaLink="false">https://rauno.me/craft/depth</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Logo Carousel</title>
+      <link>https://rauno.me/craft/logo-carousel</link>
+      <guid isPermaLink="false">https://rauno.me/craft/logo-carousel</guid>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>X-Ray Interaction</title>
+      <link>https://vercel.com/security</link>
+      <guid isPermaLink="false">https://vercel.com/security</guid>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minimap</title>
+      <link>https://rauno.me/craft/minimap</link>
+      <guid isPermaLink="false">https://rauno.me/craft/minimap</guid>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wheel Interface</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blur Reveal</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Running Diary</title>
+      <link>https://rauno.me/run</link>
+      <guid isPermaLink="false">https://rauno.me/run</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contrasting Aesthetics</title>
+      <link>https://rauno.me/craft/contrasting-aesthetics</link>
+      <guid isPermaLink="false">https://rauno.me/craft/contrasting-aesthetics</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Word Lookup</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What will you ship?</title>
+      <link>https://rauno.me/craft/vercel</link>
+      <guid isPermaLink="false">https://rauno.me/craft/vercel</guid>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SwiftUI Dock</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SwiftUI Bezel Dock</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SwiftUI Video Scrubber</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Invisible Details of Interaction Design</title>
+      <link>https://rauno.me/craft/interaction-design</link>
+      <guid isPermaLink="false">https://rauno.me/craft/interaction-design</guid>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SwiftUI Screenshot Capture</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SwiftUI Radial Menu</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graph Slider</title>
+      <link>https://rauno.me/craft/graph-slider</link>
+      <guid isPermaLink="false">https://rauno.me/craft/graph-slider</guid>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crafting the Next.js Website</title>
+      <link>https://rauno.me/craft/nextjs</link>
+      <guid isPermaLink="false">https://rauno.me/craft/nextjs</guid>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusion Tabs</title>
+      <link>https://rauno.me/craft/exclusion-tabs</link>
+      <guid isPermaLink="false">https://rauno.me/craft/exclusion-tabs</guid>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Precision Slider</title>
+      <link>https://rauno.me/craft/precision-slider</link>
+      <guid isPermaLink="false">https://rauno.me/craft/precision-slider</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fractional Slider</title>
+      <link>https://rauno.me/craft/fractional-slider</link>
+      <guid isPermaLink="false">https://rauno.me/craft/fractional-slider</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radial Menu</title>
+      <link>https://rauno.me/craft/radial-menu</link>
+      <guid isPermaLink="false">https://rauno.me/craft/radial-menu</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adaptive Precision</title>
+      <link>https://rauno.me/craft/adaptive-precision</link>
+      <guid isPermaLink="false">https://rauno.me/craft/adaptive-precision</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wheel Input</title>
+      <link>https://rauno.me/craft/wheel-input</link>
+      <guid isPermaLink="false">https://rauno.me/craft/wheel-input</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vanish Input</title>
+      <link>https://rauno.me/craft/vanish-input</link>
+      <guid isPermaLink="false">https://rauno.me/craft/vanish-input</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geist Illustration</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>⌘K Breadcrumbs</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preview Comments</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vercel Design</title>
+      <link>https://vercel.com/design</link>
+      <guid isPermaLink="false">https://vercel.com/design</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cryptic List</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vercel Footer</title>
+      <link>https://rauno.me/craft/vercel-footer</link>
+      <guid isPermaLink="false">https://rauno.me/craft/vercel-footer</guid>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flashlight Tabs</title>
+      <link>https://rauno.me/craft/flashlight-tabs</link>
+      <guid isPermaLink="false">https://rauno.me/craft/flashlight-tabs</guid>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vercel Homepage</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next.js Conf 2022</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser History</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flume Shader</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Copy &amp; Paste</title>
+      <link>https://rauno.me/craft/copy-paste</link>
+      <guid isPermaLink="false">https://rauno.me/craft/copy-paste</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rauno &amp; Vercel</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mirror Shader</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tangerine Shader</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gooey Shader</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Personal Branding</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sticky Video</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Focus Reading</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Design Details</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Undefined Branding</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signatures</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visual Writing</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Animated Typing</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microinteractions II</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arc Teaser</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Microinteractions I</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Website Presentation</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blurred Icons</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>User Interface Gallery</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Theme Motion</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liquid Swipe</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Command Menu</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Animated Checkboxes</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hold Enter to confirm</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Input</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Countdown</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Browser History</title>
+      <link>https://rauno.me/craft</link>
+      <guid isPermaLink="false">https://rauno.me/craft</guid>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -58,6 +58,13 @@ feeds_lamarzocco: ## Generate RSS feed for La Marzocco Blog
 	$(Q)python feed_generators/lamarzocco_blog.py
 	$(call print_success,La Marzocco Blog feed generated)
 
+.PHONY: feeds_rauno_craft
+feeds_rauno_craft: ## Generate RSS feed for Rauno Craft
+	$(call check_venv)
+	$(call print_info,Generating Rauno Craft feed)
+	$(Q)python feed_generators/rauno_craft.py
+	$(call print_success,Rauno Craft feed generated)
+
 .PHONY: feeds_shuding
 feeds_shuding: ## Generate RSS feed for Shu Ding's blog
 	$(call check_venv)
