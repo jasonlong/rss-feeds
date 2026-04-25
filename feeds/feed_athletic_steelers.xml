@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 18:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 21:18:54 +0000</lastBuildDate>
+    <item>
+      <title>Watch the live 2026 NFL Draft recap</title>
+      <link>https://www.nytimes.com/athletic/7229093/2026/04/25/watch-the-live-2026-nfl-draft-recap/</link>
+      <description>Robert Mays, Derrik Klassen, Dave Helman and Dane Brugler bring home the 2026 NFL Draft and recap all we’ve seen over the last three days on this episode of The Athletic Football Show.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7229093/2026/04/25/watch-the-live-2026-nfl-draft-recap/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pittsburgh Steelers NFL Draft 2026 pick tracker: Grades, fits and scouting reports</title>
       <link>https://www.nytimes.com/athletic/7220031/2026/04/25/pittsburgh-steelers-nfl-draft-2026-pick-tracker-grades-fits-and-scouting-reports/</link>
@@ -176,13 +183,6 @@
       <description>Plus, what Mike McCarthy is looking for in a receiver and quarterback.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7213743/2026/04/21/pittsburgh-steelers-nfl-draft-targets-notes/</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers mock draft: WR double-dip, QB, DB, guard who would win a 'Royal Rumble'</title>
-      <link>https://www.nytimes.com/athletic/7202810/2026/04/20/steelers-mock-draft-targets/</link>
-      <description>A final seven-round projection with the draft just days away.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7202810/2026/04/20/steelers-mock-draft-targets/</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
