@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 15:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 16:21:54 +0000</lastBuildDate>
+    <item>
+      <title>Our favorite 2026 NFL Draft picks: Gennings Dunker (the mullet!), Francis Mauigoa and more</title>
+      <link>https://www.nytimes.com/athletic/7229786/2026/04/26/nfl-draft-2026-favorite-picks/</link>
+      <description>Our writers share the intriguing stories, emotions or just flat-out talent that appealed to them for one new rookie on every team.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7229786/2026/04/26/nfl-draft-2026-favorite-picks/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pittsburgh breaks NFL Draft attendance record with crowd of 805,000 fans</title>
       <link>https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7216382/2026/04/22/nfl-draft-chiefs-dolphins-most-intriguing-teams/</link>
       <description>Five teams have two first-round picks on Thursday night, but the placement of those picks makes some teams more interesting than others.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7216382/2026/04/22/nfl-draft-chiefs-dolphins-most-intriguing-teams/</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL beat writer 2026 mock draft 3.0: Could another QB join Fernando Mendoza in Round 1?</title>
-      <link>https://www.nytimes.com/athletic/7213199/2026/04/22/nfl-mock-draft-round-1-quarterback-mendoza/</link>
-      <description>Our beat writers here at The Athletic take one last crack at predicting their teams' top selections ahead of the 2026 NFL Draft.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7213199/2026/04/22/nfl-mock-draft-round-1-quarterback-mendoza/</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
