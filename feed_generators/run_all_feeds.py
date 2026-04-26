@@ -17,7 +17,7 @@ def run_all_feeds():
         int: Exit code (0 for success, 1 if any script failed)
     """
     feed_generators_dir = os.path.dirname(os.path.abspath(__file__))
-    skip_scripts = []
+    skip_scripts = ["creativeapplications_blog.py"]  # Skip removed script
     failed_scripts = []
     successful_scripts = []
 
