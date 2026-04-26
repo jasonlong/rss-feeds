@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 22:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 02:32:51 +0000</lastBuildDate>
+    <item>
+      <title>Pittsburgh breaks NFL Draft attendance record with crowd of 805,000 fans</title>
+      <link>https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</link>
+      <description>On Day 1 of the 2026 NFL Draft, Pittsburgh set a single-day attendance record with 320,000 people.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steelers 2026 NFL Draft takeaways: Round 1 drama, trenches, a couple reaches</title>
+      <link>https://www.nytimes.com/athletic/7230159/2026/04/25/pittsburgh-steelers-2026-nfl-draft-picks-takeaways/</link>
+      <description>After missing out on their preferred target on Thursday night, the Steelers put together a loaded 10-man class.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7230159/2026/04/25/pittsburgh-steelers-2026-nfl-draft-picks-takeaways/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pittsburgh Steelers NFL Draft 2026 pick tracker: Grades, fits and scouting reports</title>
       <link>https://www.nytimes.com/athletic/7220031/2026/04/25/pittsburgh-steelers-nfl-draft-2026-pick-tracker-grades-fits-and-scouting-reports/</link>
@@ -17,9 +31,9 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Navy RB Eli Heidenreich selected by Pittsburgh Steelers in seventh round of 2026 NFL Draft</title>
+      <title>Steelers pick Pittsburgh native Navy RB Eli Heidenreich in draft's feel-good moment</title>
       <link>https://www.nytimes.com/athletic/7181769/2026/04/25/eli-heidenreich-steelers-navy-nfl-draft-pick-230-2026/</link>
-      <description>Heidenreich is a hybrid runner and pass catcher who set Navy's all-time record with 1,994 receiving yards.</description>
+      <description>Heidenreich was in attendance and took the stage for his big moment on Saturday.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7181769/2026/04/25/eli-heidenreich-steelers-navy-nfl-draft-pick-230-2026/</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
@@ -169,20 +183,6 @@
       <description>Our beat writers here at The Athletic take one last crack at predicting their teams' top selections ahead of the 2026 NFL Draft.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7213199/2026/04/22/nfl-mock-draft-round-1-quarterback-mendoza/</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Tomlin to join NBC's Sunday night NFL pregame show: Sources</title>
-      <link>https://www.nytimes.com/athletic/7215273/2026/04/21/mike-tomlin-nbc-sunday-nfl-steelers/</link>
-      <description>Tomlin, the longtime head coach of the Pittsburgh Steelers, was a sought-after on-air NFL TV talent.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7215273/2026/04/21/mike-tomlin-nbc-sunday-nfl-steelers/</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 NFL Draft hats explained: What's inside each team's cap</title>
-      <link>https://www.nytimes.com/athletic/7212676/2026/04/21/2026-nfl-draft-hats/</link>
-      <description>This year's NFL Draft hats might look pretty standard on the outside, but they each have unique details on the inside you might not notice.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7212676/2026/04/21/2026-nfl-draft-hats/</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
