@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 22:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:20:58 +0000</lastBuildDate>
+    <item>
+      <title>Codex Moves Beyond Coding</title>
+      <link>https://every.to/context-window/codex-moves-beyond-coding</link>
+      <description>Plus: Our GPT-5.5 benchmark, Monologue Notes, and becoming terminal-pilled</description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-moves-beyond-coding</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Model Wars</title>
       <link>https://every.to/context-window/model-wars</link>
@@ -56,13 +63,6 @@
       <link>https://every.to/vibe-check/opus-4-7</link>
       <description>Anthropic's latest Opus is more precise, more literal, and the best coding model we've tested on well-specified tasks—but it won't fill in the gaps for you anymore</description>
       <guid isPermaLink="false">https://every.to/vibe-check/opus-4-7</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Model Got Stranger</title>
-      <link>https://every.to/context-window/the-model-got-stranger</link>
-      <description>Plus: Using NotebookLM to run the Pyramid Principle in reverse</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-model-got-stranger</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
