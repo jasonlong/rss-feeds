@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:40:07 +0000</lastBuildDate>
+    <item>
+      <title>How prepared is Ohio State to replace another 11 NFL Draft picks? What we've learned so far</title>
+      <link>https://www.nytimes.com/athletic/7231777/2026/04/27/ohio-state-football-roster-nfl-draft-spring/</link>
+      <description>The Buckeyes have led all colleges in NFL Draft picks each of the past two years. Here's how their 2026 roster is coming together.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7231777/2026/04/27/ohio-state-football-roster-nfl-draft-spring/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Buffalo Bills draft Ohio State cornerback Davison Igbinosun with 62nd pick in 2026 NFL Draft</title>
       <link>https://www.nytimes.com/athletic/7227264/2026/04/24/davison-igbinosun-bills-ohio-state-nfl-draft-pick-62-2026/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7185116/2026/04/09/nfl-draft-attendees-pittsburgh-ty-simpson/</link>
       <description>The Alabama quarterback is the lone QB set to attend the first round of the draft in Pittsburgh later this month.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7185116/2026/04/09/nfl-draft-attendees-pittsburgh-ty-simpson/</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who was the last quarterback signed, developed and retained by each Big Ten team?</title>
-      <link>https://www.nytimes.com/athletic/7178249/2026/04/09/college-football-transfers-recruiting-quarterback-big-ten/</link>
-      <description>The list includes three players named Nathan (or Nate), a walk-on who is now in the NFL and a Cornhusker who won nine games three times!</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7178249/2026/04/09/college-football-transfers-recruiting-quarterback-big-ten/</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
