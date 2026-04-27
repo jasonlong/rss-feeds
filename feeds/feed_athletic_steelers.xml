@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 09:03:29 +0000</lastBuildDate>
+    <item>
+      <title>2026 NFL Draft team-by-team rankings: Best and worst classes, from 1 to 32</title>
+      <link>https://www.nytimes.com/athletic/7226296/2026/04/27/nfl-draft-2026-rankings-grades-teams/</link>
+      <description>Which NFL teams impressed our draft expert during this year's draft?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7226296/2026/04/27/nfl-draft-2026-rankings-grades-teams/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mike Tomlin breaks silence, explains factors that went into Steelers resignation</title>
       <link>https://www.nytimes.com/athletic/7113031/2026/04/26/mike-tomlin-resignation-decision-steelers/</link>
@@ -176,13 +183,6 @@
       <description>The list below is a tabulation of the best players remaining in the 2026 NFL Draft , according to the overall player rankings in our Beast NFL draft guide . As the draft evolves, we’ll update this list live to reflect the latest picks. Consider it a shopping list for your team’s ideal prospects.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7218862/2026/04/23/2026-nfl-draft-best-available-players-tracker/</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 NFL Draft composite rankings: Compare 10 top analysts’ big boards</title>
-      <link>https://www.nytimes.com/athletic/7217374/2026/04/22/2026-nfl-draft-composite-rankings-compare-10-top-analysts-big-boards/</link>
-      <description>With so many independent analysts ranking NFL Draft prospects, it can be hard to see the big picture. So we’ve compiled prospect rankings from ten of the industry’s top analysts and organizations, including ESPN’s Mel Kiper, NFL.com’s Daniel Jeremiah, Yahoo’s Nate Tice and our own Nick Baumgardner. And of course we’ve featured the most comprehensive, authoritative draft guide there is — Dane Brugler’s The Beast, which you can find right here at The Athletic. Keep this table handy on draft night; it will update as teams make their picks.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7217374/2026/04/22/2026-nfl-draft-composite-rankings-compare-10-top-analysts-big-boards/</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
