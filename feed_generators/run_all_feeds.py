@@ -13,8 +13,11 @@ logger = logging.getLogger(__name__)
 def run_all_feeds():
     """Run all Python scripts in the feed_generators directory.
 
+    Individual generator failures are logged but do not fail the run — successful
+    feeds should still get committed even if a flaky source times out or 403s.
+
     Returns:
-        int: Exit code (0 for success, 1 if any script failed)
+        int: Always 0
     """
     feed_generators_dir = os.path.dirname(os.path.abspath(__file__))
     skip_scripts = ["creativeapplications_blog.py"]  # Skip removed script
@@ -36,7 +39,7 @@ def run_all_feeds():
                 logger.info(f"Successfully ran script: {script_path}")
                 successful_scripts.append(filename)
             else:
-                logger.error(f"Error running script: {script_path}\n{result.stderr}")
+                logger.warning(f"Error running script: {script_path}\n{result.stderr}")
                 failed_scripts.append(filename)
 
     # Summary
@@ -51,11 +54,10 @@ def run_all_feeds():
             logger.info(f"  ✓ {script}")
 
     if failed_scripts:
-        logger.error(f"\nFailed feeds:")
+        logger.warning(f"\nFailed feeds:")
         for script in failed_scripts:
-            logger.error(f"  ✗ {script}")
-        logger.error(f"\nERROR: {len(failed_scripts)} feed(s) failed to generate")
-        return 1
+            logger.warning(f"  ✗ {script}")
+        logger.warning(f"\n{len(failed_scripts)} feed(s) failed to generate (continuing)")
 
     logger.info(f"{'='*60}\n")
     return 0

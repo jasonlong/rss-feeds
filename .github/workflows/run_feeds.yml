@@ -48,6 +48,7 @@ jobs:
           python feed_generators/run_all_feeds.py
 
       - name: Commit and push feed
+        if: always()
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
