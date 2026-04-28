@@ -8,11 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 16:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:39:55 +0000</lastBuildDate>
     <item>
-      <title>Codex Moves B eyond Coding</title>
-      <link>https://every.to/context-window/codex-moves-beyond-coding</link>
-      <guid isPermaLink="false">https://every.to/context-window/codex-moves-beyond-coding</guid>
+      <title>One App to Rule All Knowledge Work</title>
+      <link>https://every.to/context-window/one-app-to-rule-all-knowledge-work</link>
+      <description>Plus: Agent-designed automations, why final review belongs in the destination app, and how to use our compound knowledge plugin</description>
+      <guid isPermaLink="false">https://every.to/context-window/one-app-to-rule-all-knowledge-work</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>You Are the Most Expensive Model</title>
@@ -29,6 +31,13 @@
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Codex Moves Beyond Coding</title>
+      <link>https://every.to/context-window/codex-moves-beyond-coding</link>
+      <description>Plus: Our GPT-5.5 benchmark, Monologue Notes, and becoming terminal-pilled</description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-moves-beyond-coding</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Vibe Check: GPT-5.5 Has It All</title>
       <link>https://every.to/vibe-check/gpt-5-5</link>
       <description>OpenAI’s new model is a top-end senior engineer—and easy to talk to</description>
@@ -41,13 +50,6 @@
       <description>Plus: Trust batteries, and how many agents we’ll have in the future</description>
       <guid isPermaLink="false">https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Monologue Notes: Record Every Meeting, Call, and Voice Memo</title>
-      <link>https://every.to/on-every/introducing-monologue-notes-record-every-meeting-call-and-voice-memo</link>
-      <description>Turn your recordings into searchable context for agents</description>
-      <guid isPermaLink="false">https://every.to/on-every/introducing-monologue-notes-record-every-meeting-call-and-voice-memo</guid>
-      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mini-Vibe Check: Claude Design Isn’t for Designers—Yet</title>
