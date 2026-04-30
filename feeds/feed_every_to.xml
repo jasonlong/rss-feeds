@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 15:42:59 +0000</lastBuildDate>
+    <item>
+      <title>Who Isn't Using GPT 5.5</title>
+      <link>https://every.to/context-window/who-isnt-using-gpt-55</link>
+      <description> Plus, the CTO-to-IC pipeline and GPT-5.5 one week in </description>
+      <guid isPermaLink="false">https://every.to/context-window/who-isnt-using-gpt-55</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Compute Is the New Cash</title>
       <link>https://every.to/context-window/compute-is-the-new-cash</link>
@@ -50,13 +57,6 @@
       <description>OpenAI’s new model is a top-end senior engineer—and easy to talk to</description>
       <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-5</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You’re the Bread in the AI Sandwich</title>
-      <link>https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich</link>
-      <description>Plus: Trust batteries, and how many agents we’ll have in the future</description>
-      <guid isPermaLink="false">https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How I Escaped AI Autopilot</title>
