@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:43:27 +0000</lastBuildDate>
+    <item>
+      <title>Brendan Sorsby and the transfer portal's vetting problem; is the 2027 QB class overhyped? Mandel's Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7242196/2026/04/30/brendan-sorsby-quarterback-overyped-transfer-portal/</link>
+      <description>With how fast the transfer portal moves, how much can schools really find out about players they're paying millions?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7242196/2026/04/30/brendan-sorsby-quarterback-overyped-transfer-portal/</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
       <link>https://www.nytimes.com/athletic/7235583/2026/04/28/submit-a-question-for-stewart-mandels-college-football-mailbag-343/</link>
@@ -176,13 +183,6 @@
       <description>Texas' running game should be much improved in 2026 thanks to the addition of two of the top transfer backs from the portal.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7180937/2026/04/13/college-football-transfer-portal-rb-rankings-hawkins-smothers/</guid>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ted Ginn Jr., ex-NFL receiver and UFL coach, arrested on DWI charge in Texas</title>
-      <link>https://www.nytimes.com/athletic/7189458/2026/04/12/ted-ginn-jr-dwi-arrest-ufl-columbus-coach/</link>
-      <description>The former NFL and Ohio State wide receiver was arrested a day before his 41st birthday.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7189458/2026/04/12/ted-ginn-jr-dwi-arrest-ufl-columbus-coach/</guid>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
