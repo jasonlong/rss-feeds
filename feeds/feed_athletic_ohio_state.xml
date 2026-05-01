@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 22:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 23:25:17 +0000</lastBuildDate>
+    <item>
+      <title>Big Ten schools receive record $1.37 billion from 2024-25 fiscal year</title>
+      <link>https://www.nytimes.com/athletic/7247171/2026/05/01/big-ten-sports-revenue-billion-dollars/</link>
+      <description>The 2024-25 fiscal year was the Big Ten’s first with 18 members and coincided with a new media rights deal and the new 12-team CFP.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7247171/2026/05/01/big-ten-sports-revenue-billion-dollars/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Is QB Julian Sayin a first-round talent? Was OL coach Tyler Bowen a bad hire? Ohio State Mailbag</title>
       <link>https://www.nytimes.com/athletic/7244159/2026/05/01/julian-sayin-nfl-draft-ohio-state-mailbag/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7195919/2026/04/15/college-football-transfer-portal-te-rankings-brahmer-reynolds/</link>
       <description>Brahmer and Reynolds, the top two tight ends on our board, followed their coaches to new jobs.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7195919/2026/04/15/college-football-transfer-portal-te-rankings-brahmer-reynolds/</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stock up or down? Analyzing the offseason of every 2025 College Football Playoff team</title>
-      <link>https://www.nytimes.com/athletic/7193167/2026/04/15/college-football-playoff-offseason-ohio-state-indiana-miami-georgia/</link>
-      <description>Most of the teams that played in the 2025 CFP will be talented once again, but how many of them will actually be better?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7193167/2026/04/15/college-football-playoff-offseason-ohio-state-indiana-miami-georgia/</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
