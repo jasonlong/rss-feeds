@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 19:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 20:26:44 +0000</lastBuildDate>
+    <item>
+      <title>Miami GP circus guide. Plus: Kimi Antonelli's cool demeanor</title>
+      <link>https://www.nytimes.com/athletic/7246715/2026/05/01/miami-gp-kimi-antonelli-prime-tire/</link>
+      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7246715/2026/05/01/miami-gp-kimi-antonelli-prime-tire/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Formula 1 drivers call Miami rule tweaks a step forward — but not nearly enough</title>
       <link>https://www.nytimes.com/athletic/7244531/2026/05/01/f1-miami-regulation-changes-driver-reactions/</link>
@@ -165,13 +172,6 @@ Last week, the FIA announced a set of changes for Miami that chiefly focused on 
       <description>Mario Andretti, 86, is one of the best American drivers of all time. He is one of only two Americans to win the championship in Formula 1.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7204702/2026/04/18/mario-andretti-formula-one-mediocrity/</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Some F1 ideas for the ‘Ocean’s 11’ prequel. Plus: Lewis Hamilton is just like us</title>
-      <link>https://www.nytimes.com/athletic/7205946/2026/04/17/oceans-11-formula-1-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7205946/2026/04/17/oceans-11-formula-1-prime-tire/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
