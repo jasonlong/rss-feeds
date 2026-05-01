@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 10:38:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:32:25 +0000</lastBuildDate>
+    <item>
+      <title>Is QB Julian Sayin a first-round talent? Was OL coach Tyler Bowen a bad hire? Ohio State Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7244159/2026/05/01/julian-sayin-nfl-draft-ohio-state-mailbag/</link>
+      <description>Cameron Teague Robinson digs into the Buckeyes football mailbag, including a question about quarterback Julian Sayin's NFL Draft prospects.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7244159/2026/05/01/julian-sayin-nfl-draft-ohio-state-mailbag/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football transfer portal DL rankings: Damon Wilson II, Princewill Umanmielen top list</title>
       <link>https://www.nytimes.com/athletic/7240386/2026/04/30/college-football-transfer-portal-dl-rankings-wilson-umanmielen/</link>
@@ -176,13 +183,6 @@
       <description>Most of the teams that played in the 2025 CFP will be talented once again, but how many of them will actually be better?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7193167/2026/04/15/college-football-playoff-offseason-ohio-state-indiana-miami-georgia/</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Ryan Day, Ohio State still believe in spring football games as other teams shy away</title>
-      <link>https://www.nytimes.com/athletic/7194025/2026/04/14/ohio-state-football-spring-game-injuries-portal/</link>
-      <description>Ohio State is dealing with injuries, especially at running back, but Ryan Day is bucking trends by embracing a public spring scrimmage.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7194025/2026/04/14/ohio-state-football-spring-game-injuries-portal/</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
