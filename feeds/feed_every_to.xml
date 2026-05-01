@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 20:26:34 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code for Product Managers</title>
-      <link>https://every.to/p/claude-code-for-product-managers</link>
-      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
-      <guid isPermaLink="false">https://every.to/p/claude-code-for-product-managers</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 21:24:34 +0000</lastBuildDate>
     <item>
       <title>Claude Code for Product Managers</title>
       <link>https://every.to/source-code/claude-code-for-product-managers</link>
