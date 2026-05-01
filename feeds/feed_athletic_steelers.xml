@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 15:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:28:43 +0000</lastBuildDate>
+    <item>
+      <title>Former Steelers, Bears WR Chase Claypool gets tryout at Packers minicamp</title>
+      <link>https://www.nytimes.com/athletic/7246419/2026/05/01/chase-claypool-green-bay-packers-tryout/</link>
+      <description>Claypool's last NFL game was with the Miami Dolphins in 2023.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7246419/2026/05/01/chase-claypool-green-bay-packers-tryout/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Execs unfiltered on NFL Draft for every AFC team: Are things looking up for Jets, Raiders?</title>
       <link>https://www.nytimes.com/athletic/7240800/2026/05/01/nfl-draft-2026-afc-jets-raiders-dolphins/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7224184/2026/04/25/steelers-2026-nfl-draft-best-available-players/</link>
       <description>The Steelers go into Day 3 with five more picks to spend.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7224184/2026/04/25/steelers-2026-nfl-draft-best-available-players/</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Draft Day 2 winners and losers: Terrell brothers reunited; Rams continue strange draft</title>
-      <link>https://www.nytimes.com/athletic/7227727/2026/04/25/nfl-draft-2026-winners-losers-day-2/</link>
-      <description>The Falcons didn't make a pick in this draft until No. 48, but used it to pair star cornerback A.J. Terrell with his brother Avieon.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7227727/2026/04/25/nfl-draft-2026-winners-losers-day-2/</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
