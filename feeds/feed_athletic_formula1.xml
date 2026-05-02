@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 17:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 18:28:04 +0000</lastBuildDate>
+    <item>
+      <title>Lando Norris wins Miami GP sprint race, Mercedes suffers first 2026 defeat</title>
+      <link>https://www.nytimes.com/athletic/7248610/2026/05/02/lando-norris-miami-gp-sprint-race-f1/</link>
+      <description>And just like that, Lando Norris is victorious in Miami again, taking the sprint race win with ease after dominating from pole...</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7248610/2026/05/02/lando-norris-miami-gp-sprint-race-f1/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miami GP's newest seats tower over the track, with a $95,000 cabana to match</title>
       <link>https://www.nytimes.com/athletic/7247994/2026/05/02/miami-gp-yacht-club-tickets-f1/</link>
@@ -172,13 +179,6 @@ Last week, the FIA announced a set of changes for Miami that chiefly focused on 
       <description>The Haas F1 team has started the 2026 season as best-of-the-rest behind the big squads. But can it stay there over 19 more races?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7198991/2026/04/20/haas-f1-2026-results/</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Max Verstappen pays tribute to Juha Miettinen after racing driver dies in seven-car crash in Germany</title>
-      <link>https://www.nytimes.com/athletic/7209302/2026/04/19/verstappen-miettinen-crash-germany-f1-news/</link>
-      <description>Miettinen, a 66-year-old Finnish driver, died in the medical centre “after all attempts at resuscitation proved unsuccessful”.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7209302/2026/04/19/verstappen-miettinen-crash-germany-f1-news/</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
