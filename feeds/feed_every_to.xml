@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 18:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 19:29:22 +0000</lastBuildDate>
+    <item>
+      <title>How I Escaped A I Autopilot</title>
+      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
+      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
+    </item>
     <item>
       <title>Claude Code for Product Managers</title>
       <link>https://every.to/source-code/claude-code-for-product-managers</link>
@@ -64,13 +69,6 @@
       <description>OpenAI’s new model is a top-end senior engineer—and easy to talk to</description>
       <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-5</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I Escaped AI Autopilot</title>
-      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
-      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
-      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Opus 4.7 Stopped Reading Between the Lines</title>
