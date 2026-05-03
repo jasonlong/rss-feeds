@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 12:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 13:37:50 +0000</lastBuildDate>
+    <item>
+      <title>A hot dog is selling for $100 at the Miami Grand Prix. But what does it taste like?</title>
+      <link>https://www.nytimes.com/athletic/7249668/2026/05/03/caviar-hot-dog-100-dollars-f1-miami-gp/</link>
+      <description>F1's reputation for luxury excess is well-earned and a $100 hot dog at the Miami GP epitomises this</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7249668/2026/05/03/caviar-hot-dog-100-dollars-f1-miami-gp/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miami Grand Prix start time moved up due to severe thunderstorm threat</title>
       <link>https://www.nytimes.com/athletic/7249236/2026/05/02/miami-gp-weather-race-start-change/</link>
@@ -171,13 +178,6 @@ Last week, the FIA announced a set of changes for Miami that chiefly focused on 
       <description>After conquering four-wheel motorsport, F1 commercial rights owner Liberty Media is now looking to two-wheelers and cracking the U.S. again</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7212048/2026/04/21/moto-gp-liberty-media-f1-owner/</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rule changes aimed at fixing controversial new F1 cars agreed ahead of Miami GP</title>
-      <link>https://www.nytimes.com/athletic/7212766/2026/04/20/new-f1-cars-rule-changes/</link>
-      <description>A series of rule changes to F1's controversial new cars has been agreed ahead of the Miami Grand Prix</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7212766/2026/04/20/new-f1-cars-rule-changes/</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
