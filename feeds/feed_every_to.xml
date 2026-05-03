@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 16:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Codex Goes to Work</title>
+      <link>https://every.to/context-window/codex-goes-to-work</link>
+      <description>Plus: Agent-native product management, AI cost discipline, and medicine at the speed of software</description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-goes-to-work</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Claude Code for Product Managers</title>
       <link>https://every.to/source-code/claude-code-for-product-managers</link>
@@ -43,13 +50,6 @@
       <description>The real cost of AI agents is your time. A four-step framework for keeping your AI costs in check. </description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/you-are-the-most-expensive-model</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Model Wars</title>
-      <link>https://every.to/context-window/model-wars</link>
-      <description>Plus, the AI tell that’s exploded in company documents, a skill for creating product videos, and comics </description>
-      <guid isPermaLink="false">https://every.to/context-window/model-wars</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Codex Moves Beyond Coding</title>

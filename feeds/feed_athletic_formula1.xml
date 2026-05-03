@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 16:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:23:40 +0000</lastBuildDate>
     <item>
       <title>A hot dog is selling for $100 at the Miami Grand Prix. But what does it taste like?</title>
       <link>https://www.nytimes.com/athletic/7249668/2026/05/03/caviar-hot-dog-100-dollars-f1-miami-gp/</link>
@@ -82,9 +82,10 @@
     <item>
       <title>F1 knows its 2026 cars need fixing. Here's what's changing at the Miami GP</title>
       <link>https://www.nytimes.com/athletic/7242530/2026/04/30/f1-rule-changes-miami-gp/</link>
-      <description>Formula 1’s long-awaited return this weekend in Miami after a five-week break will bring a shift compared to the opening three races of the 2026 season.
+      <description>The Athletic has live coverage of the F1 Miami Grand Prix.
+Formula 1’s long-awaited return this weekend in Miami after a five-week break will bring a shift compared to the opening three races of the 2026 season.
 Not only have teams been working hard on their car upgrades to improve performance, but some rulebook tweaks are set to impact the on-track spectacle.
-Last week, the FIA announced a set of changes for Miami that chiefly focused on the electrical energy delivered by the all-new engines for 2026. These followed three meetings involving technical staff and team principals from the entire grid, as well as discussions with a handful of drivers.</description>
+Last week, the FIA announced a set of changes for Miami that chiefly focused on the electrical energy delivered by the all-new engines for 2026. These followed three meetings involving technical staff and team principals from the...</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7242530/2026/04/30/f1-rule-changes-miami-gp/</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
