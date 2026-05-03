@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 05:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:02:54 +0000</lastBuildDate>
     <item>
       <title>Miami Grand Prix start time moved up due to severe thunderstorm threat</title>
       <link>https://www.nytimes.com/athletic/7249236/2026/05/02/miami-gp-weather-race-start-change/</link>
@@ -177,6 +177,13 @@ Last week, the FIA announced a set of changes for Miami that chiefly focused on 
       <link>https://www.nytimes.com/athletic/7212766/2026/04/20/new-f1-cars-rule-changes/</link>
       <description>A series of rule changes to F1's controversial new cars has been agreed ahead of the Miami Grand Prix</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7212766/2026/04/20/new-f1-cars-rule-changes/</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIA can’t let engine upgrades interfere with F1 championship fight - Toto Wolff</title>
+      <link>https://www.nytimes.com/athletic/7211783/2026/04/20/toto-wolff-f1-engine-upgrades/</link>
+      <description>Teams could cut the deficit to Mercedes via the FIA’s engine catch-up system, ‘Additional Development and Upgrade Opportunities'.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7211783/2026/04/20/toto-wolff-f1-engine-upgrades/</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
