@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 05:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:18:14 +0000</lastBuildDate>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7251815/2026/05/04/submit-a-question-for-stewart-mandels-college-football-mailbag-344/</link>
+      <description>The Brendan Sorsby saga continues to dominate the news, but there’s plenty more college football to discuss. Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7251815/2026/05/04/submit-a-question-for-stewart-mandels-college-football-mailbag-344/</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Big Ten schools receive record $1.37 billion from 2024-25 fiscal year</title>
       <link>https://www.nytimes.com/athletic/7247171/2026/05/01/big-ten-sports-revenue-billion-dollars/</link>
@@ -176,13 +183,6 @@
       <description>Times are good in Big Ten country. Will they continue, or is the success cyclical? We want to hear your thoughts.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7179913/2026/04/16/big-ten-football-survey/</guid>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football transfer portal TE rankings: Benjamin Brahmer, Luke Reynolds top list</title>
-      <link>https://www.nytimes.com/athletic/7195919/2026/04/15/college-football-transfer-portal-te-rankings-brahmer-reynolds/</link>
-      <description>Brahmer and Reynolds, the top two tight ends on our board, followed their coaches to new jobs.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7195919/2026/04/15/college-football-transfer-portal-te-rankings-brahmer-reynolds/</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
