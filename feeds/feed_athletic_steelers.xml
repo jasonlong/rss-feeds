@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 09:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:48:36 +0000</lastBuildDate>
+    <item>
+      <title>Post-draft outlook for all 32 NFL teams: Which rosters improved most? Who got worse?</title>
+      <link>https://www.nytimes.com/athletic/7246321/2026/05/04/nfl-draft-post-takeaways-rosters-improvement/</link>
+      <description>With offseason workouts approaching, The Athletic breaks down the overall outlook for each NFL team.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7246321/2026/05/04/nfl-draft-post-takeaways-rosters-improvement/</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steelers mailbag: Did Omar Khan botch Pittsburgh's first-round pick?</title>
+      <link>https://www.nytimes.com/athletic/7246524/2026/05/04/steelers-mailbag-omar-khan-first-round-pick/</link>
+      <description>Plus, an Aaron Rodgers power play, a Drew Allar plan and what a Joey Porter Jr. extension could look like.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7246524/2026/05/04/steelers-mailbag-omar-khan-first-round-pick/</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026 NFL Draft's best UDFA fits: 1 undrafted free agent to watch on each roster</title>
       <link>https://www.nytimes.com/athletic/7244301/2026/05/02/nfl-draft-2026-undrafted-free-agents-best-prospects/</link>
@@ -168,20 +182,6 @@
       <link>https://www.nytimes.com/athletic/7220031/2026/04/25/pittsburgh-steelers-nfl-draft-2026-pick-tracker-grades-fits-and-scouting-reports/</link>
       <description>The Steelers went offense with their first three picks.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7220031/2026/04/25/pittsburgh-steelers-nfl-draft-2026-pick-tracker-grades-fits-and-scouting-reports/</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers pick Pittsburgh native Navy RB Eli Heidenreich in draft's feel-good moment</title>
-      <link>https://www.nytimes.com/athletic/7181769/2026/04/25/eli-heidenreich-steelers-navy-nfl-draft-pick-230-2026/</link>
-      <description>Heidenreich was in attendance and took the stage for his big moment on Saturday.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7181769/2026/04/25/eli-heidenreich-steelers-navy-nfl-draft-pick-230-2026/</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Watch the live 2026 NFL Draft recap</title>
-      <link>https://www.nytimes.com/athletic/7229093/2026/04/25/watch-the-live-2026-nfl-draft-recap/</link>
-      <description>Robert Mays, Derrik Klassen, Dave Helman and Dane Brugler bring home the 2026 NFL Draft and recap all we’ve seen over the last three days on this episode of The Athletic Football Show.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7229093/2026/04/25/watch-the-live-2026-nfl-draft-recap/</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
