@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 10:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:35:47 +0000</lastBuildDate>
+    <item>
+      <title>How do Big Ten football fans feel right now? Where readers stand on Petitti, CFP and more</title>
+      <link>https://www.nytimes.com/athletic/7251540/2026/05/05/big-ten-fan-survey-tony-petitti/</link>
+      <description>A survey of more than 3,500 readers shows where public opinions around the Big Ten lie as the league builds off a CFP three-peat.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7251540/2026/05/05/big-ten-fan-survey-tony-petitti/</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
       <link>https://www.nytimes.com/athletic/7251815/2026/05/04/submit-a-question-for-stewart-mandels-college-football-mailbag-344/</link>
@@ -176,13 +183,6 @@
       <description>With so many new players and changes to the program, there are plenty of storylines to talk about as Ohio State holds its spring scrimmage.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7205451/2026/04/17/ohio-state-football-spring-game-2026/</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Ten football survey: How do you feel about the conference amid its current hot streak?</title>
-      <link>https://www.nytimes.com/athletic/7179913/2026/04/16/big-ten-football-survey/</link>
-      <description>Times are good in Big Ten country. Will they continue, or is the success cyclical? We want to hear your thoughts.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7179913/2026/04/16/big-ten-football-survey/</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
