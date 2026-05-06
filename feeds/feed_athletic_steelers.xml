@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 09:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 09:58:43 +0000</lastBuildDate>
+    <item>
+      <title>Matthew Stafford, Jonathan Taylor highlight potential NFL 2027 free-agent class</title>
+      <link>https://www.nytimes.com/athletic/7255520/2026/05/06/nfl-free-agency-rankings-2026-matthew-stafford-jonathan-taylor/</link>
+      <description>While many of these players will sign extensions before hitting the open market, here's an early look at the top names set for free agency.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7255520/2026/05/06/nfl-free-agency-rankings-2026-matthew-stafford-jonathan-taylor/</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Life as a Jets fan, explained. Plus: Positives for Gang Green and Raiders</title>
       <link>https://www.nytimes.com/athletic/7253153/2026/05/04/what-its-like-to-be-a-jets-fan-draft-gang-green-raiders/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</link>
       <description>On Day 1 of the 2026 NFL Draft, Pittsburgh set a single-day attendance record with 320,000 people.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers 2026 NFL Draft takeaways: Round 1 drama, trenches, a couple reaches</title>
-      <link>https://www.nytimes.com/athletic/7230159/2026/04/25/pittsburgh-steelers-2026-nfl-draft-picks-takeaways/</link>
-      <description>After missing out on their preferred target on Thursday night, the Steelers put together a loaded 10-man class.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7230159/2026/04/25/pittsburgh-steelers-2026-nfl-draft-picks-takeaways/</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
