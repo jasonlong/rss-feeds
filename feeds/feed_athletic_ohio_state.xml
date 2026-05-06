@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 09:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:50:18 +0000</lastBuildDate>
+    <item>
+      <title>Ohio State has the ‘best linebackers coach in the country,’ and he's just getting started</title>
+      <link>https://www.nytimes.com/athletic/7253714/2026/05/06/ohio-state-linebackers-coach-james-laurinaitis/</link>
+      <description>James Laurinaitis could become Ohio State's next Brian Hartline, and he's only two years in.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7253714/2026/05/06/ohio-state-linebackers-coach-james-laurinaitis/</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How do Big Ten football fans feel right now? Where readers stand on Petitti, CFP and more</title>
       <link>https://www.nytimes.com/athletic/7251540/2026/05/05/big-ten-fan-survey-tony-petitti/</link>
@@ -176,13 +183,6 @@
       <description>The defense won 35-26, a flip from the offense’s dominance a year ago, and 51 new players saw their first playing time in front of fans.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7206666/2026/04/18/ohio-state-spring-football-takeaways-newcomers-standout/</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What will we learn from Ohio State's spring game? A QB showcase, new faces and more</title>
-      <link>https://www.nytimes.com/athletic/7205451/2026/04/17/ohio-state-football-spring-game-2026/</link>
-      <description>With so many new players and changes to the program, there are plenty of storylines to talk about as Ohio State holds its spring scrimmage.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7205451/2026/04/17/ohio-state-football-spring-game-2026/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
