@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 15:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:47:28 +0000</lastBuildDate>
+    <item>
+      <title>Aaron Rodgers to visit with the Steelers in Pittsburgh: Source</title>
+      <link>https://www.nytimes.com/athletic/7261298/2026/05/07/aaron-rodgers-visit-pittsburgh-steelers/</link>
+      <description>The Steelers begin organized team activities on May 18.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7261298/2026/05/07/aaron-rodgers-visit-pittsburgh-steelers/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Matthew Stafford, Jonathan Taylor highlight potential NFL 2027 free-agent class</title>
       <link>https://www.nytimes.com/athletic/7255520/2026/05/06/nfl-free-agency-rankings-2026-matthew-stafford-jonathan-taylor/</link>
@@ -176,13 +183,6 @@
       <description>Our writers share the intriguing stories, emotions or just flat-out talent that appealed to them for one new rookie on every team.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7229786/2026/04/26/nfl-draft-2026-favorite-picks/</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pittsburgh breaks NFL Draft attendance record with crowd of 805,000 fans</title>
-      <link>https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</link>
-      <description>On Day 1 of the 2026 NFL Draft, Pittsburgh set a single-day attendance record with 320,000 people.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7229230/2026/04/25/nfl-draft-attendance-record-pittsburgh-2026/</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
