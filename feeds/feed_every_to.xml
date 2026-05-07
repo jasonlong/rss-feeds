@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 20:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:28:05 +0000</lastBuildDate>
+    <item>
+      <title>Inside Anthropic’s 2026 Developer Conference</title>
+      <link>https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</link>
+      <description>What it was like in the room, plus what the new Managed Agents features look like in production</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>OpenAI Flips the Script</title>
       <link>https://every.to/context-window/openai-flips-the-script</link>
@@ -113,13 +120,6 @@
       <description>A step-by-step guide to going from ChatGPT earnings previews to a custom investment dashboard—no engineering team required</description>
       <guid isPermaLink="false">https://every.to/p/build-your-own-financial-analyst-with-ai</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw: Our Comprehensive Guide for Beginners</title>
-      <link>https://every.to/guides/claw-school</link>
-      <description>A super-smart, always-on agent who automates the tasks you dread—and moves your biggest ideas forward</description>
-      <guid isPermaLink="false">https://every.to/guides/claw-school</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Plus One: One-click OpenClaw Agents by Every</title>
