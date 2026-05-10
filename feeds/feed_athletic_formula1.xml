@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 18:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 19:31:26 +0000</lastBuildDate>
+    <item>
+      <title>Trading card market hit record highs (again) in April: Cooper Flagg and Pokémon drive sales</title>
+      <link>https://www.nytimes.com/athletic/7268425/2026/05/10/sports-card-pokemon-market-records/</link>
+      <description>The trading card market remains hotter than ever as athletes in a variety of sports excite collectors.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7268425/2026/05/10/sports-card-pokemon-market-records/</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ford confirms talks with Max Verstappen about future Le Mans appearance</title>
       <link>https://www.nytimes.com/athletic/7265375/2026/05/09/max-verstappen-ford-le-mans-f1/</link>
@@ -176,13 +183,6 @@
       <description>Aston made use of the five-week break by taking one of its cars to Honda’s engine facility in Sakura.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7245626/2026/05/01/aston-martin-miami-f1-issues/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the Miami Grand Prix became a 'Super Bowl weekend': A 50ft 'yacht' and a hip hop museum</title>
-      <link>https://www.nytimes.com/athletic/7242598/2026/04/30/miami-grand-prix-fan-experience/</link>
-      <description>If the sport is to continue to grow in the U.S., the Miami Grand Prix believes it needs to create a festival-like experience for fans.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7242598/2026/04/30/miami-grand-prix-fan-experience/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
