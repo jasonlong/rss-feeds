@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 07:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:24:31 +0000</lastBuildDate>
+    <item>
+      <title>NFL 2026 schedule release: How opponents are selected — and why we’ve known them for months</title>
+      <link>https://www.nytimes.com/athletic/7262821/2026/05/11/nfl-schedule-release-formula-2026/</link>
+      <description>The NFL uses a fairly basic formula that sets in stone every team's opponents for the next season by the final day of the regular season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7262821/2026/05/11/nfl-schedule-release-formula-2026/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL projection model ranks all 32 rosters following 2026 draft: Are Rams team to beat?</title>
       <link>https://www.nytimes.com/athletic/7252937/2026/05/08/nfl-draft-2026-roster-rankings-projections/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7113031/2026/04/26/mike-tomlin-resignation-decision-steelers/</link>
       <description>Tomlin, who last week was hired as an NFL analyst for NBC, made an appearance on the network's NBA pregame show Sunday.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7113031/2026/04/26/mike-tomlin-resignation-decision-steelers/</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quarterback landing spots, 2026 NFL draft class rankings &amp; Diego Pavia UDFA watch</title>
-      <link>https://www.nytimes.com/athletic/7232661/2026/04/26/quarterback-landing-spots-nfl-draft-class-rankings-diego-pavia-udfa/</link>
-      <description>The Raiders lead my too early (and too quick) ranking of draft classes, plus Diego Pavia among undrafted prospects to watch</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7232661/2026/04/26/quarterback-landing-spots-nfl-draft-class-rankings-diego-pavia-udfa/</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
