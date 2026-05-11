@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 17:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 18:48:58 +0000</lastBuildDate>
+    <item>
+      <title>Steelers' Chris Boswell matches Brandon Aubrey as NFL's highest-paid kicker: Source</title>
+      <link>https://www.nytimes.com/athletic/7270769/2026/05/11/chris-boswell-pittsburgh-steelers-contract-highest-paid-kicker/</link>
+      <description>Boswell is signed with the Steelers through 2030.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7270769/2026/05/11/chris-boswell-pittsburgh-steelers-contract-highest-paid-kicker/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers rookie camp takeaways: Drew Allar's total rebuild, O-line alignment clues</title>
       <link>https://www.nytimes.com/athletic/7269375/2026/05/11/steelers-rookie-camp-takeaways-drew-allar/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7230744/2026/04/27/nfl-draft-pittsburgh-steelers-makai-lemon-call/</link>
       <description>There’s no question the host team had a memorable three days.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7230744/2026/04/27/nfl-draft-pittsburgh-steelers-makai-lemon-call/</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 NFL Draft team-by-team rankings: Best and worst classes, from 1 to 32</title>
-      <link>https://www.nytimes.com/athletic/7226296/2026/04/27/nfl-draft-2026-rankings-grades-teams/</link>
-      <description>Which NFL teams impressed our draft expert during this year's draft?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7226296/2026/04/27/nfl-draft-2026-rankings-grades-teams/</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
