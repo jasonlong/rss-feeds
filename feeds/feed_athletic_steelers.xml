@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 13:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 15:10:15 +0000</lastBuildDate>
+    <item>
+      <title>NFL 2026 international schedule: 49ers-Vikings in Mexico City, Lions-Patriots in Munich</title>
+      <link>https://www.nytimes.com/athletic/7275619/2026/05/13/nfl-international-games-2026-season-schedule/</link>
+      <description>The league will have a record nine international games in 2026, with the 49ers and Jaguars both playing out of the country twice.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7275619/2026/05/13/nfl-international-games-2026-season-schedule/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers to play Saints in NFL's first game in Paris: Sources</title>
       <link>https://www.nytimes.com/athletic/7274548/2026/05/12/steelers-saints-nfl-game-paris-france/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7237494/2026/04/28/aaron-rodgers-pittsburgh-steelers-free-agent-tender-tag/</link>
       <description>The Steelers are waiting on a decision from Rodgers for a second straight offseason.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7237494/2026/04/28/aaron-rodgers-pittsburgh-steelers-free-agent-tender-tag/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post-draft NFL Power Rankings: Rams slide but Eagles, Steelers, Lions rise after makeovers</title>
-      <link>https://www.nytimes.com/athletic/7235221/2026/04/28/nfl-power-rankings-draft-2026-rams-eagles-steelers-lions/</link>
-      <description>With the draft and free agency complete, NFL teams now look mostly like they will when the season begins in the fall. So, how do they rank?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7235221/2026/04/28/nfl-power-rankings-draft-2026-rams-eagles-steelers-lions/</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
