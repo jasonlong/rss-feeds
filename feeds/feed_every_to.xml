@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 15:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 16:58:00 +0000</lastBuildDate>
+    <item>
+      <title>Mining Your Life for Context</title>
+      <link>https://every.to/context-window/mining-your-life-for-context</link>
+      <description>Plus, how Every’s head of growth stays focused and some aggressively casual language </description>
+      <guid isPermaLink="false">https://every.to/context-window/mining-your-life-for-context</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Fallacy of the 16-hour Agent</title>
       <link>https://every.to/context-window/the-fallacy-of-the-16-hour-agent</link>
@@ -50,13 +57,6 @@
       <description>Plus: Permission to skip model-migration anxiety, why being an early adopter is overrated, and the importance of curiosity in an AI-saturated world</description>
       <guid isPermaLink="false">https://every.to/context-window/openai-flips-the-script</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Dawn of Codex-native Apps</title>
-      <link>https://every.to/context-window/the-dawn-of-codex-native-apps</link>
-      <description>Plus: Delegation versus collaboration, Dan’s inbox-zero Codex workflow, and the agentic version of Musk’s five rules of automation</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-dawn-of-codex-native-apps</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code for Product Managers</title>
