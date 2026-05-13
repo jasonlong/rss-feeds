@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 23:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:07:45 +0000</lastBuildDate>
+    <item>
+      <title>Steelers to play Saints in NFL's first game in Paris: Sources</title>
+      <link>https://www.nytimes.com/athletic/7274548/2026/05/12/steelers-saints-nfl-game-paris-france/</link>
+      <description>The Steelers played in the NFL’s first-ever game in Dublin, Ireland, last season and will play in the league's first game in Paris.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7274548/2026/05/12/steelers-saints-nfl-game-paris-france/</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why are the Steelers waiting on Aaron Rodgers? What other choice do they have?</title>
       <link>https://www.nytimes.com/athletic/7271836/2026/05/12/aaron-rodgers-steelers-mike-mccarthy-offseason/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7235221/2026/04/28/nfl-power-rankings-draft-2026-rams-eagles-steelers-lions/</link>
       <description>With the draft and free agency complete, NFL teams now look mostly like they will when the season begins in the fall. So, how do they rank?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7235221/2026/04/28/nfl-power-rankings-draft-2026-rams-eagles-steelers-lions/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking Steelers' UDFAs: A DT with elite testing numbers, a national champ, 2 TEs</title>
-      <link>https://www.nytimes.com/athletic/7236174/2026/04/28/pittsburgh-steelers-undrafted-free-agent-class/</link>
-      <description>Breaking down the Steelers' six-man class of undrafted free agents.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7236174/2026/04/28/pittsburgh-steelers-undrafted-free-agent-class/</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
