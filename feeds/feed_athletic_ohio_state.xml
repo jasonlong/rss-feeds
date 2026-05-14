@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 13:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 15:00:23 +0000</lastBuildDate>
+    <item>
+      <title>Meet Tennessee commit Derrick Baker, the most under-ranked QB prospect in the '27 class</title>
+      <link>https://www.nytimes.com/athletic/7278780/2026/05/14/college-football-recruiting-derrick-baker-tennessee-georgia/</link>
+      <description>Baker maintains his commitment to the Vols is strong, but other programs — including Georgia — are pursuing the talented signal caller.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7278780/2026/05/14/college-football-recruiting-derrick-baker-tennessee-georgia/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football transfer portal DB rankings: Koi Perich, Earl Little Jr. top list</title>
       <link>https://www.nytimes.com/athletic/7270184/2026/05/12/college-football-transfer-portal-db-rankings-perich-little/</link>
@@ -176,13 +183,6 @@
       <description>How Styles developed into a top-10 pick of the Washington Commanders after converting from safety to linebacker at Ohio State.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7219001/2026/04/23/sonny-styles-nfl-draft-ohio-state/</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How did David Bailey end up at Stanford? Recruiting backstories of top NFL Draft prospects</title>
-      <link>https://www.nytimes.com/athletic/7216336/2026/04/22/nfl-draft-prospects-backstories-bailey-mendoza-reese/</link>
-      <description>Two of the top players on the board almost ended up in the Ivy League, while several others were coveted by every school in the nation.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7216336/2026/04/22/nfl-draft-prospects-backstories-bailey-mendoza-reese/</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
