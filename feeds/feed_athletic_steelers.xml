@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 07:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:08:23 +0000</lastBuildDate>
+    <item>
+      <title>How to watch 2026 NFL schedule reveal: Full slates for all 32 teams to be announced</title>
+      <link>https://www.nytimes.com/athletic/7272128/2026/05/14/nfl-schedule-release-how-to-watch-2026/</link>
+      <description>The league is unveiling its full 18-week regular-season schedule — including the primetime slots and holiday lineups.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7272128/2026/05/14/nfl-schedule-release-how-to-watch-2026/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL 2026 international schedule: 49ers-Vikings in Mexico City, Lions-Patriots in Munich</title>
       <link>https://www.nytimes.com/athletic/7275619/2026/05/13/nfl-international-games-2026-season-schedule/</link>
@@ -176,13 +183,6 @@
       <description>Few teams had as much turnover as the Steelers did this past offseason.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7239218/2026/04/29/pittsburgh-steelers-53-man-roster-projection-after-nfl-draft/</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers place seldom-used 'unrestricted free agent tender' on Aaron Rodgers</title>
-      <link>https://www.nytimes.com/athletic/7237494/2026/04/28/aaron-rodgers-pittsburgh-steelers-free-agent-tender-tag/</link>
-      <description>The Steelers are waiting on a decision from Rodgers for a second straight offseason.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7237494/2026/04/28/aaron-rodgers-pittsburgh-steelers-free-agent-tender-tag/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
