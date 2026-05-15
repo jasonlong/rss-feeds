@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 15:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 16:44:38 +0000</lastBuildDate>
+    <item>
+      <title>Valtteri Bottas reveals he had Cadillac Escalade and F1 paddock pass stolen during Miami GP weekend</title>
+      <link>https://www.nytimes.com/athletic/7282208/2026/05/15/valtteri-bottas-stolen-cadillac-miami-gp-f1/</link>
+      <description>The 36-year-old confirmed that the road car had later been found abandoned.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7282208/2026/05/15/valtteri-bottas-stolen-cadillac-miami-gp-f1/</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Montreal strippers call for strike during Canadian Grand Prix weekend</title>
       <link>https://www.nytimes.com/athletic/7281852/2026/05/15/montreal-strippers-strike-canada-gp-f1/</link>
@@ -17,7 +24,7 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>'Yo ho! How bizarre!': The oral history of Max Verstappen’s first F1 win, 10 years on</title>
+      <title>'Yo ho! How bizarre!': The oral history of Max Verstappen’s Red Bull debut win, 10 years on</title>
       <link>https://www.nytimes.com/athletic/7279992/2026/05/15/max-verstappen-first-f1-win-spanish-gp-2016/</link>
       <description>The youngest winner in F1 history, and the people around him, look back on the race that started a dynasty</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7279992/2026/05/15/max-verstappen-first-f1-win-spanish-gp-2016/</guid>
@@ -31,7 +38,7 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Who could replace Max Verstappen at Red Bull? Plus: Why both parties might look elsewhere</title>
+      <title>Prime Tire: Who could replace Verstappen at Red Bull?</title>
       <link>https://www.nytimes.com/athletic/7273495/2026/05/12/max-verstappen-f1-future-prime-tire/</link>
       <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7273495/2026/05/12/max-verstappen-f1-future-prime-tire/</guid>
@@ -148,41 +155,6 @@
       <description>McLaren went into the Miami Grand Prix with upgrades and results significantly improved, with victory for Lando Norris in the sprint race.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7251953/2026/05/04/lando-norris-mclaren-miami-grand-prix-analysis/</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimi Antonelli keeps writing F1 records and passed his toughest test in Miami</title>
-      <link>https://www.nytimes.com/athletic/7250925/2026/05/03/kimi-antonelli-miami-gp-win-mercedes-f1/</link>
-      <description>The pressure will continue building on F1's 19-year-old points leader, but Sunday proved he can take it.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7250925/2026/05/03/kimi-antonelli-miami-gp-win-mercedes-f1/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miami Grand Prix briefing: Kimi Antonelli beats Lando Norris, extends F1 championship lead</title>
-      <link>https://www.nytimes.com/athletic/7250067/2026/05/03/miami-grand-prix-briefing-kimi-antonelli/</link>
-      <description>The teenager won his third consecutive race as Verstappen's gamble on hard tires pays off… sort of</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7250067/2026/05/03/miami-grand-prix-briefing-kimi-antonelli/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miami GP: Submit your questions for our F1 mailbag</title>
-      <link>https://www.nytimes.com/athletic/7250166/2026/05/03/miami-gp-submit-your-questions-for-our-f1-mailbag/</link>
-      <description>Any questions for our writers after the Miami Grand Prix? Ask away here.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7250166/2026/05/03/miami-gp-submit-your-questions-for-our-f1-mailbag/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A hot dog is selling for $100 at the Miami Grand Prix. But what does it taste like?</title>
-      <link>https://www.nytimes.com/athletic/7249668/2026/05/03/caviar-hot-dog-100-dollars-f1-miami-gp/</link>
-      <description>F1's reputation for luxury excess is well-earned and a $100 hot dog at the Miami GP epitomises this</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7249668/2026/05/03/caviar-hot-dog-100-dollars-f1-miami-gp/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miami Grand Prix start time moved up due to severe thunderstorm threat</title>
-      <link>https://www.nytimes.com/athletic/7249236/2026/05/02/miami-gp-weather-race-start-change/</link>
-      <description>The risk of severe thunderstorms has forced the Miami GP organizers to bring the race start forward by several hours.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7249236/2026/05/02/miami-gp-weather-race-start-change/</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
