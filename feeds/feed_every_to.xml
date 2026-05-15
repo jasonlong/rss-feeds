@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 17:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 18:43:46 +0000</lastBuildDate>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Opus 4.7 Reels Us Back In</title>
       <link>https://every.to/context-window/opus-4-7-reels-us-back-in</link>
@@ -141,13 +147,6 @@
       <description>Lessons learned when vibe code meets high load</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compound Engineering Camp: Every Step, From Scratch</title>
-      <link>https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</link>
-      <description>Kieran Klaassen turned a prompt into a working app in an hour and shows you how</description>
-      <guid isPermaLink="false">https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Science of Why AI Still Can't Write Like You</title>
