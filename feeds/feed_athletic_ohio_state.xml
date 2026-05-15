@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 10:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:44:16 +0000</lastBuildDate>
+    <item>
+      <title>Revisiting the top 10 college football recruiting classes of the 2023 cycle</title>
+      <link>https://www.nytimes.com/athletic/7279669/2026/05/15/college-football-recruiting-2023-ranking/</link>
+      <description>Nick Saban’s next-to-last recruiting class included two five-stars who turned into first-round picks in three years.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7279669/2026/05/15/college-football-recruiting-2023-ranking/</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Meet Tennessee commit Derrick Baker, the most under-ranked QB prospect in the '27 class</title>
       <link>https://www.nytimes.com/athletic/7278780/2026/05/14/college-football-recruiting-derrick-baker-tennessee-georgia/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7212087/2026/04/23/carnell-tate-ohio-state-titans-nfl-draft-pick-4-2026/</link>
       <description>Tate is the sixth Ohio State wide receiver picked in the first round of the NFL Draft since 2022.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7212087/2026/04/23/carnell-tate-ohio-state-titans-nfl-draft-pick-4-2026/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Commanders pick Sonny Styles unlocked top-10 draft potential after a position switch</title>
-      <link>https://www.nytimes.com/athletic/7219001/2026/04/23/sonny-styles-nfl-draft-ohio-state/</link>
-      <description>How Styles developed into a top-10 pick of the Washington Commanders after converting from safety to linebacker at Ohio State.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7219001/2026/04/23/sonny-styles-nfl-draft-ohio-state/</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
