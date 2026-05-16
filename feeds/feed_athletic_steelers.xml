@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 10:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 11:28:12 +0000</lastBuildDate>
+    <item>
+      <title>Ranking the 2026 'Monday Night Football' games: Bills-Rams, Eagles-Bears, Mahomes' return?</title>
+      <link>https://www.nytimes.com/athletic/7282431/2026/05/16/nfl-schedule-release-monday-night-football-games-2026/</link>
+      <description>After months of mounting hype, the 2026 NFL schedule has finally been unveiled. Let's rank all 17 MNF matchups in anticipation.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7282431/2026/05/16/nfl-schedule-release-monday-night-football-games-2026/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Every NFL 2026 schedule release video ranked from electric (sorry, 49ers) to dull</title>
       <link>https://www.nytimes.com/athletic/7281122/2026/05/15/nfl-2026-schedule-release-videos-ranked/</link>
@@ -175,13 +182,6 @@
       <description>The rookie wage scale, introduced in 2011, means all draft picks have a predetermined salary slot when entering the league.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7242308/2026/05/01/nfl-draft-rookie-wage-scale/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers expect clarity on Aaron Rodgers in the 'next few weeks'</title>
-      <link>https://www.nytimes.com/athletic/7242400/2026/04/29/steelers-aaron-rodgers-decision/</link>
-      <description>Steelers team president Art Rooney II said the team has been in contact with Aaron Rodgers on a regular basis.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7242400/2026/04/29/steelers-aaron-rodgers-decision/</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
