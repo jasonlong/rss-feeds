@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 01:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:19:08 +0000</lastBuildDate>
+    <item>
+      <title>Will Aaron Rodgers be a bridge to the Steelers’ future or a roadblock?</title>
+      <link>https://www.nytimes.com/athletic/7285250/2026/05/16/aaron-rodgers-steelers-return-future-analysis/</link>
+      <description>The quarterback ended another drawn-out courtship by agreeing to a deal with Pittsburgh. What's the best-case outcome for the Steelers?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7285250/2026/05/16/aaron-rodgers-steelers-return-future-analysis/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Aaron Rodgers to return to Steelers for 22nd NFL season: Sources</title>
       <link>https://www.nytimes.com/athletic/7032060/2026/05/16/aaron-rodgers-pittsburgh-steelers-return/</link>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7246419/2026/05/01/chase-claypool-green-bay-packers-tryout/</link>
       <description>Claypool's last NFL game was with the Miami Dolphins in 2023.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7246419/2026/05/01/chase-claypool-green-bay-packers-tryout/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Execs unfiltered on NFL Draft for every AFC team: Are things looking up for Jets, Raiders?</title>
-      <link>https://www.nytimes.com/athletic/7240800/2026/05/01/nfl-draft-2026-afc-jets-raiders-dolphins/</link>
-      <description>Is it really OK to feel good about the Jets? Meanwhile, reviews were mixed on the Bills', Jaguars' and Texans' draft classes.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7240800/2026/05/01/nfl-draft-2026-afc-jets-raiders-dolphins/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
