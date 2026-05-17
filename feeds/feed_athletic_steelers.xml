@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 23:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 01:10:38 +0000</lastBuildDate>
+    <item>
+      <title>Aaron Rodgers to return to Steelers for 22nd NFL season: Sources</title>
+      <link>https://www.nytimes.com/athletic/7032060/2026/05/16/aaron-rodgers-pittsburgh-steelers-return/</link>
+      <description>The quarterback, who turns 43 in December, said last summer he was “pretty sure” 2025 would be his last season, but he's back in Pittsburgh.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7032060/2026/05/16/aaron-rodgers-pittsburgh-steelers-return/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ranking the 2026 'Monday Night Football' games: Bills-Rams, Eagles-Bears, Mahomes' return?</title>
       <link>https://www.nytimes.com/athletic/7282431/2026/05/16/nfl-schedule-release-monday-night-football-games-2026/</link>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7240800/2026/05/01/nfl-draft-2026-afc-jets-raiders-dolphins/</link>
       <description>Is it really OK to feel good about the Jets? Meanwhile, reviews were mixed on the Bills', Jaguars' and Texans' draft classes.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7240800/2026/05/01/nfl-draft-2026-afc-jets-raiders-dolphins/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explaining the NFL's rookie wage scale: How contracts for draft picks are predetermined</title>
-      <link>https://www.nytimes.com/athletic/7242308/2026/05/01/nfl-draft-rookie-wage-scale/</link>
-      <description>The rookie wage scale, introduced in 2011, means all draft picks have a predetermined salary slot when entering the league.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7242308/2026/05/01/nfl-draft-rookie-wage-scale/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
