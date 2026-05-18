@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 09:26:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:29:18 +0000</lastBuildDate>
+    <item>
+      <title>Must-watch game for every NFL team during the 2026 regular season</title>
+      <link>https://www.nytimes.com/athletic/7282440/2026/05/18/nfl-schedule-best-game-team-season/</link>
+      <description>From reunions and rematches to revenge games and rivalries, these are the can't-miss games for 2026.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7282440/2026/05/18/nfl-schedule-best-game-team-season/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Will Aaron Rodgers be a bridge to the Steelers’ future or a roadblock?</title>
       <link>https://www.nytimes.com/athletic/7285250/2026/05/16/aaron-rodgers-steelers-return-future-analysis/</link>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7247021/2026/05/01/dk-metcalf-lions-fan-no-criminal-charges/</link>
       <description>Prosecutors said "the fan did not appear to be injured, nor did he seek medical attention at the game" in its explanation of the decision.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7247021/2026/05/01/dk-metcalf-lions-fan-no-criminal-charges/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Steelers, Bears WR Chase Claypool gets tryout at Packers minicamp</title>
-      <link>https://www.nytimes.com/athletic/7246419/2026/05/01/chase-claypool-green-bay-packers-tryout/</link>
-      <description>Claypool's last NFL game was with the Miami Dolphins in 2023.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7246419/2026/05/01/chase-claypool-green-bay-packers-tryout/</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
