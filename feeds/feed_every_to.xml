@@ -8,11 +8,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 22:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 23:35:56 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Plus O ne: One-click OpenClaw Agents by Every</title>
+      <link>https://every.to/on-every/introducing-plus-one-one-click-openclaw-agents-by-every</link>
+      <guid isPermaLink="false">https://every.to/on-every/introducing-plus-one-one-click-openclaw-agents-by-every</guid>
+    </item>
+    <item>
+      <title>Inside Anthropic’s 2026 D eveloper Conference</title>
+      <link>https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</link>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</guid>
+    </item>
     <item>
       <title>The Science of Why A I Still Can’t Write Like You</title>
       <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
       <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
+    </item>
+    <item>
+      <title>How I Escaped A I Autopilot</title>
+      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
+      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
     </item>
     <item>
       <title>What I Learned O nboarding Our AI Project Manager</title>
@@ -20,9 +35,19 @@
       <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
     </item>
     <item>
+      <title>Vibe Check: G PT-5.4—OpenAI Is Back</title>
+      <link>https://every.to/vibe-check/gpt-5-4-openai-is-back</link>
+      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-4-openai-is-back</guid>
+    </item>
+    <item>
       <title>Vibe Check: C ursor 3.0 Bets Big on Agent Orchestration</title>
       <link>https://every.to/vibe-check/cursor</link>
       <guid isPermaLink="false">https://every.to/vibe-check/cursor</guid>
+    </item>
+    <item>
+      <title>Vibe Check: Opus 4.7 Stopped R eading Between the Lines</title>
+      <link>https://every.to/vibe-check/opus-4-7</link>
+      <guid isPermaLink="false">https://every.to/vibe-check/opus-4-7</guid>
     </item>
     <item>
       <title>Vibe Check: GPT-5.5 Has It A ll</title>
@@ -30,9 +55,24 @@
       <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-5</guid>
     </item>
     <item>
+      <title>How We Run a 25-person C ompany on Four AI Agents</title>
+      <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
+      <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
+    </item>
+    <item>
       <title>The Folder Is the A gent</title>
       <link>https://every.to/source-code/the-folder-is-the-agent</link>
       <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
+    </item>
+    <item>
+      <title>Claude Code for P roduct Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+    </item>
+    <item>
+      <title>The F allacy of the 16-hour Agent</title>
+      <link>https://every.to/context-window/the-fallacy-of-the-16-hour-agent</link>
+      <guid isPermaLink="false">https://every.to/context-window/the-fallacy-of-the-16-hour-agent</guid>
     </item>
     <item>
       <title>Mining Your L ife for Context</title>
@@ -40,45 +80,29 @@
       <guid isPermaLink="false">https://every.to/context-window/mining-your-life-for-context</guid>
     </item>
     <item>
-      <title>Inside the 100-agent Software Factory</title>
-      <link>https://every.to/context-window/inside-the-100-agent-software-factory</link>
-      <description>A mini-Vibe Check on Gas City, a Grok classifier that grades your X drafts, and why HTML is the new markdown</description>
-      <guid isPermaLink="false">https://every.to/context-window/inside-the-100-agent-software-factory</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <title>Opus 4.7 R eels Us Back In</title>
+      <link>https://every.to/context-window/opus-4-7-reels-us-back-in</link>
+      <guid isPermaLink="false">https://every.to/context-window/opus-4-7-reels-us-back-in</guid>
     </item>
     <item>
-      <title>How to Start a Career When AI Is Doing Your Entry-level Job</title>
-      <link>https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</link>
-      <description>Four pieces of unsolicited advice from an AI-pilled millennial</description>
-      <guid isPermaLink="false">https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>After the Personal Agent</title>
-      <link>https://every.to/context-window/after-the-personal-agent</link>
-      <description>Plus: Why tacit knowledge matters more than search and Opus 4.7 is winning people back</description>
-      <guid isPermaLink="false">https://every.to/context-window/after-the-personal-agent</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <title>We Gave Every Employee an AI Agent. Here’s W hat We’re Doing Differently Now.</title>
       <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
       <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Opus 4.7 Reels Us Back In</title>
-      <link>https://every.to/context-window/opus-4-7-reels-us-back-in</link>
-      <description>Plus: The ‘Mini Shai-Hulud’ breach, a small step to eliminating AI-isms, and how we define ‘agent’</description>
-      <guid isPermaLink="false">https://every.to/context-window/opus-4-7-reels-us-back-in</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <title>Inside the 100-agent S oftware Factory</title>
+      <link>https://every.to/context-window/inside-the-100-agent-software-factory</link>
+      <guid isPermaLink="false">https://every.to/context-window/inside-the-100-agent-software-factory</guid>
     </item>
     <item>
-      <title>The Fallacy of the 16-hour Agent</title>
-      <link>https://every.to/context-window/the-fallacy-of-the-16-hour-agent</link>
-      <description>Plus: Perplexity’s rules for agent skills, the office politics of dictation, and creating a weekend AI piano coach</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-fallacy-of-the-16-hour-agent</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <title>After the P ersonal Agent</title>
+      <link>https://every.to/context-window/after-the-personal-agent</link>
+      <guid isPermaLink="false">https://every.to/context-window/after-the-personal-agent</guid>
+    </item>
+    <item>
+      <title>How to Start a Career W hen AI Is Doing Your Entry-level Job</title>
+      <link>https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</link>
+      <guid isPermaLink="false">https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</guid>
     </item>
     <item>
       <title>Socrates as a Service</title>
@@ -88,53 +112,11 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inside Anthropic’s 2026 Developer Conference</title>
-      <link>https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</link>
-      <description>What it was like in the room, plus what the new Managed Agents features look like in production</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code for Product Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I Escaped AI Autopilot</title>
-      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
-      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
-      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: Opus 4.7 Stopped Reading Between the Lines</title>
-      <link>https://every.to/vibe-check/opus-4-7</link>
-      <description>Anthropic's latest Opus is more precise, more literal, and the best coding model we've tested on well-specified tasks—but it won't fill in the gaps for you anymore</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/opus-4-7</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We Run a 25-person Company on Four AI Agents</title>
-      <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
-      <description>How Every uses custom agents for prioritization, meeting notes, OKR planning, and growth tracking—plus sample prompts to build your own</description>
-      <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Build Your Own Financial Analyst With AI</title>
       <link>https://every.to/p/build-your-own-financial-analyst-with-ai</link>
       <description>A step-by-step guide to going from ChatGPT earnings previews to a custom investment dashboard—no engineering team required</description>
       <guid isPermaLink="false">https://every.to/p/build-your-own-financial-analyst-with-ai</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Plus One: One-click OpenClaw Agents by Every</title>
-      <link>https://every.to/on-every/introducing-plus-one-one-click-openclaw-agents-by-every</link>
-      <description>We spent months building the perfect AI coworkers. Now you can use them too.</description>
-      <guid isPermaLink="false">https://every.to/on-every/introducing-plus-one-one-click-openclaw-agents-by-every</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Agent That Saved My Brain</title>
@@ -149,13 +131,6 @@
       <description>Lessons learned when vibe code meets high load</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: GPT-5.4—OpenAI Is Back</title>
-      <link>https://every.to/vibe-check/gpt-5-4-openai-is-back</link>
-      <description>GPT-5.4 is fast, opinionated, and good enough to tempt our Opus loyalist</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-4-openai-is-back</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>This Is How the Every Editorial Team Uses AI</title>
