@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 15:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:09:15 +0000</lastBuildDate>
+    <item>
+      <title>What I Learned O nboarding Our AI Project Manager</title>
+      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
+      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
+    </item>
     <item>
       <title>How to Start a Career When AI Is Doing Your Entry-level Job</title>
       <link>https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</link>
@@ -112,13 +117,6 @@
       <description>The AI-native IDE is now becoming an agent-orchestration tool. Will it work?</description>
       <guid isPermaLink="false">https://every.to/vibe-check/cursor</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What I Learned Onboarding Our AI Project Manager</title>
-      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
-      <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
-      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Build Your Own Financial Analyst With AI</title>
