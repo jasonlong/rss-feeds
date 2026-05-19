@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 13:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:16:27 +0000</lastBuildDate>
+    <item>
+      <title>How to Start a Career When AI Is Doing Your Entry-level Job</title>
+      <link>https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</link>
+      <description>Four pieces of unsolicited advice from an AI-pilled millennial</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>After the Personal Agent</title>
       <link>https://every.to/context-window/after-the-personal-agent</link>
@@ -49,13 +56,6 @@
       <description>The best stories live in people—and getting them out is still a human job</description>
       <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Work Is Splitting in Two</title>
-      <link>https://every.to/context-window/ai-work-is-splitting-in-two</link>
-      <description>Plus: Anthropic’s agent push, ChatGPT as project manager, and optimism in biotech</description>
-      <guid isPermaLink="false">https://every.to/context-window/ai-work-is-splitting-in-two</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside Anthropic’s 2026 Developer Conference</title>
