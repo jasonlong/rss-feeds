@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 09:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:13:08 +0000</lastBuildDate>
+    <item>
+      <title>Why Aaron Rodgers showing up to OTAs matters more than ever: Steelers notebook</title>
+      <link>https://www.nytimes.com/athletic/7289659/2026/05/19/aaron-rodgers-pittsburgh-steelers-ota/</link>
+      <description>Plus, the QB2 battle is underway, and the first look at the offensive line at the first practice of OTAs.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7289659/2026/05/19/aaron-rodgers-pittsburgh-steelers-ota/</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pittsburgh reunites Aaron Rodgers &amp; Mike McCarthy and all I can think is ... meh</title>
       <link>https://www.nytimes.com/athletic/7290141/2026/05/18/pittsburgh-reunites-aaron-rodgers-mike-mccarthy-and-all-i-can-think-is-meh/</link>
@@ -175,13 +182,6 @@
       <description>Plus, an Aaron Rodgers power play, a Drew Allar plan and what a Joey Porter Jr. extension could look like.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7246524/2026/05/04/steelers-mailbag-omar-khan-first-round-pick/</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 NFL Draft's best UDFA fits: 1 undrafted free agent to watch on each roster</title>
-      <link>https://www.nytimes.com/athletic/7244301/2026/05/02/nfl-draft-2026-undrafted-free-agents-best-prospects/</link>
-      <description>Every year, several undrafted free agents play themselves onto 53-man rosters. Which sleepers will emerge this spring and summer?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7244301/2026/05/02/nfl-draft-2026-undrafted-free-agents-best-prospects/</guid>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
