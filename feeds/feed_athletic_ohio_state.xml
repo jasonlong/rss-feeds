@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 03:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 05:31:33 +0000</lastBuildDate>
+    <item>
+      <title>Ryan Day: Eliminating Big Ten title game would enhance Ohio State-Michigan showdown</title>
+      <link>https://www.nytimes.com/athletic/7290189/2026/05/18/ryan-day-eliminating-big-ten-title-game-ohio-state-michigan/</link>
+      <description>Michigan leads the all-time series 62-52-6 going back to 1897.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7290189/2026/05/18/ryan-day-eliminating-big-ten-title-game-ohio-state-michigan/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Revisiting the top 10 college football recruiting classes of the 2023 cycle</title>
       <link>https://www.nytimes.com/athletic/7279669/2026/05/15/college-football-recruiting-2023-ranking/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7212206/2026/04/23/arvell-reese-giants-ohio-state-nfl-draft-pick-5-2026/</link>
       <description>Reese started for only one season, but he broke out as an All-American and freakish athlete off the edge for an elite Ohio State defense.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7212206/2026/04/23/arvell-reese-giants-ohio-state-nfl-draft-pick-5-2026/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carnell Tate, WR from Ohio State, selected by Titans with No. 4 pick in 2026 NFL Draft</title>
-      <link>https://www.nytimes.com/athletic/7212087/2026/04/23/carnell-tate-ohio-state-titans-nfl-draft-pick-4-2026/</link>
-      <description>Tate is the sixth Ohio State wide receiver picked in the first round of the NFL Draft since 2022.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7212087/2026/04/23/carnell-tate-ohio-state-titans-nfl-draft-pick-4-2026/</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
