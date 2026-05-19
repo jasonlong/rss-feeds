@@ -8,7 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 21:38:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 22:37:19 +0000</lastBuildDate>
+    <item>
+      <title>The Science of Why A I Still Can’t Write Like You</title>
+      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
+      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
+    </item>
+    <item>
+      <title>What I Learned O nboarding Our AI Project Manager</title>
+      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
+      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
+    </item>
+    <item>
+      <title>Vibe Check: C ursor 3.0 Bets Big on Agent Orchestration</title>
+      <link>https://every.to/vibe-check/cursor</link>
+      <guid isPermaLink="false">https://every.to/vibe-check/cursor</guid>
+    </item>
+    <item>
+      <title>Vibe Check: GPT-5.5 Has It A ll</title>
+      <link>https://every.to/vibe-check/gpt-5-5</link>
+      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-5</guid>
+    </item>
+    <item>
+      <title>The Folder Is the A gent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent</link>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
+    </item>
+    <item>
+      <title>Mining Your L ife for Context</title>
+      <link>https://every.to/context-window/mining-your-life-for-context</link>
+      <guid isPermaLink="false">https://every.to/context-window/mining-your-life-for-context</guid>
+    </item>
     <item>
       <title>Inside the 100-agent Software Factory</title>
       <link>https://every.to/context-window/inside-the-100-agent-software-factory</link>
@@ -44,13 +74,6 @@
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mining Your Life for Context</title>
-      <link>https://every.to/context-window/mining-your-life-for-context</link>
-      <description>Plus, how Every’s head of growth stays focused and some aggressively casual language </description>
-      <guid isPermaLink="false">https://every.to/context-window/mining-your-life-for-context</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Fallacy of the 16-hour Agent</title>
       <link>https://every.to/context-window/the-fallacy-of-the-16-hour-agent</link>
       <description>Plus: Perplexity’s rules for agent skills, the office politics of dictation, and creating a weekend AI piano coach</description>
@@ -79,13 +102,6 @@
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vibe Check: GPT-5.5 Has It All</title>
-      <link>https://every.to/vibe-check/gpt-5-5</link>
-      <description>OpenAI’s new model is a top-end senior engineer—and easy to talk to</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-5</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How I Escaped AI Autopilot</title>
       <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
@@ -100,32 +116,11 @@
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Folder Is the Agent</title>
-      <link>https://every.to/source-code/the-folder-is-the-agent</link>
-      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
-      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How We Run a 25-person Company on Four AI Agents</title>
       <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
       <description>How Every uses custom agents for prioritization, meeting notes, OKR planning, and growth tracking—plus sample prompts to build your own</description>
       <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration</title>
-      <link>https://every.to/vibe-check/cursor</link>
-      <description>The AI-native IDE is now becoming an agent-orchestration tool. Will it work?</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/cursor</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What I Learned Onboarding Our AI Project Manager</title>
-      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
-      <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
-      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Build Your Own Financial Analyst With AI</title>
@@ -154,13 +149,6 @@
       <description>Lessons learned when vibe code meets high load</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Science of Why AI Still Can't Write Like You</title>
-      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
-      <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
-      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: GPT-5.4—OpenAI Is Back</title>
