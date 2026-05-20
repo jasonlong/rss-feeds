@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 07:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Big Ten, Tony Petitti all in on 24-team CFP: 'We feel strongly about it'</title>
+      <link>https://www.nytimes.com/athletic/7293218/2026/05/20/big-ten-meetings-tony-petitti-24-team-cfp/</link>
+      <description>"Inside our league," the Big Ten commissioner said, "there is a deep commitment to 24 and the access."</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7293218/2026/05/20/big-ten-meetings-tony-petitti-24-team-cfp/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What you need to know about Ohio State's 2026 roster: 44 thoughts on 44 offensive players</title>
       <link>https://www.nytimes.com/athletic/7289574/2026/05/19/ohio-state-football-roster-2026-offense/</link>
@@ -176,13 +183,6 @@
       <description>It was no surprise that, after selecting edge rusher Arvell Reese at No. 5, John Harbaugh and Joe Schoen did something kind for their QB.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7224388/2026/04/24/giants-nfl-draft-john-harbaugh-jaxson-dart/</guid>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dallas Cowboys select Ohio State safety Caleb Downs with No. 11 pick in 2026 NFL Draft</title>
-      <link>https://www.nytimes.com/athletic/7206109/2026/04/23/caleb-downs-cowboys-ohio-state-nfl-draft-pick-11-2026/</link>
-      <description>Caleb Downs' versatility was the centerpiece of Ohio State's juggernaut defense this past season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7206109/2026/04/23/caleb-downs-cowboys-ohio-state-nfl-draft-pick-11-2026/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
