@@ -8,7 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 13:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:14:04 +0000</lastBuildDate>
+    <item>
+      <title>Inside Anthropic’s 2026 D eveloper Conference</title>
+      <link>https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</link>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</guid>
+    </item>
+    <item>
+      <title>The Science of Why A I Still Can’t Write Like You</title>
+      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
+      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
+    </item>
+    <item>
+      <title>What I Learned O nboarding Our AI Project Manager</title>
+      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
+      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
+    </item>
     <item>
       <title>Inside the 100-agent Software Factory</title>
       <link>https://every.to/context-window/inside-the-100-agent-software-factory</link>
@@ -65,13 +80,6 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inside Anthropic’s 2026 Developer Conference</title>
-      <link>https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</link>
-      <description>What it was like in the room, plus what the new Managed Agents features look like in production</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code for Product Managers</title>
       <link>https://every.to/source-code/claude-code-for-product-managers</link>
       <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
@@ -121,13 +129,6 @@
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What I Learned Onboarding Our AI Project Manager</title>
-      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
-      <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
-      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Build Your Own Financial Analyst With AI</title>
       <link>https://every.to/p/build-your-own-financial-analyst-with-ai</link>
       <description>A step-by-step guide to going from ChatGPT earnings previews to a custom investment dashboard—no engineering team required</description>
@@ -154,13 +155,6 @@
       <description>Lessons learned when vibe code meets high load</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Science of Why AI Still Can't Write Like You</title>
-      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
-      <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
-      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: GPT-5.4—OpenAI Is Back</title>
