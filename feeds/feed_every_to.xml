@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 17:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:48:47 +0000</lastBuildDate>
+    <item>
+      <title>After Automation</title>
+      <link>https://every.to/p/after-automation</link>
+      <description>AI progress creates more work for humans, not less</description>
+      <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
     <item>
       <title>Google I/O: Agents, Agents, Agents</title>
       <link>https://every.to/context-window/google-i-o-agents-agents-agents</link>
@@ -49,13 +55,6 @@
       <description>Plus: The ‘Mini Shai-Hulud’ breach, a small step to eliminating AI-isms, and how we define ‘agent’</description>
       <guid isPermaLink="false">https://every.to/context-window/opus-4-7-reels-us-back-in</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mining Your Life for Context</title>
-      <link>https://every.to/context-window/mining-your-life-for-context</link>
-      <description>Plus, how Every’s head of growth stays focused and some aggressively casual language </description>
-      <guid isPermaLink="false">https://every.to/context-window/mining-your-life-for-context</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Socrates as a Service</title>
@@ -112,13 +111,6 @@
       <description>How Every uses custom agents for prioritization, meeting notes, OKR planning, and growth tracking—plus sample prompts to build your own</description>
       <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration</title>
-      <link>https://every.to/vibe-check/cursor</link>
-      <description>The AI-native IDE is now becoming an agent-orchestration tool. Will it work?</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/cursor</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What I Learned Onboarding Our AI Project Manager</title>
