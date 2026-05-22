@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 19:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 20:40:16 +0000</lastBuildDate>
+    <item>
+      <title>Build Your Own F inancial Analyst With AI</title>
+      <link>https://every.to/p/build-your-own-financial-analyst-with-ai</link>
+      <guid isPermaLink="false">https://every.to/p/build-your-own-financial-analyst-with-ai</guid>
+    </item>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Notes From the Foothills of the Singularity</title>
+      <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
+      <description>Google I/O wasn't flashy, but it might be the most important yet</description>
+      <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Google I/O: Agents, Agents, Agents</title>
@@ -48,13 +60,6 @@
       <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
       <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opus 4.7 Reels Us Back In</title>
-      <link>https://every.to/context-window/opus-4-7-reels-us-back-in</link>
-      <description>Plus: The ‘Mini Shai-Hulud’ breach, a small step to eliminating AI-isms, and how we define ‘agent’</description>
-      <guid isPermaLink="false">https://every.to/context-window/opus-4-7-reels-us-back-in</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Socrates as a Service</title>
@@ -92,13 +97,6 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Vibe Check: Opus 4.7 Stopped Reading Between the Lines</title>
-      <link>https://every.to/vibe-check/opus-4-7</link>
-      <description>Anthropic's latest Opus is more precise, more literal, and the best coding model we've tested on well-specified tasks—but it won't fill in the gaps for you anymore</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/opus-4-7</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Folder Is the Agent</title>
       <link>https://every.to/source-code/the-folder-is-the-agent</link>
       <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
@@ -118,13 +116,6 @@
       <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
       <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own Financial Analyst With AI</title>
-      <link>https://every.to/p/build-your-own-financial-analyst-with-ai</link>
-      <description>A step-by-step guide to going from ChatGPT earnings previews to a custom investment dashboard—no engineering team required</description>
-      <guid isPermaLink="false">https://every.to/p/build-your-own-financial-analyst-with-ai</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Agent That Saved My Brain</title>
