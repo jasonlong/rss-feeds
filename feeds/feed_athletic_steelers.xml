@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 09:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:10:44 +0000</lastBuildDate>
+    <item>
+      <title>Steelers have a QB competition — one with immediate and long-term consequences</title>
+      <link>https://www.nytimes.com/athletic/7298713/2026/05/22/aaron-rodgers-pittsburgh-steelers-qb2-backup-battle/</link>
+      <description>Mike McCarthy and the Steelers have decisions to make behind Aaron Rodgers on the depth chart.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7298713/2026/05/22/aaron-rodgers-pittsburgh-steelers-qb2-backup-battle/</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Writing off Aaron Rodgers misses the point. Why not just enjoy his final ride?</title>
       <link>https://www.nytimes.com/athletic/7296551/2026/05/21/aaron-rodgers-final-season-retirement-steelers/</link>
@@ -175,13 +182,6 @@
       <description>Which teams have what it takes to make a Super Bowl run?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7252937/2026/05/08/nfl-draft-2026-roster-rankings-projections/</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Rodgers to visit with the Steelers in Pittsburgh: Source</title>
-      <link>https://www.nytimes.com/athletic/7261298/2026/05/07/aaron-rodgers-visit-pittsburgh-steelers/</link>
-      <description>The Steelers begin organized team activities on May 18.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7261298/2026/05/07/aaron-rodgers-visit-pittsburgh-steelers/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
