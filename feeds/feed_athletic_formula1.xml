@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 11:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:35:59 +0000</lastBuildDate>
+    <item>
+      <title>McLaren conquered F1. Can it end a 50-year wait for Indy 500 glory?</title>
+      <link>https://www.nytimes.com/athletic/7304003/2026/05/24/mclaren-indy-500/</link>
+      <description>McLaren hasn't won Indy since 1976. But with four cars, a new team boss, and Pato O'Ward hungry, Sunday could finally change that</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7304003/2026/05/24/mclaren-indy-500/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Andrea Stella reaffirms McLaren future amid Lambiase succession speculation</title>
       <link>https://www.nytimes.com/athletic/7301315/2026/05/22/andrea-stella-mclaren-team-principal-gianpiero-lambiase/</link>
@@ -176,13 +183,6 @@
       <description>Mark Rushbrook, the global director of Ford Racing, also defended the FIA's plans to change engine designs from 2027 to "help racing".</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7265375/2026/05/09/max-verstappen-ford-le-mans-f1/</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F1 engines to be altered for 2027 season following driver frustration</title>
-      <link>https://www.nytimes.com/athletic/7263467/2026/05/08/f1-engines-change-2027-season/</link>
-      <description>It comes after drivers voiced their frustration en masse at how the new-for-2026 engines require them to drive slower in corners.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7263467/2026/05/08/f1-engines-change-2027-season/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
