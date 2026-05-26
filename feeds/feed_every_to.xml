@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 20:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 21:38:11 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
+      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
+      <description>Setup, workflows, and principles for turning Codex into an operating system for email, writing, research, planning, and reporting—even if you’re not an engineer</description>
+      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cheap Competence, New Frontier</title>
@@ -49,13 +56,6 @@
       <description>Four pieces of unsolicited advice from an AI-pilled millennial</description>
       <guid isPermaLink="false">https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>After the Personal Agent</title>
-      <link>https://every.to/context-window/after-the-personal-agent</link>
-      <description>Plus: Why tacit knowledge matters more than search and Opus 4.7 is winning people back</description>
-      <guid isPermaLink="false">https://every.to/context-window/after-the-personal-agent</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
@@ -118,13 +118,6 @@
       <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
       <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own Financial Analyst With AI</title>
-      <link>https://every.to/p/build-your-own-financial-analyst-with-ai</link>
-      <description>A step-by-step guide to going from ChatGPT earnings previews to a custom investment dashboard—no engineering team required</description>
-      <guid isPermaLink="false">https://every.to/p/build-your-own-financial-analyst-with-ai</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Agent That Saved My Brain</title>
