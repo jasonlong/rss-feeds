@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 18:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 19:46:50 +0000</lastBuildDate>
+    <item>
+      <title>Early OTA takeaways for Browns, Giants, Falcons and others with new head coaches</title>
+      <link>https://www.nytimes.com/athletic/7310124/2026/05/26/nfl-ota-takeaways-browns-giants-raiders-practice/</link>
+      <description>Early insights from OTAs in Cleveland, New York and elsewhere, plus a reader question on mobile quarterbacks</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7310124/2026/05/26/nfl-ota-takeaways-browns-giants-raiders-practice/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers have a QB competition — one with immediate and long-term consequences</title>
       <link>https://www.nytimes.com/athletic/7298713/2026/05/22/aaron-rodgers-pittsburgh-steelers-qb2-backup-battle/</link>
@@ -175,13 +182,6 @@
       <description>The NFL uses a fairly basic formula that sets in stone every team's opponents for the next season by the final day of the regular season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7262821/2026/05/11/nfl-schedule-release-formula-2026/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL projection model ranks all 32 rosters following 2026 draft: Are Rams team to beat?</title>
-      <link>https://www.nytimes.com/athletic/7252937/2026/05/08/nfl-draft-2026-roster-rankings-projections/</link>
-      <description>Which teams have what it takes to make a Super Bowl run?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7252937/2026/05/08/nfl-draft-2026-roster-rankings-projections/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
