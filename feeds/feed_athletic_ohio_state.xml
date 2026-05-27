@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 09:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:22:49 +0000</lastBuildDate>
+    <item>
+      <title>College football's top 100 transfers: Which players will make the biggest impact in 2026?</title>
+      <link>https://www.nytimes.com/athletic/7292480/2026/05/27/ollege-football-transfers-impact-2026/</link>
+      <description>Former Auburn wide receiver Cam Coleman, who will be Arch Manning's No. 1 target at Texas, headlines the list of top transfers.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7292480/2026/05/27/ollege-football-transfers-impact-2026/</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
       <link>https://www.nytimes.com/athletic/7306462/2026/05/25/submit-a-question-for-stewart-mandels-college-football-mailbag-346/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7235554/2026/04/27/submit-your-ohio-state-football-questions-for-cameron-teague-robinsons-mailbag-2/</link>
       <description>The spring game is over. The roster is set. What’s on your mind? Submit your Ohio State football questions below.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7235554/2026/04/27/submit-your-ohio-state-football-questions-for-cameron-teague-robinsons-mailbag-2/</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How prepared is Ohio State to replace another 11 NFL Draft picks? What we've learned so far</title>
-      <link>https://www.nytimes.com/athletic/7231777/2026/04/27/ohio-state-football-roster-nfl-draft-spring/</link>
-      <description>The Buckeyes have led all colleges in NFL Draft picks each of the past two years. Here's how their 2026 roster is coming together.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7231777/2026/04/27/ohio-state-football-roster-nfl-draft-spring/</guid>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 09:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:22:47 +0000</lastBuildDate>
+    <item>
+      <title>My favorite offseason move by every NFL team: Bengals swing big, Chiefs add juice</title>
+      <link>https://www.nytimes.com/athletic/7309904/2026/05/27/nfl-offseason-draft-free-agency-2026/</link>
+      <description>The Bengals, Broncos and Rams made win-now trades, and the Chiefs added a much-needed boost to their run game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7309904/2026/05/27/nfl-offseason-draft-free-agency-2026/</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Early OTA takeaways for Browns, Giants, Falcons and others with new head coaches</title>
       <link>https://www.nytimes.com/athletic/7310124/2026/05/26/nfl-ota-takeaways-browns-giants-raiders-practice/</link>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7269375/2026/05/11/steelers-rookie-camp-takeaways-drew-allar/</link>
       <description>Plus, where is Eli Heidenreich, the Swiss Army knife from Navy, going to line up, and more from Mike McCarthy's first rookie minicamp.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7269375/2026/05/11/steelers-rookie-camp-takeaways-drew-allar/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL 2026 schedule release: How opponents are selected — and why we’ve known them for months</title>
-      <link>https://www.nytimes.com/athletic/7262821/2026/05/11/nfl-schedule-release-formula-2026/</link>
-      <description>The NFL uses a fairly basic formula that sets in stone every team's opponents for the next season by the final day of the regular season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7262821/2026/05/11/nfl-schedule-release-formula-2026/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
