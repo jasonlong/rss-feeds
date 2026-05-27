@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 18:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:51:58 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>After ‘After Automation’</title>
+      <link>https://every.to/context-window/after-after-automation</link>
+      <description>Plus: The Vatican weighs in on AI labor, and our Codex playbook</description>
+      <guid isPermaLink="false">https://every.to/context-window/after-after-automation</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
@@ -49,13 +56,6 @@
       <description>A mini-Vibe Check on Gas City, a Grok classifier that grades your X drafts, and why HTML is the new markdown</description>
       <guid isPermaLink="false">https://every.to/context-window/inside-the-100-agent-software-factory</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Start a Career When AI Is Doing Your Entry-level Job</title>
-      <link>https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</link>
-      <description>Four pieces of unsolicited advice from an AI-pilled millennial</description>
-      <guid isPermaLink="false">https://every.to/working-overtime/how-to-start-a-career-when-ai-is-doing-your-entry-level-job</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
