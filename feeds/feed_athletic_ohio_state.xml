@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 09:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:23:03 +0000</lastBuildDate>
+    <item>
+      <title>Ohio State is off to a strong recruiting start. Here are 5 questions dictating its finish</title>
+      <link>https://www.nytimes.com/athletic/7312273/2026/05/28/ohio-state-recruiting-football-2027-commits-visits/</link>
+      <description>Ohio State has two five-star prospects committed, but we'll learn a lot more about the ceiling of the 2027 class over the next month.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7312273/2026/05/28/ohio-state-recruiting-football-2027-commits-visits/</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football's top 100 transfers: Which players will make the biggest impact in 2026?</title>
       <link>https://www.nytimes.com/athletic/7292480/2026/05/27/ollege-football-transfers-impact-2026/</link>
@@ -176,13 +183,6 @@
       <description>There was some big news out of Texas Tech on Monday, and this week’s Mailbag is going to run a day later than usual on Thursday. What else might come out? Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7235583/2026/04/28/submit-a-question-for-stewart-mandels-college-football-mailbag-343/</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit your Ohio State football questions for Cameron Teague Robinson’s mailbag</title>
-      <link>https://www.nytimes.com/athletic/7235554/2026/04/27/submit-your-ohio-state-football-questions-for-cameron-teague-robinsons-mailbag-2/</link>
-      <description>The spring game is over. The roster is set. What’s on your mind? Submit your Ohio State football questions below.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7235554/2026/04/27/submit-your-ohio-state-football-questions-for-cameron-teague-robinsons-mailbag-2/</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
