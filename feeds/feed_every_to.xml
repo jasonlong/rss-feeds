@@ -8,17 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 17:26:02 +0000</lastBuildDate>
-    <item>
-      <title>Inside Anthropic’s 2026 D eveloper Conference</title>
-      <link>https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</link>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/inside-anthropic-s-2026-developer-conference</guid>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 19:04:16 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Vibe Check: Opus 4.8—Anthropic Should’ve Rounded Up to 5</title>
+      <link>https://every.to/vibe-check/opus-4-8-vibecheck</link>
+      <description>Opus 4.8 tops both our Senior Engineer benchmark and our writing tests. It’s the most complete model we’ve tested. We just wish it had an app to match.</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/opus-4-8-vibecheck</guid>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>After ‘After Automation’</title>
@@ -54,13 +56,6 @@
       <description>Plus: Why Anthropic just acquired a startup that makes developer tools for a reported $300 million, and a mini-Vibe Check on Figma's agent</description>
       <guid isPermaLink="false">https://every.to/context-window/google-i-o-agents-agents-agents</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the 100-agent Software Factory</title>
-      <link>https://every.to/context-window/inside-the-100-agent-software-factory</link>
-      <description>A mini-Vibe Check on Gas City, a Grok classifier that grades your X drafts, and why HTML is the new markdown</description>
-      <guid isPermaLink="false">https://every.to/context-window/inside-the-100-agent-software-factory</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
