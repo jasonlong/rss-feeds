@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 11:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 13:23:43 +0000</lastBuildDate>
+    <item>
+      <title>Ohio State fans: How do you feel about the Buckeyes in 2026? Let us know in our survey</title>
+      <link>https://www.nytimes.com/athletic/7315374/2026/05/29/ohio-state-football-fan-survey-2026/</link>
+      <description>Give us your thoughts on the Buckeyes heading into 2026, plus College Football Playoff expansion and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7315374/2026/05/29/ohio-state-football-fan-survey-2026/</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why Michigan-Ohio State should move to October if the Playoff expands to 24 teams</title>
       <link>https://www.nytimes.com/athletic/7315445/2026/05/29/michigan-ohio-state-date-college-football-playoff-expansion/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7240386/2026/04/30/college-football-transfer-portal-dl-rankings-wilson-umanmielen/</link>
       <description>Seven of the top 20 D-line transfers are headed to the SEC, six to the Big 12, four to the Big Ten, two to Notre Dame and one to the ACC.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7240386/2026/04/30/college-football-transfer-portal-dl-rankings-wilson-umanmielen/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brendan Sorsby and the transfer portal's vetting problem; is the 2027 QB class overhyped? Mandel's Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7242196/2026/04/30/brendan-sorsby-quarterback-overyped-transfer-portal/</link>
-      <description>With how fast the transfer portal moves, how much can schools really find out about players they're paying millions?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7242196/2026/04/30/brendan-sorsby-quarterback-overyped-transfer-portal/</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
