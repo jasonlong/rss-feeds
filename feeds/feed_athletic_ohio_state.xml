@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 09:24:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:15:48 +0000</lastBuildDate>
+    <item>
+      <title>Why Michigan-Ohio State should move to October if the Playoff expands to 24 teams</title>
+      <link>https://www.nytimes.com/athletic/7315445/2026/05/29/michigan-ohio-state-date-college-football-playoff-expansion/</link>
+      <description>I love Michigan-Ohio State as is, but I worry the greatness of the rivalry will be wasted if played after a 24-team CFP is mostly set.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7315445/2026/05/29/michigan-ohio-state-date-college-football-playoff-expansion/</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ohio State is off to a strong recruiting start. Here are 5 questions dictating its finish</title>
       <link>https://www.nytimes.com/athletic/7312273/2026/05/28/ohio-state-recruiting-football-2027-commits-visits/</link>
@@ -176,13 +183,6 @@
       <description>With how fast the transfer portal moves, how much can schools really find out about players they're paying millions?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7242196/2026/04/30/brendan-sorsby-quarterback-overyped-transfer-portal/</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7235583/2026/04/28/submit-a-question-for-stewart-mandels-college-football-mailbag-343/</link>
-      <description>There was some big news out of Texas Tech on Monday, and this week’s Mailbag is going to run a day later than usual on Thursday. What else might come out? Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7235583/2026/04/28/submit-a-question-for-stewart-mandels-college-football-mailbag-343/</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
