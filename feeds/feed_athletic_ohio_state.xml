@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:55:33 +0000</lastBuildDate>
+    <item>
+      <title>Who are the biggest recruiting finds at every Power 4 school in the past decade?</title>
+      <link>https://www.nytimes.com/athletic/7310058/2026/06/01/college-football-recruiting-under-the-radar-players/</link>
+      <description>Ladd McConkey, who won two national titles at Georgia, was ranked No. 1,131 in his class. Former LSU star Justin Jefferson was No. 2,174.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7310058/2026/06/01/college-football-recruiting-under-the-radar-players/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top 25 college football rankings for 2026 season after spring: Indiana is back at No.1</title>
+      <link>https://www.nytimes.com/athletic/7300324/2026/06/01/college-football-spring-ball-top-25-rankings-2026-predictions/</link>
+      <description>Which teams climbed and which ones fell after spring ball?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7300324/2026/06/01/college-football-spring-ball-top-25-rankings-2026-predictions/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit a question to Stewart Mandel's College Football Mailbag</title>
       <link>https://www.nytimes.com/athletic/7323052/2026/06/01/submit-a-question-to-stewart-mandels-college-football-mailbag-3/</link>
@@ -169,20 +183,6 @@
       <description>The Brendan Sorsby saga continues to dominate the news, but there’s plenty more college football to discuss. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7251815/2026/05/04/submit-a-question-for-stewart-mandels-college-football-mailbag-344/</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Ten schools receive record $1.37 billion from 2024-25 fiscal year</title>
-      <link>https://www.nytimes.com/athletic/7247171/2026/05/01/big-ten-sports-revenue-billion-dollars/</link>
-      <description>The 2024-25 fiscal year was the Big Ten’s first with 18 members and coincided with a new media rights deal and the new 12-team CFP.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7247171/2026/05/01/big-ten-sports-revenue-billion-dollars/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is QB Julian Sayin a first-round talent? Was OL coach Tyler Bowen a bad hire? Ohio State Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7244159/2026/05/01/julian-sayin-nfl-draft-ohio-state-mailbag/</link>
-      <description>Cameron Teague Robinson digs into the Buckeyes football mailbag, including a question about quarterback Julian Sayin's NFL Draft prospects.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7244159/2026/05/01/julian-sayin-nfl-draft-ohio-state-mailbag/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
