@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 15:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 18:11:36 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,17 +16,24 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
+      <title>Company-wide AI Implementation in Five Steps</title>
+      <link>https://every.to/p/company-wide-ai-implementation-in-five-steps</link>
+      <description>A look inside Every’s executive training playbook</description>
+      <guid isPermaLink="false">https://every.to/p/company-wide-ai-implementation-in-five-steps</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How We Work Now</title>
       <link>https://every.to/context-window/how-we-work-now</link>
       <description>Plus: Vibe Check on Opus 4.8, the Vatican’s first AI encyclical, and a doctor on AI-guided care</description>
       <guid isPermaLink="false">https://every.to/context-window/how-we-work-now</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compound Engineering Gets an Upgrade</title>
-      <link>https://every.to/guides/compound-engineering-gets-an-upgrade</link>
+      <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
       <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
-      <guid isPermaLink="false">https://every.to/guides/compound-engineering-gets-an-upgrade</guid>
+      <guid isPermaLink="false">https://every.to/p/compound-engineering-gets-an-upgrade</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
