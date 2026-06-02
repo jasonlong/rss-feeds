@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 07:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 09:40:34 +0000</lastBuildDate>
     <item>
       <title>mythos coffee x la marzocco home</title>
       <link>https://home.lamarzoccousa.com/mythos-coffee-x-la-marzocco-home/</link>
@@ -652,6 +652,12 @@
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Familiar Charm: an At-Home Version of Anthony Douglas’ 2022 WBC Signature Drink</title>
+      <link>https://home.lamarzoccousa.com/the-familiar-charm-recipe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-familiar-charm-recipe/</guid>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tiny Arms x La Marzocco Home</title>
       <link>https://home.lamarzoccousa.com/april-roaster-2023/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/april-roaster-2023/</guid>
@@ -1076,6 +1082,12 @@
       <link>https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Connected Machine Retrofit Kits are Now Available</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SEY Coffee: June 2020</title>
@@ -1718,12 +1730,6 @@
       <link>https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</guid>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>June 2017: Madcap Coffee Espresso Specs</title>
-      <link>https://home.lamarzoccousa.com/june-subscription-madcap/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/june-subscription-madcap/</guid>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Video: May Espresso Subscription – Toby’s Estate</title>
