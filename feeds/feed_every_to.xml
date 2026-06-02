@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 15:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 17:42:52 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Where Do You Fall on the Eight Levels of AI Adoption?</title>
+      <link>https://every.to/p/where-do-you-fall-on-the-eight-levels-of-ai-adoption</link>
+      <description>A guide for identifying which state of AI adoption matches your needs, complete with sample prompts and advice for when it’s time to move to the next level</description>
+      <guid isPermaLink="false">https://every.to/p/where-do-you-fall-on-the-eight-levels-of-ai-adoption</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Company-wide AI Implementation in Five Steps</title>
@@ -27,7 +34,7 @@
       <link>https://every.to/context-window/how-we-work-now</link>
       <description>Plus: Vibe Check on Opus 4.8, the Vatican’s first AI encyclical, and a doctor on AI-guided care</description>
       <guid isPermaLink="false">https://every.to/context-window/how-we-work-now</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compound Engineering Gets an Upgrade</title>
@@ -56,13 +63,6 @@
       <description>Setup, workflows, and principles for turning Codex into an operating system for email, writing, research, planning, and reporting—even if you’re not an engineer</description>
       <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cheap Competence, New Frontier</title>
-      <link>https://every.to/context-window/cheap-competence-new-frontier</link>
-      <description>Plus: Why AI makes excellent doctors more valuable, not less</description>
-      <guid isPermaLink="false">https://every.to/context-window/cheap-competence-new-frontier</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Notes From the Foothills of the Singularity</title>
