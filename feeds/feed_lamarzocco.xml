@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 13:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 15:35:49 +0000</lastBuildDate>
     <item>
       <title>mythos coffee x la marzocco home</title>
       <link>https://home.lamarzoccousa.com/mythos-coffee-x-la-marzocco-home/</link>
@@ -242,12 +242,6 @@
       <link>https://home.lamarzoccousa.com/counter-culture-x-la-marzocco-home/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/counter-culture-x-la-marzocco-home/</guid>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coffee Station FAQ</title>
-      <link>https://home.lamarzoccousa.com/coffee-station-faq/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/coffee-station-faq/</guid>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Guide: Connecting the Pico to the La Marzocco App</title>
@@ -652,6 +646,12 @@
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Familiar Charm: an At-Home Version of Anthony Douglas’ 2022 WBC Signature Drink</title>
+      <link>https://home.lamarzoccousa.com/the-familiar-charm-recipe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-familiar-charm-recipe/</guid>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tiny Arms x La Marzocco Home</title>
       <link>https://home.lamarzoccousa.com/april-roaster-2023/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/april-roaster-2023/</guid>
@@ -788,12 +788,6 @@
       <link>https://home.lamarzoccousa.com/a-street-coffee-car-with-heart/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/a-street-coffee-car-with-heart/</guid>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coava Coffee x La Marzocco Home</title>
-      <link>https://home.lamarzoccousa.com/coava-coffee/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/coava-coffee/</guid>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Partners Coffee￼</title>
@@ -1006,12 +1000,6 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ruby Coffee Roasters: December 2020</title>
-      <link>https://home.lamarzoccousa.com/ruby-coffee-roasters-december-2020/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/ruby-coffee-roasters-december-2020/</guid>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Beginner’s Guide to Espresso Drinks</title>
       <link>https://home.lamarzoccousa.com/the-beginners-guide-to-espresso-drinks-2/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/the-beginners-guide-to-espresso-drinks-2/</guid>
@@ -1076,6 +1064,12 @@
       <link>https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea Mini Connected Machine Retrofit Kits are Now Available</title>
+      <link>https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</guid>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SEY Coffee: June 2020</title>
@@ -1214,12 +1208,6 @@
       <link>https://home.lamarzoccousa.com/at-home-baristas-mise-en-place/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/at-home-baristas-mise-en-place/</guid>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pro Tips for Latte Art</title>
-      <link>https://home.lamarzoccousa.com/pro-tips-for-latte-art/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/pro-tips-for-latte-art/</guid>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Coffee Seasonality</title>
@@ -1502,12 +1490,6 @@
       <link>https://home.lamarzoccousa.com/how-to-bleed-the-group-on-the-gs3-mp/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/how-to-bleed-the-group-on-the-gs3-mp/</guid>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>July 2018: La Colombe Espresso Specs</title>
-      <link>https://home.lamarzoccousa.com/july2018-espresso-subscription/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/july2018-espresso-subscription/</guid>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Los Angeles Open House 2018</title>
