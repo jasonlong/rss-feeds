@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 09:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 11:39:09 +0000</lastBuildDate>
+    <item>
+      <title>College football preseason top-25 rankings for 2026: Man vs. Machine</title>
+      <link>https://www.nytimes.com/athletic/7320105/2026/06/02/college-football-preseason-top-25-computer-analytics/</link>
+      <description>One originates from roster talent evaluation and intel, the other from a statistical projection model.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7320105/2026/06/02/college-football-preseason-top-25-computer-analytics/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ten college football recruiting storylines to watch as official visits heat up</title>
+      <link>https://www.nytimes.com/athletic/7322592/2026/06/02/college-football-recruiting-lsu-texas-georgia/</link>
+      <description>Will Alabama keep its streak of top-five classes alive? Can Texas Tech hold onto Jalen Brewster? Where does Colton Nussmeier land?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7322592/2026/06/02/college-football-recruiting-lsu-texas-georgia/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Who are the biggest recruiting finds at every Power 4 school in the past decade?</title>
       <link>https://www.nytimes.com/athletic/7310058/2026/06/01/college-football-recruiting-under-the-radar-players/</link>
@@ -169,20 +183,6 @@
       <description>James Laurinaitis could become Ohio State's next Brian Hartline, and he's only two years in.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7253714/2026/05/06/ohio-state-linebackers-coach-james-laurinaitis/</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How do Big Ten football fans feel right now? Where readers stand on Petitti, CFP and more</title>
-      <link>https://www.nytimes.com/athletic/7251540/2026/05/05/big-ten-fan-survey-tony-petitti/</link>
-      <description>A survey of more than 3,500 readers shows where public opinion around the Big Ten lies as the league builds off a CFP three-peat.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7251540/2026/05/05/big-ten-fan-survey-tony-petitti/</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7251815/2026/05/04/submit-a-question-for-stewart-mandels-college-football-mailbag-344/</link>
-      <description>The Brendan Sorsby saga continues to dominate the news, but there’s plenty more college football to discuss. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7251815/2026/05/04/submit-a-question-for-stewart-mandels-college-football-mailbag-344/</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
