@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 19:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 21:14:59 +0000</lastBuildDate>
+    <item>
+      <title>Pittsburgh Steelers, Nick Herbig agree to 4-year, $100 million deal: Sources</title>
+      <link>https://www.nytimes.com/athletic/7327992/2026/06/02/nick-herbig-steelers-contract-extension-nfl/</link>
+      <description>The linebacker said earlier on Tuesday that he wanted to be "a Steeler for life."</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7327992/2026/06/02/nick-herbig-steelers-contract-extension-nfl/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What to watch at NFL minicamps this week: Steelers, Dolphins first to get underway</title>
       <link>https://www.nytimes.com/athletic/7313038/2026/06/01/nfl-minicamps-storylines-steelers-dolphins/</link>
@@ -175,13 +182,6 @@
       <description>The league is unveiling its full 18-week regular-season schedule — including the primetime slots and holiday lineups.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7272128/2026/05/14/nfl-schedule-release-how-to-watch-2026/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL 2026 international schedule: 49ers-Vikings in Mexico City, Lions-Patriots in Munich</title>
-      <link>https://www.nytimes.com/athletic/7275619/2026/05/13/nfl-international-games-2026-season-schedule/</link>
-      <description>The league will have a record nine international games in 2026, with the 49ers and Jaguars both playing out of the country twice.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7275619/2026/05/13/nfl-international-games-2026-season-schedule/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
