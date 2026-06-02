@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 13:35:10 +0000</lastBuildDate>
     <item>
       <title>mythos coffee x la marzocco home</title>
       <link>https://home.lamarzoccousa.com/mythos-coffee-x-la-marzocco-home/</link>
@@ -223,6 +223,12 @@
       <title>Introducing the Koio x La Marzocco Limited Edition Sneaker</title>
       <link>https://home.lamarzoccousa.com/introducing-the-koio-x-la-marzocco-limited-edition-sneaker/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-koio-x-la-marzocco-limited-edition-sneaker/</guid>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>THE HISTORY OF ESPRESSO NEW YORK WALKING TOUR</title>
+      <link>https://home.lamarzoccousa.com/the-history-of-espresso-new-york-walking-tour/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-history-of-espresso-new-york-walking-tour/</guid>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -646,12 +652,6 @@
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Familiar Charm: an At-Home Version of Anthony Douglas’ 2022 WBC Signature Drink</title>
-      <link>https://home.lamarzoccousa.com/the-familiar-charm-recipe/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-familiar-charm-recipe/</guid>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tiny Arms x La Marzocco Home</title>
       <link>https://home.lamarzoccousa.com/april-roaster-2023/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/april-roaster-2023/</guid>
@@ -788,6 +788,12 @@
       <link>https://home.lamarzoccousa.com/a-street-coffee-car-with-heart/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/a-street-coffee-car-with-heart/</guid>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coava Coffee x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/coava-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/coava-coffee/</guid>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Partners Coffee￼</title>
@@ -1070,12 +1076,6 @@
       <link>https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/installation-guide-linea-mini-connected-machine-retrofit-kit/</guid>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linea Mini Connected Machine Retrofit Kits are Now Available</title>
-      <link>https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/linea-mini-connected-machine-retrofit-kits-are-now-available/</guid>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SEY Coffee: June 2020</title>
@@ -1790,6 +1790,12 @@
       <link>https://home.lamarzoccousa.com/the-2016-home-barista-gift-guide/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/the-2016-home-barista-gift-guide/</guid>
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Marzocco Café Resident: Panther Coffee</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-panther-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-panther-coffee/</guid>
+      <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Make Espresso</title>

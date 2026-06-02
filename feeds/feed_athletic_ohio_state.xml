@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 13:35:12 +0000</lastBuildDate>
+    <item>
+      <title>Submit your Michigan and Ohio State questions for our rivalry mailbag!</title>
+      <link>https://www.nytimes.com/athletic/7326734/2026/06/02/michigan-ohio-state-rivalry-mailbag-questions/</link>
+      <description>Buckeyes expert Cameron Teague Robinson and Wolverines expert Austin Meek are joining forces to answer your rivalry questions.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7326734/2026/06/02/michigan-ohio-state-rivalry-mailbag-questions/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football preseason top-25 rankings for 2026: Man vs. Machine</title>
       <link>https://www.nytimes.com/athletic/7320105/2026/06/02/college-football-preseason-top-25-computer-analytics/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7252418/2026/05/06/big-ten-cfp-title-fan-expectations/</link>
       <description>Big Ten fans may talk a big game, but when pressed on their teams' College Football Playoff outlook, self-awareness takes over.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7252418/2026/05/06/big-ten-cfp-title-fan-expectations/</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State has the ‘best linebackers coach in the country,’ and he's just getting started</title>
-      <link>https://www.nytimes.com/athletic/7253714/2026/05/06/ohio-state-linebackers-coach-james-laurinaitis/</link>
-      <description>James Laurinaitis could become Ohio State's next Brian Hartline, and he's only two years in.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7253714/2026/05/06/ohio-state-linebackers-coach-james-laurinaitis/</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
