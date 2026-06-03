@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:51:02 +0000</lastBuildDate>
+    <item>
+      <title>Ferrari renews Charles Leclerc on new multi-year contract</title>
+      <link>https://www.nytimes.com/athletic/7329379/2026/06/03/charles-leclerc-ferrari-f1-contract-new/</link>
+      <description>The 28-year-old has won eight Grands Prix across nine seasons for Ferrari and last renewed his deal in 2024.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7329379/2026/06/03/charles-leclerc-ferrari-f1-contract-new/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Is this Lewis Hamilton's best chance? Plus: Monaco can be fun this year!</title>
       <link>https://www.nytimes.com/athletic/7328766/2026/06/02/lewis-hamiltons-win-probability-monaco-gp-prime-tire/</link>
@@ -176,13 +183,6 @@
       <description>Piastri is on a long-term contract at McLaren but reports have linked Red Bull with a move for the Australian if Max Verstappen departs.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7295550/2026/05/21/zak-brown-oscar-piastri-mclaren-f1/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside Cadillac's first F1 home race – and the slow, relentless work of a new team</title>
-      <link>https://www.nytimes.com/athletic/7292831/2026/05/20/cadillac-f1-miami-gp-home-debut/</link>
-      <description>Inside the team's Miami GP garage, upgrades and debriefs showed signs Cadillac is slowly finding its F1 footing</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7292831/2026/05/20/cadillac-f1-miami-gp-home-debut/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>

@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:59:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:51:18 +0000</lastBuildDate>
     <item>
       <title>NFL 2026 regular-season schedule: Week-by-week matchups, time and broadcasts</title>
       <link>https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</link>
       <guid isPermaLink="false">https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</guid>
+    </item>
+    <item>
+      <title>Steelers gave Nick Herbig a $100 million contract. What will Joey Porter Jr. get?</title>
+      <link>https://www.nytimes.com/athletic/7328905/2026/06/03/joey-porter-jr-pittsburgh-steelers-contract/</link>
+      <description>As with Herbig, the star cornerback was holding in to start mandatory minicamp.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7328905/2026/06/03/joey-porter-jr-pittsburgh-steelers-contract/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pittsburgh Steelers, Nick Herbig agree to 4-year, $100 million deal: Sources</title>
@@ -174,13 +181,6 @@ Herbig, 24, was set to enter the fourth and final year of his rookie deal, a tim
       <link>https://www.nytimes.com/athletic/7271745/2026/05/14/how-to-watch-nfl-in-2026/</link>
       <description>Where to watch every NFL game in the 2026 NFL season</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7271745/2026/05/14/how-to-watch-nfl-in-2026/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch 2026 NFL schedule reveal: Full slates for all 32 teams to be announced</title>
-      <link>https://www.nytimes.com/athletic/7272128/2026/05/14/nfl-schedule-release-how-to-watch-2026/</link>
-      <description>The league is unveiling its full 18-week regular-season schedule — including the primetime slots and holiday lineups.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7272128/2026/05/14/nfl-schedule-release-how-to-watch-2026/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
