@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 21:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:49:55 +0000</lastBuildDate>
     <item>
       <title>NFL 2026 regular-season schedule: Week-by-week matchups, time and broadcasts</title>
       <link>https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</link>
       <guid isPermaLink="false">https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</guid>
+    </item>
+    <item>
+      <title>Russell Wilson announces he is retiring, joining CBS Sports</title>
+      <link>https://www.nytimes.com/athletic/7324325/2026/06/03/russell-wilson-cbs-analyst-nfl/</link>
+      <description>Wilson is pivoting after completing his 14th NFL season last year with the New York Giants.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7324325/2026/06/03/russell-wilson-cbs-analyst-nfl/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steelers gave Nick Herbig a $100 million contract. What will Joey Porter Jr. get?</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7276583/2026/05/14/2026-nfl-regular-season-key-games/</link>
       <description>The Rams play a whopping seven prime-time games, including each of the first three weeks and four of the first five.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7276583/2026/05/14/2026-nfl-regular-season-key-games/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch the NFL in 2026: Full guide to streaming, cable and TV schedule</title>
-      <link>https://www.nytimes.com/athletic/7271745/2026/05/14/how-to-watch-nfl-in-2026/</link>
-      <description>Where to watch every NFL game in the 2026 NFL season</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7271745/2026/05/14/how-to-watch-nfl-in-2026/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
