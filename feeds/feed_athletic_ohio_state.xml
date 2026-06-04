@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 11:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 13:23:41 +0000</lastBuildDate>
+    <item>
+      <title>How do Ohio State fans feel in 2026? Thoughts on Ryan Day, Michigan, CFP expansion and more</title>
+      <link>https://www.nytimes.com/athletic/7330115/2026/06/04/ohio-state-football-2026-fan-survey/</link>
+      <description>Ohio State fans always have high expectations. Here's what our survey revealed about the football mood in Columbus in 2026.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7330115/2026/06/04/ohio-state-football-2026-fan-survey/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit your Michigan and Ohio State questions for our rivalry mailbag!</title>
       <link>https://www.nytimes.com/athletic/7326734/2026/06/02/michigan-ohio-state-rivalry-mailbag-questions/</link>
@@ -176,13 +183,6 @@
       <description>Life got you down? Ticked about the 76-team NCAA tournament? Yeah, me too. So let’s talk college football instead. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7269628/2026/05/11/submit-a-question-for-stewart-mandels-college-football-mailbag-345/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which Big Ten teams can win it all in the next five years? Here's what fans think</title>
-      <link>https://www.nytimes.com/athletic/7252418/2026/05/06/big-ten-cfp-title-fan-expectations/</link>
-      <description>Big Ten fans may talk a big game, but when pressed on their teams' College Football Playoff outlook, self-awareness takes over.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7252418/2026/05/06/big-ten-cfp-title-fan-expectations/</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
