@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 01:25:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 03:23:19 +0000</lastBuildDate>
     <item>
       <title>NFL 2026 regular-season schedule: Week-by-week matchups, time and broadcasts</title>
       <link>https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</link>
       <guid isPermaLink="false">https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</guid>
+    </item>
+    <item>
+      <title>Steelers, TE Darnell Washington agree to 4-year, $42 million extension: Source</title>
+      <link>https://www.nytimes.com/athletic/7331811/2026/06/03/steelers-darnell-washington-contract-extension/</link>
+      <description>It wasn’t until Aaron Rodgers arrived last summer that Washington became more of a threat in the passing game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7331811/2026/06/03/steelers-darnell-washington-contract-extension/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Russell Wilson announces he is retiring, joining CBS Sports</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7277800/2026/05/14/pittsburgh-steelers-schedule-2026/</link>
       <description>The Steelers look to snap a seven-game postseason losing streak in Mike McCarthy's first year.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7277800/2026/05/14/pittsburgh-steelers-schedule-2026/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 NFL regular-season key games: Loaded Week 1 includes Super Bowl rematch</title>
-      <link>https://www.nytimes.com/athletic/7276583/2026/05/14/2026-nfl-regular-season-key-games/</link>
-      <description>The Rams play a whopping seven prime-time games, including each of the first three weeks and four of the first five.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7276583/2026/05/14/2026-nfl-regular-season-key-games/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
