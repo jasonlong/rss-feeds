@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 15:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 17:13:29 +0000</lastBuildDate>
+    <item>
+      <title>Ohio State approves $100 million settlement for victims in school doctor sexual abuse case</title>
+      <link>https://www.nytimes.com/athletic/7332643/2026/06/04/ohio-state-settlement-richard-strauss-sexual-abuse-case/</link>
+      <description>The school previously reached six separate settlements totaling $61 million with 317 other victims.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7332643/2026/06/04/ohio-state-settlement-richard-strauss-sexual-abuse-case/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How do Ohio State fans feel in 2026? Thoughts on Ryan Day, Michigan, CFP expansion and more</title>
       <link>https://www.nytimes.com/athletic/7330115/2026/06/04/ohio-state-football-2026-fan-survey/</link>
@@ -176,13 +183,6 @@
       <description>Seven of the top 20 defensive back transfers, including the top four, will play in the Big Ten in 2026.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7270184/2026/05/12/college-football-transfer-portal-db-rankings-perich-little/</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7269628/2026/05/11/submit-a-question-for-stewart-mandels-college-football-mailbag-345/</link>
-      <description>Life got you down? Ticked about the 76-team NCAA tournament? Yeah, me too. So let’s talk college football instead. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7269628/2026/05/11/submit-a-question-for-stewart-mandels-college-football-mailbag-345/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
