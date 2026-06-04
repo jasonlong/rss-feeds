@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 07:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:32:06 +0000</lastBuildDate>
     <item>
       <title>NFL 2026 regular-season schedule: Week-by-week matchups, time and broadcasts</title>
       <link>https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</link>
       <guid isPermaLink="false">https://www.nytimes.com/interactive/nfl-schedule-2026-week-by-week-team</guid>
+    </item>
+    <item>
+      <title>T.J. Watt on the move, safety still a need: 10 takeaways from Steelers OTAs</title>
+      <link>https://www.nytimes.com/athletic/7331437/2026/06/04/pittsburgh-steelers-otas-practice-takeaways/</link>
+      <description>Plus, two mid-round Steelers rookies stand out, and a former first-rounder tries to make it as a tryout player.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7331437/2026/06/04/pittsburgh-steelers-otas-practice-takeaways/</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steelers, TE Darnell Washington agree to 4-year, $42 million extension: Source</title>
@@ -174,13 +181,6 @@
       <description>The 49ers' nearby electrical substation was a popular joke, while the Chargers and Titans again were kings of the schedule release videos.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7281122/2026/05/15/nfl-2026-schedule-release-videos-ranked/</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pittsburgh Steelers 2026 schedule: Bonjour France, Black Friday, a Texans rematch</title>
-      <link>https://www.nytimes.com/athletic/7277800/2026/05/14/pittsburgh-steelers-schedule-2026/</link>
-      <description>The Steelers look to snap a seven-game postseason losing streak in Mike McCarthy's first year.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7277800/2026/05/14/pittsburgh-steelers-schedule-2026/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
