@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 19:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:51:13 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Why We’ll Still Be Employed When AI Can Do Everything</title>
+      <link>https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</link>
+      <description>Spiral 4.0 introduces a new style engine, why enterprise roadmaps are hard, and a workflow for making your coding agent more efficient</description>
+      <guid isPermaLink="false">https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Spiral 4.0 Goes Agent-native</title>
@@ -56,13 +63,6 @@
       <description>Opus 4.8 tops both our Senior Engineer benchmark and our writing tests. It’s the most complete model we’ve tested. We just wish it had an app to match.</description>
       <guid isPermaLink="false">https://every.to/vibe-check/opus-4-8-vibecheck</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>After ‘After Automation’</title>
-      <link>https://every.to/context-window/after-after-automation</link>
-      <description>Plus: The Vatican weighs in on AI labor, and our Codex playbook</description>
-      <guid isPermaLink="false">https://every.to/context-window/after-after-automation</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
