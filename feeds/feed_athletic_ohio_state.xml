@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 03:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 05:46:47 +0000</lastBuildDate>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7341306/2026/06/07/submit-a-question-for-stewart-mandels-college-football-mailbag-347/</link>
+      <description>Softball season is over. I’m fully focused on football. At least until I leave on vacation next week. Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7341306/2026/06/07/submit-a-question-for-stewart-mandels-college-football-mailbag-347/</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Will Michigan-Ohio State follow the Duke-UNC model? Your rivalry questions, answered</title>
       <link>https://www.nytimes.com/athletic/7333611/2026/06/05/ohio-state-michigan-football-rivalry-mailbag/</link>
@@ -176,13 +183,6 @@
       <description>Nick Saban’s next-to-last recruiting class included two five-stars who turned into first-round picks in three years.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7279669/2026/05/15/college-football-recruiting-2023-ranking/</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Tennessee commit Derrick Baker, the most under-ranked QB prospect in the '27 class</title>
-      <link>https://www.nytimes.com/athletic/7278780/2026/05/14/college-football-recruiting-derrick-baker-tennessee-georgia/</link>
-      <description>Baker maintains his commitment to the Vols is strong, but other programs — including Georgia — are pursuing the talented signal caller.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7278780/2026/05/14/college-football-recruiting-derrick-baker-tennessee-georgia/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
