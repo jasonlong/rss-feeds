@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 07:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:43:25 +0000</lastBuildDate>
+    <item>
+      <title>Can Q-Tip and OutKast help DC Patrick Graham bring back the Steel Curtain?</title>
+      <link>https://www.nytimes.com/athletic/7349199/2026/06/11/pat-graham-steelers-defensive-coordinator-hip-hop-reports/</link>
+      <description>It's the first step in Graham's plan to restore the Steelers as one of the NFL's elite defenses.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7349199/2026/06/11/pat-graham-steelers-defensive-coordinator-hip-hop-reports/</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Broderick Jones might be a bust, but Omar Khan's first Steelers draft class is thriving</title>
       <link>https://www.nytimes.com/athletic/7346559/2026/06/10/pittsburgh-steelers-omar-khan-2023-draft-class/</link>
@@ -176,13 +183,6 @@
       <description>From reunions and rematches to revenge games and rivalries, these are the can't-miss games for 2026.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7282440/2026/05/18/nfl-schedule-best-game-team-season/</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Aaron Rodgers be a bridge to the Steelers’ future or a roadblock?</title>
-      <link>https://www.nytimes.com/athletic/7285250/2026/05/16/aaron-rodgers-steelers-return-future-analysis/</link>
-      <description>The quarterback ended another drawn-out courtship by agreeing to a deal with Pittsburgh. What's the best-case outcome for the Steelers?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7285250/2026/05/16/aaron-rodgers-steelers-return-future-analysis/</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
