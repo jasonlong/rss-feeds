@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 19:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:59:53 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -21,45 +21,34 @@
       <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
     </item>
     <item>
-      <title>The Folder Is the A gent</title>
-      <link>https://every.to/source-code/the-folder-is-the-agent</link>
-      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
-    </item>
-    <item>
-      <title>Claude Code for P roduct Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
-    </item>
-    <item>
       <title>We Gave Every Employee an AI Agent. Here’s W hat We’re Doing Differently Now.</title>
       <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
       <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
     </item>
     <item>
-      <title>How to Get the Most Out of F able 5</title>
-      <link>https://every.to/context-window/how-to-get-the-most-out-of-fable-5</link>
-      <guid isPermaLink="false">https://every.to/context-window/how-to-get-the-most-out-of-fable-5</guid>
+      <title>Why We’ll Still Be E mployed When AI Can Do Everything</title>
+      <link>https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</link>
+      <guid isPermaLink="false">https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</guid>
     </item>
     <item>
-      <title>AI Everywhere, All at Once</title>
+      <title>My Editor Caught Me Sounding Like A I. Now AI Catches Me First.</title>
+      <link>https://every.to/working-overtime/my-editor-caught-me-sounding-like-ai-now-ai-catches-me-first</link>
+      <guid isPermaLink="false">https://every.to/working-overtime/my-editor-caught-me-sounding-like-ai-now-ai-catches-me-first</guid>
+    </item>
+    <item>
+      <title>AI Everywhere, A ll at Once</title>
       <link>https://every.to/context-window/ai-everywhere-all-at-once</link>
-      <description>Fable 5 versus all other models, a Fable prompt starter pack, and an inside look at Apple’s developer conference</description>
       <guid isPermaLink="false">https://every.to/context-window/ai-everywhere-all-at-once</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Fable 5 Is the Best Coding Model in the World</title>
       <link>https://every.to/vibe-check/anthropic-mythos-our-fable-vibe-check</link>
-      <description>The Mythos-class model is a warp drive for power users—but overpowered for everyone else</description>
       <guid isPermaLink="false">https://every.to/vibe-check/anthropic-mythos-our-fable-vibe-check</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>My Editor Caught Me Sounding Like AI. Now AI Catches Me First.</title>
-      <link>https://every.to/working-overtime/my-editor-caught-me-sounding-like-ai-now-ai-catches-me-first</link>
-      <description>Turning a list of my writing foibles into a skill that stops me from getting away with them</description>
-      <guid isPermaLink="false">https://every.to/working-overtime/my-editor-caught-me-sounding-like-ai-now-ai-catches-me-first</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <title>How to Get the Most Out of F able 5</title>
+      <link>https://every.to/context-window/how-to-get-the-most-out-of-fable-5</link>
+      <guid isPermaLink="false">https://every.to/context-window/how-to-get-the-most-out-of-fable-5</guid>
     </item>
     <item>
       <title>AI Is Ready. Organizations Aren’t.</title>
@@ -74,13 +63,6 @@
       <description>The company gets pragmatic in AI’s expensive era</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why We’ll Still Be Employed When AI Can Do Everything</title>
-      <link>https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</link>
-      <description>Spiral 4.0 introduces a new style engine, why enterprise roadmaps are hard, and a workflow for making your coding agent more efficient</description>
-      <guid isPermaLink="false">https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compound Engineering Gets an Upgrade</title>
@@ -125,11 +107,25 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code for Product Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How I Escaped AI Autopilot</title>
       <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Folder Is the Agent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent</link>
+      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What I Learned Onboarding Our AI Project Manager</title>
