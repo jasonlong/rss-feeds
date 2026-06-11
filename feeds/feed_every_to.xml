@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 15:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:25:12 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>AI Everywhere, All at Once</title>
+      <link>https://every.to/context-window/ai-everywhere-all-at-once</link>
+      <description>Fable 5 versus all other models, a Fable prompt starter pack, and an inside look at Apple’s developer conference</description>
+      <guid isPermaLink="false">https://every.to/context-window/ai-everywhere-all-at-once</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Get the Most Out of Fable 5</title>
@@ -48,13 +55,6 @@
       <description>The company gets pragmatic in AI’s expensive era</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spiral 4.0 Goes Agent-native</title>
-      <link>https://every.to/on-every/spiral-4-0-goes-agent-native</link>
-      <description>Write more like yourself wherever you work</description>
-      <guid isPermaLink="false">https://every.to/on-every/spiral-4-0-goes-agent-native</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why We’ll Still Be Employed When AI Can Do Everything</title>
