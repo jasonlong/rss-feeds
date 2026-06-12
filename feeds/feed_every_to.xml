@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:51:48 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>The Moral of Fable</title>
+      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
+      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Everywhere, All at Once</title>
@@ -57,13 +64,6 @@
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why We’ll Still Be Employed When AI Can Do Everything</title>
-      <link>https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</link>
-      <description>Spiral 4.0 introduces a new style engine, why enterprise roadmaps are hard, and a workflow for making your coding agent more efficient</description>
-      <guid isPermaLink="false">https://every.to/context-window/why-we-ll-still-be-employed-when-ai-can-do-everything</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Compound Engineering Gets an Upgrade</title>
       <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
       <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
@@ -90,13 +90,6 @@
       <description>Google I/O wasn't flashy, but it might be the most important yet</description>
       <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google I/O: Agents, Agents, Agents</title>
-      <link>https://every.to/context-window/google-i-o-agents-agents-agents</link>
-      <description>Plus: Why Anthropic just acquired a startup that makes developer tools for a reported $300 million, and a mini-Vibe Check on Figma's agent</description>
-      <guid isPermaLink="false">https://every.to/context-window/google-i-o-agents-agents-agents</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>

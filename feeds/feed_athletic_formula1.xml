@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:52:03 +0000</lastBuildDate>
+    <item>
+      <title>The Monaco GP only just finished, sort of. Plus: Lando Norris leads early in Barcelona</title>
+      <link>https://www.nytimes.com/athletic/7355092/2026/06/12/monaco-gp-pierre-gasly-review-prime-tire/</link>
+      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7355092/2026/06/12/monaco-gp-pierre-gasly-review-prime-tire/</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>McLaren, Red Bull lodging intentions to appeal FIA ruling on Pierre Gasly</title>
       <link>https://www.nytimes.com/athletic/7354397/2026/06/12/mclaren-red-bull-pierre-gasly-appeal/</link>
@@ -176,13 +183,6 @@
       <description>The Italian team released a statement on Saturday morning announcing the development.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7337840/2026/06/06/ferrari-fred-vasseur-monaco-grand-prix/</guid>
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F1’s engines will confuse Monaco, too. Plus: Lewis Hamilton leads early</title>
-      <link>https://www.nytimes.com/athletic/7336834/2026/06/05/monaco-gp-engines-leaderboard-schedule-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7336834/2026/06/05/monaco-gp-engines-leaderboard-schedule-prime-tire/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
