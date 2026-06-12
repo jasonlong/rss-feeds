@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 15:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:10:08 +0000</lastBuildDate>
+    <item>
+      <title>Submit your questions for Mike DeFabo’s Steelers mailbag</title>
+      <link>https://www.nytimes.com/athletic/7354560/2026/06/12/steelers-mailbag-mike-mccarthy-minicamp-training-camp/</link>
+      <description>Summer is almost here, and Mike McCarthy's first Steelers team continues to take shape.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7354560/2026/06/12/steelers-mailbag-mike-mccarthy-minicamp-training-camp/</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Patrick Mahomes is again the league's highest-paid quarterback</title>
       <link>https://www.nytimes.com/athletic/7352480/2026/06/11/patrick-mahomes-is-again-the-leagues-highest-paid-quarterback/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7290141/2026/05/18/pittsburgh-reunites-aaron-rodgers-mike-mccarthy-and-all-i-can-think-is-meh/</link>
       <description>Aaron Rodgers is officially back in Pittsburgh. Plus, this season's best games to watch, Robert Mays explaining the Vikings' savviness.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7290141/2026/05/18/pittsburgh-reunites-aaron-rodgers-mike-mccarthy-and-all-i-can-think-is-meh/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Rodgers returns to Steelers for 22nd NFL season</title>
-      <link>https://www.nytimes.com/athletic/7032060/2026/05/18/aaron-rodgers-pittsburgh-steelers-return/</link>
-      <description>The quarterback, who turns 43 in December, said last summer he was “pretty sure” 2025 would be his last season, but he's back in Pittsburgh.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7032060/2026/05/18/aaron-rodgers-pittsburgh-steelers-return/</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
