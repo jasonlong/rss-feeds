@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 13:40:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:53:44 +0000</lastBuildDate>
+    <item>
+      <title>Lewis Hamilton wins first Grand Prix for Ferrari with a brilliant performance in Barcelona</title>
+      <link>https://www.nytimes.com/athletic/7359577/2026/06/14/lewis-hamilton-barcelona-catalunya-grand-prix-briefing/</link>
+      <description>In his 31st grand prix for Ferrari, Lewis Hamilton wins for the first time for the team in red.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7359577/2026/06/14/lewis-hamilton-barcelona-catalunya-grand-prix-briefing/</guid>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lewis Hamilton says ‘the fight is on’ as resurgence continues with best Ferrari qualifying</title>
       <link>https://www.nytimes.com/athletic/7357375/2026/06/13/lewis-hamilton-ferrari-barcelona-qualifying/</link>
@@ -176,13 +183,6 @@
       <description>A late red flag stoppage made things dicey, but F1's 19-year-old points leader held off Lewis Hamilton for another win</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7339651/2026/06/07/monaco-grand-prix-briefing-f1-track-breakup-antonelli-win/</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>George Russell left 'bamboozled' by his drop in pace after good start to F1 season</title>
-      <link>https://www.nytimes.com/athletic/7338433/2026/06/06/george-russell-f1-bamboozled-pace-drop/</link>
-      <description>The Mercedes driver has not stood on the podium since finishing second in Shanghai in March and finished in sixth on Saturday's qualifying.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7338433/2026/06/06/george-russell-f1-bamboozled-pace-drop/</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
