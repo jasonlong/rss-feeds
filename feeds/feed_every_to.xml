@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:42:08 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>I Interviewed an AI Version of GitHub’s COO—Then Spoke to the Real One</title>
+      <link>https://every.to/also-true-for-humans/i-interviewed-an-ai-version-of-github-s-coo-then-spoke-to-the-real-one</link>
+      <description>Here’s what my AI simulated interview taught me about getting the most out of a conversation</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/i-interviewed-an-ai-version-of-github-s-coo-then-spoke-to-the-real-one</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fable, Disabled</title>
@@ -55,13 +62,6 @@
       <description>Turning a list of my writing foibles into a skill that stops me from getting away with them</description>
       <guid isPermaLink="false">https://every.to/working-overtime/my-editor-caught-me-sounding-like-ai-now-ai-catches-me-first</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Is Ready. Organizations Aren’t.</title>
-      <link>https://every.to/p/ai-is-ready-organizations-aren-t</link>
-      <description>Plus: Spiral 4.0 writes in your voice, and why the next blockbuster drug may come from China</description>
-      <guid isPermaLink="false">https://every.to/p/ai-is-ready-organizations-aren-t</guid>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
