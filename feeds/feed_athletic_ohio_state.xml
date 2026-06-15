@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 11:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 14:21:59 +0000</lastBuildDate>
+    <item>
+      <title>Ohio State's football schedule looks harder than usual. Should it alter expectations?</title>
+      <link>https://www.nytimes.com/athletic/7354922/2026/06/15/ohio-state-football-toughest-schedules-2026/</link>
+      <description>Ohio State will face five of the top 17 teams in our post-spring Top 25 rankings, including Nos. 1 and 2, plus a road trip to Iowa.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7354922/2026/06/15/ohio-state-football-toughest-schedules-2026/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How many games will Ohio State win? Who will take home awards? Our early 2026 predictions</title>
       <link>https://www.nytimes.com/athletic/7345119/2026/06/10/ohio-state-football-predictions-2026-awards/</link>
@@ -176,13 +183,6 @@
       <description>"Inside our league," the Big Ten commissioner said, "there is a deep commitment to 24 and the access."</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7293218/2026/05/20/big-ten-meetings-tony-petitti-24-team-cfp/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What you need to know about Ohio State's 2026 roster: 44 thoughts on 44 offensive players</title>
-      <link>https://www.nytimes.com/athletic/7289574/2026/05/19/ohio-state-football-roster-2026-offense/</link>
-      <description>Ohio State has big expectations coming into this season. Here's a position-by-position breakdown of the Buckeyes' offensive roster.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7289574/2026/05/19/ohio-state-football-roster-2026-offense/</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
