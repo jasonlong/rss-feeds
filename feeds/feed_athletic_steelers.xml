@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 09:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:53:00 +0000</lastBuildDate>
+    <item>
+      <title>Could T.J. Watt be traded? Which rookie impressed most so far? Steelers mailbag</title>
+      <link>https://www.nytimes.com/athletic/7360963/2026/06/16/tj-watt-pittsburgh-steelers-trade-possibilities-mailbag/</link>
+      <description>Plus, Will Howard vs. Mason Rudolph for QB2, what would constitute success in Mike McCarthy's first season, and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7360963/2026/06/16/tj-watt-pittsburgh-steelers-trade-possibilities-mailbag/</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit your questions for Mike DeFabo’s Steelers mailbag</title>
       <link>https://www.nytimes.com/athletic/7354560/2026/06/12/steelers-mailbag-mike-mccarthy-minicamp-training-camp/</link>
@@ -176,13 +183,6 @@
       <description>Plus, the QB2 battle is underway, and the first look at the offensive line at the first practice of OTAs.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7289659/2026/05/19/aaron-rodgers-pittsburgh-steelers-ota/</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pittsburgh reunites Aaron Rodgers &amp; Mike McCarthy and all I can think is ... meh</title>
-      <link>https://www.nytimes.com/athletic/7290141/2026/05/18/pittsburgh-reunites-aaron-rodgers-mike-mccarthy-and-all-i-can-think-is-meh/</link>
-      <description>Aaron Rodgers is officially back in Pittsburgh. Plus, this season's best games to watch, Robert Mays explaining the Vikings' savviness.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7290141/2026/05/18/pittsburgh-reunites-aaron-rodgers-mike-mccarthy-and-all-i-can-think-is-meh/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
