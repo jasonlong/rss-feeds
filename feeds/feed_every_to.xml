@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 14:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 16:22:43 +0000</lastBuildDate>
+    <item>
+      <title>How to Use Codex for K nowledge Work: A Power User’s Guide</title>
+      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
+      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
+    </item>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -83,13 +88,6 @@
       <description>Opus 4.8 tops both our Senior Engineer benchmark and our writing tests. It’s the most complete model we’ve tested. We just wish it had an app to match.</description>
       <guid isPermaLink="false">https://every.to/vibe-check/opus-4-8-vibecheck</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
-      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
-      <description>Setup, workflows, and principles for turning Codex into an operating system for email, writing, research, planning, and reporting—even if you’re not an engineer</description>
-      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Notes From the Foothills of the Singularity</title>
