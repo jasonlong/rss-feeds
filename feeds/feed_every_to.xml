@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 17:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:59:18 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>How Anthropic Makes Claude More Reliable</title>
+      <link>https://every.to/context-window/how-anthropic-makes-claude-more-reliable</link>
+      <description>Plus: A rapid-fire roundup of AI topics we’ve given ourselves permission to skip, a workflow for onboarding Slack bots, and “Le Chaton Fat” takes center stage</description>
+      <guid isPermaLink="false">https://every.to/context-window/how-anthropic-makes-claude-more-reliable</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Loops for Non-coders</title>
@@ -56,12 +63,6 @@
       <description>Fable 5 versus all other models, a Fable prompt starter pack, and an inside look at Apple’s developer conference</description>
       <guid isPermaLink="false">https://every.to/context-window/ai-everywhere-all-at-once</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Get the Most Out of Fable 5</title>
-      <link>https://every.to/context-window/how-to-get-the-most-out-of-fable-5</link>
-      <guid isPermaLink="false">https://every.to/context-window/how-to-get-the-most-out-of-fable-5</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
