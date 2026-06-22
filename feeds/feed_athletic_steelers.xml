@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 16:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:28:31 +0000</lastBuildDate>
+    <item>
+      <title>NFL announces 2026 training camp, joint practice dates for every team</title>
+      <link>https://www.nytimes.com/athletic/7383350/2026/06/22/nfl-training-camp-2026-schedule/</link>
+      <description>Twenty-eight teams will participate in joint practices, with the Saints and Titans each doing three.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7383350/2026/06/22/nfl-training-camp-2026-schedule/</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What we learned from every NFL team during offseason workouts</title>
       <link>https://www.nytimes.com/athletic/7379705/2026/06/22/nfl-offseason-workouts-teams-observations-takeaways/</link>
@@ -176,13 +183,6 @@
       <description>Mike McCarthy and the Steelers have decisions to make behind Aaron Rodgers on the depth chart.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7298713/2026/05/22/aaron-rodgers-pittsburgh-steelers-qb2-backup-battle/</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Writing off Aaron Rodgers misses the point. Why not just enjoy his final ride?</title>
-      <link>https://www.nytimes.com/athletic/7296551/2026/05/21/aaron-rodgers-final-season-retirement-steelers/</link>
-      <description>However Rodgers' final act ends, this will be a quest worth watching — one with a tinge of redemption and defiance.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7296551/2026/05/21/aaron-rodgers-final-season-retirement-steelers/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
