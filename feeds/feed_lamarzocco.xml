@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:40:27 +0000</lastBuildDate>
     <item>
       <title>La Marzocco and Frescobol Carioca Debut ‘Cafézinho Carioca’ at Pitti Uomo</title>
       <link>https://home.lamarzoccousa.com/la-marzocco-and-frescobol-carioca-debut-cafezinho-carioca-at-pitti-uomo/</link>
@@ -82,6 +82,12 @@
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Siri Shortcuts for La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/siri-shortcuts-for-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/siri-shortcuts-for-la-marzocco-app/</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Seven Coffee Resolutions for the New Year</title>
       <link>https://home.lamarzoccousa.com/seven-coffee-resolutions-for-the-new-year/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/seven-coffee-resolutions-for-the-new-year/</guid>
@@ -140,12 +146,6 @@
       <link>https://home.lamarzoccousa.com/espresso-anywhere-with-benjamin-hardman/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-anywhere-with-benjamin-hardman/</guid>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s On—Out of the Box Milan 2025</title>
-      <link>https://home.lamarzoccousa.com/whats-on-out-of-the-box-milan-2025/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/whats-on-out-of-the-box-milan-2025/</guid>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>dune coffee roasters x la marzocco home</title>
@@ -364,6 +364,12 @@
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>wonderstate coffee x la marzocco home</title>
+      <link>https://home.lamarzoccousa.com/wonderstate-coffee-x-la-marzocco-home/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/wonderstate-coffee-x-la-marzocco-home/</guid>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>KOS x la marzocco home</title>
       <link>https://home.lamarzoccousa.com/kos-x-la-marzocco-home/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/kos-x-la-marzocco-home/</guid>
@@ -574,6 +580,12 @@
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Mystery of the Hissing Vacuum Breaker</title>
+      <link>https://home.lamarzoccousa.com/the-mystery-of-the-hissing-vacuum-breaker/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-mystery-of-the-hissing-vacuum-breaker/</guid>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing Brew-by-Weight</title>
       <link>https://home.lamarzoccousa.com/introducing-brew-by-weight/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-brew-by-weight/</guid>
@@ -715,6 +727,12 @@
       <title>Using Espresso Brew Ratios</title>
       <link>https://home.lamarzoccousa.com/using-espresso-brew-ratios/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/using-espresso-brew-ratios/</guid>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tasting Espresso Styles</title>
+      <link>https://home.lamarzoccousa.com/tasting-espresso-styles/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/tasting-espresso-styles/</guid>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -994,6 +1012,12 @@
       <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gingerbread Latte Recipe</title>
+      <link>https://home.lamarzoccousa.com/gingerbread-latte-recipe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/gingerbread-latte-recipe/</guid>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ruby Coffee Roasters: December 2020</title>
       <link>https://home.lamarzoccousa.com/ruby-coffee-roasters-december-2020/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/ruby-coffee-roasters-december-2020/</guid>
@@ -1130,12 +1154,6 @@
       <link>https://home.lamarzoccousa.com/introducing-la-marzocco-home-connected-espresso-machines/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-la-marzocco-home-connected-espresso-machines/</guid>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fulcrum Coffee: March 2020</title>
-      <link>https://home.lamarzoccousa.com/fulcrum-coffee-march-2020/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/fulcrum-coffee-march-2020/</guid>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Alternative Milks for Home Espresso</title>
@@ -1346,6 +1364,12 @@
       <link>https://home.lamarzoccousa.com/espresso-at-home-james-freeman/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-at-home-james-freeman/</guid>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Clean Espresso Machine Makes Better Coffee</title>
+      <link>https://home.lamarzoccousa.com/a-clean-espresso-machine-makes-better-coffee/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/a-clean-espresso-machine-makes-better-coffee/</guid>
+      <pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Home Barista Snapshot: Ken O’Day</title>
@@ -1702,6 +1726,12 @@
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>La Marzocco Home Open House: Los Angeles</title>
+      <link>https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</guid>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>June 2017: Madcap Coffee Espresso Specs</title>
       <link>https://home.lamarzoccousa.com/june-subscription-madcap/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/june-subscription-madcap/</guid>
@@ -1766,12 +1796,6 @@
       <link>https://home.lamarzoccousa.com/class-with-laila/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/class-with-laila/</guid>
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 2016 Home Barista Gift Guide</title>
-      <link>https://home.lamarzoccousa.com/the-2016-home-barista-gift-guide/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-2016-home-barista-gift-guide/</guid>
-      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La Marzocco Café Resident: Panther Coffee</title>
