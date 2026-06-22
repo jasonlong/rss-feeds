@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 09:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:07:08 +0000</lastBuildDate>
+    <item>
+      <title>What we learned from every NFL team during offseason workouts</title>
+      <link>https://www.nytimes.com/athletic/7379705/2026/06/22/nfl-offseason-workouts-teams-observations-takeaways/</link>
+      <description>Justin Herbert's shotgun stance, Jaylen Waddle's strong first impression and everything in between — our writers take stock from the spring.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7379705/2026/06/22/nfl-offseason-workouts-teams-observations-takeaways/</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL bloodlines and blueprints: Fathers and sons who play in league share special bond</title>
       <link>https://www.nytimes.com/athletic/7368190/2026/06/19/nfl-fathers-day-sons-bloodline/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7296551/2026/05/21/aaron-rodgers-final-season-retirement-steelers/</link>
       <description>However Rodgers' final act ends, this will be a quest worth watching — one with a tinge of redemption and defiance.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7296551/2026/05/21/aaron-rodgers-final-season-retirement-steelers/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Aaron Rodgers helped bring Mike McCarthy to Pittsburgh — and vice versa</title>
-      <link>https://www.nytimes.com/athletic/7296173/2026/05/21/aaron-rodgers-mike-mccarthy-relationship/</link>
-      <description>On Wednesday, the quarterback revealed that he'd talked to the Steelers about McCarthy during the hiring process.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7296173/2026/05/21/aaron-rodgers-mike-mccarthy-relationship/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
