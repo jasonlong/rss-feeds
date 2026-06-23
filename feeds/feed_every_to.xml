@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 13:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 15:10:14 +0000</lastBuildDate>
+    <item>
+      <title>This Is How the E very Editorial Team Uses AI</title>
+      <link>https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</link>
+      <guid isPermaLink="false">https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</guid>
+    </item>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -167,13 +172,6 @@
       <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
       <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Is How the Every Editorial Team Uses AI</title>
-      <link>https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</link>
-      <description>We’re publishing our editorial guidelines, plus the workflows our writers, editors, and producers have built around them</description>
-      <guid isPermaLink="false">https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
