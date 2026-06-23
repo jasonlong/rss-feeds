@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 20:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:40:31 +0000</lastBuildDate>
     <item>
       <title>La Marzocco and Frescobol Carioca Debut ‘Cafézinho Carioca’ at Pitti Uomo</title>
       <link>https://home.lamarzoccousa.com/la-marzocco-and-frescobol-carioca-debut-cafezinho-carioca-at-pitti-uomo/</link>
@@ -259,6 +259,12 @@
       <title>Coffee Station FAQ</title>
       <link>https://home.lamarzoccousa.com/coffee-station-faq/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/coffee-station-faq/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide: Connecting the Pico to the La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/connect-the-pico-to-the-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-the-pico-to-the-la-marzocco-app/</guid>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1228,6 +1234,12 @@
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>At Home Barista’s Mise En Place</title>
+      <link>https://home.lamarzoccousa.com/at-home-baristas-mise-en-place/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/at-home-baristas-mise-en-place/</guid>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pro Tips for Latte Art</title>
       <link>https://home.lamarzoccousa.com/pro-tips-for-latte-art/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/pro-tips-for-latte-art/</guid>
@@ -1726,12 +1738,6 @@
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La Marzocco Home Open House: Los Angeles</title>
-      <link>https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-open-house-los-angeles/</guid>
-      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>June 2017: Madcap Coffee Espresso Specs</title>
       <link>https://home.lamarzoccousa.com/june-subscription-madcap/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/june-subscription-madcap/</guid>
@@ -2014,12 +2020,6 @@
       <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sitting Down With Larry Fong</title>
-      <link>https://home.lamarzoccousa.com/sitting-down-with-larry-fong/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/sitting-down-with-larry-fong/</guid>
-      <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La Marzocco Home + Columbus, OH</title>
       <link>https://home.lamarzoccousa.com/la-marzocco-home-columbus-oh/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-home-columbus-oh/</guid>
@@ -2089,6 +2089,12 @@
       <title>The La Marzocco Home Experience at SCAA</title>
       <link>https://home.lamarzoccousa.com/the-la-marzocco-home-experience-at-scaa/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/the-la-marzocco-home-experience-at-scaa/</guid>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Acaia Lunar Pre-Order</title>
+      <link>https://home.lamarzoccousa.com/acaia-lunar-pre-order/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/acaia-lunar-pre-order/</guid>
       <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
