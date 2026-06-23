@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:57:43 +0000</lastBuildDate>
     <item>
       <title>This Is How the E very Editorial Team Uses AI</title>
       <link>https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</link>
@@ -19,6 +19,13 @@
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Token Tightening</title>
+      <link>https://every.to/context-window/token-tightening</link>
+      <description>Plus: An easy way to level up your AI usage, and how Every’s head of growth writes with LLMs </description>
+      <guid isPermaLink="false">https://every.to/context-window/token-tightening</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Asked an AI to Audit My Own Career</title>
@@ -61,13 +68,6 @@
       <description>Here’s what my AI simulated interview taught me about getting the most out of a conversation</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/i-interviewed-an-ai-version-of-github-s-coo-then-spoke-to-the-real-one</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fable, Disabled</title>
-      <link>https://every.to/context-window/fable-disabled</link>
-      <description>Plus: Everything we published about Anthropic's new model</description>
-      <guid isPermaLink="false">https://every.to/context-window/fable-disabled</guid>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
