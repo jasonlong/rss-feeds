@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:09:22 +0000</lastBuildDate>
+    <item>
+      <title>Ranking Ohio State's position groups for 2026 after NFL Draft losses, portal additions</title>
+      <link>https://www.nytimes.com/athletic/7385812/2026/06/24/ohio-state-football-position-rankings-2026/</link>
+      <description>Ohio State is reloading again after losing 11 NFL Draft picks. Here's how a talented roster stacks up at each position.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7385812/2026/06/24/ohio-state-football-position-rankings-2026/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ranking college football’s top coaches of the 1990s, from Bobby Bowden to Terry Bowden</title>
+      <link>https://www.nytimes.com/athletic/7332586/2026/06/24/colllege-football-coaches-1990s-bobby-bowden-steve-spurrier/</link>
+      <description>Bobby Bowden's Seminoles finished in the top five every season of the decade and won eight ACC titles in eight years in the league.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7332586/2026/06/24/colllege-football-coaches-1990s-bobby-bowden-steve-spurrier/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ranking college football's 15 best teams of the 1990s: Is anyone close to '95 Nebraska?</title>
       <link>https://www.nytimes.com/athletic/7366659/2026/06/23/college-football-best-teams-rankings-1990s/</link>
@@ -169,20 +183,6 @@
       <description>Matt Patricia has seven NFL Draft picks to replace, but Ohio State's defense is loaded with talent again.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7298550/2026/05/22/ohio-state-football-roster-2026-defense/</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Michigan-Ohio State rivalry is enough reason to bag a 24-team College Football Playoff</title>
-      <link>https://www.nytimes.com/athletic/7295806/2026/05/21/michigan-ohio-state-rivalry-24-team-college-football-playoff/</link>
-      <description>Congrats, Big Ten commissioner Tony Petitti, you’ve found a way to make your most valuable piece of inventory as worthless as possible.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7295806/2026/05/21/michigan-ohio-state-rivalry-24-team-college-football-playoff/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who would have made a 24-team field in the College Football Playoff era? Try 80 different teams</title>
-      <link>https://www.nytimes.com/athletic/7295785/2026/05/21/college-football-playoff-24-teams-history-expansion/</link>
-      <description>Eighty teams would have made a 24-team CFP over the last 12 seasons. Here's what we learned from mocking 12 years of brackets.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7295785/2026/05/21/college-football-playoff-24-teams-history-expansion/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
