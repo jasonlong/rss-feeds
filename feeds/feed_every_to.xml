@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 15:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:53:01 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Can AI Learn Good Judgment?</title>
+      <link>https://every.to/context-window/can-ai-learn-good-judgment</link>
+      <description>Plus: Dan’s attempt to clone Kate, a shortcut for turning demonstrations into skills, and the human goals machines still need us to set</description>
+      <guid isPermaLink="false">https://every.to/context-window/can-ai-learn-good-judgment</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Token Tightening</title>
@@ -56,13 +63,6 @@
       <description>A solution for our chaotic Monday meetings changed what we ship customers </description>
       <guid isPermaLink="false">https://every.to/p/we-built-our-own-agent-native-tool-it-overhauled-how-we-build-software</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Interviewed an AI Version of GitHub’s COO—Then Spoke to the Real One</title>
-      <link>https://every.to/also-true-for-humans/i-interviewed-an-ai-version-of-github-s-coo-then-spoke-to-the-real-one</link>
-      <description>Here’s what my AI simulated interview taught me about getting the most out of a conversation</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/i-interviewed-an-ai-version-of-github-s-coo-then-spoke-to-the-real-one</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
