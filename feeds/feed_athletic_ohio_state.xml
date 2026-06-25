@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 09:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:05:35 +0000</lastBuildDate>
+    <item>
+      <title>Ranking college football’s top 25 players of the 1990s, from Woodson to Moss to Manning</title>
+      <link>https://www.nytimes.com/athletic/7391057/2026/06/25/best-college-football-players-rankings-1990s/</link>
+      <description>How do 1990s greats like Charles Woodson, Peyton Manning, Randy Moss and Tommie Frazier stack up? It's a challenging exercise.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7391057/2026/06/25/best-college-football-players-rankings-1990s/</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ranking Ohio State's position groups for 2026 after NFL Draft losses, portal additions</title>
       <link>https://www.nytimes.com/athletic/7385812/2026/06/24/ohio-state-football-position-rankings-2026/</link>
@@ -176,13 +183,6 @@
       <description>Every SEC, ACC and Big 12 team will play 10 Power 4 opponents in 2026, but four Big Ten teams will only play nine.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7302623/2026/05/23/big-ten-meetings-cfp-nonconference-schedule/</guid>
       <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What I expect from Ohio State's roster: 44 thoughts on 44 defensive players (and kickers)</title>
-      <link>https://www.nytimes.com/athletic/7298550/2026/05/22/ohio-state-football-roster-2026-defense/</link>
-      <description>Matt Patricia has seven NFL Draft picks to replace, but Ohio State's defense is loaded with talent again.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7298550/2026/05/22/ohio-state-football-roster-2026-defense/</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
