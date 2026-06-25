@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:55:17 +0000</lastBuildDate>
+    <item>
+      <title>Lewis Hamilton says he suffered serious neck injury during Ferrari testing in 2025</title>
+      <link>https://www.nytimes.com/athletic/7394444/2026/06/25/lewis-hamilton-neck-injury-ferrari-f1/</link>
+      <description>Hamilton said he "couldn't do a lot for nine weeks" after a crash in testing.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7394444/2026/06/25/lewis-hamilton-neck-injury-ferrari-f1/</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FIA removes presidency term limit rules after general assembly vote</title>
       <link>https://www.nytimes.com/athletic/7393880/2026/06/25/f1-fia-president-term-limit-vote/</link>
@@ -176,13 +183,6 @@
       <description>A crash derailed Robert Kubica's early F1 career but the journey back to racing led him to success at the famed 24 Hours of Le Mans.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7351678/2026/06/12/robert-kubica-le-mans-wec-accident/</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F1 drivers welcome engine rule changes from 2027 but warn ‘it’s not going to change the world’</title>
-      <link>https://www.nytimes.com/athletic/7351648/2026/06/11/f1-drivers-engine-rule-changes-news/</link>
-      <description>World champion Lando Norris and Max Verstappen agreed with Sergio Perez that the new F1 engine agreement was a step in the right direction.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7351648/2026/06/11/f1-drivers-engine-rule-changes-news/</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
