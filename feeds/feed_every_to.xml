@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:55:06 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Codex for Everything and Everyone</title>
+      <link>https://every.to/context-window/codex-for-everything-and-everyone</link>
+      <description>Plus Claude joins Slack, and design gets its own AI tells. </description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-for-everything-and-everyone</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Can AI Learn Good Judgment?</title>
@@ -56,13 +63,6 @@
       <description>Plus: What to do when your coding model disappears, GitHub's COO on 14 billion agent commits, and engineers questioning their future</description>
       <guid isPermaLink="false">https://every.to/context-window/loops-for-non-coders</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Built Our Own Agent-native Tool. It Overhauled How We Build Software.</title>
-      <link>https://every.to/p/we-built-our-own-agent-native-tool-it-overhauled-how-we-build-software</link>
-      <description>A solution for our chaotic Monday meetings changed what we ship customers </description>
-      <guid isPermaLink="false">https://every.to/p/we-built-our-own-agent-native-tool-it-overhauled-how-we-build-software</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
