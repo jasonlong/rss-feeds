@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 15:03:37 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,19 +16,9 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Claude Code for P roduct Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
-    </item>
-    <item>
-      <title>We Gave Every Employee an AI Agent. Here’s W hat We’re Doing Differently Now.</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-    </item>
-    <item>
-      <title>Can AI Learn G ood Judgment?</title>
-      <link>https://every.to/context-window/can-ai-learn-good-judgment</link>
-      <guid isPermaLink="false">https://every.to/context-window/can-ai-learn-good-judgment</guid>
+      <title>How Microsoft Is Building for a World of M etered Intelligence</title>
+      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
     </item>
     <item>
       <title>Codex for Everything and Everyone</title>
@@ -36,6 +26,13 @@
       <description>Plus Claude joins Slack, and design gets its own AI tells. </description>
       <guid isPermaLink="false">https://every.to/context-window/codex-for-everything-and-everyone</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI Learn Good Judgment?</title>
+      <link>https://every.to/context-window/can-ai-learn-good-judgment</link>
+      <description>Plus: Dan’s attempt to clone Kate, a shortcut for turning demonstrations into skills, and the human goals machines still need us to set</description>
+      <guid isPermaLink="false">https://every.to/context-window/can-ai-learn-good-judgment</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Token Tightening</title>
@@ -80,13 +77,6 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Microsoft Is Building for a World of Metered Intelligence</title>
-      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
-      <description>The company gets pragmatic in AI’s expensive era</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Compound Engineering Gets an Upgrade</title>
       <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
       <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
@@ -115,11 +105,24 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Socrates as a Service</title>
       <link>https://every.to/p/socrates-as-a-service</link>
       <description>The best stories live in people—and getting them out is still a human job</description>
       <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code for Product Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How I Escaped AI Autopilot</title>
