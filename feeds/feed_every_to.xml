@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 19:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:41:52 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
+      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
+      <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Codex for Everything and Everyone</title>
@@ -56,13 +63,6 @@
       <description>Plus: A rapid-fire roundup of AI topics we’ve given ourselves permission to skip, a workflow for onboarding Slack bots, and “Le Chaton Fat” takes center stage</description>
       <guid isPermaLink="false">https://every.to/context-window/how-anthropic-makes-claude-more-reliable</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Loops for Non-coders</title>
-      <link>https://every.to/context-window/loops-for-non-coders</link>
-      <description>Plus: What to do when your coding model disappears, GitHub's COO on 14 billion agent commits, and engineers questioning their future</description>
-      <guid isPermaLink="false">https://every.to/context-window/loops-for-non-coders</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
