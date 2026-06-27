@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 16:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:30:13 +0000</lastBuildDate>
+    <item>
+      <title>Why George Russell keeps controversial pole at 2026 Austrian GP after Max Verstappen crash</title>
+      <link>https://www.nytimes.com/athletic/7401271/2026/06/27/george-russell-f1-austrian-gp-pole-max-verstappen-crash/</link>
+      <description>The Mercedes driver had been set to go quickest before Max Verstappen crashed, as yellow flag drama confuses post-qualifying celebrations</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7401271/2026/06/27/george-russell-f1-austrian-gp-pole-max-verstappen-crash/</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mercedes thought it had the 2026 F1 title battle all to itself. Not anymore</title>
-      <link>https://www.nytimes.com/athletic/7397865/2026/06/27/mercedes-thought-it-had-the-2026-f1-title-battle-all-to-itself-not-anymore/</link>
+      <link>https://www.nytimes.com/athletic/7397865/2026/06/27/mercedes-ferrari-f1-2026/</link>
       <description>Mercedes dominated the start of the 2026 F1 season but lost the last race to Ferrari. Why as it suddenly lost form?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7397865/2026/06/27/mercedes-thought-it-had-the-2026-f1-title-battle-all-to-itself-not-anymore/</guid>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7397865/2026/06/27/mercedes-ferrari-f1-2026/</guid>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -176,13 +183,6 @@
       <description>In his 31st race for the Italian team, the seven-time world champion finally took the checkered flag</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7359577/2026/06/14/lewis-hamilton-barcelona-catalunya-grand-prix-briefing/</guid>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lewis Hamilton says ‘the fight is on’ as resurgence continues with best Ferrari qualifying</title>
-      <link>https://www.nytimes.com/athletic/7357375/2026/06/13/lewis-hamilton-ferrari-barcelona-qualifying/</link>
-      <description>Lewis Hamilton was just 0.064 seconds shy of George Russell for pole as he qualified second for Sunday's Barcelona-Catalunya Grand Prix.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7357375/2026/06/13/lewis-hamilton-ferrari-barcelona-qualifying/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
