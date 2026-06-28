@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 09:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:52:07 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -72,6 +72,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Vibe Check: Fable 5 Is the Best Coding Model in the World</title>
+      <link>https://every.to/vibe-check/anthropic-mythos-our-fable-vibe-check</link>
+      <description>The Mythos-class model is a warp drive for power users—but overpowered for everyone else</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/anthropic-mythos-our-fable-vibe-check</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
       <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
       <description>The company gets pragmatic in AI’s expensive era</description>
@@ -84,13 +91,6 @@
       <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
       <guid isPermaLink="false">https://every.to/p/compound-engineering-gets-an-upgrade</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: Opus 4.8—Anthropic Should’ve Rounded Up to 5</title>
-      <link>https://every.to/vibe-check/opus-4-8-vibecheck</link>
-      <description>Opus 4.8 tops both our Senior Engineer benchmark and our writing tests. It’s the most complete model we’ve tested. We just wish it had an app to match.</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/opus-4-8-vibecheck</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
