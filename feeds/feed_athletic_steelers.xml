@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:29:39 +0000</lastBuildDate>
+    <item>
+      <title>Steelers fan survey: Share your thoughts on Mike McCarthy, Aaron Rodgers and more</title>
+      <link>https://www.nytimes.com/athletic/7404588/2026/06/29/pittsburgh-steelers-fan-survey-mike-mccarthy-aaron-rodgers/</link>
+      <description>The results will be published in a story next week.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7404588/2026/06/29/pittsburgh-steelers-fan-survey-mike-mccarthy-aaron-rodgers/</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers rookie report: A late-round standout and the Drew Allar questions</title>
       <link>https://www.nytimes.com/athletic/7394524/2026/06/26/pittsburgh-steelers-rookie-report-otas-minicamp/</link>
@@ -176,13 +183,6 @@
       <description>The Bengals, Broncos and Rams made win-now trades, and the Chiefs added a much-needed boost to their run game.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7309904/2026/05/27/nfl-offseason-draft-free-agency-2026/</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early OTA takeaways for Browns, Giants, Falcons and others with new head coaches</title>
-      <link>https://www.nytimes.com/athletic/7310124/2026/05/26/nfl-ota-takeaways-browns-giants-raiders-practice/</link>
-      <description>Early insights from OTAs in Cleveland, New York and elsewhere, plus a reader question on mobile quarterbacks</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7310124/2026/05/26/nfl-ota-takeaways-browns-giants-raiders-practice/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
