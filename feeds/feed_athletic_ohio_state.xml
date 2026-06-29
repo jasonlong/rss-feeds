@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 22:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:28:35 +0000</lastBuildDate>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7405054/2026/06/29/submit-a-question-for-stewart-mandels-college-football-mailbag-348/</link>
+      <description>I’m back after a two-week European holiday. Ready to dive back into your questions. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7405054/2026/06/29/submit-a-question-for-stewart-mandels-college-football-mailbag-348/</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What 5-star Marcus Fakatou committing to Ohio State over Georgia, Texas means for Buckeyes</title>
       <link>https://www.nytimes.com/athletic/7406643/2026/06/29/marcus-fakatou-ohio-state-commitment-recruiting/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7300324/2026/06/01/college-football-spring-ball-top-25-rankings-2026-predictions/</link>
       <description>Which teams climbed and which ones fell after spring ball?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7300324/2026/06/01/college-football-spring-ball-top-25-rankings-2026-predictions/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question to Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7323052/2026/06/01/submit-a-question-to-stewart-mandels-college-football-mailbag-3/</link>
-      <description>This week I’m heading to my first-ever Women’s College World Series in Oklahoma City. Which means I’ll have a lot of time on planes to answer your college football questions. Leave ’em here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7323052/2026/06/01/submit-a-question-to-stewart-mandels-college-football-mailbag-3/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
