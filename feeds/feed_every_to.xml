@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 05:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:03:41 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Everyone Gets an Agent. Almost No One Gets the Model.</title>
+      <link>https://every.to/context-window/everyone-gets-an-agent-almost-no-one-gets-the-model</link>
+      <description>Plus: A compound engineering update and a doctor’s take on Midjourney’s full-body scanner</description>
+      <guid isPermaLink="false">https://every.to/context-window/everyone-gets-an-agent-almost-no-one-gets-the-model</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
@@ -56,13 +63,6 @@
       <description>Plus: Monologue Shortcuts and Cora opens alpha testing on a full email app to replace Gmail</description>
       <guid isPermaLink="false">https://every.to/context-window/built-on-moving-ground</guid>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Anthropic Makes Claude More Reliable</title>
-      <link>https://every.to/context-window/how-anthropic-makes-claude-more-reliable</link>
-      <description>Plus: A rapid-fire roundup of AI topics we’ve given ourselves permission to skip, a workflow for onboarding Slack bots, and “Le Chaton Fat” takes center stage</description>
-      <guid isPermaLink="false">https://every.to/context-window/how-anthropic-makes-claude-more-reliable</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
