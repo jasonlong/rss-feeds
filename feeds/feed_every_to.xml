@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:29:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:22:24 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>AI Could Do Anything. Then It Met PowerPoint.</title>
+      <link>https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</link>
+      <description>Everyone hates making presentations. Too bad it’s so hard to automate them with AI. </description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Everyone Gets an Agent. Almost No One Gets the Model.</title>
@@ -56,13 +63,6 @@
       <description>I had a quarter of OKRs and no clue whether I was hitting them. Enter Codex. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/i-asked-an-ai-to-audit-my-own-career</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Built on Moving Ground</title>
-      <link>https://every.to/context-window/built-on-moving-ground</link>
-      <description>Plus: Monologue Shortcuts and Cora opens alpha testing on a full email app to replace Gmail</description>
-      <guid isPermaLink="false">https://every.to/context-window/built-on-moving-ground</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
