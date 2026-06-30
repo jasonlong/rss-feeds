@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 11:10:59 +0000</lastBuildDate>
+    <item>
+      <title>One outstanding question for every team as the NFL's summer break begins</title>
+      <link>https://www.nytimes.com/athletic/7405972/2026/06/30/nfl-biggest-question-all-teams-2026/</link>
+      <description>From QB competitions and roster holes to off-field matters, every NFL team enters training camp with questions to answer.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7405972/2026/06/30/nfl-biggest-question-all-teams-2026/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers fan survey: Share your thoughts on Mike McCarthy, Aaron Rodgers and more</title>
       <link>https://www.nytimes.com/athletic/7404588/2026/06/29/pittsburgh-steelers-fan-survey-mike-mccarthy-aaron-rodgers/</link>
@@ -176,13 +183,6 @@
       <description>The veteran coach has a long track record of developing talent, and few teams have invested in young O-linemen like the Steelers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7314061/2026/05/28/james-campen-steelers-offensive-line/</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>My favorite offseason move by every NFL team: Bengals swing big, Chiefs add juice</title>
-      <link>https://www.nytimes.com/athletic/7309904/2026/05/27/nfl-offseason-draft-free-agency-2026/</link>
-      <description>The Bengals, Broncos and Rams made win-now trades, and the Chiefs added a much-needed boost to their run game.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7309904/2026/05/27/nfl-offseason-draft-free-agency-2026/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
