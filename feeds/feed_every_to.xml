@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 16:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:43:09 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Your AI Strategy Is Making Bets. Do You Know Which Ones?</title>
+      <link>https://every.to/thesis/your-ai-strategy-is-making-bets-do-you-know-which-ones</link>
+      <description>A framework for making your AI startup’s implicit bets explicit</description>
+      <guid isPermaLink="false">https://every.to/thesis/your-ai-strategy-is-making-bets-do-you-know-which-ones</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AI Could Do Anything. Then It Met PowerPoint.</title>
@@ -56,13 +63,6 @@
       <description>Plus: An easy way to level up your AI usage, and how Every’s head of growth writes with LLMs </description>
       <guid isPermaLink="false">https://every.to/context-window/token-tightening</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Asked an AI to Audit My Own Career</title>
-      <link>https://every.to/working-overtime/i-asked-an-ai-to-audit-my-own-career</link>
-      <description>I had a quarter of OKRs and no clue whether I was hitting them. Enter Codex. </description>
-      <guid isPermaLink="false">https://every.to/working-overtime/i-asked-an-ai-to-audit-my-own-career</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
