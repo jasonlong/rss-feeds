@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 17:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 18:50:05 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,54 +16,53 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Notes From the F oothills of the Singularity</title>
-      <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
-      <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
-    </item>
-    <item>
-      <title>The Folder Is the A gent</title>
-      <link>https://every.to/source-code/the-folder-is-the-agent</link>
-      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
-    </item>
-    <item>
-      <title>Claude Code for P roduct Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
-    </item>
-    <item>
-      <title>Can AI Learn G ood Judgment?</title>
-      <link>https://every.to/context-window/can-ai-learn-good-judgment</link>
-      <guid isPermaLink="false">https://every.to/context-window/can-ai-learn-good-judgment</guid>
-    </item>
-    <item>
-      <title>Codex for E verything and Everyone</title>
-      <link>https://every.to/context-window/codex-for-everything-and-everyone</link>
-      <guid isPermaLink="false">https://every.to/context-window/codex-for-everything-and-everyone</guid>
-    </item>
-    <item>
-      <title>Claude Code Is the OpenClaw A lternative You Already Have</title>
-      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
-    </item>
-    <item>
-      <title>Everyone Gets an Agent. Almost N o One Gets the Model.</title>
-      <link>https://every.to/context-window/everyone-gets-an-agent-almost-no-one-gets-the-model</link>
-      <guid isPermaLink="false">https://every.to/context-window/everyone-gets-an-agent-almost-no-one-gets-the-model</guid>
-    </item>
-    <item>
-      <title>Codex in P ractice</title>
+      <title>Codex in Practice</title>
       <link>https://every.to/context-window/codex-in-practice</link>
+      <description>Our team has customized workspaces to get the most out of Codex. Pick one and dive in.</description>
       <guid isPermaLink="false">https://every.to/context-window/codex-in-practice</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>AI Could Do Anything. Then It Met P owerPoint.</title>
-      <link>https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</link>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</guid>
-    </item>
-    <item>
-      <title>Your AI Strategy Is Making Bets. Do Y ou Know Which Ones?</title>
+      <title>Your AI Strategy Is Making Bets. Do You Know Which Ones?</title>
       <link>https://every.to/thesis/your-ai-strategy-is-making-bets-do-you-know-which-ones</link>
+      <description>A framework for making your AI startup’s implicit bets explicit</description>
       <guid isPermaLink="false">https://every.to/thesis/your-ai-strategy-is-making-bets-do-you-know-which-ones</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Could Do Anything. Then It Met PowerPoint.</title>
+      <link>https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</link>
+      <description>Everyone hates making presentations. Too bad it’s so hard to automate them with AI. </description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Everyone Gets an Agent. Almost No One Gets the Model.</title>
+      <link>https://every.to/context-window/everyone-gets-an-agent-almost-no-one-gets-the-model</link>
+      <description>Plus: A compound engineering update and a doctor’s take on Midjourney’s full-body scanner</description>
+      <guid isPermaLink="false">https://every.to/context-window/everyone-gets-an-agent-almost-no-one-gets-the-model</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
+      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
+      <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex for Everything and Everyone</title>
+      <link>https://every.to/context-window/codex-for-everything-and-everyone</link>
+      <description>Plus Claude joins Slack, and design gets its own AI tells. </description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-for-everything-and-everyone</guid>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI Learn Good Judgment?</title>
+      <link>https://every.to/context-window/can-ai-learn-good-judgment</link>
+      <description>Plus: Dan’s attempt to clone Kate, a shortcut for turning demonstrations into skills, and the human goals machines still need us to set</description>
+      <guid isPermaLink="false">https://every.to/context-window/can-ai-learn-good-judgment</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
@@ -101,6 +100,13 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Notes From the Foothills of the Singularity</title>
+      <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
+      <description>Google I/O wasn't flashy, but it might be the most important yet</description>
+      <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
       <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
       <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
@@ -114,11 +120,25 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code for Product Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How I Escaped AI Autopilot</title>
       <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Folder Is the Agent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent</link>
+      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How We Run a 25-person Company on Four AI Agents</title>
