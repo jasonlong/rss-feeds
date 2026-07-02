@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 09:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:01:19 +0000</lastBuildDate>
+    <item>
+      <title>From Aaron Rodgers to Max Iheanachor, one thought on every Steelers offensive player</title>
+      <link>https://www.nytimes.com/athletic/7412969/2026/07/02/steelers-offensive-players-2026/</link>
+      <description>New head coach Mike McCarthy will try to boost an offense that ranked 25th in yards per game last season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7412969/2026/07/02/steelers-offensive-players-2026/</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>One outstanding question for every team as the NFL's summer break begins</title>
       <link>https://www.nytimes.com/athletic/7405972/2026/06/30/nfl-biggest-question-all-teams-2026/</link>
@@ -176,13 +183,6 @@
       <description>The third-year receiver has a chance to carve out a significant role in a deep group of wide reeceivers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7316106/2026/05/29/roman-wilson-pittsburgh-steelers-wide-receiver-depth-chart/</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New O-line coach James Campen could be the key to unlocking the Steelers' future</title>
-      <link>https://www.nytimes.com/athletic/7314061/2026/05/28/james-campen-steelers-offensive-line/</link>
-      <description>The veteran coach has a long track record of developing talent, and few teams have invested in young O-linemen like the Steelers.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7314061/2026/05/28/james-campen-steelers-offensive-line/</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
