@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 18:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:34:32 +0000</lastBuildDate>
+    <item>
+      <title>The British GP ended under a safety car: Why a 'software error' sapped the final lap of drama</title>
+      <link>https://www.nytimes.com/athletic/7423703/2026/07/05/british-gp-silverstone-safety-car/</link>
+      <description>Charles Leclerc won his first race since October 2024 on Sunday — but under strange conditions.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7423703/2026/07/05/british-gp-silverstone-safety-car/</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>British GP: Submit your questions for our F1 mailbag</title>
       <link>https://www.nytimes.com/athletic/7422864/2026/07/05/british-gp-f1-mailbag/</link>
@@ -169,13 +176,6 @@
       <description>Mercedes dominated the start of the 2026 F1 season but lost the last race to Ferrari. Why as it suddenly lost form?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7397865/2026/06/27/mercedes-ferrari-f1-2026/</guid>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Questions about Lewis Hamilton's hushed injury. Plus: Kimi Antonelli leads early in Austria</title>
-      <link>https://www.nytimes.com/athletic/7398715/2026/06/26/lewis-hamilton-neck-injury-disclosure-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7398715/2026/06/26/lewis-hamilton-neck-injury-disclosure-prime-tire/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
