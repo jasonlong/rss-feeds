@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 11:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:38:22 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's W hat We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+    </item>
+    <item>
+      <title>A Tale of Two Models</title>
+      <link>https://every.to/context-window/a-tale-of-two-models</link>
+      <description>Plus: Why Anthropic is getting into drug discovery</description>
+      <guid isPermaLink="false">https://every.to/context-window/a-tale-of-two-models</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Sonnet 5—A Model Pitched for Everyone Impresses No One</title>
@@ -58,13 +70,6 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Codex for Everything and Everyone</title>
-      <link>https://every.to/context-window/codex-for-everything-and-everyone</link>
-      <description>Plus Claude joins Slack, and design gets its own AI tells. </description>
-      <guid isPermaLink="false">https://every.to/context-window/codex-for-everything-and-everyone</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Moral of Fable</title>
       <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
       <description>What the most powerful model yet teaches us about the future of knowledge work</description>
@@ -105,12 +110,6 @@
       <description>Google I/O wasn't flashy, but it might be the most important yet</description>
       <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Socrates as a Service</title>
