@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 03:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 05:35:03 +0000</lastBuildDate>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7424690/2026/07/05/submit-a-question-for-stewart-mandels-college-football-mailbag-349/</link>
+      <description>It’s Big 12 Media Days week. … Yes, already. Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7424690/2026/07/05/submit-a-question-for-stewart-mandels-college-football-mailbag-349/</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ohio State lands 5-star receiver Jett Harrison, brother of Marvin Harrison Jr.</title>
       <link>https://www.nytimes.com/athletic/7413390/2026/07/01/jett-harrison-ohio-state-five-star-marvin-harrison-jr/</link>
@@ -176,13 +183,6 @@
       <description>Will Alabama keep its streak of top-five classes alive? Can Texas Tech hold onto Jalen Brewster? Where does Colton Nussmeier land?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7322592/2026/06/02/college-football-recruiting-lsu-texas-georgia/</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who are the biggest recruiting finds at every Power 4 school in the past decade?</title>
-      <link>https://www.nytimes.com/athletic/7310058/2026/06/01/college-football-recruiting-under-the-radar-players/</link>
-      <description>Ladd McConkey, who won two national titles at Georgia, was ranked No. 1,131 in his class. Former LSU star Justin Jefferson was No. 2,174.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7310058/2026/06/01/college-football-recruiting-under-the-radar-players/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
