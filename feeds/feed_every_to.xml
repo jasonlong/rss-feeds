@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 16:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:44:11 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,9 +16,11 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Codex in P ractice</title>
-      <link>https://every.to/context-window/codex-in-practice</link>
-      <guid isPermaLink="false">https://every.to/context-window/codex-in-practice</guid>
+      <title>Use Fable Before You Know What to Ask</title>
+      <link>https://every.to/context-window/use-fable-before-you-know-what-to-ask</link>
+      <description>Plus: A manual for handing recurring work to Opus, a skill for judging new tools in context, and the specialist model that beat the frontier for less</description>
+      <guid isPermaLink="false">https://every.to/context-window/use-fable-before-you-know-what-to-ask</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Tale of Two Models</title>
@@ -33,6 +35,13 @@
       <description>Anthropic’s new model can draft, code, and analyze competently, but every use case has a cheaper, faster, or smarter alternative</description>
       <guid isPermaLink="false">https://every.to/vibe-check/sonnet-5</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex in Practice</title>
+      <link>https://every.to/context-window/codex-in-practice</link>
+      <description>Our team has customized workspaces to get the most out of Codex. Pick one and dive in.</description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-in-practice</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Your AI Strategy Is Making Bets. Do You Know Which Ones?</title>
