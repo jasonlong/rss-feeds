@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:47:20 +0000</lastBuildDate>
+    <item>
+      <title>The most interesting stories on and off the field you missed this NFL offseason</title>
+      <link>https://www.nytimes.com/athletic/7428163/2026/07/08/nfl-offseason-2026-maxx-crosby-jameis-winston/</link>
+      <description>While contracts, holdouts or depth charts command attention, The Athletic's NFL writers gathered stories you may have missed this offseason.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7428163/2026/07/08/nfl-offseason-2026-maxx-crosby-jameis-winston/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>From Derrick Harmon to Jalen Ramsey, one thought on every Steelers defensive player</title>
       <link>https://www.nytimes.com/athletic/7425582/2026/07/08/steelers-defensive-players-2026/</link>
@@ -176,13 +183,6 @@
       <description>The linebacker said earlier on Tuesday that he wanted to be "a Steeler for life."</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7327992/2026/06/02/nick-herbig-steelers-contract-extension-nfl/</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to watch at NFL minicamps this week: Steelers, Dolphins first to get underway</title>
-      <link>https://www.nytimes.com/athletic/7313038/2026/06/01/nfl-minicamps-storylines-steelers-dolphins/</link>
-      <description>Mike McCarthy will hold his first mandatory sessions with his hometown Steelers, while a new regime in Miami also gathers.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7313038/2026/06/01/nfl-minicamps-storylines-steelers-dolphins/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

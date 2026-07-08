@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:47:21 +0000</lastBuildDate>
+    <item>
+      <title>Recruiting big board: The 10 most intriguing uncommitted prospects of the 2027 cycle</title>
+      <link>https://www.nytimes.com/athletic/7426365/2026/07/08/college-football-recruiting-top-uncommitted-players/</link>
+      <description>As of Tuesday night, only four of the top 100 players in the Class of 2027 remain on the board.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7426365/2026/07/08/college-football-recruiting-top-uncommitted-players/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
       <link>https://www.nytimes.com/athletic/7424690/2026/07/05/submit-a-question-for-stewart-mandels-college-football-mailbag-349/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7320105/2026/06/02/college-football-preseason-top-25-computer-analytics/</link>
       <description>One originates from roster talent evaluation and intel, the other from a statistical projection model.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7320105/2026/06/02/college-football-preseason-top-25-computer-analytics/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ten college football recruiting storylines to watch as official visits heat up</title>
-      <link>https://www.nytimes.com/athletic/7322592/2026/06/02/college-football-recruiting-lsu-texas-georgia/</link>
-      <description>Will Alabama keep its streak of top-five classes alive? Can Texas Tech hold onto Jalen Brewster? Where does Colton Nussmeier land?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7322592/2026/06/02/college-football-recruiting-lsu-texas-georgia/</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
