@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:56:17 +0000</lastBuildDate>
+    <item>
+      <title>From Derrick Harmon to Jalen Ramsey, one thought on every Steelers defensive player</title>
+      <link>https://www.nytimes.com/athletic/7425582/2026/07/08/steelers-defensive-players-2026/</link>
+      <description>A thought on each of Pittsburgh's four specialists too.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7425582/2026/07/08/steelers-defensive-players-2026/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>At what age do NFL players peak? We look at quarterbacks, running backs and every other position</title>
       <link>https://www.nytimes.com/athletic/7426208/2026/07/06/at-what-age-do-nfl-players-in-different-positions-peak/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7313038/2026/06/01/nfl-minicamps-storylines-steelers-dolphins/</link>
       <description>Mike McCarthy will hold his first mandatory sessions with his hometown Steelers, while a new regime in Miami also gathers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7313038/2026/06/01/nfl-minicamps-storylines-steelers-dolphins/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Max Iheanachor's NFL journey started with a search for size 17 cleats, PB&amp;J quota</title>
-      <link>https://www.nytimes.com/athletic/7320853/2026/06/01/max-iheanachor-pittsburgh-steelers-first-round-pick/</link>
-      <description>The Steelers' first-round pick, who never played high school football, took a leap of faith — more than once — on his journey to the NFL.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7320853/2026/06/01/max-iheanachor-pittsburgh-steelers-first-round-pick/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
