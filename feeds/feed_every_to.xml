@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:43:28 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Vibe Check: GPT-5.6 Sol Is Our Favorite Model to Collaborate With</title>
+      <link>https://every.to/vibe-check/gpt-5-6-sol</link>
+      <description>Sol is fast, resourceful, and unusually easy to steer—but Fable still gets the assignments we want to hand off completely</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-6-sol</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to Efficiencymaxxing</title>
@@ -56,13 +63,6 @@
       <description>A framework for making your AI startup’s implicit bets explicit</description>
       <guid isPermaLink="false">https://every.to/thesis/your-ai-strategy-is-making-bets-do-you-know-which-ones</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Could Do Anything. Then It Met PowerPoint.</title>
-      <link>https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</link>
-      <description>Everyone hates making presentations. Too bad it’s so hard to automate them with AI. </description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-could-do-anything-then-it-met-powerpoint</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
