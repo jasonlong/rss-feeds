@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 15:56:29 +0000</lastBuildDate>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 16:47:02 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -28,17 +16,53 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-    </item>
-    <item>
       <title>How GPT-5.6 Changes Knowledge Work</title>
       <link>https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</link>
       <description>Don’t do your work. Tend your loop.</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe Check: GPT-5.6 Sol Is Our Favorite Model to Collaborate With</title>
+      <link>https://every.to/vibe-check/gpt-5-6-sol</link>
+      <description>Sol is fast, resourceful, and unusually easy to steer—but Fable still gets the assignments we want to hand off completely</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-6-sol</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome to Efficiencymaxxing</title>
+      <link>https://every.to/context-window/welcome-to-efficiencymaxxing</link>
+      <description> Plus: Why intent beats volume, a new AI productivity status metric, and a tool for squeezing the most out of cheaper models</description>
+      <guid isPermaLink="false">https://every.to/context-window/welcome-to-efficiencymaxxing</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use Fable Before You Know What to Ask</title>
+      <link>https://every.to/context-window/use-fable-before-you-know-what-to-ask</link>
+      <description>Plus: A manual for handing recurring work to Opus, a skill for judging new tools in context, and the specialist model that beat the frontier for less</description>
+      <guid isPermaLink="false">https://every.to/context-window/use-fable-before-you-know-what-to-ask</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Tale of Two Models</title>
+      <link>https://every.to/context-window/a-tale-of-two-models</link>
+      <description>Plus: Why Anthropic is getting into drug discovery</description>
+      <guid isPermaLink="false">https://every.to/context-window/a-tale-of-two-models</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vibe Check: Sonnet 5—A Model Pitched for Everyone Impresses No One</title>
+      <link>https://every.to/vibe-check/sonnet-5</link>
+      <description>Anthropic’s new model can draft, code, and analyze competently, but every use case has a cheaper, faster, or smarter alternative</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/sonnet-5</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex in Practice</title>
+      <link>https://every.to/context-window/codex-in-practice</link>
+      <description>Our team has customized workspaces to get the most out of Codex. Pick one and dive in.</description>
+      <guid isPermaLink="false">https://every.to/context-window/codex-in-practice</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
@@ -76,11 +100,24 @@
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
+      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
+      <description>Setup, workflows, and principles for turning Codex into an operating system for email, writing, research, planning, and reporting—even if you’re not an engineer</description>
+      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Notes From the Foothills of the Singularity</title>
       <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
       <description>Google I/O wasn't flashy, but it might be the most important yet</description>
       <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Socrates as a Service</title>
@@ -130,6 +167,13 @@
       <description>How Every's growth lead built a command center in Claude Code</description>
       <guid isPermaLink="false">https://every.to/p/the-agent-that-saved-my-brain</guid>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Science of Why AI Still Can't Write Like You</title>
+      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
+      <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
+      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>This Is How the Every Editorial Team Uses AI</title>
