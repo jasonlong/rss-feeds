@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 08:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:37:10 +0000</lastBuildDate>
     <item>
       <title>Read this before you plumb in your espresso machine at home</title>
       <link>https://home.lamarzoccousa.com/read-this-before-you-plumb-in-your-espresso-machine-at-home/</link>
@@ -80,6 +80,12 @@
       <link>https://home.lamarzoccousa.com/drift-away-coffee-roasters-x-la-marzocco-home-2/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/drift-away-coffee-roasters-x-la-marzocco-home-2/</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>the espresso house with tj’s coffee adventures</title>
+      <link>https://home.lamarzoccousa.com/the-espresso-house-with-tjs-coffee-adventures/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-espresso-house-with-tjs-coffee-adventures/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>zest specialty coffee roasters x la marzocco home</title>
@@ -280,12 +286,6 @@
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guide: Connecting the Linea Mini to the La Marzocco App</title>
-      <link>https://home.lamarzoccousa.com/connect-the-linea-mini-to-the-la-marzocco-app/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-the-linea-mini-to-the-la-marzocco-app/</guid>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dialing-In Espresso with Coffee Station</title>
       <link>https://home.lamarzoccousa.com/dialing-in-espresso-with-coffee-station/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/dialing-in-espresso-with-coffee-station/</guid>
@@ -478,12 +478,6 @@
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tips &amp; Tricks for an Espresso Pop-Up</title>
-      <link>https://home.lamarzoccousa.com/tips-tricks-for-an-espresso-pop-up/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/tips-tricks-for-an-espresso-pop-up/</guid>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Bar Flow with the Linea Mini</title>
       <link>https://home.lamarzoccousa.com/bar-flow-with-the-linea-mini/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/bar-flow-with-the-linea-mini/</guid>
@@ -650,6 +644,12 @@
       <link>https://home.lamarzoccousa.com/june-roaster-2023/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/june-roaster-2023/</guid>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Refill and Remove the Linea Micra Reservoir</title>
+      <link>https://home.lamarzoccousa.com/refill-linea-micra-reservoir/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/refill-linea-micra-reservoir/</guid>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bean &amp; Bean x La Marzocco Home</title>
@@ -934,6 +934,12 @@
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Gilly Brew Bar: July 2021</title>
+      <link>https://home.lamarzoccousa.com/july-2021-gilly-2/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/july-2021-gilly-2/</guid>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Home Barista Gift Guide</title>
       <link>https://home.lamarzoccousa.com/home-barista-gift-guide/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/home-barista-gift-guide/</guid>
@@ -1216,12 +1222,6 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>9 Distribution Methods for Making Espresso</title>
-      <link>https://home.lamarzoccousa.com/9-distribution-methods-for-making-espresso/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/9-distribution-methods-for-making-espresso/</guid>
-      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Panther Coffee: September 2019</title>
       <link>https://home.lamarzoccousa.com/panther-coffee-september-2019/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/panther-coffee-september-2019/</guid>
@@ -1430,12 +1430,6 @@
       <link>https://home.lamarzoccousa.com/holiday-kitchen-takeover-the-recap/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/holiday-kitchen-takeover-the-recap/</guid>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winter Espresso in the Rockies</title>
-      <link>https://home.lamarzoccousa.com/winter-espresso-in-the-rockies/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/winter-espresso-in-the-rockies/</guid>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>December 2018: Dapper &amp; Wise Espresso Specs</title>
@@ -1648,12 +1642,6 @@
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>And the Linea Mini Winner is…</title>
-      <link>https://home.lamarzoccousa.com/and-the-linea-mini-winner-is/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/and-the-linea-mini-winner-is/</guid>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>November 2017: Quills Coffee Espresso Specs</title>
       <link>https://home.lamarzoccousa.com/november-espresso-subscription-quills-coffee/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/november-espresso-subscription-quills-coffee/</guid>
@@ -1864,6 +1852,12 @@
       <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Craftsman Series: Pantechnicon Linea Mini</title>
+      <link>https://home.lamarzoccousa.com/pantechnicon-linea-mini/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/pantechnicon-linea-mini/</guid>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La Marzocco Café Resident: Buna</title>
       <link>https://home.lamarzoccousa.com/la-marzocco-cafe-resident-buna/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/la-marzocco-cafe-resident-buna/</guid>
@@ -2000,12 +1994,6 @@
       <link>https://home.lamarzoccousa.com/sitting-down-with-max-levchin/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/sitting-down-with-max-levchin/</guid>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Brief History of the PID</title>
-      <link>https://home.lamarzoccousa.com/history-of-the-pid/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/history-of-the-pid/</guid>
-      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Linea Mini Stock Update</title>
