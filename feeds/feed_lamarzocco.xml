@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:27:04 +0000</lastBuildDate>
     <item>
       <title>Read this before you plumb in your espresso machine at home</title>
       <link>https://home.lamarzoccousa.com/read-this-before-you-plumb-in-your-espresso-machine-at-home/</link>
@@ -286,6 +286,12 @@
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Guide: Connecting the Linea Mini to the La Marzocco App</title>
+      <link>https://home.lamarzoccousa.com/connect-the-linea-mini-to-the-la-marzocco-app/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-the-linea-mini-to-the-la-marzocco-app/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dialing-In Espresso with Coffee Station</title>
       <link>https://home.lamarzoccousa.com/dialing-in-espresso-with-coffee-station/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/dialing-in-espresso-with-coffee-station/</guid>
@@ -475,6 +481,12 @@
       <title>Using Brew-by-Weight with the Linea Mini</title>
       <link>https://home.lamarzoccousa.com/using-brew-by-weight-with-the-linea-mini/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/using-brew-by-weight-with-the-linea-mini/</guid>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tips &amp; Tricks for an Espresso Pop-Up</title>
+      <link>https://home.lamarzoccousa.com/tips-tricks-for-an-espresso-pop-up/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/tips-tricks-for-an-espresso-pop-up/</guid>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1222,6 +1234,12 @@
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>9 Distribution Methods for Making Espresso</title>
+      <link>https://home.lamarzoccousa.com/9-distribution-methods-for-making-espresso/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/9-distribution-methods-for-making-espresso/</guid>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Panther Coffee: September 2019</title>
       <link>https://home.lamarzoccousa.com/panther-coffee-september-2019/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/panther-coffee-september-2019/</guid>
@@ -1432,6 +1450,12 @@
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Winter Espresso in the Rockies</title>
+      <link>https://home.lamarzoccousa.com/winter-espresso-in-the-rockies/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/winter-espresso-in-the-rockies/</guid>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>December 2018: Dapper &amp; Wise Espresso Specs</title>
       <link>https://home.lamarzoccousa.com/december-2018-dapper-wise-espresso-specs/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/december-2018-dapper-wise-espresso-specs/</guid>
@@ -1640,6 +1664,12 @@
       <link>https://home.lamarzoccousa.com/december-espresso-subscription-caffe-umbria/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/december-espresso-subscription-caffe-umbria/</guid>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>And the Linea Mini Winner is…</title>
+      <link>https://home.lamarzoccousa.com/and-the-linea-mini-winner-is/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/and-the-linea-mini-winner-is/</guid>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>November 2017: Quills Coffee Espresso Specs</title>
@@ -1994,6 +2024,12 @@
       <link>https://home.lamarzoccousa.com/sitting-down-with-max-levchin/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/sitting-down-with-max-levchin/</guid>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Brief History of the PID</title>
+      <link>https://home.lamarzoccousa.com/history-of-the-pid/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/history-of-the-pid/</guid>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Linea Mini Stock Update</title>
