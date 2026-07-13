@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 15:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:54:06 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>How I Polish Software That Agents Built</title>
+      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
+      <description>Polish is the final step of compound engineering: using the app myself and telling the agent what feels off until it doesn't</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>From Doing to Tending</title>
@@ -56,13 +63,6 @@
       <description>Plus: Why Anthropic is getting into drug discovery</description>
       <guid isPermaLink="false">https://every.to/context-window/a-tale-of-two-models</guid>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: Sonnet 5—A Model Pitched for Everyone Impresses No One</title>
-      <link>https://every.to/vibe-check/sonnet-5</link>
-      <description>Anthropic’s new model can draft, code, and analyze competently, but every use case has a cheaper, faster, or smarter alternative</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/sonnet-5</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
@@ -139,13 +139,6 @@
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Folder Is the Agent</title>
-      <link>https://every.to/source-code/the-folder-is-the-agent</link>
-      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
-      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How We Run a 25-person Company on Four AI Agents</title>
