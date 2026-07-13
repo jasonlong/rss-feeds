@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 09:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:08:35 +0000</lastBuildDate>
+    <item>
+      <title>One breakout player to watch for every NFL team in 2026</title>
+      <link>https://www.nytimes.com/athletic/7440963/2026/07/13/nfl-breakout-player-team-roster/</link>
+      <description>The Athletic's NFL staff wonders who's next for each NFL team in 2026.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7440963/2026/07/13/nfl-breakout-player-team-roster/</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers fan survey: Grading Art Rooney II, your favorite rookie, all-time Steeler</title>
       <link>https://www.nytimes.com/athletic/7431399/2026/07/10/steelers-fan-survey-results-art-rooney-ii-approval-rating/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7331811/2026/06/03/steelers-darnell-washington-contract-extension/</link>
       <description>It wasn’t until Aaron Rodgers arrived last summer that Washington became more of a threat in the passing game.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7331811/2026/06/03/steelers-darnell-washington-contract-extension/</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russell Wilson announces he is retiring, joining CBS Sports</title>
-      <link>https://www.nytimes.com/athletic/7324325/2026/06/03/russell-wilson-cbs-analyst-nfl/</link>
-      <description>Wilson is pivoting after completing his 14th NFL season last year with the New York Giants.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7324325/2026/06/03/russell-wilson-cbs-analyst-nfl/</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
