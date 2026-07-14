@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 18:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:34:57 +0000</lastBuildDate>
+    <item>
+      <title>Football meets international football: Ranking every NFL soccer-style crossover jersey from 1-32</title>
+      <link>https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</link>
+      <description>Which teams got the best results from Fanatics' second attempt at merging American football with global football shirts? Take a look.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>21 NFL teams changed offensive coordinators — The biggest challenges facing new play callers</title>
       <link>https://www.nytimes.com/athletic/7431360/2026/07/14/offensive-coordinators-nfl/</link>
@@ -176,13 +183,6 @@
       <description>The end of Wilson's career was mostly a disaster, but that doesn't nullify how truly elite he was during his first decade in the NFL.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7333467/2026/06/05/russell-wilson-hall-of-fame-retirement-cbs/</guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>T.J. Watt on the move, safety still a need: 10 takeaways from Steelers OTAs</title>
-      <link>https://www.nytimes.com/athletic/7331437/2026/06/04/pittsburgh-steelers-otas-practice-takeaways/</link>
-      <description>Plus, two mid-round Steelers rookies stand out, and a former first-rounder tries to make it as a tryout player.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7331437/2026/06/04/pittsburgh-steelers-otas-practice-takeaways/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
