@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 09:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:38:25 +0000</lastBuildDate>
+    <item>
+      <title>21 NFL teams changed offensive coordinators — The biggest challenges facing new play callers</title>
+      <link>https://www.nytimes.com/athletic/7431360/2026/07/14/offensive-coordinators-nfl/</link>
+      <description>A whopping 21 teams made changes at offensive coordinator this offseason, though not all of the OCs will hold play-calling responsibility.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7431360/2026/07/14/offensive-coordinators-nfl/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>One breakout player to watch for every NFL team in 2026</title>
       <link>https://www.nytimes.com/athletic/7440963/2026/07/13/nfl-breakout-player-team-roster/</link>
@@ -176,13 +183,6 @@
       <description>Plus, two mid-round Steelers rookies stand out, and a former first-rounder tries to make it as a tryout player.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7331437/2026/06/04/pittsburgh-steelers-otas-practice-takeaways/</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers, TE Darnell Washington agree to 4-year, $42 million extension: Source</title>
-      <link>https://www.nytimes.com/athletic/7331811/2026/06/03/steelers-darnell-washington-contract-extension/</link>
-      <description>It wasn’t until Aaron Rodgers arrived last summer that Washington became more of a threat in the passing game.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7331811/2026/06/03/steelers-darnell-washington-contract-extension/</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
