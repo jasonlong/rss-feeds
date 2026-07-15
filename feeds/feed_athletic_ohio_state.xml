@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:39:59 +0000</lastBuildDate>
+    <item>
+      <title>Which college football team will be this year's preseason hype bust?</title>
+      <link>https://www.nytimes.com/athletic/7446252/2026/07/15/college-football-preseason-hype-bust-penn-state-clemson-lsu/</link>
+      <description>Of all the teams with national championship expectations, which program could potentially have a disastrous season?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7446252/2026/07/15/college-football-preseason-hype-bust-penn-state-clemson-lsu/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>2027 NFL Draft preseason positional rankings: Wide receivers</title>
       <link>https://www.nytimes.com/athletic/7424395/2026/07/14/nfl-draft-2027-preseason-rankings-wide-receivers/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7332643/2026/06/04/ohio-state-settlement-richard-strauss-sexual-abuse-case/</link>
       <description>The school previously reached six separate settlements totaling $61 million with 317 other victims.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7332643/2026/06/04/ohio-state-settlement-richard-strauss-sexual-abuse-case/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How do Ohio State fans feel in 2026? Thoughts on Ryan Day, Michigan, CFP expansion and more</title>
-      <link>https://www.nytimes.com/athletic/7330115/2026/06/04/ohio-state-football-2026-fan-survey/</link>
-      <description>Ohio State fans always have high expectations. Here's what our survey revealed about the football mood in Columbus in 2026.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7330115/2026/06/04/ohio-state-football-2026-fan-survey/</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
