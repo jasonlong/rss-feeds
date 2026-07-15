@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:54:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:43:38 +0000</lastBuildDate>
+    <item>
+      <title>What will the Steelers' new defense look like? Breaking down Patrick Graham's system</title>
+      <link>https://www.nytimes.com/athletic/7444494/2026/07/15/patrick-graham-steelers-defensive-coordinator-scheme/</link>
+      <description>Why there's reason to believe Graham's defense will be better than last year's statistical performance suggests.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7444494/2026/07/15/patrick-graham-steelers-defensive-coordinator-scheme/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Football meets international football: Ranking every NFL soccer-style crossover jersey from 1-32</title>
       <link>https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</link>
@@ -176,13 +183,6 @@
       <description>Cheering for Dallas is like ... as explained by fans, plus why the Seahawks Super Bowl-winning quarterback belongs in the Hall of Very Good</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7343359/2026/06/08/whats-it-like-to-be-a-cowboys-fan-russell-wilson-hall-of-fame/</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Russell Wilson a Hall of Famer? QB has a path to Canton, but it's complicated</title>
-      <link>https://www.nytimes.com/athletic/7333467/2026/06/05/russell-wilson-hall-of-fame-retirement-cbs/</link>
-      <description>The end of Wilson's career was mostly a disaster, but that doesn't nullify how truly elite he was during his first decade in the NFL.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7333467/2026/06/05/russell-wilson-hall-of-fame-retirement-cbs/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
