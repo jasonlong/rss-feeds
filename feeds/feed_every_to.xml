@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 14:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:37:40 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>The Case Against Skills</title>
+      <link>https://every.to/context-window/the-case-against-skills</link>
+      <description>Use them intentionally, or they could make your AI worse</description>
+      <guid isPermaLink="false">https://every.to/context-window/the-case-against-skills</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Surf the Models With Every’s Biz Ops Team</title>
@@ -56,13 +63,6 @@
       <description>Don’t do your work. Tend your loop.</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: GPT-5.6 Sol Is Our Favorite Model to Collaborate With</title>
-      <link>https://every.to/vibe-check/gpt-5-6-sol</link>
-      <description>Sol is fast, resourceful, and unusually easy to steer—but Fable still gets the assignments we want to hand off completely</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/gpt-5-6-sol</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
@@ -146,13 +146,6 @@
       <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
       <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Agent That Saved My Brain</title>
-      <link>https://every.to/p/the-agent-that-saved-my-brain</link>
-      <description>How Every's growth lead built a command center in Claude Code</description>
-      <guid isPermaLink="false">https://every.to/p/the-agent-that-saved-my-brain</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Science of Why AI Still Can't Write Like You</title>
