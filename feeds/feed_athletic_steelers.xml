@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:24:57 +0000</lastBuildDate>
+    <item>
+      <title>NFL players advocate for natural grass playing surfaces after World Cup: 'Worth the cost'</title>
+      <link>https://www.nytimes.com/athletic/7452393/2026/07/17/nfl-natural-grass-stadiums-world-cup-nflpa/</link>
+      <description>A poll shared by the NFLPA showed that 92 percent of the union's player members prefer to play on natural grass.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7452393/2026/07/17/nfl-natural-grass-stadiums-world-cup-nflpa/</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL over/under win totals: Predictions and best bets for all 32 teams in 2026</title>
       <link>https://www.nytimes.com/athletic/7450525/2026/07/17/nfl-win-totals-bets-predictions-2026/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7352480/2026/06/11/patrick-mahomes-is-again-the-leagues-highest-paid-quarterback/</link>
       <description>Patrick Mahomes' latest record-setting deal, plus what we've learned from OTAs so far, including buzz on Aaron Donald, A.J. Brown and Lions</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7352480/2026/06/11/patrick-mahomes-is-again-the-leagues-highest-paid-quarterback/</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Q-Tip and OutKast help DC Patrick Graham bring back the Steel Curtain?</title>
-      <link>https://www.nytimes.com/athletic/7349199/2026/06/11/pat-graham-steelers-defensive-coordinator-hip-hop-reports/</link>
-      <description>It's the first step in Graham's plan to restore the Steelers as one of the NFL's elite defenses.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7349199/2026/06/11/pat-graham-steelers-defensive-coordinator-hip-hop-reports/</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
