@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 17:29:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:29:28 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>How We Built Gift Links</title>
+      <link>https://every.to/on-every/how-we-built-gift-links</link>
+      <description>A case study for how Every’s editorial team shipped our newest website feature using AI</description>
+      <guid isPermaLink="false">https://every.to/on-every/how-we-built-gift-links</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Case Against Skills</title>
@@ -23,7 +30,7 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Surf the Models With Every’s Biz Ops Team</title>
+      <title>The Ops Team That Routes Work Across Models</title>
       <link>https://every.to/context-window/surf-the-models-with-every-s-biz-ops-team</link>
       <description>Plus: Granola’s founder on why starting a company is a 'knife fight,' AI enters the C-suite, and who we’re following on X</description>
       <guid isPermaLink="false">https://every.to/context-window/surf-the-models-with-every-s-biz-ops-team</guid>
