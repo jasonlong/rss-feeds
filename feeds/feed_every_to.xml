@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 22:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:22:01 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>I'm an Editor—And I Built Our Newest Feature</title>
-      <link>https://every.to/on-every/how-we-built-gift-links</link>
+      <link>https://every.to/on-every/im-an-editor-and-i-built-our-newest-feature</link>
       <description>How I shipped gift links with Codex—and what it says about who gets to build in an AI-native company</description>
-      <guid isPermaLink="false">https://every.to/on-every/how-we-built-gift-links</guid>
+      <guid isPermaLink="false">https://every.to/on-every/im-an-editor-and-i-built-our-newest-feature</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
