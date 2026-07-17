@@ -8,12 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 15:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:34:17 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's W hat We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+    </item>
+    <item>
+      <title>Introducing E very All Access</title>
+      <link>https://every.to/on-every/introducing-every-all-access</link>
+      <guid isPermaLink="false">https://every.to/on-every/introducing-every-all-access</guid>
+    </item>
+    <item>
+      <title>How We Built Gift Links</title>
+      <link>https://every.to/on-every/how-we-built-gift-links</link>
+      <description>A case study for how Every’s editorial team shipped our newest website feature using AI</description>
+      <guid isPermaLink="false">https://every.to/on-every/how-we-built-gift-links</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Case Against Skills</title>
@@ -34,13 +51,6 @@
       <link>https://every.to/context-window/the-urge-to-merge-chatgpt-and-codex</link>
       <description>Power users revolt at OpenAI’s tool combination. Plus: The battle for knowledge-work OS, managing agents with Fable, and a 53 percent error-rate drop</description>
       <guid isPermaLink="false">https://every.to/context-window/the-urge-to-merge-chatgpt-and-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Every All Access</title>
-      <link>https://every.to/on-every/introducing-every-all-access</link>
-      <description>Get more than $7,000 in AI tools—and everything we know about putting them to work</description>
-      <guid isPermaLink="false">https://every.to/on-every/introducing-every-all-access</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -105,12 +115,6 @@
       <description>Google I/O wasn't flashy, but it might be the most important yet</description>
       <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Socrates as a Service</title>
