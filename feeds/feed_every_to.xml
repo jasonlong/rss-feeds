@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 08:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:39:12 +0000</lastBuildDate>
+    <item>
+      <title>Every</title>
+      <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
+      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
+    </item>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -139,13 +145,6 @@
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How We Run a 25-person Company on Four AI Agents</title>
-      <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
-      <description>How Every uses custom agents for prioritization, meeting notes, OKR planning, and growth tracking—plus sample prompts to build your own</description>
-      <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What I Learned Onboarding Our AI Project Manager</title>
