@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 17:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:24:49 +0000</lastBuildDate>
+    <item>
+      <title>Ferrari fined after Lewis Hamilton accidentally hits mechanic at Belgian Grand Prix</title>
+      <link>https://www.nytimes.com/athletic/7456361/2026/07/19/ferrari-lewis-hamilton-mechanic-belgian-gp-f1/</link>
+      <description>The result of the post-race investigation for an unsafe release means the seven-time world champion retains his fourth-placed finish at Spa.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7456361/2026/07/19/ferrari-lewis-hamilton-mechanic-belgian-gp-f1/</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Belgian GP: Submit your questions for our F1 mailbag</title>
+      <link>https://www.nytimes.com/athletic/7456253/2026/07/19/belgian-gp-f1-mailbag/</link>
+      <description>What’s on your mind after the 2026 Belgian Grand Prix? Send us your questions and we’ll answer</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7456253/2026/07/19/belgian-gp-f1-mailbag/</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Belgian Grand Prix briefing: Antonelli wins, Hamilton penalty woes, Russell crashes out</title>
       <link>https://www.nytimes.com/athletic/7456015/2026/07/19/belgium-grand-prix-briefing-kimi-antonelli-wins/</link>
@@ -21,13 +35,6 @@
       <link>https://www.nytimes.com/athletic/7454116/2026/07/19/franco-colapinto-f1-argentina-world-cup-final/</link>
       <description>Franco Colapinto has huge home support in Argentina. As he prepares to cheer on Lionel Messi and co., his F1 results are rising for Alpine</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7454116/2026/07/19/franco-colapinto-f1-argentina-world-cup-final/</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Belgian GP: Submit your questions for our F1 mailbag</title>
-      <link>https://www.nytimes.com/athletic/7456253/2026/07/19/belgian-gp-f1-mailbag/</link>
-      <description>What’s on your mind after the 2026 Belgian Grand Prix? Send us your questions and we’ll answer</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7456253/2026/07/19/belgian-gp-f1-mailbag/</guid>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -169,6 +176,13 @@
       <description>Leclerc endured a series of tough results early in 2026. He blew those struggles away with victory at Silverstone</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7423665/2026/07/06/charles-leclerc-british-grand-prix-f1/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The British GP ended under a safety car: Why a 'software error' sapped the final lap of drama</title>
+      <link>https://www.nytimes.com/athletic/7423703/2026/07/05/british-gp-silverstone-safety-car/</link>
+      <description>Charles Leclerc won his first race since October 2024 on Sunday — but under strange conditions.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7423703/2026/07/05/british-gp-silverstone-safety-car/</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
