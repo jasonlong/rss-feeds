@@ -8,17 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 23:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:52:14 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
-    </item>
-    <item>
-      <title>The Urge to M erge (ChatGPT and Codex)</title>
-      <link>https://every.to/context-window/the-urge-to-merge-chatgpt-and-codex</link>
-      <guid isPermaLink="false">https://every.to/context-window/the-urge-to-merge-chatgpt-and-codex</guid>
     </item>
     <item>
       <title>I'm an Editor—And I Built Our Newest Feature</title>
@@ -40,6 +35,13 @@
       <description>Plus: Granola’s founder on why starting a company is a 'knife fight,' AI enters the C-suite, and who we’re following on X</description>
       <guid isPermaLink="false">https://every.to/context-window/the-ops-team-that-routes-work-across-models</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Urge to Merge (ChatGPT and Codex)</title>
+      <link>https://every.to/context-window/the-urge-to-merge-chatgpt-and-codex</link>
+      <description>Power users revolt at OpenAI’s tool combination. Plus: The battle for knowledge-work OS, managing agents with Fable, and a 53 percent error-rate drop</description>
+      <guid isPermaLink="false">https://every.to/context-window/the-urge-to-merge-chatgpt-and-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Every All Access</title>
