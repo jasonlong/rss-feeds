@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 09:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:35:02 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,9 +16,9 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Claude Code for P roduct Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <title>The M oral of Fable</title>
+      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
     </item>
     <item>
       <title>I'm an Editor—And I Built Our Newest Feature</title>
@@ -84,13 +84,6 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Moral of Fable</title>
-      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
-      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
       <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
       <description>The company gets pragmatic in AI’s expensive era</description>
@@ -130,6 +123,13 @@
       <description>The best stories live in people—and getting them out is still a human job</description>
       <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code for Product Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How I Escaped AI Autopilot</title>
