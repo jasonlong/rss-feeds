@@ -8,17 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 18:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:29:40 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
-    </item>
-    <item>
-      <title>The M oral of Fable</title>
-      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
     </item>
     <item>
       <title>The Model Is the Easy Part</title>
@@ -82,6 +77,13 @@
       <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
       <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Moral of Fable</title>
+      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
+      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
