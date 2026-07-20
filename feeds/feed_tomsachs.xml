@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:34:53 +0000</lastBuildDate>
     <item>
       <title>Rocket Factory Sticker</title>
       <link>https://store.tomsachs.com/products/rocket-factory-sticker-ungated</link>
@@ -346,18 +346,18 @@
       <pubDate>Fri, 29 May 2026 10:30:04 -0400</pubDate>
     </item>
     <item>
-      <title>ISRU T-Shirt (Black)</title>
-      <link>https://store.tomsachs.com/products/isru-t-shirt-black</link>
-      <description>$42.50 — PRE-ORDER NOW. Pre-order window closes at 10AM EDT on June 24, 2026. Product ships August 5, 2026.T-Shirt made in Honduras, screen printed in Brooklyn.Material: 100% cotton S/N: 2026.184</description>
-      <guid isPermaLink="false">https://store.tomsachs.com/products/isru-t-shirt-black</guid>
-      <pubDate>Wed, 10 Jun 2026 10:00:15 -0400</pubDate>
-    </item>
-    <item>
       <title>NikeCraft: General Purpose Shoe (Studio)</title>
       <link>https://store.tomsachs.com/products/nikecraft-general-purpose-shoe</link>
       <description>$109.99 — Your sneakers should not be the most exciting thing about you. They are tools. They do their job so you can do yours. It took us 10 years to make a sneaker this simple, as simple as can be and no simpler. The NikeCraft General Purpose Shoe is the new uniform for the Tom Sachs Studio team. It could be your uniform too. The NikeCraft General Purpose Shoe features: Exclusive Studio colorway Durable knitted upper material (open enough to breathe, tight enough to ward off a few raindrops) 3-piece mol...</description>
       <guid isPermaLink="false">https://store.tomsachs.com/products/nikecraft-general-purpose-shoe</guid>
       <pubDate>Wed, 10 Jun 2026 10:00:16 -0400</pubDate>
+    </item>
+    <item>
+      <title>ISRU T-Shirt (Black)</title>
+      <link>https://store.tomsachs.com/products/isru-t-shirt-black</link>
+      <description>$42.50 — PRE-ORDER NOW. Pre-order window closes at 10AM EDT on June 24, 2026. Product ships August 5, 2026.T-Shirt made in Honduras, screen printed in Brooklyn.Material: 100% cotton S/N: 2026.184</description>
+      <guid isPermaLink="false">https://store.tomsachs.com/products/isru-t-shirt-black</guid>
+      <pubDate>Mon, 20 Jul 2026 12:16:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
