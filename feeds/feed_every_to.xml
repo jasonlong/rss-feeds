@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:40:54 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Why Some AI Workflows Stick—And Others Don’t</title>
+      <link>https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</link>
+      <description>These four questions helped me decide which ones to keep, redesign, revisit, or retire</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Model Is the Easy Part</title>
@@ -146,13 +153,6 @@
       <description>How Every uses custom agents for prioritization, meeting notes, OKR planning, and growth tracking—plus sample prompts to build your own</description>
       <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What I Learned Onboarding Our AI Project Manager</title>
-      <link>https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</link>
-      <description>Claudie saves us 15 hours a week, but getting her up to speed was harder than hiring a human </description>
-      <guid isPermaLink="false">https://every.to/p/what-i-learned-onboarding-our-ai-project-manager</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Science of Why AI Still Can't Write Like You</title>
