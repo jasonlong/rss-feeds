@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 09:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:46:57 +0000</lastBuildDate>
+    <item>
+      <title>College football quarterback tiers 2026: Ranking every projected starter from 1 to 138</title>
+      <link>https://www.nytimes.com/athletic/7442836/2026/07/21/college-football-quarterbacks-rankings-tiers/</link>
+      <description>Ranking Trinidad Chambliss, Arch Manning, Dante Moore, CJ Carr, Julian Sayin and more. How does your QB stack up?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7442836/2026/07/21/college-football-quarterbacks-rankings-tiers/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
       <link>https://www.nytimes.com/athletic/7458994/2026/07/20/submit-a-question-for-stewart-mandels-college-football-mailbag-351/</link>
@@ -176,13 +183,6 @@
       <description>Ohio State will face five of the top 17 teams in our post-spring Top 25 rankings, including Nos. 1 and 2, plus a road trip to Iowa.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7354922/2026/06/15/ohio-state-football-toughest-schedules-2026/</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many games will Ohio State win? Who will take home awards? Our early 2026 predictions</title>
-      <link>https://www.nytimes.com/athletic/7345119/2026/06/10/ohio-state-football-predictions-2026-awards/</link>
-      <description>The 2026 football season is less than three months away. Here are some early predictions from our Ohio State expert.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7345119/2026/06/10/ohio-state-football-predictions-2026-awards/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
