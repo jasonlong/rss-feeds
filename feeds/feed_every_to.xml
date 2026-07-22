@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 16:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:34:33 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>How Every's Team Used AI to Ship Its Biggest Launch Ever</title>
+      <link>https://every.to/context-window/how-every-s-team-used-ai-to-ship-its-biggest-launch-ever</link>
+      <description>Plus: OpenAI’s Codex playbook, a trick to cut Fable’s token spend, and the models the team is using this week</description>
+      <guid isPermaLink="false">https://every.to/context-window/how-every-s-team-used-ai-to-ship-its-biggest-launch-ever</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Drowning in Demos? Here’s a Better Way to Prototype</title>
