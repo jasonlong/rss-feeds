@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 21:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:27:38 +0000</lastBuildDate>
+    <item>
+      <title>Tennessee beats Ohio State for 5-star RB David Gabriel Georges</title>
+      <link>https://www.nytimes.com/athletic/7427884/2026/07/22/tennessee-football-recruiting-david-gabriel-georges-ohio-state/</link>
+      <description>Gabriel Georges is the second top-100 recruit in the Vols' 2027 class, joining wide receiver Kesean Bowman.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7427884/2026/07/22/tennessee-football-recruiting-david-gabriel-georges-ohio-state/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How high should Julian Sayin rank? What about Arch? Our biggest CFB QB Tiers debates</title>
       <link>https://www.nytimes.com/athletic/7461135/2026/07/22/college-quarterback-rankings-sayin-manning-mestemaker/</link>
@@ -176,13 +183,6 @@
       <description>A decade of heated national championship debates creates some interesting debates when ranking the best teams.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7366659/2026/06/23/college-football-best-teams-rankings-1990s/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 90 things we miss most about college football in the 1990s</title>
-      <link>https://www.nytimes.com/athletic/7341909/2026/06/22/1990s-college-football-steve-spurrier-bobby-bowden/</link>
-      <description>The 1990s were a time of epic competition, change and personality in college football.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7341909/2026/06/22/1990s-college-football-steve-spurrier-bobby-bowden/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
