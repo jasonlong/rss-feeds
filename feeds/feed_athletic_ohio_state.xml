@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:49:32 +0000</lastBuildDate>
+    <item>
+      <title>How good is Julian Sayin? Here's how Ohio State's Heisman finalist can answer critics</title>
+      <link>https://www.nytimes.com/athletic/7463745/2026/07/23/julian-sayin-ohio-state-quarterback-rankings/</link>
+      <description>Sayin is No. 5 in The Athletic's rankings but still drew plenty of mixed opinions. Can Ohio State's QB answer critics on the field?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7463745/2026/07/23/julian-sayin-ohio-state-quarterback-rankings/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tennessee beats Ohio State for David Gabriel Georges, believed to be first $2M-a-year RB recruit</title>
       <link>https://www.nytimes.com/athletic/7427884/2026/07/22/tennessee-football-recruiting-david-gabriel-georges-ohio-state/</link>
@@ -176,13 +183,6 @@
       <description>Bobby Bowden's Seminoles finished in the top five every season of the decade and won eight ACC titles in eight years in the league.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7332586/2026/06/24/colllege-football-coaches-1990s-bobby-bowden-steve-spurrier/</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking college football's 15 best teams of the 1990s: Is anyone close to '95 Nebraska?</title>
-      <link>https://www.nytimes.com/athletic/7366659/2026/06/23/college-football-best-teams-rankings-1990s/</link>
-      <description>A decade of heated national championship debates creates some interesting debates when ranking the best teams.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7366659/2026/06/23/college-football-best-teams-rankings-1990s/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

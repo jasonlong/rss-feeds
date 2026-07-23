@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:49:08 +0000</lastBuildDate>
+    <item>
+      <title>AFC North Whiparound: Improvements, concerns and position battles entering training camp</title>
+      <link>https://www.nytimes.com/athletic/7464497/2026/07/23/afc-north-ravens-bengals-browns-steelers/</link>
+      <description>Plus, with so much change in the division during the offseason, which team has our writers most curious ahead of camp?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7464497/2026/07/23/afc-north-ravens-bengals-browns-steelers/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Seven position battles ahead of Mike McCarthy's first Steelers training camp</title>
       <link>https://www.nytimes.com/athletic/7458383/2026/07/21/pittsburgh-steelers-training-camp-position-battles/</link>
@@ -176,13 +183,6 @@
       <description>From uniforms that stood the test of time to duds that teams couldn’t ditch soon enough, these are the best and worst for all 32 teams.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7362102/2026/06/18/nfl-uniforms-history-best-worst/</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which NFL teams should consider Brendan Sorsby in supplemental draft?</title>
-      <link>https://www.nytimes.com/athletic/7326554/2026/06/16/brendan-sorsby-supplemental-draft-nfl-jets-steelers/</link>
-      <description>Sorsby will attempt to become the first QB taken in the supplemental draft since Terrelle Pryor in 2011.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7326554/2026/06/16/brendan-sorsby-supplemental-draft-nfl-jets-steelers/</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
