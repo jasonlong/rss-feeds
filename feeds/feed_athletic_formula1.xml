@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 11:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:35:57 +0000</lastBuildDate>
+    <item>
+      <title>Aston Martin's 2026 season has been really bad. It starts over in Hungary</title>
+      <link>https://www.nytimes.com/athletic/7469457/2026/07/25/aston-martin-f1-car-upgrades-hungary/</link>
+      <description>Aston Martin's first F1 car designed by Adrian Newey was poor. A design overall for the Hungarian GP now carries the team's hopes</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7469457/2026/07/25/aston-martin-f1-car-upgrades-hungary/</guid>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Welcome to the age of the sporting superkid</title>
       <link>https://www.nytimes.com/athletic/7452652/2026/07/25/lamine-yamal-sporting-prodigies/</link>
@@ -176,13 +183,6 @@
       <description>Max Verstappen's future remains a major talking point in the paddock. But his options to move away from Red Bull for 2027 are narrowing</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7442201/2026/07/13/max-verstappen-f1-contract-2028/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BMW victory in 6 Hours of São Paulo gives Kevin Magnussen first World Endurance Win</title>
-      <link>https://www.nytimes.com/athletic/7441109/2026/07/12/world-endurance-6-hours-sao-paulo-bmw/</link>
-      <description>BMW beats Ferrari and Cadillac to take its second victory out of four WEC races in 2026.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7441109/2026/07/12/world-endurance-6-hours-sao-paulo-bmw/</guid>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
