@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 14:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:29:21 +0000</lastBuildDate>
+    <item>
+      <title>Hungarian Grand Prix briefing: Norris wins, more pain and penalties for Russell and Hamilton</title>
+      <link>https://www.nytimes.com/athletic/7470983/2026/07/26/f1-hungarian-grand-prix-results/</link>
+      <description>Lando Norris won the 2026 Hungarian GP on a rare off-weekend for Mercedes, with Max Verstappen second but still cross with Red Bull</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7470983/2026/07/26/f1-hungarian-grand-prix-results/</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why F1 will hold its Bahrain GP in Malaysia. Plus, what we’re hearing about Qatar and Abu Dhabi</title>
       <link>https://www.nytimes.com/athletic/7469885/2026/07/26/malaysian-grand-prix-f1-bahrain/</link>
@@ -176,13 +183,6 @@
       <description>One of F1's oldest tracks, Spa is huge, fast, dangerous and utterly epic.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/5658345/2026/07/17/belgian-gp-spa-track-breakdown-specs/</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oscar Piastri brushes off recent Max Verstappen McLaren links: ‘I’m very comfortable’</title>
-      <link>https://www.nytimes.com/athletic/7450227/2026/07/16/mclaren-piastri-verstappen-latest-f1/</link>
-      <description>Verstappen’s camp approached McLaren last month for a conversation about a potential future race seat.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7450227/2026/07/16/mclaren-piastri-verstappen-latest-f1/</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
