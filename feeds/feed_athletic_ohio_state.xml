@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 21:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:25:15 +0000</lastBuildDate>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7471726/2026/07/26/submit-a-question-for-stewart-mandels-college-football-mailbag-352/</link>
+      <description>Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7471726/2026/07/26/submit-a-question-for-stewart-mandels-college-football-mailbag-352/</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Preseason All-Big Ten teams: Which star quarterback gets the first-team nod?</title>
       <link>https://www.nytimes.com/athletic/7458444/2026/07/26/preseason-all-big-ten-team/</link>
@@ -176,13 +183,6 @@
       <description>How do 1990s greats like Charles Woodson, Peyton Manning, Randy Moss and Tommie Frazier stack up? It's a challenging exercise.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7391057/2026/06/25/best-college-football-players-rankings-1990s/</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking Ohio State's position groups for 2026 after NFL Draft losses, portal additions</title>
-      <link>https://www.nytimes.com/athletic/7385812/2026/06/24/ohio-state-football-position-rankings-2026/</link>
-      <description>Ohio State is reloading again after losing 11 NFL Draft picks. Here's how a talented roster stacks up at each position.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7385812/2026/06/24/ohio-state-football-position-rankings-2026/</guid>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
