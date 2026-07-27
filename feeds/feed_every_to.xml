@@ -8,12 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 17:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:40:04 +0000</lastBuildDate>
+    <item>
+      <title>How I Escaped A I Autopilot</title>
+      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
+      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
+    </item>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's W hat We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
     </item>
     <item>
       <title>Sometimes You Have to Delete Everything</title>
@@ -135,12 +145,6 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Socrates as a Service</title>
       <link>https://every.to/p/socrates-as-a-service</link>
       <description>The best stories live in people—and getting them out is still a human job</description>
@@ -153,13 +157,6 @@
       <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
       <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I Escaped AI Autopilot</title>
-      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
-      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
-      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How We Run a 25-person Company on Four AI Agents</title>
