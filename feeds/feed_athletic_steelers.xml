@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 09:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:54:42 +0000</lastBuildDate>
+    <item>
+      <title>Pre-training camp NFL Power Rankings: Rams on top, so where are the rival Seahawks?</title>
+      <link>https://www.nytimes.com/athletic/7464171/2026/07/28/nfl-power-rankings-training-camp-rams-seahawks/</link>
+      <description>Training camps are open across the NFL, and the Power Rankings are back to sort out where everyone stands heading into the season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7464171/2026/07/28/nfl-power-rankings-training-camp-rams-seahawks/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mike McCarthy came home to Pittsburgh, his family and the grief he can’t escape</title>
       <link>https://www.nytimes.com/athletic/7468717/2026/07/27/pittsburgh-steelers-mike-mccarthy-homecoming/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7383350/2026/06/22/nfl-training-camp-2026-schedule/</link>
       <description>Twenty-eight teams will participate in joint practices, with the Saints and Titans each doing three.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7383350/2026/06/22/nfl-training-camp-2026-schedule/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we learned from every NFL team during offseason workouts</title>
-      <link>https://www.nytimes.com/athletic/7379705/2026/06/22/nfl-offseason-workouts-teams-observations-takeaways/</link>
-      <description>Justin Herbert's shotgun stance, Jaylen Waddle's strong first impression and everything in between — our writers take stock from the spring.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7379705/2026/06/22/nfl-offseason-workouts-teams-observations-takeaways/</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
