@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 17:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 18:37:28 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Three New Habits for the Age of AI</title>
+      <link>https://every.to/p/three-new-habits-for-the-age-of-ai</link>
+      <description>I left my corporate job to start my AI and product design business. Here’s what I had to unlearn.</description>
+      <guid isPermaLink="false">https://every.to/p/three-new-habits-for-the-age-of-ai</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Inside OpenAI’s Race to Reinvent Software Development for the Agent Era</title>
@@ -56,13 +63,6 @@
       <description>These four questions helped me decide which ones to keep, redesign, revisit, or retire</description>
       <guid isPermaLink="false">https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Model Is the Easy Part</title>
-      <link>https://every.to/context-window/the-model-is-the-easy-part</link>
-      <description>Plus: Plus: Codex folds into ChatGPT, and why the next drug giant won't be an AI company</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-model-is-the-easy-part</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Case Against Skills</title>
