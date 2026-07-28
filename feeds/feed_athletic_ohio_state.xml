@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 11:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:46:34 +0000</lastBuildDate>
+    <item>
+      <title>Ohio State adding jersey patch of Chase Bank logo to all uniforms</title>
+      <link>https://www.nytimes.com/athletic/7474687/2026/07/28/ohio-state-jersey-patch-chase-bank/</link>
+      <description>Ohio State did not announce how much the partnership is worth, but said the deal includes branding at Ohio Stadium.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7474687/2026/07/28/ohio-state-jersey-patch-chase-bank/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What if college football teams could be sold? Ranking Power 4 teams by their valuation</title>
       <link>https://www.nytimes.com/athletic/7467869/2026/07/28/college-football-program-valuations-rankings-2026-texas-notre-dame-osu/</link>
@@ -176,13 +183,6 @@
       <description>A '90s college football binge revealed many things I didn’t know I’ve been taking for granted to the debates we still haven’t settled.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7393650/2026/06/26/college-football-games-1990s-tv-changes/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State plans for $125 million football facility upgrade, $500 million athletics budget</title>
-      <link>https://www.nytimes.com/athletic/7394478/2026/06/25/ohio-state-football-facility-upgrade-budget/</link>
-      <description>Ohio State athletic director Ross Bjork spoke Thursday about moving forward with big upgrades to the Woody Hayes Athletic Center.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7394478/2026/06/25/ohio-state-football-facility-upgrade-budget/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
