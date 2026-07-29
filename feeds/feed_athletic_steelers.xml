@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 23:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:47:24 +0000</lastBuildDate>
+    <item>
+      <title>Mike McCarthy's first day of Steelers training camp: PUP list surprises, no tackling</title>
+      <link>https://www.nytimes.com/athletic/7475828/2026/07/28/mike-mccarthy-pittsburgh-steelers-training-camp/</link>
+      <description>Plus, the QB2 competition is set, and Broderick Jones is cleared.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7475828/2026/07/28/mike-mccarthy-pittsburgh-steelers-training-camp/</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pre-training camp NFL Power Rankings: Rams on top, so where are the rival Seahawks?</title>
       <link>https://www.nytimes.com/athletic/7464171/2026/07/28/nfl-power-rankings-training-camp-rams-seahawks/</link>
@@ -176,13 +183,6 @@
       <description>A look at where the Steelers' 10 2026 draft picks stand ahead of training camp.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7394524/2026/06/26/pittsburgh-steelers-rookie-report-otas-minicamp/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL announces 2026 training camp, joint practice dates for every team</title>
-      <link>https://www.nytimes.com/athletic/7383350/2026/06/22/nfl-training-camp-2026-schedule/</link>
-      <description>Twenty-eight teams will participate in joint practices, with the Saints and Titans each doing three.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7383350/2026/06/22/nfl-training-camp-2026-schedule/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

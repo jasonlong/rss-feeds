@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 23:26:39 +0000</lastBuildDate>
-    <item>
-      <title>How I Escaped A I Autopilot</title>
-      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
-      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
-    </item>
-    <item>
-      <title>Socrates as a Service</title>
-      <link>https://every.to/p/socrates-as-a-service</link>
-      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 00:47:50 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -158,11 +148,25 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Socrates as a Service</title>
+      <link>https://every.to/p/socrates-as-a-service</link>
+      <description>The best stories live in people—and getting them out is still a human job</description>
+      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code for Product Managers</title>
       <link>https://every.to/source-code/claude-code-for-product-managers</link>
       <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
       <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Escaped AI Autopilot</title>
+      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
+      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
+      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How We Run a 25-person Company on Four AI Agents</title>
