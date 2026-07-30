@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:38:16 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -26,6 +26,13 @@
       <link>https://every.to/guides/codex-for-knowledge-work</link>
       <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
       <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
+    </item>
+    <item>
+      <title>Fable as CEO</title>
+      <link>https://every.to/context-window/fable-as-ceo</link>
+      <description>Plus: Paper and Mobbin join Every’s Builder Pack—now with $9,000 in free credits</description>
+      <guid isPermaLink="false">https://every.to/context-window/fable-as-ceo</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What If Slack Was Your AI Command Center</title>
@@ -47,13 +54,6 @@
       <description>Plus: How to audit old agent instructions, habits you unlearn when you start working for yourself, a solution for Claude-isms, and the new-model tests we may be neglecting</description>
       <guid isPermaLink="false">https://every.to/context-window/taming-opus-5</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside OpenAI’s Race to Reinvent Software Development for the Agent Era</title>
-      <link>https://every.to/p/openai-infrastructure</link>
-      <description>An exclusive look at how OpenAI’s infrastructure team is adapting to a flood of AI-generated code</description>
-      <guid isPermaLink="false">https://every.to/p/openai-infrastructure</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Claude Opus 5 Is Brilliant in Flashes, Frustrating in Practice</title>
