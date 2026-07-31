@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:47:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 12:47:28 +0000</lastBuildDate>
+    <item>
+      <title>Is the Big Ten's middle tier mediocre? What we heard at media days</title>
+      <link>https://www.nytimes.com/athletic/7482072/2026/07/31/big-ten-media-days-coaches/</link>
+      <description>Big Ten coaches also talked about Bryce Underwood's progress at Michigan, scheduling complaints, coast-to-coast travel and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7482072/2026/07/31/big-ten-media-days-coaches/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>2027 NFL Draft preseason positional rankings: Guards and centers</title>
       <link>https://www.nytimes.com/athletic/7476825/2026/07/30/nfl-draft-2027-preseason-guards-centers-rankings/</link>
@@ -176,13 +183,6 @@
       <description>Harrison follows his brother's path to Ohio State as the Buckeyes continue to land elite receivers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7413390/2026/07/01/jett-harrison-ohio-state-five-star-marvin-harrison-jr/</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7405054/2026/06/29/submit-a-question-for-stewart-mandels-college-football-mailbag-348/</link>
-      <description>I’m back after a two-week European holiday. Ready to dive back into your questions. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7405054/2026/06/29/submit-a-question-for-stewart-mandels-college-football-mailbag-348/</guid>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
