@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 20:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:28:05 +0000</lastBuildDate>
+    <item>
+      <title>Miami keeps another local talent home as 5-star, 2-way threat A’mir Sears picks Canes</title>
+      <link>https://www.nytimes.com/athletic/7478590/2026/07/31/miami-football-recruiting-amir-sears-mario-cristobal/</link>
+      <description>Sears, who could play wide receiver or cornerback — or both — is the fifth five-star prospect in Miami's class.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7478590/2026/07/31/miami-football-recruiting-amir-sears-mario-cristobal/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Is the Big Ten's middle tier mediocre? What we heard at media days</title>
       <link>https://www.nytimes.com/athletic/7482072/2026/07/31/big-ten-media-days-coaches/</link>
@@ -176,13 +183,6 @@
       <description>It’s Big 12 Media Days week. … Yes, already. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7424690/2026/07/05/submit-a-question-for-stewart-mandels-college-football-mailbag-349/</guid>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State lands 5-star receiver Jett Harrison, brother of Marvin Harrison Jr.</title>
-      <link>https://www.nytimes.com/athletic/7413390/2026/07/01/jett-harrison-ohio-state-five-star-marvin-harrison-jr/</link>
-      <description>Harrison follows his brother's path to Ohio State as the Buckeyes continue to land elite receivers.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7413390/2026/07/01/jett-harrison-ohio-state-five-star-marvin-harrison-jr/</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

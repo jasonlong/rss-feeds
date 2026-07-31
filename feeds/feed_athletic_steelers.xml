@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 20:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:28:04 +0000</lastBuildDate>
+    <item>
+      <title>Asante Samuel Jr. is the early standout at Steelers training camp</title>
+      <link>https://www.nytimes.com/athletic/7483764/2026/07/31/asante-samuel-jr-pittsburgh-steelers/</link>
+      <description>Plus, Friday's "mock game" provides some hints about the state of the depth chart.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7483764/2026/07/31/asante-samuel-jr-pittsburgh-steelers/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Will Howard is showing a different side of himself: Steelers training camp notes</title>
       <link>https://www.nytimes.com/athletic/7481451/2026/07/30/will-howard-pittsburgh-steelers-training-camp-observations/</link>
@@ -176,13 +183,6 @@
       <description>New head coach Mike McCarthy will try to boost an offense that ranked 25th in yards per game last season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7412969/2026/07/02/steelers-offensive-players-2026/</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One outstanding question for every team as the NFL's summer break begins</title>
-      <link>https://www.nytimes.com/athletic/7405972/2026/06/30/nfl-biggest-question-all-teams-2026/</link>
-      <description>From QB competitions and roster holes to off-field matters, every NFL team enters training camp with questions to answer.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7405972/2026/06/30/nfl-biggest-question-all-teams-2026/</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
