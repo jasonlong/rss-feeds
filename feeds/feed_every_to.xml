@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:52:01 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Compound Engineering</title>
+      <link>https://every.to/guides/compound-engineering</link>
+      <description>The AI-native engineering philosophy</description>
+      <guid isPermaLink="false">https://every.to/guides/compound-engineering</guid>
+    </item>
+    <item>
+      <title>Codex for Knowledge Work</title>
+      <link>https://every.to/guides/codex-for-knowledge-work</link>
+      <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
+      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
     </item>
     <item>
       <title>Fable as CEO</title>
@@ -42,20 +54,6 @@
       <description>Plus: How to audit old agent instructions, habits you unlearn when you start working for yourself, a solution for Claude-isms, and the new-model tests we may be neglecting</description>
       <guid isPermaLink="false">https://every.to/context-window/taming-opus-5</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside OpenAI’s Race to Reinvent Software Development for the Agent Era</title>
-      <link>https://every.to/p/openai-infrastructure</link>
-      <description>An exclusive look at how OpenAI’s infrastructure team is adapting to a flood of AI-generated code</description>
-      <guid isPermaLink="false">https://every.to/p/openai-infrastructure</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sometimes You Have to Delete Everything</title>
-      <link>https://every.to/context-window/sometimes-you-have-to-delete-everything</link>
-      <description>Plus: Our Claude Opus 5 Vibe Check, what makes an AI workflow stick, and the expertise trap that a prompt can’t shortcut</description>
-      <guid isPermaLink="false">https://every.to/context-window/sometimes-you-have-to-delete-everything</guid>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Claude Opus 5 Is Brilliant in Flashes, Frustrating in Practice</title>
@@ -114,6 +112,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Fable 5 Prompt Library</title>
+      <link>https://every.to/p/claude-fable-5-prompt-library</link>
+      <description>Thirteen Claude Fable 5 templates built by Every across engineering, growth, product, and writing, plus our two-hour Fable Power User Camp.</description>
+      <guid isPermaLink="false">https://every.to/p/claude-fable-5-prompt-library</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
       <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
       <description>The company gets pragmatic in AI’s expensive era</description>
@@ -169,11 +174,32 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Folder Is the Agent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent</link>
+      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How We Run a 25-person Company on Four AI Agents</title>
       <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
       <description>How Every uses custom agents for prioritization, meeting notes, OKR planning, and growth tracking—plus sample prompts to build your own</description>
       <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Your Vibe Coded App Goes Viral—And Then Goes Down</title>
+      <link>https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</link>
+      <description>Lessons learned when vibe code meets high load</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compound Engineering Camp: Every Step, From Scratch</title>
+      <link>https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</link>
+      <description>Kieran Klaassen turned a prompt into a working app in an hour and shows you how</description>
+      <guid isPermaLink="false">https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Science of Why AI Still Can't Write Like You</title>
