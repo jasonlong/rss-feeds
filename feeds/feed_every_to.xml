@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 23:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:53:16 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -22,16 +22,16 @@
       <guid isPermaLink="false">https://every.to/guides/build-faster-with-voice</guid>
     </item>
     <item>
-      <title>Codex for Knowledge Work</title>
-      <link>https://every.to/guides/codex-for-knowledge-work</link>
-      <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
-      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
-    </item>
-    <item>
       <title>Compound Engineering</title>
       <link>https://every.to/guides/compound-engineering</link>
       <description>The AI-native engineering philosophy</description>
       <guid isPermaLink="false">https://every.to/guides/compound-engineering</guid>
+    </item>
+    <item>
+      <title>Codex for Knowledge Work</title>
+      <link>https://every.to/guides/codex-for-knowledge-work</link>
+      <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
+      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
     </item>
     <item>
       <title>Fable as CEO</title>
