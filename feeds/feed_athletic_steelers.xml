@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 23:27:40 +0000</lastBuildDate>
+    <item>
+      <title>Max Iheanachor, Steelers first-round OT, looks the part during first day in pads</title>
+      <link>https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</link>
+      <description>Plus, safety depth remains a question, and plenty of fullback looks.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Aaron Rodgers' illness before playoff loss to Texans had Steelers hoping for a 'Flu Game'</title>
       <link>https://www.nytimes.com/athletic/7487940/2026/08/03/aaron-rodgers-flu-playoff-game/</link>
@@ -176,13 +183,6 @@
       <description>A thought on each of Pittsburgh's four specialists too.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7425582/2026/07/08/steelers-defensive-players-2026/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>At what age do NFL players peak? We look at quarterbacks, running backs and every other position</title>
-      <link>https://www.nytimes.com/athletic/7426208/2026/07/06/at-what-age-do-nfl-players-in-different-positions-peak/</link>
-      <description>When do quarterbacks play their best football? How early are running backs past their prime? I looked at 25 years of data to find out</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7426208/2026/07/06/at-what-age-do-nfl-players-in-different-positions-peak/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
