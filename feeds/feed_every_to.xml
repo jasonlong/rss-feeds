@@ -8,97 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:40:30 +0000</lastBuildDate>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/context-window/what-if-slack-was-your-ai-command-center</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/context-window/what-if-slack-was-your-ai-command-center</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/on-every/introducing-every-all-access</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/on-every/introducing-every-all-access</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/socrates-as-a-service</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/the-folder-is-the-agent</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/compound-engineering-gets-an-upgrade</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/how-we-run-a-25-person-company-on-four-ai-agents</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/context-window/the-case-against-skills</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-case-against-skills</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</guid>
-    </item>
+    <lastBuildDate>Tue, 04 Aug 2026 14:55:27 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -106,85 +16,52 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Every</title>
-      <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
-    </item>
-    <item>
-      <title>Claude Code for P roduct Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
-    </item>
-    <item>
-      <title>Every</title>
-      <link>https://every.to/context-window/fable-as-ceo</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/context-window/fable-as-ceo</guid>
-    </item>
-    <item>
-      <title>Build Faster With V oice</title>
+      <title>Build Faster With Voice</title>
       <link>https://every.to/guides/build-faster-with-voice</link>
+      <description>A practical guide for using voice to build tools, patch bugs, write articles and generally get more done</description>
       <guid isPermaLink="false">https://every.to/guides/build-faster-with-voice</guid>
     </item>
     <item>
-      <title>Every</title>
-      <link>https://every.to/context-window/your-ai-is-a-team-of-specialists</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/context-window/your-ai-is-a-team-of-specialists</guid>
-    </item>
-    <item>
-      <title>Every</title>
+      <title>The Best AI Agent Builder Is Trapped Inside Microsoft</title>
       <link>https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
+      <description>You just have to survive the onboarding, the 404s, and 80 things called Copilot to find it</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Codex for K nowledge Work</title>
-      <link>https://every.to/guides/codex-for-knowledge-work</link>
-      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
+      <title>Your AI Is a Team of Specialists</title>
+      <link>https://every.to/context-window/your-ai-is-a-team-of-specialists</link>
+      <description>Plus: How OpenAI is remaking software development, our guide to working by voice, and the Builder Pack tops $9,000 in credits</description>
+      <guid isPermaLink="false">https://every.to/context-window/your-ai-is-a-team-of-specialists</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Every</title>
-      <link>https://every.to/p/claude-fable-5-prompt-library</link>
-      <description>Every — The only subscription you need to stay at the edge of AI. Ideas, apps, and training from practitioners who build with AI daily.</description>
-      <guid isPermaLink="false">https://every.to/p/claude-fable-5-prompt-library</guid>
+      <title>Fable as CEO</title>
+      <link>https://every.to/context-window/fable-as-ceo</link>
+      <description>Plus: Paper and Mobbin join Every’s Builder Pack—now with $9,000 in free credits</description>
+      <guid isPermaLink="false">https://every.to/context-window/fable-as-ceo</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Compound Engineering</title>
-      <link>https://every.to/guides/compound-engineering</link>
-      <description>The AI-native engineering philosophy</description>
-      <guid isPermaLink="false">https://every.to/guides/compound-engineering</guid>
+      <title>What If Slack Was Your AI Command Center</title>
+      <link>https://every.to/context-window/what-if-slack-was-your-ai-command-center</link>
+      <description>Plus: Buzz enters the chat, a tool for protecting against Sol 5.6’s tendency to delete stuff, and a deep pull from our podcast archive featuring Wired cofounder Kevin Kelly</description>
+      <guid isPermaLink="false">https://every.to/context-window/what-if-slack-was-your-ai-command-center</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three New Habits for the Age of AI</title>
+      <link>https://every.to/p/three-new-habits-for-the-age-of-ai</link>
+      <description>I left my corporate job to start my AI and product design business. Here’s what I had to unlearn.</description>
+      <guid isPermaLink="false">https://every.to/p/three-new-habits-for-the-age-of-ai</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taming Opus 5</title>
+      <link>https://every.to/context-window/taming-opus-5</link>
+      <description>Plus: How to audit old agent instructions, habits you unlearn when you start working for yourself, a solution for Claude-isms, and the new-model tests we may be neglecting</description>
+      <guid isPermaLink="false">https://every.to/context-window/taming-opus-5</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Claude Opus 5 Is Brilliant in Flashes, Frustrating in Practice</title>
@@ -192,6 +69,124 @@
       <description>Anthropic’s latest Opus can do impressive work—but getting it there may require dismantling the systems you already use</description>
       <guid isPermaLink="false">https://every.to/vibe-check/opus-5</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Some AI Workflows Stick—And Others Don’t</title>
+      <link>https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</link>
+      <description>These four questions helped me decide which ones to keep, redesign, revisit, or retire</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Case Against Skills</title>
+      <link>https://every.to/context-window/the-case-against-skills</link>
+      <description>Use them intentionally, or they could make your AI worse</description>
+      <guid isPermaLink="false">https://every.to/context-window/the-case-against-skills</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Every All Access</title>
+      <link>https://every.to/on-every/introducing-every-all-access</link>
+      <description>Get more than $7,000 in AI tools—and everything we know about putting them to work</description>
+      <guid isPermaLink="false">https://every.to/on-every/introducing-every-all-access</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Polish Software That Agents Built</title>
+      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
+      <description>Polish is the final step of compound engineering: using the app myself and telling the agent what feels off until it doesn't</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How GPT-5.6 Changes Knowledge Work</title>
+      <link>https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</link>
+      <description>Don’t do your work. Tend your loop.</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
+      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
+      <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Moral of Fable</title>
+      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
+      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Microsoft Is Building for a World of Metered Intelligence</title>
+      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
+      <description>The company gets pragmatic in AI’s expensive era</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compound Engineering Gets an Upgrade</title>
+      <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
+      <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
+      <guid isPermaLink="false">https://every.to/p/compound-engineering-gets-an-upgrade</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Codex for Knowledge Work: A Power User’s Guide</title>
+      <link>https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</link>
+      <description>Setup, workflows, and principles for turning Codex into an operating system for email, writing, research, planning, and reporting—even if you’re not an engineer</description>
+      <guid isPermaLink="false">https://every.to/p/how-to-use-codex-for-knowledge-work-a-power-user-s-guide</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notes From the Foothills of the Singularity</title>
+      <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
+      <description>Google I/O wasn't flashy, but it might be the most important yet</description>
+      <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Socrates as a Service</title>
+      <link>https://every.to/p/socrates-as-a-service</link>
+      <description>The best stories live in people—and getting them out is still a human job</description>
+      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code for Product Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Escaped AI Autopilot</title>
+      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
+      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
+      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Science of Why AI Still Can't Write Like You</title>
+      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
+      <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
+      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This Is How the Every Editorial Team Uses AI</title>
+      <link>https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</link>
+      <description>We’re publishing our editorial guidelines, plus the workflows our writers, editors, and producers have built around them</description>
+      <guid isPermaLink="false">https://every.to/p/this-is-how-the-every-editorial-team-uses-ai</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
