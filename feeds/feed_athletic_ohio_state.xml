@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:53:21 +0000</lastBuildDate>
+    <item>
+      <title>Is Texas or Oregon under more pressure? Biggest preseason coaches poll surprises?</title>
+      <link>https://www.nytimes.com/athletic/7493117/2026/08/05/texas-oregon-pressure-julian-saying-ohio-state/</link>
+      <description>Plus, why are schools cancelling marquee out-of-conference games? Can USC handle it's gauntlet schedule?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7493117/2026/08/05/texas-oregon-pressure-julian-saying-ohio-state/</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football preseason Coaches Poll: Who’s overranked and underrated in the top 25?</title>
       <link>https://www.nytimes.com/athletic/7491651/2026/08/04/college-football-top-25-preseason-coaches-poll-indiana/</link>
@@ -176,13 +183,6 @@
       <description>Of all the teams with national championship expectations, which program could potentially have a disastrous season?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7446252/2026/07/15/college-football-preseason-hype-bust-penn-state-clemson-lsu/</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2027 NFL Draft preseason positional rankings: Wide receivers</title>
-      <link>https://www.nytimes.com/athletic/7424395/2026/07/14/nfl-draft-2027-preseason-rankings-wide-receivers/</link>
-      <description>Jeremiah Smith is the clear No. 1 receiver prospect, but the class is full of talent.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7424395/2026/07/14/nfl-draft-2027-preseason-rankings-wide-receivers/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
