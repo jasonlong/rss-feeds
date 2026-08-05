@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 07:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:02:55 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Aaron Rodgers, Sophie Cunningham speak out. Caitlin Clark doesn't. Either way, they lose</title>
+      <link>https://www.nytimes.com/athletic/7493015/2026/08/05/cunningham-rodgers-clark-fauci-social-media-politics/</link>
+      <description>These days, we dissect athletes' every utterance in search of hidden meanings and innuendo. The hypocrisy is both comical and frightening.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7493015/2026/08/05/cunningham-rodgers-clark-fauci-social-media-politics/</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tempers flare during Steelers' second day in pads, McCarthy's Monday night 'mojo'</title>
@@ -175,13 +182,6 @@
       <description>The Athletic's NFL staff wonders who's next for each NFL team in 2026.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7440963/2026/07/13/nfl-breakout-player-team-roster/</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers fan survey: Grading Art Rooney II, your favorite rookie, all-time Steeler</title>
-      <link>https://www.nytimes.com/athletic/7431399/2026/07/10/steelers-fan-survey-results-art-rooney-ii-approval-rating/</link>
-      <description>Plus, your thoughts on international games and expectations for the 2026 season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7431399/2026/07/10/steelers-fan-survey-results-art-rooney-ii-approval-rating/</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
