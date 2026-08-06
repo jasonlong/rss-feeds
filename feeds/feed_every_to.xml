@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:18:00 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -26,6 +26,13 @@
       <link>https://every.to/guides/compound-engineering</link>
       <description>The AI-native engineering philosophy</description>
       <guid isPermaLink="false">https://every.to/guides/compound-engineering</guid>
+    </item>
+    <item>
+      <title>A Codex of One’s Own</title>
+      <link>https://every.to/context-window/a-codex-of-one-s-own</link>
+      <description>Plus: The race for AI coding supremacy, the models Every is using, and a one-shot data visualization</description>
+      <guid isPermaLink="false">https://every.to/context-window/a-codex-of-one-s-own</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mini-Vibe Check: ChatGPT Voice Mode</title>
@@ -47,13 +54,6 @@
       <description>You just have to survive the onboarding, the 404s, and 80 things called Copilot to find it</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your AI Is a Team of Specialists</title>
-      <link>https://every.to/context-window/your-ai-is-a-team-of-specialists</link>
-      <description>Plus: How OpenAI is remaking software development, our guide to working by voice, and the Builder Pack tops $9,000 in credits</description>
-      <guid isPermaLink="false">https://every.to/context-window/your-ai-is-a-team-of-specialists</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What If Slack Was Your AI Command Center</title>

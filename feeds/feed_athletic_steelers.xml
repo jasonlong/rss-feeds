@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:17:19 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>A first-round pick injured, a former-first rounder struggles: Steelers training camp notes</title>
+      <link>https://www.nytimes.com/athletic/7497509/2026/08/06/pittsburgh-steelers-max-iheanachor-injury-training-camp-report/</link>
+      <description>Plus, praise for Mason Rudolph, and the new-look defense shows a whole lot of wrinkles.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7497509/2026/08/06/pittsburgh-steelers-max-iheanachor-injury-training-camp-report/</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Aaron Rodgers, Sophie Cunningham speak out. Caitlin Clark doesn't. Either way, they lose</title>
@@ -175,13 +182,6 @@
       <description>A whopping 21 teams made changes at offensive coordinator this offseason, though not all of the OCs will hold play-calling responsibility.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7431360/2026/07/14/offensive-coordinators-nfl/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>One breakout player to watch for every NFL team in 2026</title>
-      <link>https://www.nytimes.com/athletic/7440963/2026/07/13/nfl-breakout-player-team-roster/</link>
-      <description>The Athletic's NFL staff wonders who's next for each NFL team in 2026.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7440963/2026/07/13/nfl-breakout-player-team-roster/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
