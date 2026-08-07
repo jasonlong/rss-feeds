@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 18:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 19:25:09 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -20,6 +20,13 @@
       <link>https://every.to/guides/build-faster-with-voice</link>
       <description>A practical guide for using voice to build tools, patch bugs, write articles and generally get more done</description>
       <guid isPermaLink="false">https://every.to/guides/build-faster-with-voice</guid>
+    </item>
+    <item>
+      <title>Designing With AI? Make a Jig.</title>
+      <link>https://every.to/p/designing-with-ai-make-a-jig</link>
+      <description>The custom tools we created for ‘Before the Deluge’—and what they tell us about the state of AI design</description>
+      <guid isPermaLink="false">https://every.to/p/designing-with-ai-make-a-jig</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Codex of One’s Own</title>
@@ -55,13 +62,6 @@
       <description>Plus: How OpenAI is remaking software development, our guide to working by voice, and the Builder Pack tops $9,000 in credits</description>
       <guid isPermaLink="false">https://every.to/context-window/your-ai-is-a-team-of-specialists</guid>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fable as CEO</title>
-      <link>https://every.to/context-window/fable-as-ceo</link>
-      <description>Plus: Paper and Mobbin join Every’s Builder Pack—now with $9,000 in free credits</description>
-      <guid isPermaLink="false">https://every.to/context-window/fable-as-ceo</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What If Slack Was Your AI Command Center</title>
