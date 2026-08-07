@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:26:16 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
@@ -48,6 +48,13 @@
       <link>https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</link>
       <description>Plus, safety depth remains a question, and plenty of fullback looks.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 AFC North preview, offseason recap for Steelers, Ravens, Bengals &amp; Browns</title>
+      <link>https://www.nytimes.com/athletic/7489689/2026/08/03/2026-afc-north-preview-offseason-recap/</link>
+      <description>Our quick AFC North newsletter preview for the Steelers, Ravens, Bengals and Browns</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7489689/2026/08/03/2026-afc-north-preview-offseason-recap/</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</link>
       <description>Which teams got the best results from Fanatics' second attempt at merging American football with global football shirts? Take a look.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>21 NFL teams changed offensive coordinators — The biggest challenges facing new play callers</title>
-      <link>https://www.nytimes.com/athletic/7431360/2026/07/14/offensive-coordinators-nfl/</link>
-      <description>A whopping 21 teams made changes at offensive coordinator this offseason, though not all of the OCs will hold play-calling responsibility.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7431360/2026/07/14/offensive-coordinators-nfl/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
