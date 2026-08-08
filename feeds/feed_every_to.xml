@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 14:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:12:05 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -20,6 +20,11 @@
       <link>https://every.to/guides/build-faster-with-voice</link>
       <description>A practical guide for using voice to build tools, patch bugs, write articles and generally get more done</description>
       <guid isPermaLink="false">https://every.to/guides/build-faster-with-voice</guid>
+    </item>
+    <item>
+      <title>Mini-Vibe Check: ChatGPT V oice Mode</title>
+      <link>https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</link>
+      <guid isPermaLink="false">https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</guid>
     </item>
     <item>
       <title>Designing With AI? Make a Jig.</title>
@@ -34,13 +39,6 @@
       <description>Plus: The race for AI coding supremacy, the models Every is using, and a one-shot data visualization</description>
       <guid isPermaLink="false">https://every.to/context-window/a-codex-of-one-s-own</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mini-Vibe Check: ChatGPT Voice Mode</title>
-      <link>https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</link>
-      <description>Plus a workflow for managing agents while doing the dishes, why AI needs to be more social, and who to follow on X for design inspiration</description>
-      <guid isPermaLink="false">https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>To Stay Ahead in AI, Think Like a Designer</title>
