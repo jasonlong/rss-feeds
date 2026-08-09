@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:12:32 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Codex for Knowledge Work</title>
+      <link>https://every.to/guides/codex-for-knowledge-work</link>
+      <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
+      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
+    </item>
+    <item>
+      <title>Compound Engineering</title>
+      <link>https://every.to/guides/compound-engineering</link>
+      <description>The AI-native engineering philosophy</description>
+      <guid isPermaLink="false">https://every.to/guides/compound-engineering</guid>
     </item>
     <item>
       <title>Your AI Is a Mirror of How You Think</title>
@@ -44,25 +56,11 @@
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>To Stay Ahead in AI, Think Like a Designer</title>
-      <link>https://every.to/p/to-stay-ahead-on-ai-think-like-a-designer</link>
-      <description>How to apply your expertise when AI absorbs the work</description>
-      <guid isPermaLink="false">https://every.to/p/to-stay-ahead-on-ai-think-like-a-designer</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Best AI Agent Builder Is Trapped Inside Microsoft</title>
       <link>https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</link>
       <description>You just have to survive the onboarding, the 404s, and 80 things called Copilot to find it</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Your AI Is a Team of Specialists</title>
-      <link>https://every.to/context-window/your-ai-is-a-team-of-specialists</link>
-      <description>Plus: How OpenAI is remaking software development, our guide to working by voice, and the Builder Pack tops $9,000 in credits</description>
-      <guid isPermaLink="false">https://every.to/context-window/your-ai-is-a-team-of-specialists</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What If Slack Was Your AI Command Center</title>
@@ -128,6 +126,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Fable 5 Prompt Library</title>
+      <link>https://every.to/p/claude-fable-5-prompt-library</link>
+      <description>Thirteen Claude Fable 5 templates built by Every across engineering, growth, product, and writing, plus our two-hour Fable Power User Camp.</description>
+      <guid isPermaLink="false">https://every.to/p/claude-fable-5-prompt-library</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
       <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
       <description>The company gets pragmatic in AI’s expensive era</description>
@@ -182,6 +187,27 @@
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Folder Is the Agent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent</link>
+      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent</guid>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Your Vibe Coded App Goes Viral—And Then Goes Down</title>
+      <link>https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</link>
+      <description>Lessons learned when vibe code meets high load</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compound Engineering Camp: Every Step, From Scratch</title>
+      <link>https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</link>
+      <description>Kieran Klaassen turned a prompt into a working app in an hour and shows you how</description>
+      <guid isPermaLink="false">https://every.to/source-code/compound-engineering-camp-every-step-from-scratch</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Science of Why AI Still Can't Write Like You</title>
