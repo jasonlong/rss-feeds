@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 09:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 10:14:24 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Steelers Saturday Night Lights practice: A Dean pick-6, Metcalf's one-handed grab</title>
+      <link>https://www.nytimes.com/athletic/7501737/2026/08/09/pittsburgh-steelers-saturday-night-lights-practice-report/</link>
+      <description>The annual practice featured a dominant defense.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7501737/2026/08/09/pittsburgh-steelers-saturday-night-lights-practice-report/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A first-round pick injured, a former first-rounder struggles: Steelers training camp notes</title>
@@ -175,13 +182,6 @@
       <description>Why there's reason to believe Graham's defense will be better than last year's statistical performance suggests.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7444494/2026/07/15/patrick-graham-steelers-defensive-coordinator-scheme/</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Football meets international football: Ranking every NFL soccer-style crossover jersey from 1-32</title>
-      <link>https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</link>
-      <description>Which teams got the best results from Fanatics' second attempt at merging American football with global football shirts? Take a look.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7444316/2026/07/14/nfl-soccer-jerseys-fanatics-world-cup/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
