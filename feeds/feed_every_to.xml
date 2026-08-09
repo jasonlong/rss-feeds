@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 03:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:33:29 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,16 +16,21 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Codex for Knowledge Work</title>
-      <link>https://every.to/guides/codex-for-knowledge-work</link>
-      <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
-      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
+      <title>Mini-Vibe Check: ChatGPT V oice Mode</title>
+      <link>https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</link>
+      <guid isPermaLink="false">https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</guid>
     </item>
     <item>
       <title>Compound Engineering</title>
       <link>https://every.to/guides/compound-engineering</link>
       <description>The AI-native engineering philosophy</description>
       <guid isPermaLink="false">https://every.to/guides/compound-engineering</guid>
+    </item>
+    <item>
+      <title>Codex for Knowledge Work</title>
+      <link>https://every.to/guides/codex-for-knowledge-work</link>
+      <description>A power-user’s guide to turning OpenAI’s coding agent into an operating system for knowledge work, including setup, workflows, and a seven-day starter plan</description>
+      <guid isPermaLink="false">https://every.to/guides/codex-for-knowledge-work</guid>
     </item>
     <item>
       <title>Designing With AI? Make a Jig.</title>
@@ -40,13 +45,6 @@
       <description>Plus: The race for AI coding supremacy, the models Every is using, and a one-shot data visualization</description>
       <guid isPermaLink="false">https://every.to/context-window/a-codex-of-one-s-own</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mini-Vibe Check: ChatGPT Voice Mode</title>
-      <link>https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</link>
-      <description>Plus a workflow for managing agents while doing the dishes, why AI needs to be more social, and who to follow on X for design inspiration</description>
-      <guid isPermaLink="false">https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>To Stay Ahead in AI, Think Like a Designer</title>
