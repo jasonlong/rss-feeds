@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:40:19 +0000</lastBuildDate>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7503307/2026/08/09/submit-a-question-for-stewart-mandels-college-football-mailbag-354/</link>
+      <description>The season is upon us, but so is another College Football Playoff expansion meeting and more Class of 2022 lawsuits. Leave your questions here. Please include your name and city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7503307/2026/08/09/submit-a-question-for-stewart-mandels-college-football-mailbag-354/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Five-star CB Jay Timmons looks like immediate impact: Ohio State preseason takeaways</title>
       <link>https://www.nytimes.com/athletic/7500929/2026/08/08/jay-timmons-ohio-state-preseason-takeaways/</link>
@@ -176,13 +183,6 @@
       <description>Is Julian Sayin a "game manager" or does he make the Ohio State offense better? Which player outside of the top 25 could take a leap?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7461135/2026/07/22/college-quarterback-rankings-sayin-manning-mestemaker/</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football quarterback tiers 2026: Ranking every projected starter from 1 to 138</title>
-      <link>https://www.nytimes.com/athletic/7442836/2026/07/21/college-football-quarterbacks-rankings-tiers/</link>
-      <description>Ranking Trinidad Chambliss, Arch Manning, Dante Moore, CJ Carr, Julian Sayin and more. How does your QB stack up?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7442836/2026/07/21/college-football-quarterbacks-rankings-tiers/</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
