@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:22:30 +0000</lastBuildDate>
+    <item>
+      <title>2027 NFL Draft preseason positional rankings: Edge rushers</title>
+      <link>https://www.nytimes.com/athletic/7496903/2026/08/11/nfl-draft-2027-preseason-edge-rankings/</link>
+      <description>Texas' Colin Simmons is expected to be one of the highest-rated edge rushers in the 2027 NFL Draft. Who else stands out at the position?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7496903/2026/08/11/nfl-draft-2027-preseason-edge-rankings/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football Freaks List 2026: South Carolina WR Nyck Harbor tops a list of 101</title>
       <link>https://www.nytimes.com/athletic/7501158/2026/08/10/college-football-freaks-list-south-carolina-nyck-harbor-2026/</link>
@@ -176,13 +183,6 @@
       <description>Sayin is No. 5 in The Athletic's rankings but still drew plenty of mixed opinions. Can Ohio State's QB answer critics on the field?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7463745/2026/07/23/julian-sayin-ohio-state-quarterback-rankings/</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tennessee beats Ohio State for David Gabriel Georges, believed to be first $2M-a-year RB recruit</title>
-      <link>https://www.nytimes.com/athletic/7427884/2026/07/22/tennessee-football-recruiting-david-gabriel-georges-ohio-state/</link>
-      <description>Gabriel Georges is the second top-100 recruit in the Vols' 2027 class, joining wide receiver Kesean Bowman.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7427884/2026/07/22/tennessee-football-recruiting-david-gabriel-georges-ohio-state/</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
