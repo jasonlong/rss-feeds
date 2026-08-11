@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 18:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:27:33 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Agents for Hire</title>
+      <link>https://every.to/context-window/agents-for-hire</link>
+      <description>Plus: An AI writing policy that makes writers do the thinking, Zuckerberg’s AI Future for Everyone runs on Meta, and a tool that keeps your agents from timing out</description>
+      <guid isPermaLink="false">https://every.to/context-window/agents-for-hire</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Vibe Coded a Security Risk</title>
