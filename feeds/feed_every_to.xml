@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:21:45 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -16,9 +16,9 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>Claude Code Is the OpenClaw A lternative You Already Have</title>
-      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
+      <title>How I P olish Software That Agents Built</title>
+      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
+      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
     </item>
     <item>
       <title>Agents for Hire</title>
@@ -112,18 +112,18 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How I Polish Software That Agents Built</title>
-      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
-      <description>Polish is the final step of compound engineering: using the app myself and telling the agent what feels off until it doesn't</description>
-      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How GPT-5.6 Changes Knowledge Work</title>
       <link>https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</link>
       <description>Don’t do your work. Tend your loop.</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/how-gpt-5-6-changes-knowledge-work</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
+      <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
+      <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Moral of Fable</title>
