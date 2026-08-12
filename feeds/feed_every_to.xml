@@ -8,17 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:21:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:25:01 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
-    </item>
-    <item>
-      <title>How I P olish Software That Agents Built</title>
-      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
-      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
     </item>
     <item>
       <title>Agents for Hire</title>
@@ -110,6 +105,13 @@
       <description>Get more than $9,000 in AI tools—and everything we know about putting them to work</description>
       <guid isPermaLink="false">https://every.to/on-every/introducing-every-all-access</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Polish Software That Agents Built</title>
+      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
+      <description>Polish is the final step of compound engineering: using the app myself and telling the agent what feels off until it doesn't</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How GPT-5.6 Changes Knowledge Work</title>
