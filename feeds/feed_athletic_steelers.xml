@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:27:12 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Roman Wilson's rise, Rudolph impresses, where the rookies stand: Steelers stock report</title>
+      <link>https://www.nytimes.com/athletic/7506672/2026/08/12/pittsburgh-steelers-preseason-game-position-battles/</link>
+      <description>A look at who is trending up and who is trending down ahead of the preseason opener.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7506672/2026/08/12/pittsburgh-steelers-preseason-game-position-battles/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mike McCarthy's QB School developed Aaron Rodgers. In Pittsburgh, he has a new class</title>
@@ -175,13 +182,6 @@
       <description>We're bullish on the Lions and the Giants under John Harbaugh, but we're not buying the optimism around the Bengals and Vikings.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7450525/2026/07/17/nfl-win-totals-bets-predictions-2026/</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>14 NFL teams changed defensive coordinators — Which new schemes could make the biggest impact?</title>
-      <link>https://www.nytimes.com/athletic/7434139/2026/07/16/defensive-coordinators-nfl/</link>
-      <description>There are 13 new defensive play callers around the NFL. Which will have the biggest impact on their team?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7434139/2026/07/16/defensive-coordinators-nfl/</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
