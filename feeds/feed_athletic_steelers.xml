@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 19:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:18:35 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Aaron Rodgers 'bummed out' Packers-Steelers preseason game isn't in Green Bay</title>
+      <link>https://www.nytimes.com/athletic/7508809/2026/08/12/aaron-rodgers-packers-lambeau-field-preseason/</link>
+      <description>The longtime former Packer will finish his career never having played in Lambeau Field as an opponent.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7508809/2026/08/12/aaron-rodgers-packers-lambeau-field-preseason/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Roman Wilson's rise, Rudolph impresses, where the rookies stand: Steelers stock report</title>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7452393/2026/07/17/nfl-natural-grass-stadiums-world-cup-nflpa/</link>
       <description>A poll shared by the NFLPA showed that 92 percent of the union's player members prefer to play on natural grass.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7452393/2026/07/17/nfl-natural-grass-stadiums-world-cup-nflpa/</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL over/under win totals: Predictions and best bets for all 32 teams in 2026</title>
-      <link>https://www.nytimes.com/athletic/7450525/2026/07/17/nfl-win-totals-bets-predictions-2026/</link>
-      <description>We're bullish on the Lions and the Giants under John Harbaugh, but we're not buying the optimism around the Bengals and Vikings.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7450525/2026/07/17/nfl-win-totals-bets-predictions-2026/</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

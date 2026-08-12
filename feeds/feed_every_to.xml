@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 19:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:19:02 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Agents Find a Way</title>
+      <link>https://every.to/context-window/openai-hugging-face-hack</link>
+      <description>Plus: AI dictation etiquette, Microsoft’s vision for the agentic web, and the models we’re reaching for this week</description>
+      <guid isPermaLink="false">https://every.to/context-window/openai-hugging-face-hack</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Agents for Hire</title>
@@ -56,13 +63,6 @@
       <description>Plus a workflow for managing agents while doing the dishes, why AI needs to be more social, and who to follow on X for design inspiration</description>
       <guid isPermaLink="false">https://every.to/context-window/mini-vibe-check-chatgpt-voice-mode</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>To Stay Ahead in AI, Think Like a Designer</title>
-      <link>https://every.to/p/to-stay-ahead-on-ai-think-like-a-designer</link>
-      <description>How to apply your expertise when AI absorbs the work</description>
-      <guid isPermaLink="false">https://every.to/p/to-stay-ahead-on-ai-think-like-a-designer</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Best AI Agent Builder Is Trapped Inside Microsoft</title>
