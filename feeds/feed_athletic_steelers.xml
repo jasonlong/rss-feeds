@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:28:09 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Aaron Rodgers became the mentor he never had. Two young Steelers QBs detail how</title>
+      <link>https://www.nytimes.com/athletic/7509425/2026/08/13/aaron-rodgers-mentor-steelers-will-howard-drew-allar/</link>
+      <description>Will Howard and Drew Allar can point to ways Rodgers has helped their development.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7509425/2026/08/13/aaron-rodgers-mentor-steelers-will-howard-drew-allar/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Aaron Rodgers 'bummed out' Packers-Steelers preseason game isn't in Green Bay</title>
@@ -175,13 +182,6 @@
       <description>The Athletic's writers compiled a list of star-crossed QBs, wide receivers juggling off-field issues and more ahead of training camp.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7456344/2026/07/20/nfl-players-all-32-teams-most-on-the-line-2026/</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL players advocate for natural grass playing surfaces after World Cup: 'Worth the cost'</title>
-      <link>https://www.nytimes.com/athletic/7452393/2026/07/17/nfl-natural-grass-stadiums-world-cup-nflpa/</link>
-      <description>A poll shared by the NFLPA showed that 92 percent of the union's player members prefer to play on natural grass.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7452393/2026/07/17/nfl-natural-grass-stadiums-world-cup-nflpa/</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
