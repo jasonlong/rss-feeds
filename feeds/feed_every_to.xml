@@ -8,12 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:24:25 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>How to Secure an AI Employee</title>
+      <link>https://every.to/guides/securing-an-always-on-ai-employee</link>
+      <description>A starter framework for evaluating security and assessing risks when your AI agent works where you work</description>
+      <guid isPermaLink="false">https://every.to/guides/securing-an-always-on-ai-employee</guid>
     </item>
     <item>
       <title>Introducing Thesis: 2027</title>
@@ -56,13 +62,6 @@
       <description>The custom tools we created for ‘Before the Deluge’—and what they tell us about the state of AI design</description>
       <guid isPermaLink="false">https://every.to/p/designing-with-ai-make-a-jig</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Codex of One’s Own</title>
-      <link>https://every.to/context-window/a-codex-of-one-s-own</link>
-      <description>Plus: The race for AI coding supremacy, the models Every is using, and a one-shot data visualization</description>
-      <guid isPermaLink="false">https://every.to/context-window/a-codex-of-one-s-own</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Best AI Agent Builder Is Trapped Inside Microsoft</title>
