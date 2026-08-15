@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 22:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:07:29 +0000</lastBuildDate>
+    <item>
+      <title>What we're hearing after Ohio State's first 9 practices of preseason camp</title>
+      <link>https://www.nytimes.com/athletic/7515554/2026/08/15/ohio-states-preseason-camp-bo-jackson/</link>
+      <description>Thoughts after Ohio State’s second week of preseason camp, including Bo Jackson's strides, Luke Fahey's rise and a deep defense.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7515554/2026/08/15/ohio-states-preseason-camp-bo-jackson/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ohio State moves football senior day to Week 1, away from Michigan rivalry game</title>
       <link>https://www.nytimes.com/athletic/7513883/2026/08/14/ohio-state-senior-day-week-1-michigan/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7473610/2026/07/29/college-football-best-backup-quarterbacks-qbs-dylan-raiola/</link>
       <description>Which teams are in the best position to survive an injury to their starting quarterback?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7473610/2026/07/29/college-football-best-backup-quarterbacks-qbs-dylan-raiola/</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State and Notre Dame added jersey patches — and your favorite school will, too</title>
-      <link>https://www.nytimes.com/athletic/7476092/2026/07/29/college-football-jersey-patches-ohio-state-notre-dame/</link>
-      <description>Some fans might not like patches on their favorite team's jersey. You know what they hate more? Losing.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7476092/2026/07/29/college-football-jersey-patches-ohio-state-notre-dame/</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
