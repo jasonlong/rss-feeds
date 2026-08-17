@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 09:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:14:52 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Deep-diving Drew Allar's debut: Quick decisions, mobility, staple concept execution</title>
+      <link>https://www.nytimes.com/athletic/7517638/2026/08/17/drew-allar-film-study-preseason-debut/</link>
+      <description>A closer look at the film from Allar's impressive Thursday night performance.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7517638/2026/08/17/drew-allar-film-study-preseason-debut/</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steelers, DT Keeanu Benton agree to contract extension: Source</title>
@@ -175,13 +182,6 @@
       <description>Plus, with so much change in the division during the offseason, which team has our writers most curious ahead of camp?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7464497/2026/07/23/afc-north-ravens-bengals-browns-steelers/</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seven position battles ahead of Mike McCarthy's first Steelers training camp</title>
-      <link>https://www.nytimes.com/athletic/7458383/2026/07/21/pittsburgh-steelers-training-camp-position-battles/</link>
-      <description>A look at how the depth chart could play out at quarterback, wide receiver, linebacker and more.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7458383/2026/07/21/pittsburgh-steelers-training-camp-position-battles/</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
