@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 20:11:21 +0000</lastBuildDate>
-    <item>
-      <title>Socrates as a Service</title>
-      <link>https://every.to/p/socrates-as-a-service</link>
-      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
-    </item>
-    <item>
-      <title>The Best AI Agent Builder Is T rapped Inside Microsoft</title>
-      <link>https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</link>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</guid>
-    </item>
+    <lastBuildDate>Mon, 17 Aug 2026 21:11:33 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -26,25 +16,17 @@
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
     </item>
     <item>
-      <title>How Microsoft Is Building for a World of M etered Intelligence</title>
-      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
-    </item>
-    <item>
-      <title>We Gave Every Employee an AI Agent. Here's W hat We're Doing Differently Now.</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-    </item>
-    <item>
-      <title>Our AI Costs Jumped 230 Percent. I’m Not Setting Token Budgets—Yet.</title>
-      <link>https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet</link>
-      <guid isPermaLink="false">https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet</guid>
-    </item>
-    <item>
       <title>Securing an Always-on AI Employee</title>
       <link>https://every.to/guides/securing-an-always-on-ai-employee</link>
       <description>A starter framework for evaluating security and assessing risks when your AI agent works where you work</description>
       <guid isPermaLink="false">https://every.to/guides/securing-an-always-on-ai-employee</guid>
+    </item>
+    <item>
+      <title>Our AI Costs Jumped 230 Percent. I’m Not Setting Token Budgets—Yet.</title>
+      <link>https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet</link>
+      <description>What a surge in daily credit usage taught me about managing operations on the frontier</description>
+      <guid isPermaLink="false">https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Next Era of Great Work</title>
@@ -80,6 +62,13 @@
       <description>The app worked. Nobody, including me, had checked whether it was safe.</description>
       <guid isPermaLink="false">https://every.to/working-overtime/i-vibe-coded-a-security-risk</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Best AI Agent Builder Is Trapped Inside Microsoft</title>
+      <link>https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</link>
+      <description>You just have to survive the onboarding, the 404s, and 80 things called Copilot to find it</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What If Slack Was Your AI Command Center</title>
@@ -138,6 +127,13 @@
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Microsoft Is Building for a World of Metered Intelligence</title>
+      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
+      <description>The company gets pragmatic in AI’s expensive era</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compound Engineering Gets an Upgrade</title>
       <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
       <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
@@ -150,6 +146,20 @@
       <description>Google I/O wasn't flashy, but it might be the most important yet</description>
       <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <description>We’ve been working on a big release on the future of work for next week, shaped by what we learned from building Plus One</description>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Socrates as a Service</title>
+      <link>https://every.to/p/socrates-as-a-service</link>
+      <description>The best stories live in people—and getting them out is still a human job</description>
+      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code for Product Managers</title>
