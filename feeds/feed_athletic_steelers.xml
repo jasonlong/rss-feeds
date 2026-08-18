@@ -8,19 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 11:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:13:59 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
-    </item>
-    <item>
-      <title>📈 Trending 📉 after Preseason Week 1, with Giants rookies impressing</title>
-      <link>https://www.nytimes.com/athletic/7519984/2026/08/17/%f0%9f%93%88-trending-%f0%9f%93%89-after-preseason-week-1-giants-rookies/</link>
-      <description>Risers and fallers from preseason Week 1, as the Giants rookies while the Cardinals rookies go down (literally)</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7519984/2026/08/17/%f0%9f%93%88-trending-%f0%9f%93%89-after-preseason-week-1-giants-rookies/</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Deep-diving Drew Allar's Steelers debut: Quick decisions, mobility, staple concept execution</title>
@@ -182,6 +175,13 @@
       <description>The Seahawks hope to become a rare repeat champ, while the Vikings and Browns are among the teams still deciding on a starting QB.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7466351/2026/07/27/nfl-training-camp-2026-storylines-seahawks-new-coaches/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AFC North Whiparound: Improvements, concerns and position battles entering training camp</title>
+      <link>https://www.nytimes.com/athletic/7464497/2026/07/23/afc-north-ravens-bengals-browns-steelers/</link>
+      <description>Plus, with so much change in the division during the offseason, which team has our writers most curious ahead of camp?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7464497/2026/07/23/afc-north-ravens-bengals-browns-steelers/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
