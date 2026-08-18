@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:15:27 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -20,6 +20,13 @@
       <link>https://every.to/guides/securing-an-always-on-ai-employee</link>
       <description>A starter framework for evaluating security and assessing risks when your AI agent works where you work</description>
       <guid isPermaLink="false">https://every.to/guides/securing-an-always-on-ai-employee</guid>
+    </item>
+    <item>
+      <title>What Does Human Work Look Like After Automation?</title>
+      <link>https://every.to/on-every/what-does-human-work-look-like-after-automation</link>
+      <description>100 thinkers and builders call their shot on the future of great human work with AI</description>
+      <guid isPermaLink="false">https://every.to/on-every/what-does-human-work-look-like-after-automation</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Our AI Costs Jumped 230 Percent. I’m Not Setting Token Budgets—Yet.</title>
@@ -97,13 +104,6 @@
       <description>Use them intentionally, or they could make your AI worse</description>
       <guid isPermaLink="false">https://every.to/context-window/the-case-against-skills</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing Every All Access</title>
-      <link>https://every.to/on-every/introducing-every-all-access</link>
-      <description>Get more than $9,000 in AI tools—and everything we know about putting them to work</description>
-      <guid isPermaLink="false">https://every.to/on-every/introducing-every-all-access</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How I Polish Software That Agents Built</title>
