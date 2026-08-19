@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:13:45 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Pittsburgh Steelers' biggest depth-chart questions after three weeks of camp</title>
+      <link>https://www.nytimes.com/athletic/7522798/2026/08/19/pittsburgh-steelers-position-battles-training-camp-preseason/</link>
+      <description>A look at the races for QB2, WR3, starting base inside linebacker and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7522798/2026/08/19/pittsburgh-steelers-position-battles-training-camp-preseason/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL Projection Model predicts a crowded AFC: 11 teams projected for 8+ wins</title>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7468717/2026/07/27/pittsburgh-steelers-mike-mccarthy-homecoming/</link>
       <description>As the Steelers coach gave a tour of the Pittsburgh neighborhood where he grew up, the complicated aspects of his return became clear.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7468717/2026/07/27/pittsburgh-steelers-mike-mccarthy-homecoming/</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL training camp 2026 storylines include Seahawks title defense, new coaches and QB battles</title>
-      <link>https://www.nytimes.com/athletic/7466351/2026/07/27/nfl-training-camp-2026-storylines-seahawks-new-coaches/</link>
-      <description>The Seahawks hope to become a rare repeat champ, while the Vikings and Browns are among the teams still deciding on a starting QB.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7466351/2026/07/27/nfl-training-camp-2026-storylines-seahawks-new-coaches/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
