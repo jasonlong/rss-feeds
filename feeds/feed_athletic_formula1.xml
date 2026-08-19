@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:16:52 +0000</lastBuildDate>
+    <item>
+      <title>Red Bull's Isack Hadjar set to miss Dutch GP with wrist injury</title>
+      <link>https://www.nytimes.com/athletic/7523254/2026/08/19/isack-hadjar-f1-red-bull-dutch-gp-wrist-injury/</link>
+      <description>The 21-year-old's absence would most likely open the door for Liam Lawson to step in alongside Max Verstappen.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7523254/2026/08/19/isack-hadjar-f1-red-bull-dutch-gp-wrist-injury/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Alex Albon signs Williams extension despite rough start to season: 'One tough year doesn’t tell the full picture'</title>
       <link>https://www.nytimes.com/athletic/7521203/2026/08/18/alex-albon-williams-f1-contract/</link>
@@ -176,13 +183,6 @@
       <description>The Malaysian Grand Prix will return to the F1 schedule for the first time since 2017</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7469569/2026/07/26/malaysian-gp-f1-2026-calendar/</guid>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lando Norris triumphs in Hungarian GP qualifying around spins, penalties and track issues</title>
-      <link>https://www.nytimes.com/athletic/7469756/2026/07/25/lando-norris-hungarian-gp-qualifying-results/</link>
-      <description>Lando Norris' pole for McLaren at the Hungarian Grand Prix gives Mercedes a first qualifying defeat in 2026</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7469756/2026/07/25/lando-norris-hungarian-gp-qualifying-results/</guid>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
