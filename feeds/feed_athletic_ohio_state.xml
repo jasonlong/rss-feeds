@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 09:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:11:12 +0000</lastBuildDate>
+    <item>
+      <title>College football preseason 2026 All-America teams from The Athletic</title>
+      <link>https://www.nytimes.com/athletic/7518713/2026/08/19/college-football-all-america-team-preseason-2026/</link>
+      <description>Indiana and Oregon lead the way with five players on our two All-America teams, followed by Ole Miss and Texas with four each.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7518713/2026/08/19/college-football-all-america-team-preseason-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>College football coaching tiers 2026: It's Curt Cignetti and Kirby Smart, then everyone else</title>
       <link>https://www.nytimes.com/athletic/7514143/2026/08/18/college-football-coaching-tiers-curt-cignetti-2026/</link>
@@ -176,13 +183,6 @@
       <description>Training camp is upon us! So of course another court ruling and a Senate bill are overshadowing everything. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7489094/2026/08/03/submit-a-question-for-stewart-mandels-college-football-mailbag-353/</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miami keeps another local talent home as 5-star, 2-way threat A’mir Sears picks Canes</title>
-      <link>https://www.nytimes.com/athletic/7478590/2026/07/31/miami-football-recruiting-amir-sears-mario-cristobal/</link>
-      <description>Sears, who could play wide receiver or cornerback — or both — is the fifth five-star prospect in Miami's class.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7478590/2026/07/31/miami-football-recruiting-amir-sears-mario-cristobal/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
