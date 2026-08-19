@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:11:46 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -20,6 +20,13 @@
       <link>https://every.to/guides/securing-an-always-on-ai-employee</link>
       <description>A starter framework for evaluating security and assessing risks when your AI agent works where you work</description>
       <guid isPermaLink="false">https://every.to/guides/securing-an-always-on-ai-employee</guid>
+    </item>
+    <item>
+      <title>An Engineering Team for the Cost of Codex</title>
+      <link>https://every.to/context-window/an-engineering-team-for-the-cost-of-codex</link>
+      <description>Plus: How AI helped build the Thesis website, an alien companion bringing in $4 million a year, and why the future of harness engineering is doing less</description>
+      <guid isPermaLink="false">https://every.to/context-window/an-engineering-team-for-the-cost-of-codex</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Does Human Work Look Like After Automation?</title>
@@ -55,13 +62,6 @@
       <description>Plus: AI dictation etiquette, Microsoft’s vision for the agentic web, and the models we’re reaching for this week</description>
       <guid isPermaLink="false">https://every.to/context-window/openai-hugging-face-hack</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agents for Hire</title>
-      <link>https://every.to/context-window/agents-for-hire</link>
-      <description>Plus: An AI writing policy that makes writers do the thinking, Zuckerberg’s AI Future for Everyone runs on Meta, and a tool that keeps your agents from timing out</description>
-      <guid isPermaLink="false">https://every.to/context-window/agents-for-hire</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Vibe Coded a Security Risk</title>
