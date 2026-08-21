@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:12:38 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>He used to be the Steelers' forgotten 'stepson'; now, he's a likely Week 1 starter</title>
+      <link>https://www.nytimes.com/athletic/7527365/2026/08/21/spencer-anderson-pittsburgh-steelers-starting-right-guard-rg/</link>
+      <description>A 7th-round pick who once had to repeat his name to his own coach, Spencer Anderson is now the front-runner to start at right guard.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7527365/2026/08/21/spencer-anderson-pittsburgh-steelers-starting-right-guard-rg/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Will Howard is in the middle of the Steelers' complicated QB equation</title>
@@ -174,13 +181,6 @@
       <link>https://www.nytimes.com/athletic/7475828/2026/07/28/mike-mccarthy-pittsburgh-steelers-training-camp/</link>
       <description>Plus, the QB2 competition is set, and Broderick Jones is cleared.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7475828/2026/07/28/mike-mccarthy-pittsburgh-steelers-training-camp/</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pre-training camp NFL Power Rankings: Rams on top, so where are the rival Seahawks?</title>
-      <link>https://www.nytimes.com/athletic/7464171/2026/07/28/nfl-power-rankings-training-camp-rams-seahawks/</link>
-      <description>Training camps are open across the NFL, and the Power Rankings are back to sort out where everyone stands heading into the season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7464171/2026/07/28/nfl-power-rankings-training-camp-rams-seahawks/</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
