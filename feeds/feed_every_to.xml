@@ -8,42 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 19:15:59 +0000</lastBuildDate>
-    <item>
-      <title>The Science of Why A I Still Can't Write Like You</title>
-      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
-      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
-    </item>
-    <item>
-      <title>Socrates as a Service</title>
-      <link>https://every.to/p/socrates-as-a-service</link>
-      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
-    </item>
+    <lastBuildDate>Fri, 21 Aug 2026 20:09:31 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
-    </item>
-    <item>
-      <title>The M oral of Fable</title>
-      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
-    </item>
-    <item>
-      <title>Claude Code for P roduct Managers</title>
-      <link>https://every.to/source-code/claude-code-for-product-managers</link>
-      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
-    </item>
-    <item>
-      <title>We Gave Every Employee an AI Agent. Here's W hat We're Doing Differently Now.</title>
-      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
-      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
-    </item>
-    <item>
-      <title>How I P olish Software That Agents Built</title>
-      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
-      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
     </item>
     <item>
       <title>Securing an Always-on AI Employee</title>
@@ -52,9 +22,11 @@
       <guid isPermaLink="false">https://every.to/guides/securing-an-always-on-ai-employee</guid>
     </item>
     <item>
-      <title>What Does H uman Work Look Like After Automation?</title>
-      <link>https://every.to/on-every/what-does-human-work-look-like-after-automation</link>
-      <guid isPermaLink="false">https://every.to/on-every/what-does-human-work-look-like-after-automation</guid>
+      <title>The Healthcare Company That Built the AI Tool It Couldn’t Buy</title>
+      <link>https://every.to/p/the-healthcare-company-that-built-the-ai-tool-it-couldn-t-buy</link>
+      <description>Off-the-shelf AI couldn’t meet Headway’s security and workflow needs, so it built its own on the Claude Code SDK. Now the whole company uses it.</description>
+      <guid isPermaLink="false">https://every.to/p/the-healthcare-company-that-built-the-ai-tool-it-couldn-t-buy</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In Defense of AI Writing</title>
@@ -69,6 +41,13 @@
       <description>Plus: How AI helped build the Thesis website, an alien companion bringing in $4 million a year, and why the future of harness engineering is doing less</description>
       <guid isPermaLink="false">https://every.to/context-window/an-engineering-team-for-the-cost-of-codex</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Does Human Work Look Like After Automation?</title>
+      <link>https://every.to/on-every/what-does-human-work-look-like-after-automation</link>
+      <description>100 thinkers and builders call their shot on the future of great human work with AI</description>
+      <guid isPermaLink="false">https://every.to/on-every/what-does-human-work-look-like-after-automation</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Our AI Costs Jumped 230 Percent. I’m Not Setting Token Budgets—Yet.</title>
@@ -141,11 +120,25 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How I Polish Software That Agents Built</title>
+      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
+      <description>Polish is the final step of compound engineering: using the app myself and telling the agent what feels off until it doesn't</description>
+      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
       <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
       <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
       <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Moral of Fable</title>
+      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
+      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Microsoft Is Building for a World of Metered Intelligence</title>
@@ -169,11 +162,39 @@
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
+      <link>https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</link>
+      <description>We’ve been working on a big release on the future of work for next week, shaped by what we learned from building Plus One</description>
+      <guid isPermaLink="false">https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Socrates as a Service</title>
+      <link>https://every.to/p/socrates-as-a-service</link>
+      <description>The best stories live in people—and getting them out is still a human job</description>
+      <guid isPermaLink="false">https://every.to/p/socrates-as-a-service</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code for Product Managers</title>
+      <link>https://every.to/source-code/claude-code-for-product-managers</link>
+      <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
+      <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How I Escaped AI Autopilot</title>
       <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Science of Why AI Still Can't Write Like You</title>
+      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
+      <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
+      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>This Is How the Every Editorial Team Uses AI</title>
