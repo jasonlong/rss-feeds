@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 22:08:12 +0000</lastBuildDate>
+    <item>
+      <title>Vibe Check: Claude Opus 5 Is B rilliant in Flashes, Frustrating in Practice</title>
+      <link>https://every.to/vibe-check/opus-5</link>
+      <guid isPermaLink="false">https://every.to/vibe-check/opus-5</guid>
+    </item>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -97,13 +102,6 @@
       <description>Plus: Buzz enters the chat, a tool for protecting against Sol 5.6’s tendency to delete stuff, and a deep pull from our podcast archive featuring Wired cofounder Kevin Kelly</description>
       <guid isPermaLink="false">https://every.to/context-window/what-if-slack-was-your-ai-command-center</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: Claude Opus 5 Is Brilliant in Flashes, Frustrating in Practice</title>
-      <link>https://every.to/vibe-check/opus-5</link>
-      <description>Anthropic’s latest Opus can do impressive work—but getting it there may require dismantling the systems you already use</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/opus-5</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Some AI Workflows Stick—And Others Don’t</title>
