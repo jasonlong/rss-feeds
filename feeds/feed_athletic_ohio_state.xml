@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:08:49 +0000</lastBuildDate>
+    <item>
+      <title>Who’s your real rival? College football has a lot of love (well, hate) triangles</title>
+      <link>https://www.nytimes.com/athletic/7529071/2026/08/22/college-football-biggest-rivalries-every-team/</link>
+      <description>It's not always easy to identify rivals in college football. Sometimes the team you hate the most hates someone else more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7529071/2026/08/22/college-football-biggest-rivalries-every-team/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What makes Arthur Smith's Ohio State offense different? Here's what we're hearing</title>
       <link>https://www.nytimes.com/athletic/7527683/2026/08/21/ohio-state-football-camp-arthur-smith-offense/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7475336/2026/08/06/college-football-program-tiers-rankings-2026/</link>
       <description>Which teams are big spenders and hoping for results? Which ones have big dreams but lack the resources? Which ones are behind the 8-ball?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7475336/2026/08/06/college-football-program-tiers-rankings-2026/</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2027 NFL Draft preseason positional rankings: Safeties</title>
-      <link>https://www.nytimes.com/athletic/7494878/2026/08/06/nfl-draft-2027-preseason-safeties-rankings/</link>
-      <description>KJ Bolden looks like a potential top-25 pick. Who else stands out at the position?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7494878/2026/08/06/nfl-draft-2027-preseason-safeties-rankings/</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
