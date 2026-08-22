@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 12:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:16:43 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Steelers' QB2 race was settled on Friday night, in favor of the guy who didn't play</title>
+      <link>https://www.nytimes.com/athletic/7530797/2026/08/22/pittsburgh-steelers-preseason-jets-qb2-competition/</link>
+      <description>Pittsburgh's offense stumbled through a preseason shutout loss to the Jets.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7530797/2026/08/22/pittsburgh-steelers-preseason-jets-qb2-competition/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>He used to be the Steelers' forgotten 'stepson'; now, he's a likely Week 1 starter</title>
@@ -175,13 +182,6 @@
       <description>How Drew Allar, Mason Rudolph and Will Howard fared. Plus, Broderick Jones' return shuffles the O-line and Asante Samuel Jr.'s good day.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7478397/2026/07/29/pittsburgh-steelers-training-camp-practice-observations/</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike McCarthy's first day of Steelers training camp: PUP list surprises, no tackling</title>
-      <link>https://www.nytimes.com/athletic/7475828/2026/07/28/mike-mccarthy-pittsburgh-steelers-training-camp/</link>
-      <description>Plus, the QB2 competition is set, and Broderick Jones is cleared.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7475828/2026/07/28/mike-mccarthy-pittsburgh-steelers-training-camp/</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
