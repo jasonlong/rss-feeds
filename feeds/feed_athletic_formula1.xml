@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:08:28 +0000</lastBuildDate>
+    <item>
+      <title>Dutch Grand Prix briefing: Norris snatches win from Antonelli amid Mercedes team drama</title>
+      <link>https://www.nytimes.com/athletic/7532915/2026/08/23/f1-dutch-grand-prix-recap/</link>
+      <description>Norris won his second consecutive race, and a team orders decision threw a new twist into F1's title fight.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7532915/2026/08/23/f1-dutch-grand-prix-recap/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Goodbye to the Dutch Grand Prix, the happiest Formula 1 race of the year</title>
       <link>https://www.nytimes.com/athletic/7532424/2026/08/23/formula-1-dutch-grand-prix-final-race-max-express/</link>
@@ -176,13 +183,6 @@
       <description>The top team doesn't get the top mark at F1's half-way point in 2026 – and many squads are lucky to pass the class at all</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7489368/2026/08/04/formula-1-midseason-team-grades-2026/</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What F1 can learn from the World Cup. Plus: Is George Lucas right about F1 regs?</title>
-      <link>https://www.nytimes.com/athletic/7483911/2026/07/31/f1-world-cup-lessons-summer-break-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic’s F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7483911/2026/07/31/f1-world-cup-lessons-summer-break-prime-tire/</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
