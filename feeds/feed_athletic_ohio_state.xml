@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:12:14 +0000</lastBuildDate>
+    <item>
+      <title>Who are the most and least experienced college football teams? Ranking the Power 4</title>
+      <link>https://www.nytimes.com/athletic/7534806/2026/08/24/college-football-teams-experience-chart-2026/</link>
+      <description>From Virginia to Iowa, we ranked every Power 4 team by snaps and starts.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7534806/2026/08/24/college-football-teams-experience-chart-2026/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ranking 138 college football teams for 2026, from Indiana and Ohio State to Sac State and UMass</title>
       <link>https://www.nytimes.com/athletic/7529675/2026/08/24/college-football-team-rankings-fbs-preseason-138/</link>
@@ -176,13 +183,6 @@
       <description>The season is upon us, but so is another College Football Playoff expansion meeting and more Class of 2022 lawsuits. Leave your questions here. Please include your name and city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7503307/2026/08/09/submit-a-question-for-stewart-mandels-college-football-mailbag-354/</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five-star CB Jay Timmons looks like immediate impact: Ohio State preseason takeaways</title>
-      <link>https://www.nytimes.com/athletic/7500929/2026/08/08/jay-timmons-ohio-state-preseason-takeaways/</link>
-      <description>Also, buying into the Devin McCuin and Brock Boyd hype, changes on the offensive line and the Buckeyes' running back rotation.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7500929/2026/08/08/jay-timmons-ohio-state-preseason-takeaways/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
