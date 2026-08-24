@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:22:58 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>NFL Hope-O-Meter: Are you optimistic about your team in 2026?</title>
+      <link>https://www.nytimes.com/athletic/7526484/2026/08/24/nfl-hope-o-meter-team-optimism-2026/</link>
+      <description>Tell us how hopeful you're feeling about your favorite NFL team and why. The results and top responses will be shared in a future story.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7526484/2026/08/24/nfl-hope-o-meter-team-optimism-2026/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steelers' QB2 race was settled on Friday night, in favor of the guy who didn't play</title>
@@ -175,13 +182,6 @@
       <description>Plus, Aaron Rodgers looks sharp, Germie Bernard shines and Asante Samuel Jr. has another big day.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7481451/2026/07/30/will-howard-pittsburgh-steelers-training-camp-observations/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers QB rotation comes into focus during first training-camp practice</title>
-      <link>https://www.nytimes.com/athletic/7478397/2026/07/29/pittsburgh-steelers-training-camp-practice-observations/</link>
-      <description>How Drew Allar, Mason Rudolph and Will Howard fared. Plus, Broderick Jones' return shuffles the O-line and Asante Samuel Jr.'s good day.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7478397/2026/07/29/pittsburgh-steelers-training-camp-practice-observations/</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
