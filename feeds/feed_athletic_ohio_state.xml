@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:11:12 +0000</lastBuildDate>
+    <item>
+      <title>Can college football's No. 1 player get even better? Inside the mind of Jeremiah Smith</title>
+      <link>https://www.nytimes.com/athletic/7534894/2026/08/25/jeremiah-smith-ohio-state-best-cfb-players/</link>
+      <description>Smith spoke to The Athletic about his grand ambitions for his third season at Ohio State and how he's changed as a player and person.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7534894/2026/08/25/jeremiah-smith-ohio-state-best-cfb-players/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jeremiah Smith, Leonard Moore lead list of college football's top 100 players in 2026</title>
       <link>https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7505109/2026/08/12/heisman-trophy-predictions-candidates-favorites-draft/</link>
       <description>Last year proved just how hard it is to handicap a Heisman race. But our writers are back to try again this fall.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7505109/2026/08/12/heisman-trophy-predictions-candidates-favorites-draft/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football freshmen who will impact the 2026 season</title>
-      <link>https://www.nytimes.com/athletic/7503585/2026/08/12/college-football-true-freshmen-2026-season/</link>
-      <description>Some of the top teams in the nation will be counting on immediate contributions from freshmen.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7503585/2026/08/12/college-football-true-freshmen-2026-season/</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
