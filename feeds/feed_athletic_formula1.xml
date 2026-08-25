@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 13:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:20:17 +0000</lastBuildDate>
+    <item>
+      <title>Got a Formula 1 question? Ask the Prime Tire newsletter</title>
+      <link>https://www.nytimes.com/athletic/7537061/2026/08/25/formula-1-questions-prime-tire-newsletter/</link>
+      <description>Send us your F1 questions — no matter how big or small — and we'll regularly answer them in the newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7537061/2026/08/25/formula-1-questions-prime-tire-newsletter/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>F1 driver, constructor standings 2026: Kimi Antonelli maintains his lead</title>
       <link>https://www.nytimes.com/athletic/7535930/2026/08/24/f1-standings-drivers-constructors-2026/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7509501/2026/08/12/cadillac-fires-graeme-lowdon-prime-tire/</link>
       <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7509501/2026/08/12/cadillac-fires-graeme-lowdon-prime-tire/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cadillac abruptly replaces team principal Graeme Lowdon with ex-Alpine boss Marcin Budkowski</title>
-      <link>https://www.nytimes.com/athletic/7508256/2026/08/12/cadillac-graeme-lowdon-marcin-budkowksi/</link>
-      <description>Lowdon's replacement Budkowski is best known for his one-year stint leading Alpine during the 2021 season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7508256/2026/08/12/cadillac-graeme-lowdon-marcin-budkowksi/</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
