@@ -8,20 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 21:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:09:47 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
-    </item>
-    <item>
-      <title>The Athletic Football Show Division Previews</title>
-      <link>https://www.nytimes.com/athletic/7527115/2026/08/25/the-athletic-football-show-division-previews/</link>
-      <description>Training camp is in the rear-view mirror. Preseason games are mostly in the rear-view mirror. All that’s left to do is begin the 2026 NFL season. Whether you’ve been following the offseason beat-by-beat, from the Combine, through free agency and the draft, all the way up to this moment, or you’re just checking back in after a busy summer with every other sport under the sun, The Athletic Football Show has got you covered with its Division Preview series.
-Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up Week 1, which kicks off with a Super Bowl LX rematch...</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7527115/2026/08/25/the-athletic-football-show-division-previews/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Which NFL win total projections are too low, too high or just right?</title>
@@ -182,6 +174,13 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <link>https://www.nytimes.com/athletic/7489689/2026/08/03/2026-afc-north-preview-offseason-recap/</link>
       <description>Our quick AFC North newsletter preview for the Steelers, Ravens, Bengals and Browns</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7489689/2026/08/03/2026-afc-north-preview-offseason-recap/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Rodgers' illness before playoff loss to Texans had Steelers hoping for a 'Flu Game'</title>
+      <link>https://www.nytimes.com/athletic/7487940/2026/08/03/aaron-rodgers-flu-playoff-game/</link>
+      <description>The 42-year-old QB had been felled by flu-like symptoms in the hours leading up to the game, making the experience even more miserable.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7487940/2026/08/03/aaron-rodgers-flu-playoff-game/</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
