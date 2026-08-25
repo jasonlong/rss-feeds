@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:12:31 +0000</lastBuildDate>
+    <item>
+      <title>Jeremiah Smith, Leonard Moore lead list of college football's top 100 players in 2026</title>
+      <link>https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</link>
+      <description>Throughout the long offseason, we rank a lot of things. Teams. Coaches. Quarterbacks. Transfers. Freaks. But there’s always room for more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Heisman Trophy odds: CJ Carr starts season as favorite ahead of Arch Manning</title>
       <link>https://www.nytimes.com/athletic/7535628/2026/08/25/heisman-trophy-odds-carr-manning/</link>
@@ -176,13 +183,6 @@
       <description>Some of the top teams in the nation will be counting on immediate contributions from freshmen.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7503585/2026/08/12/college-football-true-freshmen-2026-season/</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2027 NFL Draft preseason positional rankings: Edge rushers</title>
-      <link>https://www.nytimes.com/athletic/7496903/2026/08/11/nfl-draft-2027-preseason-edge-rankings/</link>
-      <description>Texas' Colin Simmons is expected to be one of the highest-rated edge rushers in the 2027 NFL Draft. Who else stands out at the position?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7496903/2026/08/11/nfl-draft-2027-preseason-edge-rankings/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
