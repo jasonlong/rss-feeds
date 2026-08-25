@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:11:01 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>Benchmarks Don’t Know Your Job</title>
+      <link>https://every.to/context-window/benchmarks-don-t-know-your-job</link>
+      <description>Plus: the number KateBench taught us to count, and a six-agent solar crew helping decide whether to run the dryer</description>
+      <guid isPermaLink="false">https://every.to/context-window/benchmarks-don-t-know-your-job</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Tried the AI Model Built to Fix AI Writing</title>
@@ -56,13 +63,6 @@
       <description>100 thinkers and builders call their shot on the future of great human work with AI</description>
       <guid isPermaLink="false">https://every.to/on-every/what-does-human-work-look-like-after-automation</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our AI Costs Jumped 230 Percent. I’m Not Setting Token Budgets—Yet.</title>
-      <link>https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet</link>
-      <description>What a surge in daily credit usage taught me about managing operations on the frontier</description>
-      <guid isPermaLink="false">https://every.to/p/our-ai-costs-jumped-230-percent-i-m-not-setting-token-budgets-yet</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing Thesis: 2027</title>
