@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:16:26 +0000</lastBuildDate>
     <item>
       <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
       <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+    </item>
+    <item>
+      <title>Should the Steelers keep four QBs? Pros and cons of an unorthodox roster move</title>
+      <link>https://www.nytimes.com/athletic/7538878/2026/08/26/pittsburgh-steelers-keep-4-qbs-roster/</link>
+      <description>Pittsburgh is in an unusual position, with two developmental prospects behind two veterans.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7538878/2026/08/26/pittsburgh-steelers-keep-4-qbs-roster/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Athletic Football Show Division Previews</title>
@@ -175,13 +182,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <link>https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</link>
       <description>Plus, safety depth remains a question, and plenty of fullback looks.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 AFC North preview, offseason recap for Steelers, Ravens, Bengals &amp; Browns</title>
-      <link>https://www.nytimes.com/athletic/7489689/2026/08/03/2026-afc-north-preview-offseason-recap/</link>
-      <description>Our quick AFC North newsletter preview for the Steelers, Ravens, Bengals and Browns</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7489689/2026/08/03/2026-afc-north-preview-offseason-recap/</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
