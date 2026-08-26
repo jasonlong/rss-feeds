@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:12:29 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who has the Big Ten's hardest schedule? Ranking all 18, from Ohio State to Wisconsin</title>
+      <link>https://www.nytimes.com/athletic/7527572/2026/08/26/big-ten-schedule-strength-rankings/</link>
+      <description>In an 18-team conference, the difference between the hardest and easiest draws within a nine-game league schedule can be dramatic.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7527572/2026/08/26/big-ten-schedule-strength-rankings/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How many college football teams can actually win the 2026 national championship?</title>
+      <link>https://www.nytimes.com/athletic/7538588/2026/08/26/college-football-playoff-national-championship-odds-2026/</link>
+      <description>Our College Football Playoff Predictor believes Ohio State has the best national championship odds. Let's break down the contenders.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7538588/2026/08/26/college-football-playoff-national-championship-odds-2026/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football is back! Get to know all 138 FBS teams: Are they better or worse?</title>
@@ -43,7 +57,7 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Jeremiah Smith, Leonard Moore lead list of college football's top 100 players in 2026</title>
+      <title>Ranking college football's top 100 players for 2026: Jeremiah Smith, Leonard Moore on top</title>
       <link>https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</link>
       <description>Throughout the long offseason, we rank a lot of things. Teams. Coaches. Quarterbacks. Transfers. Freaks. But there’s always room for more.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</guid>
@@ -167,20 +181,6 @@
       <description>As coaches and athletes often say: You remember the losses more than the wins. Ultimately, though, it’s helpful to self-evaluate.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7480399/2026/08/16/college-football-preseason-ap-top-25-grades/</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we're hearing after Ohio State's first 9 practices of preseason camp</title>
-      <link>https://www.nytimes.com/athletic/7515554/2026/08/15/ohio-states-preseason-camp-bo-jackson/</link>
-      <description>Thoughts after Ohio State’s second week of preseason camp, including Bo Jackson's strides, Luke Fahey's rise and a deep defense.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7515554/2026/08/15/ohio-states-preseason-camp-bo-jackson/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State moves football senior day to Week 1, away from Michigan rivalry game</title>
-      <link>https://www.nytimes.com/athletic/7513883/2026/08/14/ohio-state-senior-day-week-1-michigan/</link>
-      <description>Ohio State and Michigan seem to both be trying to make their intense annual rivalry game feel more normal. Will it work?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7513883/2026/08/14/ohio-state-senior-day-week-1-michigan/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
