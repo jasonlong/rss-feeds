@@ -8,12 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:33:54 +0000</lastBuildDate>
     <item>
-      <title>2026 NFL QB Tiers: Patrick Mahomes’ unanimous run ends, Lamar Jackson slips into loaded Tier 2</title>
-      <link>https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</link>
-      <description>Fifty NFL coaches and executives ranked 35 veteran quarterbacks in the 13th edition of the annual survey.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-quarterback-tiers-insider-rankings-2026/</guid>
+      <title>Bills, Steelers and 3 more teams the NFL Projection Model struggled to forecast</title>
+      <link>https://www.nytimes.com/athletic/7536058/2026/08/27/the-bills-steelers-and-3-more-teams-the-nfl-projection-model-struggled-to-forecast/</link>
+      <description>Have the Bills actually put enough around Josh Allen to win the AFC? Can coach Mike McCarthy coax a vintage year out of Aaron Rodgers?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7536058/2026/08/27/the-bills-steelers-and-3-more-teams-the-nfl-projection-model-struggled-to-forecast/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eli Heidenreich, Will Howard and Steelers on the fringe entering preseason finale</title>
+      <link>https://www.nytimes.com/athletic/7540670/2026/08/27/pittsburgh-steelers-roster-cut-candidates/</link>
+      <description>Predicting who will make the cut for Pittsburgh's 53-man roster.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7540670/2026/08/27/pittsburgh-steelers-roster-cut-candidates/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Should the Steelers keep four QBs? Pros and cons of an unorthodox roster move</title>
@@ -176,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>Mike McCarthy and the Steelers also responded to the quarterback’s criticism of Anthony Fauci on The Pat McAfee Show.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7492089/2026/08/04/aaron-rodgers-pittsburgh-steelers-response-fauci-criticism/</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Max Iheanachor, Steelers first-round OT, looks the part during first day in pads</title>
-      <link>https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</link>
-      <description>Plus, safety depth remains a question, and plenty of fullback looks.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7489923/2026/08/03/max-iheanachor-pittsburgh-steelers-training-camp-practice-report/</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
