@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:14:45 +0000</lastBuildDate>
+    <item>
+      <title>New Seahawks owner Vinod Khosla defends Steelers fandom amid criticism</title>
+      <link>https://www.nytimes.com/athletic/7546840/2026/08/28/vinod-khosla-seahawks-owner-steelers-fan-press-conference/</link>
+      <description>Khosla said he began rooting for the Steelers after arriving in the U.S. in 1976 and remains a big fan of the team.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7546840/2026/08/28/vinod-khosla-seahawks-owner-steelers-fan-press-conference/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers 53-man roster projection: Four QBs, but the Joey Porter Jr. question lingers</title>
       <link>https://www.nytimes.com/athletic/7544881/2026/08/27/steelers-53-man-roster-projection-joey-porter-jr/</link>
@@ -177,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>The annual practice featured a dominant defense.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7501737/2026/08/09/pittsburgh-steelers-saturday-night-lights-practice-report/</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A first-round pick injured, a former first-rounder struggles: Steelers training camp notes</title>
-      <link>https://www.nytimes.com/athletic/7497509/2026/08/06/pittsburgh-steelers-max-iheanachor-injury-training-camp-report/</link>
-      <description>Plus, praise for Mason Rudolph, and the new-look defense shows a whole lot of wrinkles.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7497509/2026/08/06/pittsburgh-steelers-max-iheanachor-injury-training-camp-report/</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
