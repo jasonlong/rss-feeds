@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 10:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:05:39 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ranking Ohio State's 10 most important football players for the 2026 season</title>
+      <link>https://www.nytimes.com/athletic/7542541/2026/08/28/ohio-state-most-important-players-2026/</link>
+      <description>If Ohio State is going to live up to its preseason No. 1 billing, these are the players who will dictate that success.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7542541/2026/08/28/ohio-state-most-important-players-2026/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ready to hate Miami again? Oddly specific predictions for every college football Top 25 team</title>
+      <link>https://www.nytimes.com/athletic/7543736/2026/08/28/college-football-top-25-predictions-2026-miami-oregon-ohio-state/</link>
+      <description>The Canes are loaded, especially on offense, and will run the table in the regular season and return to the national title game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7543736/2026/08/28/college-football-top-25-predictions-2026-miami-oregon-ohio-state/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Big Ten has won 3 straight CFB national titles. Can any of these 18 teams make it 4?</title>
@@ -167,20 +181,6 @@
       <description>Indiana, Oregon and Ohio State all have cases for No. 1 in the preseason. Who will prevail? And who might surprise in the Big Ten?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7522225/2026/08/20/big-ten-football-predictions-2026-standings/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Curt Cignetti tops the list of college football’s 25 most interesting people of 2026</title>
-      <link>https://www.nytimes.com/athletic/7522873/2026/08/20/curt-cignetti-lane-kiffin-college-football-2026/</link>
-      <description>More interesting than Lane Kiffin? Yep. The wonder of Cignetti's work in Bloomington remains difficult to overstate.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7522873/2026/08/20/curt-cignetti-lane-kiffin-college-football-2026/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football preseason 2026 All-America teams from The Athletic</title>
-      <link>https://www.nytimes.com/athletic/7518713/2026/08/19/college-football-all-america-team-preseason-2026/</link>
-      <description>Indiana and Oregon lead the way with five players on our two All-America teams, followed by Ole Miss and Texas with four each.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7518713/2026/08/19/college-football-all-america-team-preseason-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
