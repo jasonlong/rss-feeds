@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:04:54 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
       <description>AI progress creates more work for humans, not less</description>
       <guid isPermaLink="false">https://every.to/p/after-automation</guid>
+    </item>
+    <item>
+      <title>33 Questions Executives Ask About AI—Answered</title>
+      <link>https://every.to/p/every-answers-your-ai-questions</link>
+      <description>Every's consulting team answers 400 executives on strategy, skeptics, governance, and restructuring for AI</description>
+      <guid isPermaLink="false">https://every.to/p/every-answers-your-ai-questions</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Our ChatGPT and OpenClaw Guides Just Got an Overhaul</title>
@@ -56,13 +63,6 @@
       <description>Off-the-shelf AI couldn’t meet Headway’s security and workflow needs, so it built its own. Now the whole company uses it.</description>
       <guid isPermaLink="false">https://every.to/p/the-healthcare-company-that-built-the-ai-tool-it-couldn-t-buy</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Defense of AI Writing</title>
-      <link>https://every.to/context-window/in-defense-of-ai-writing</link>
-      <description>Plus: We unpack LLM watermarks, a Codex editing workflow, and the week’s AI news</description>
-      <guid isPermaLink="false">https://every.to/context-window/in-defense-of-ai-writing</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>An Engineering Team for the Cost of Codex</title>

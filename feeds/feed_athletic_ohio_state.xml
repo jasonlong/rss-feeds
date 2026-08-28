@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 15:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:04:26 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>He's the hottest football recruit in the nation — and he's never played in a game</title>
+      <link>https://www.nytimes.com/athletic/7136381/2026/08/28/college-football-recruiting-neff-giwa-rugby-ireland/</link>
+      <description>Just a few months ago, no college coach knew that Neff Giwa existed. Now, he has offers from Miami, South Carolina, Tennessee and others.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7136381/2026/08/28/college-football-recruiting-neff-giwa-rugby-ireland/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ranking Ohio State's 10 most important football players for the 2026 season</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7520337/2026/08/20/ohio-state-football-2026-tv-schedule-jeremiah-smith/</link>
       <description>Helmets get stickers and the "i" gets dotted. The Ohio State Buckeyes are back. Here's how to watch their 2026 regular-season schedule.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7520337/2026/08/20/ohio-state-football-2026-tv-schedule-jeremiah-smith/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 Big Ten college football predictions: Oregon, OSU are loaded, but will Indiana repeat?</title>
-      <link>https://www.nytimes.com/athletic/7522225/2026/08/20/big-ten-football-predictions-2026-standings/</link>
-      <description>Indiana, Oregon and Ohio State all have cases for No. 1 in the preseason. Who will prevail? And who might surprise in the Big Ten?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7522225/2026/08/20/big-ten-football-predictions-2026-standings/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
