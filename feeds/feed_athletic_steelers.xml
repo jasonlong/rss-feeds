@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:15:50 +0000</lastBuildDate>
+    <item>
+      <title>Steelers trade tackle Broderick Jones to Cowboys: Source</title>
+      <link>https://www.nytimes.com/athletic/7548891/2026/08/29/steelers-cowboys-broderick-jones-trade/</link>
+      <description>Jones, a 25-year-old out of Georgia, has started 38 games across three NFL seasons.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7548891/2026/08/29/steelers-cowboys-broderick-jones-trade/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Seahawks owner Vinod Khosla defends Steelers fandom amid criticism</title>
       <link>https://www.nytimes.com/athletic/7546840/2026/08/28/vinod-khosla-seahawks-owner-steelers-fan-press-conference/</link>
@@ -177,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>The head coach is unique in his hands-on approach to quarterbacking details.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7503981/2026/08/11/steelers-mike-mccarthys-qb-development-aaron-rodgers/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers Saturday Night Lights practice: A Dean pick-6, Metcalf's one-handed grab</title>
-      <link>https://www.nytimes.com/athletic/7501737/2026/08/09/pittsburgh-steelers-saturday-night-lights-practice-report/</link>
-      <description>The annual practice featured a dominant defense.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7501737/2026/08/09/pittsburgh-steelers-saturday-night-lights-practice-report/</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
