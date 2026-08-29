@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:16:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:15:34 +0000</lastBuildDate>
+    <item>
+      <title>Lando Norris signs new long-term McLaren F1 deal to end of 2030 with option for further extension</title>
+      <link>https://www.nytimes.com/athletic/7546773/2026/08/29/lando-norris-new-mclaren-f1-contract/</link>
+      <description>The 26-year-old won his first F1 world title last year, McLaren's first drivers’ championship since 2008.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7546773/2026/08/29/lando-norris-new-mclaren-f1-contract/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>F1, as explained to a third grader. Answering your fundamental Qs</title>
       <link>https://www.nytimes.com/athletic/7546402/2026/08/28/prime-tire-mailbag/</link>
@@ -176,13 +183,6 @@
       <description>The 28-year-old has ended speculation over his Formula 1 future by committing to new terms ahead of his home grand prix this weekend.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7526075/2026/08/20/max-verstappen-red-bull-contract-extension/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A historic Red Bull promotion. Plus: How you ranked the drivers so far</title>
-      <link>https://www.nytimes.com/athletic/7524932/2026/08/19/red-bull-promotion-liam-lawson-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7524932/2026/08/19/red-bull-promotion-liam-lawson-prime-tire/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
