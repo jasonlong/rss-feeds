@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 18:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Packers acquire RB Kaleb Johnson in trade with Steelers</title>
+      <link>https://www.nytimes.com/athletic/7550504/2026/08/30/kaleb-johnson-trade-steelers-packers/</link>
+      <description>The Packers add some insurance amid the possibility of a Josh Jacobs suspension.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7550504/2026/08/30/kaleb-johnson-trade-steelers-packers/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cowboys add depth to line, acquire OT Broderick Jones from Steelers</title>
       <link>https://www.nytimes.com/athletic/7548891/2026/08/29/steelers-cowboys-broderick-jones-trade/</link>
@@ -177,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>A look at who is trending up and who is trending down ahead of the preseason opener.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7506672/2026/08/12/pittsburgh-steelers-preseason-game-position-battles/</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike McCarthy's QB School developed Aaron Rodgers. In Pittsburgh, he has a new class</title>
-      <link>https://www.nytimes.com/athletic/7503981/2026/08/11/steelers-mike-mccarthys-qb-development-aaron-rodgers/</link>
-      <description>The head coach is unique in his hands-on approach to quarterbacking details.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7503981/2026/08/11/steelers-mike-mccarthys-qb-development-aaron-rodgers/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
