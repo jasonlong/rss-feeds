@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:20:40 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>25 college football coaches whose names you should learn before they rise to bigger jobs</title>
+      <link>https://www.nytimes.com/athletic/7541253/2026/08/31/college-football-coaching-carousel-risers/</link>
+      <description>Last year was one of the busiest college football coaching carousels ever, but there should be no shortage of moves in 2026, either.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7541253/2026/08/31/college-football-coaching-carousel-risers/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -174,13 +181,6 @@
       <description>As the Big Ten and SEC continue to debate which is college football's dominant conference, we set up a (hypothetical) way to decide it.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7530942/2026/08/23/big-ten-sec-college-football-comparison/</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who’s your real rival? College football has a lot of love (well, hate) triangles</title>
-      <link>https://www.nytimes.com/athletic/7529071/2026/08/22/college-football-biggest-rivalries-every-team/</link>
-      <description>It's not always easy to identify rivals in college football. Sometimes the team you hate the most hates someone else more.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7529071/2026/08/22/college-football-biggest-rivalries-every-team/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
