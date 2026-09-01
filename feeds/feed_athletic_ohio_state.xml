@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:19:26 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
@@ -20,13 +20,6 @@
       <description>Game week is here. What will Ohio State look like in Week 1 and beyond, with Texas looming in Week 2? Here are my final predictions.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7551237/2026/09/01/ohio-state-football-depth-chart-predictions/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch Ball State vs. No. 1 Ohio State: TV channel and streaming options for September 5</title>
-      <link>https://www.nytimes.com/athletic/7553590/2026/08/31/ball-state-vs-ohio-state-stream-how-to-watch-sept-5/</link>
-      <description>Find out how to watch the Ball State Cardinals play the Ohio State Buckeyes, with time, TV channel and streaming information.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7553590/2026/08/31/ball-state-vs-ohio-state-stream-how-to-watch-sept-5/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>25 college football coaches whose names you should learn before they rise to bigger jobs</title>
@@ -181,6 +174,13 @@
       <description>College football season begins with two new schools in the FBS and a lot of roster moves to sort through. Here's one thought on every team.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7529675/2026/08/24/college-football-team-rankings-fbs-preseason-138/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thirty college football games you need to watch in 2026, from Kiffin's return to Miami-ND</title>
+      <link>https://www.nytimes.com/athletic/7529832/2026/08/23/college-football-schedule-best-games-ranked-2026/</link>
+      <description>What are the best and most interesting games of the 2026 college football schedule? Here's your guide to 30, ranked in tiers.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7529832/2026/08/23/college-football-schedule-best-games-ranked-2026/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
