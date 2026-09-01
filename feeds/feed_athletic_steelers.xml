@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:21:31 +0000</lastBuildDate>
+    <item>
+      <title>Four's a crowd? Why these NFL teams kept 4 quarterbacks on their roster ... for now</title>
+      <link>https://www.nytimes.com/athletic/7553901/2026/09/01/nfl-rosters-four-quarterbacks-eagles-steelers-falcons-browns/</link>
+      <description>With teams placing a high value on quarterback development, decision makers are leery of letting a good one get away.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7553901/2026/09/01/nfl-rosters-four-quarterbacks-eagles-steelers-falcons-browns/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ranking the Steelers' practice-squad players based on their chances of contributing</title>
+      <link>https://www.nytimes.com/athletic/7554159/2026/09/01/pittsburgh-steelers-practice-squad-roster/</link>
+      <description>A look at the Steelers' initial 14-man practice squad — one that doesn't include Elandon Roberts.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7554159/2026/09/01/pittsburgh-steelers-practice-squad-roster/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers initial 53: Four QBs, Eli Heidenreich in; Joey Porter Jr. activated off PUP</title>
       <link>https://www.nytimes.com/athletic/7551161/2026/08/30/pittsburgh-steelers-initial-53-man-roster-breakdown/</link>
@@ -170,20 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>Takeaways from the Steelers' Thursday-night victory over the Packers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7512819/2026/08/14/steelers-packers-preseason-opener-drew-allar-debut/</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Rodgers became the mentor he never had. Two young Steelers QBs detail how</title>
-      <link>https://www.nytimes.com/athletic/7509425/2026/08/13/aaron-rodgers-mentor-steelers-will-howard-drew-allar/</link>
-      <description>Will Howard and Drew Allar can point to ways Rodgers has helped their development.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7509425/2026/08/13/aaron-rodgers-mentor-steelers-will-howard-drew-allar/</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Rodgers 'bummed out' Packers-Steelers preseason game isn't in Green Bay</title>
-      <link>https://www.nytimes.com/athletic/7508809/2026/08/12/aaron-rodgers-packers-lambeau-field-preseason/</link>
-      <description>The longtime former Packer will finish his career never having played in Lambeau Field as an opponent.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7508809/2026/08/12/aaron-rodgers-packers-lambeau-field-preseason/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
