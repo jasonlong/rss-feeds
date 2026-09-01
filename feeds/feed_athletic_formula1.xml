@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 10:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:17:16 +0000</lastBuildDate>
+    <item>
+      <title>Ferrari reveals special F1 car livery for Monza celebrating Michael Schumacher’s legacy</title>
+      <link>https://www.nytimes.com/athletic/7555294/2026/09/01/ferrari-livery-schumacher-monza-f1/</link>
+      <description>Schumacher won five of his seven world championships while racing for Ferrari between 1996 and 2006.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7555294/2026/09/01/ferrari-livery-schumacher-monza-f1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lando Norris signs new long-term McLaren F1 deal to end of 2030 with option for further extension</title>
       <link>https://www.nytimes.com/athletic/7546773/2026/08/29/lando-norris-new-mclaren-f1-contract/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7503816/2026/08/20/f1-2026-cars-overtaking/</link>
       <description>F1’s car overhaul has opened a rather complex philosophical debate about what a ‘real fan’ is nowadays, and what they want to see.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7503816/2026/08/20/f1-2026-cars-overtaking/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Max Verstappen signs four-year contract extension with Red Bull to 2030</title>
-      <link>https://www.nytimes.com/athletic/7526075/2026/08/20/max-verstappen-red-bull-contract-extension/</link>
-      <description>The 28-year-old has ended speculation over his Formula 1 future by committing to new terms ahead of his home grand prix this weekend.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7526075/2026/08/20/max-verstappen-red-bull-contract-extension/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
