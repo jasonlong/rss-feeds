@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:15:20 +0000</lastBuildDate>
+    <item>
+      <title>Will Steelers CB Joey Porter Jr. play without a new contract? 'For sure... maybe'</title>
+      <link>https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-weel-1-contract-negotiation/</link>
+      <description>The Steelers' top cornerback is still looking for a contract extension — and the team won't negotiate once the season starts.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-weel-1-contract-negotiation/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to watch the 2026 Pittsburgh Steelers: A TV guide for Terrible Towel wavers</title>
       <link>https://www.nytimes.com/athletic/7546692/2026/09/01/pittsburgh-steelers-2026-rodgers-metcalf-how-to-watch/</link>
@@ -177,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>A closer look at the film from Allar's impressive Thursday night performance.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7517638/2026/08/17/drew-allar-film-study-preseason-debut/</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers, DT Keeanu Benton agree to contract extension: Source</title>
-      <link>https://www.nytimes.com/athletic/7336509/2026/08/14/steelers-keeanu-benton-contract-extension/</link>
-      <description>Benton was a second-round pick in 2023.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7336509/2026/08/14/steelers-keeanu-benton-contract-extension/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
