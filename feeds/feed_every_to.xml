@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:15:45 +0000</lastBuildDate>
     <item>
       <title>After Automation</title>
       <link>https://every.to/p/after-automation</link>
@@ -55,13 +55,6 @@
       <description>New apps, tools, and setup—here’s what we changed and why</description>
       <guid isPermaLink="false">https://every.to/p/our-chatgpt-and-openclaw-guides-just-got-an-overhaul</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Case for Cloning Your Coworkers</title>
-      <link>https://every.to/context-window/the-case-for-cloning-your-coworkers</link>
-      <description>Plus: A star investor admits to using AI on his op-ed, a self-improving Codex skill, and the hedge fund where AI use is mandatory</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-case-for-cloning-your-coworkers</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Tried the AI Model Built to Fix AI Writing</title>
@@ -111,13 +104,6 @@
       <description>You just have to survive the onboarding, the 404s, and 80 things called Copilot to find it</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/the-best-ai-agent-builder-is-trapped-inside-microsoft</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What If Slack Was Your AI Command Center</title>
-      <link>https://every.to/context-window/what-if-slack-was-your-ai-command-center</link>
-      <description>Plus: Buzz enters the chat, a tool for protecting against Sol 5.6’s tendency to delete stuff, and a deep pull from our podcast archive featuring Wired cofounder Kevin Kelly</description>
-      <guid isPermaLink="false">https://every.to/context-window/what-if-slack-was-your-ai-command-center</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Some AI Workflows Stick—And Others Don’t</title>
