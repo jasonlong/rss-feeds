@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:24:28 +0000</lastBuildDate>
+    <item>
+      <title>Lando Norris launches new racing team to compete across junior motorsport from 2027</title>
+      <link>https://www.nytimes.com/athletic/7559769/2026/09/02/lando-norris-racing-team-motorsport/</link>
+      <description>Norris has established a team called LN4 Fusion along with Fusion Motorsport</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7559769/2026/09/02/lando-norris-racing-team-motorsport/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Red Bull's Isack Hadjar to miss second consecutive race weekend due to injury</title>
       <link>https://www.nytimes.com/athletic/7559129/2026/09/02/italian-grand-prix-hadjar-injury-miss-race/</link>
@@ -176,13 +183,6 @@
       <description>Privately funded and shut out of state support, Zandvoort's promoter says they needed three sell-outs a year to break even</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7529735/2026/08/22/f1-dutch-gp-2026-final-race/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New York Jets owner Woody Johnson acquires minority stake in Aston Martin F1 team</title>
-      <link>https://www.nytimes.com/athletic/7526936/2026/08/20/woody-johnson-aston-martin-f1/</link>
-      <description>The New York Jets owner joins Lawrence Stroll's consortium in co-owning Aston Martin</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7526936/2026/08/20/woody-johnson-aston-martin-f1/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
