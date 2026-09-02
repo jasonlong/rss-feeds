@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:22:35 +0000</lastBuildDate>
+    <item>
+      <title>Levon Kirkland: These are the 3 best leaders I played with in my 11 years in the NFL</title>
+      <link>https://www.nytimes.com/athletic/7555646/2026/09/02/levon-kirkland-best-leaders-nfl/</link>
+      <description>Levon Kirkland played in the NFL from 1992 to 2002, mostly with the Pittsburgh Steelers.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7555646/2026/09/02/levon-kirkland-best-leaders-nfl/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Will Steelers CB Joey Porter Jr. play without a new contract? 'For sure... maybe'</title>
       <link>https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-week-1-contract-negotiation/</link>
@@ -177,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>While there are some bottom-feeders, the AFC is loaded with teams that have realistic odds of making the playoffs.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7478201/2026/08/19/afc-wins-projections/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deep-diving Drew Allar's Steelers debut: Quick decisions, mobility, staple concept execution</title>
-      <link>https://www.nytimes.com/athletic/7517638/2026/08/17/drew-allar-film-study-preseason-debut/</link>
-      <description>A closer look at the film from Allar's impressive Thursday night performance.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7517638/2026/08/17/drew-allar-film-study-preseason-debut/</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
