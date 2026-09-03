@@ -8,19 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:16:24 +0000</lastBuildDate>
     <item>
       <title>NFL execs rank AFC teams: Bills lead a jumble of contenders. Does anyone trust the Chiefs?</title>
       <link>https://www.nytimes.com/athletic/7560358/2026/09/03/afc-rankings-bills-chiefs-broncos-patriots-ravens/</link>
       <description>The Chiefs and Ravens don't look like their usually powerful selves, while many have doubts about the Patriots repeating their 2025 magic.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7560358/2026/09/03/afc-rankings-bills-chiefs-broncos-patriots-ravens/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patriots field goal strategy uncovered, plus why odds are against Rams</title>
-      <link>https://www.nytimes.com/athletic/7561480/2026/09/03/patriots-field-goal-strategy-uncovered-plus-why-odds-are-against-rams/</link>
-      <description>Updated Super Bowl odds after Aaron Donald's return, plus Bill Belichick's latest ruse</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7561480/2026/09/03/patriots-field-goal-strategy-uncovered-plus-why-odds-are-against-rams/</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -184,6 +177,13 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>The second-year QB will make his first NFL start in Friday's preseason game.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7525495/2026/08/20/will-howard-pittsburgh-steelers-preseason-start/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pittsburgh Steelers' biggest depth-chart questions after three weeks of camp</title>
+      <link>https://www.nytimes.com/athletic/7522798/2026/08/19/pittsburgh-steelers-position-battles-training-camp-preseason/</link>
+      <description>A look at the races for QB2, WR3, starting base inside linebacker and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7522798/2026/08/19/pittsburgh-steelers-position-battles-training-camp-preseason/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
