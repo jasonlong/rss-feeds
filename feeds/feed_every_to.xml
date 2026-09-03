@@ -8,18 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:17:49 +0000</lastBuildDate>
-    <item>
-      <title>After Automation</title>
-      <link>https://every.to/p/after-automation</link>
-      <description>AI progress creates more work for humans, not less</description>
-      <guid isPermaLink="false">https://every.to/p/after-automation</guid>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 21:17:05 +0000</lastBuildDate>
     <item>
       <title>Compound Writing: The Ultimate Guide</title>
       <link>https://every.to/guides/compound-writing</link>
       <description>Use AI to make better editorial decisions, and carry what you learn into the next story</description>
       <guid isPermaLink="false">https://every.to/guides/compound-writing</guid>
+    </item>
+    <item>
+      <title>Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits</title>
+      <link>https://every.to/vibe-check/gpt-6-astra-vibe-check</link>
+      <description>OpenAI’s new model impressed us with writing, operating software, and visual design. Anthropic’s Fable still has better instincts for building a product.</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/gpt-6-astra-vibe-check</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Fable 5.1—Anthropic Is So Back (Again)</title>
@@ -48,13 +49,6 @@
       <description>Every's consulting team answers 400 executives on strategy, skeptics, governance, and restructuring for AI</description>
       <guid isPermaLink="false">https://every.to/p/every-answers-your-ai-questions</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our ChatGPT and OpenClaw Guides Just Got an Overhaul</title>
-      <link>https://every.to/p/our-chatgpt-and-openclaw-guides-just-got-an-overhaul</link>
-      <description>New apps, tools, and setup—here’s what we changed and why</description>
-      <guid isPermaLink="false">https://every.to/p/our-chatgpt-and-openclaw-guides-just-got-an-overhaul</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Tried the AI Model Built to Fix AI Writing</title>
