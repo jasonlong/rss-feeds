@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 03:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:20:07 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football QB tiers: Ranking the top 10 quarterbacks entering Week 1 of 2026 season</title>
+      <link>https://www.nytimes.com/athletic/7552692/2026/09/03/college-football-qb-tiers-2026/</link>
+      <description>Our QB rankings factor in evaluations from dozens of coaches, general managers and personnel staffers around the country.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7552692/2026/09/03/college-football-qb-tiers-2026/</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football coaches give their takes, predictions for season: Title favorite? Biggest fraud?</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7534806/2026/08/24/college-football-teams-experience-chart-2026/</link>
       <description>From Virginia to Iowa, we ranked every Power 4 team by snaps and starts.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7534806/2026/08/24/college-football-teams-experience-chart-2026/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking 138 college football teams for 2026, from Indiana and Ohio State to Sac State and UMass</title>
-      <link>https://www.nytimes.com/athletic/7529675/2026/08/24/college-football-team-rankings-fbs-preseason-138/</link>
-      <description>College football season begins with two new schools in the FBS and a lot of roster moves to sort through. Here's one thought on every team.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7529675/2026/08/24/college-football-team-rankings-fbs-preseason-138/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
