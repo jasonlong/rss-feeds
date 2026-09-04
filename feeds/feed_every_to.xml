@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:18:47 +0000</lastBuildDate>
     <item>
       <title>Compound Writing: The Ultimate Guide</title>
       <link>https://every.to/guides/compound-writing</link>
       <description>Use AI to make better editorial decisions, and carry what you learn into the next story</description>
       <guid isPermaLink="false">https://every.to/guides/compound-writing</guid>
+    </item>
+    <item>
+      <title>The Folder Is the Agent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent-rerun</link>
+      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent-rerun</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits</title>
@@ -42,13 +49,6 @@
       <description>Plus: Turning your best colleagues into reusable skills, the model built to fix AI writing, and math proofs that outran their authors</description>
       <guid isPermaLink="false">https://every.to/context-window/our-agents-ourselves</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>33 Questions Executives Ask About AI—Answered</title>
-      <link>https://every.to/p/every-answers-your-ai-questions</link>
-      <description>Every's consulting team answers 400 executives on strategy, skeptics, governance, and restructuring for AI</description>
-      <guid isPermaLink="false">https://every.to/p/every-answers-your-ai-questions</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Tried the AI Model Built to Fix AI Writing</title>
