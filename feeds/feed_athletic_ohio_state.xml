@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:19:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:16:49 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ohio State is No. 1 despite record draft picks, roster changes. How is Ryan Day adapting?</title>
+      <link>https://www.nytimes.com/athletic/7562187/2026/09/04/ryan-day-ohio-state-transfer-portal-draft/</link>
+      <description>Day spoke to The Athletic about evolving roster building as Ohio State deals with losing 25 picks in two years while trying to get older.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7562187/2026/09/04/ryan-day-ohio-state-transfer-portal-draft/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football's most honest transaction: A likely loss for a guaranteed check</title>
@@ -174,13 +181,6 @@
       <description>Ohio State, Notre Dame and Texas enter the college football season as the favorites to win the national title.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7535411/2026/08/26/college-football-national-title-odds-ohio-state-notre-dame-texas/</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeremiah Smith is already college football's No. 1 player. Here's how he's 'thinking bigger'</title>
-      <link>https://www.nytimes.com/athletic/7534894/2026/08/25/jeremiah-smith-ohio-state-best-cfb-players/</link>
-      <description>Smith spoke to The Athletic about his grand ambitions for his third season at Ohio State and how he's changed as a player and person.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7534894/2026/08/25/jeremiah-smith-ohio-state-best-cfb-players/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
