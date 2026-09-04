@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 09:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:19:17 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football's most honest transaction: A likely loss for a guaranteed check</title>
+      <link>https://www.nytimes.com/athletic/7559844/2026/09/04/college-football-guarantee-game-underdog-powerhouse-payday/</link>
+      <description>This is not scheduling. It's fundraising with shoulder pads. The modern term is a guarantee game. The honest term is a purchased beating.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7559844/2026/09/04/college-football-guarantee-game-underdog-powerhouse-payday/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Transfer portal? Recruiting? How each college football Top 25 team landed its starting QB</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7534894/2026/08/25/jeremiah-smith-ohio-state-best-cfb-players/</link>
       <description>Smith spoke to The Athletic about his grand ambitions for his third season at Ohio State and how he's changed as a player and person.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7534894/2026/08/25/jeremiah-smith-ohio-state-best-cfb-players/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking college football's top 100 players for 2026: Jeremiah Smith, Leonard Moore on top</title>
-      <link>https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</link>
-      <description>Throughout the long offseason, we rank a lot of things. Teams. Coaches. Quarterbacks. Transfers. Freaks. But there’s always room for more.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7526790/2026/08/25/jeremiah-smith-leonard-moore-cfb-top-100/</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
