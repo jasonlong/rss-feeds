@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:16:48 +0000</lastBuildDate>
+    <item>
+      <title>Jeremiah Smith strikes Heisman pose, opens campaign with 2 TDs as Ohio State rolls</title>
+      <link>https://www.nytimes.com/athletic/7568533/2026/09/05/ohio-state-jeremiah-smith-heisman-trophy-2/</link>
+      <description>Ohio State's stars delivered in a stress-free 56-3 win over Ball State.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7568533/2026/09/05/ohio-state-jeremiah-smith-heisman-trophy-2/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>From Death Valley(s) to The Swamp, how college football stadiums got their nicknames</title>
       <link>https://www.nytimes.com/athletic/7563333/2026/09/05/college-football-stadium-names-death-valley-swamp/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7538066/2026/08/26/big-ten-odds-win-totals-projections-ohio-state-indiana-oregon/</link>
       <description>Ohio State, Oregon and Indiana are head and shoulders above the rest of the Big Ten in the odds and Austin Mock's projections.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7538066/2026/08/26/big-ten-odds-win-totals-projections-ohio-state-indiana-oregon/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football national title odds: Ohio State, Notre Dame, Texas lead a jumbled field</title>
-      <link>https://www.nytimes.com/athletic/7535411/2026/08/26/college-football-national-title-odds-ohio-state-notre-dame-texas/</link>
-      <description>Ohio State, Notre Dame and Texas enter the college football season as the favorites to win the national title.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7535411/2026/08/26/college-football-national-title-odds-ohio-state-notre-dame-texas/</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
