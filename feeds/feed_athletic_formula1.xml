@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:14:15 +0000</lastBuildDate>
+    <item>
+      <title>Young drivers hoping to reach F1 have a new final test, as F2 launches a new car</title>
+      <link>https://www.nytimes.com/athletic/7567510/2026/09/05/new-f2-car-2027-f1/</link>
+      <description>The series, which serves as the final category for young drivers before stepping up to F1, last introduced a new car in 2024.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7567510/2026/09/05/new-f2-car-2027-f1/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Freed from F1's pressure cooker, Logan Sargeant learns to love racing again in WEC</title>
       <link>https://www.nytimes.com/athletic/7563195/2026/09/05/logan-sargeant-wec-f1/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7533383/2026/08/23/lewis-hamilton-ferrari-strategy-dutch-gp/</link>
       <description>Hamilton narrowly missed out on a podium finish at Zandvoort on Sunday, crossing the line 0.8 seconds behind George Russell.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7533383/2026/08/23/lewis-hamilton-ferrari-strategy-dutch-gp/</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Max Verstappen crashes out of Dutch GP in 'disappointing weekend'</title>
-      <link>https://www.nytimes.com/athletic/7533445/2026/08/23/max-verstappen-dutch-gp-red-bull-crash/</link>
-      <description>The event was Red Bull’s lowest-scoring race since the Japanese GP in March.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7533445/2026/08/23/max-verstappen-dutch-gp-red-bull-crash/</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
