@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 15:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:17:40 +0000</lastBuildDate>
+    <item>
+      <title>Pierre Gasly stuns Mercedes in Italian GP qualifying to claim first F1 pole</title>
+      <link>https://www.nytimes.com/athletic/7567955/2026/09/05/italian-grand-prix-qualifying-results/</link>
+      <description>The Alpine driver beat Mercedes racer George Russell by 0.06-seconds in a tight qualiying session at Monza</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7567955/2026/09/05/italian-grand-prix-qualifying-results/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Young drivers hoping to reach F1 have a new final test, as F2 launches a new car</title>
       <link>https://www.nytimes.com/athletic/7567510/2026/09/05/new-f2-car-2027-f1/</link>
@@ -176,13 +183,6 @@
       <description>Two wins in a row, and the reigning F1 champ has the title fight ignited again: 'I feel like I'm doing a better job than everyone.'</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7534314/2026/08/24/lando-norris-dutch-gp-win/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lewis Hamilton explains Ferrari strategy frustrations in Dutch GP: ‘I want to win’</title>
-      <link>https://www.nytimes.com/athletic/7533383/2026/08/23/lewis-hamilton-ferrari-strategy-dutch-gp/</link>
-      <description>Hamilton narrowly missed out on a podium finish at Zandvoort on Sunday, crossing the line 0.8 seconds behind George Russell.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7533383/2026/08/23/lewis-hamilton-ferrari-strategy-dutch-gp/</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
