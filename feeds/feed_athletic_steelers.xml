@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:16:19 +0000</lastBuildDate>
+    <item>
+      <title>NFL Hope-O-Meter 2026 results: Rams fans are feeling good; Browns backers? Not as much</title>
+      <link>https://www.nytimes.com/athletic/7566537/2026/09/06/nfl-predictions-2026-fan-rankings-survey/</link>
+      <description>The start of any season is all about hope. Which teams' fans are optimistic ahead of Week 1, and which are not feeling as good?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7566537/2026/09/06/nfl-predictions-2026-fan-rankings-survey/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pro Football Hall of Fame Class of 2027 candidates: Adrian Peterson, Rob Gronkowski lead way</title>
       <link>https://www.nytimes.com/athletic/7565859/2026/09/05/pro-football-hof-2027-candidates-adrian-peterson-rob-gronkowski/</link>
@@ -177,13 +184,6 @@ Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up 
       <description>Pittsburgh's offense stumbled through a preseason shutout loss to the Jets.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7530797/2026/08/22/pittsburgh-steelers-preseason-jets-qb2-competition/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>He used to be the Steelers' forgotten 'stepson'; now, he's a likely Week 1 starter</title>
-      <link>https://www.nytimes.com/athletic/7527365/2026/08/21/spencer-anderson-pittsburgh-steelers-starting-right-guard-rg/</link>
-      <description>A 7th-round pick who once had to repeat his name to his own coach, Spencer Anderson is now the front-runner to start at right guard.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7527365/2026/08/21/spencer-anderson-pittsburgh-steelers-starting-right-guard-rg/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
