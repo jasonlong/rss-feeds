@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:24:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:15:31 +0000</lastBuildDate>
     <item>
       <title>Compound Writing: The Ultimate Guide</title>
       <link>https://every.to/guides/compound-writing</link>
       <description>Use AI to make better editorial decisions, and carry what you learn into the next story</description>
       <guid isPermaLink="false">https://every.to/guides/compound-writing</guid>
+    </item>
+    <item>
+      <title>A Split Verdict on Fable vs. Astra</title>
+      <link>https://every.to/context-window/a-split-verdict-on-fable-vs-astra</link>
+      <description>Plus: Teaching AI to write like you, what Anthropic’s certification is good for, and 44 agents that are just folders</description>
+      <guid isPermaLink="false">https://every.to/context-window/a-split-verdict-on-fable-vs-astra</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Folder Is the Agent</title>
@@ -42,13 +49,6 @@
       <description>AI education is still in its early days. A shared set of definitions is key to what comes next.</description>
       <guid isPermaLink="false">https://every.to/p/what-we-learned-from-15-hours-of-anthropic-certification-training</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our Agents, Ourselves</title>
-      <link>https://every.to/context-window/our-agents-ourselves</link>
-      <description>Plus: Turning your best colleagues into reusable skills, the model built to fix AI writing, and math proofs that outran their authors</description>
-      <guid isPermaLink="false">https://every.to/context-window/our-agents-ourselves</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Tried the AI Model Built to Fix AI Writing</title>
