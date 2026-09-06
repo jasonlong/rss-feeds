@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:15:47 +0000</lastBuildDate>
+    <item>
+      <title>2026 College Football Playoff projection bracket</title>
+      <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
     <item>
       <title>Michigan gets an extra second, Lane Kiffin humiliates Clemson and more Week 1 CFB thoughts</title>
       <link>https://www.nytimes.com/athletic/7569241/2026/09/06/college-football-scores-week-1-michigan-kiffin/</link>
@@ -175,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7527572/2026/08/26/big-ten-schedule-strength-rankings/</link>
       <description>In an 18-team conference, the difference between the hardest and easiest draws within a nine-game league schedule can be dramatic.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7527572/2026/08/26/big-ten-schedule-strength-rankings/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many college football teams can actually win the 2026 national championship?</title>
-      <link>https://www.nytimes.com/athletic/7538588/2026/08/26/college-football-playoff-national-championship-odds-2026/</link>
-      <description>Our College Football Playoff Predictor believes Ohio State has the best national championship odds. Let's break down the contenders.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7538588/2026/08/26/college-football-playoff-national-championship-odds-2026/</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
