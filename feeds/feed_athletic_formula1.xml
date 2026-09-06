@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:15:42 +0000</lastBuildDate>
+    <item>
+      <title>Italian GP briefing: Antonelli's sensational win, Leclerc's huge crash, what now for Russell?</title>
+      <link>https://www.nytimes.com/athletic/7569904/2026/09/06/italian-grand-prix-briefing-kimi-antonelli-wins/</link>
+      <description>Antonelli becomes the first Italian to win the Italian GP since 1966.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7569904/2026/09/06/italian-grand-prix-briefing-kimi-antonelli-wins/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ferrari's Charles Leclerc out of Italian Grand Prix after huge crash</title>
       <link>https://www.nytimes.com/athletic/7569963/2026/09/06/charles-leclerc-crash-italian-grand-prix/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7535930/2026/08/24/f1-standings-drivers-constructors-2026/</link>
       <description>Follow the drivers and constructors standings for the 2026 F1 season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7535930/2026/08/24/f1-standings-drivers-constructors-2026/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mercedes finally looks beatable in F1's title race – and it can't afford to fix it yet</title>
-      <link>https://www.nytimes.com/athletic/7534316/2026/08/24/mercedes-f1-dutch-gp-upgrades/</link>
-      <description>The Silver Arrows salvaged a double podium at Zandvoort, but holding off McLaren feels harder than ever</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7534316/2026/08/24/mercedes-f1-dutch-gp-upgrades/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
