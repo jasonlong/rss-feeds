@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:20:25 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football history is rich with controversial endings. Welcome to the club, Michigan-WMU</title>
+      <link>https://www.nytimes.com/athletic/7571072/2026/09/07/college-football-biggest-controversies-michigan-clock/</link>
+      <description>Here are 10 more college football games altered in the final seconds by penalties and no-calls.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7571072/2026/09/07/college-football-biggest-controversies-michigan-clock/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7540875/2026/08/27/college-football-playoff-national-title-predictions-2026/</link>
       <description>The votes are in: Our writers, editors and readers are here to make their College Football Playoff predictions ahead of the 2026 season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7540875/2026/08/27/college-football-playoff-national-title-predictions-2026/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff odds: Notre Dame is by far most likely to make 12-team field</title>
-      <link>https://www.nytimes.com/athletic/7541286/2026/08/27/college-football-playoff-odds-notre-dame-most-likely/</link>
-      <description>Eight teams have minus-odds to make the College Football Playoff heading into the season, including Notre Dame and Ohio State.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7541286/2026/08/27/college-football-playoff-odds-notre-dame-most-likely/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
