@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:21:47 +0000</lastBuildDate>
     <item>
       <title>Compound Writing: The Ultimate Guide</title>
       <link>https://every.to/guides/compound-writing</link>
       <description>Use AI to make better editorial decisions, and carry what you learn into the next story</description>
       <guid isPermaLink="false">https://every.to/guides/compound-writing</guid>
+    </item>
+    <item>
+      <title>To Read—Or Not to Read the Code?</title>
+      <link>https://every.to/source-code/to-read-or-not-to-read-the-code</link>
+      <description>AI is ready to run your work in the dark. Don't let it turn the lights out in your head, too.</description>
+      <guid isPermaLink="false">https://every.to/source-code/to-read-or-not-to-read-the-code</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Split Verdict on Fable vs. Astra</title>
@@ -42,13 +49,6 @@
       <description>Our tests show where it replaces Fable and Opus—and where we’re keeping the alternatives</description>
       <guid isPermaLink="false">https://every.to/vibe-check/fable-5-1-vibe-check</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What We Learned From 15 Hours of Anthropic Certification Training</title>
-      <link>https://every.to/p/what-we-learned-from-15-hours-of-anthropic-certification-training</link>
-      <description>AI education is still in its early days. A shared set of definitions is key to what comes next.</description>
-      <guid isPermaLink="false">https://every.to/p/what-we-learned-from-15-hours-of-anthropic-certification-training</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Tried the AI Model Built to Fix AI Writing</title>
