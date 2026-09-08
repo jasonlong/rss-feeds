@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Steelers' first-rounder Max Iheanachor's Pittsburgh home burglarized: Source</title>
+      <link>https://www.nytimes.com/athletic/7575960/2026/09/08/max-iheanachor-burglary-steelers/</link>
+      <description>More than $150,000 in jewelry and bags was stolen, according to a report from WTAE-TV in Pittsburgh.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7575960/2026/09/08/max-iheanachor-burglary-steelers/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DK Metcalf’s Antarctica theory: ‘I think it’s another world’</title>
       <link>https://www.nytimes.com/athletic/7573732/2026/09/08/dk-metcalf-antarctica/</link>
@@ -176,14 +183,6 @@
       <description>Pittsburgh is in an unusual position, with two developmental prospects behind two veterans.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7538878/2026/08/26/pittsburgh-steelers-keep-4-qbs-roster/</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Athletic Football Show Division Previews</title>
-      <link>https://www.nytimes.com/athletic/7527115/2026/08/25/the-athletic-football-show-division-previews/</link>
-      <description>Training camp is in the rear-view mirror. Preseason games are mostly in the rear-view mirror. All that’s left to do is begin the 2026 NFL season. Whether you’ve been following the offseason beat-by-beat, from the Combine, through free agency and the draft, all the way up to this moment, or you’re just checking back in after a busy summer with every other sport under the sun, The Athletic Football Show has got you covered with its Division Preview series.
-Robert Mays, Derrik Klassen and Dave Helman run through all 32 teams leading up Week 1, which kicks off with a Super Bowl LX rematch...</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7527115/2026/08/25/the-athletic-football-show-division-previews/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
