@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:19:49 +0000</lastBuildDate>
+    <item>
+      <title>Why the Italian Grand Prix was special: A season-defining win and wheel-to-wheel racing</title>
+      <link>https://www.nytimes.com/athletic/7574031/2026/09/08/italian-grand-prix-monza-2026-antonelli-win/</link>
+      <description>Kimi Antonelli won the Italian Grand Prix from 19th on the grid, turning this year's race into one for the ages.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7574031/2026/09/08/italian-grand-prix-monza-2026-antonelli-win/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Inside Ferrari's Monza disappointment: Home hopes dashed and increased driver tension</title>
       <link>https://www.nytimes.com/athletic/7571764/2026/09/08/ferrari-monza-disappointment-analysis/</link>
@@ -176,13 +183,6 @@
       <description>The 23-year-old has recorded his best F1 results to date in 2026 and will join Pierre Gasly on the team next year.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7542688/2026/08/27/franco-colapinto-alpine-2027/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>McLaren and Red Bull face further wait on outcome of Pierre Gasly penalty appeal</title>
-      <link>https://www.nytimes.com/athletic/7540073/2026/08/26/pierre-gasly-monaco-penalty-appeal-delayed-f1/</link>
-      <description>Gasly initially lost his third-place finish in Monaco after receiving two five-second time penalties, but it was subsequently reinstated.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7540073/2026/08/26/pierre-gasly-monaco-penalty-appeal-delayed-f1/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
