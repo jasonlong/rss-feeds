@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 09:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:20:15 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams after Week 1: LSU starts on top, Rutgers hits a new low</title>
+      <link>https://www.nytimes.com/athletic/7573830/2026/09/08/college-football-team-rankings-lsu-rutgers/</link>
+      <description>LSU's dominant performance against Clemson jumps them up the rankings. Rutgers blowout loss to UMass sets a new low for Power 4 teams.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7573830/2026/09/08/college-football-team-rankings-lsu-rutgers/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>For the Big Ten, Week 2 is the season's most important conference bragging rights battleground</title>
+      <link>https://www.nytimes.com/athletic/7573600/2026/09/08/big-ten-week-2-importance-stats-status/</link>
+      <description>The importance of this weekend cannot be understated for CFP positioning and perhaps what it means for the last at-large berth.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7573600/2026/09/08/big-ten-week-2-importance-stats-status/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football history is rich with controversial endings. Welcome to the club, Michigan-WMU</title>
@@ -167,20 +181,6 @@
       <description>What you need to know about every team in the Big Ten for 2026, from star players to coaches to College Football Playoff chances and more.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7542957/2026/08/28/big-ten-football-predictions-preview-2026/</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football transfer portal cheat sheet: What you need to know as the season starts</title>
-      <link>https://www.nytimes.com/athletic/7540000/2026/08/27/college-football-transfer-portal-what-to-know-2026/</link>
-      <description>Who had the best classes? Where did some former high-profile recruits end up? Which Group of 6 teams got hit the hardest?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7540000/2026/08/27/college-football-transfer-portal-what-to-know-2026/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Our College Football Playoff, Heisman, national championship and bold predictions for 2026</title>
-      <link>https://www.nytimes.com/athletic/7540875/2026/08/27/college-football-playoff-national-title-predictions-2026/</link>
-      <description>The votes are in: Our writers, editors and readers are here to make their College Football Playoff predictions ahead of the 2026 season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7540875/2026/08/27/college-football-playoff-national-title-predictions-2026/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
