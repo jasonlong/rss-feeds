@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 13:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:18:59 +0000</lastBuildDate>
+    <item>
+      <title>Kimi Räikkönen’s 11-year-old son joins Red Bull junior team</title>
+      <link>https://www.nytimes.com/athletic/7578124/2026/09/09/kimi-raikkonens-11-year-old-son-joins-red-bull-junior-team/</link>
+      <description>Robin, who goes by the nickname 'Ace', will officially join the driver development program from 2027.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7578124/2026/09/09/kimi-raikkonens-11-year-old-son-joins-red-bull-junior-team/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>F1 Mailbag: What now for George Russell? And does F1 have a concussion protocol?</title>
       <link>https://www.nytimes.com/athletic/7576421/2026/09/09/f1-mailbag-kimi-antonelli-george-russell/</link>
@@ -176,13 +183,6 @@
       <description>The 26-year-old won his first F1 world title last year, McLaren's first drivers’ championship since 2008.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7546773/2026/08/29/lando-norris-new-mclaren-f1-contract/</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F1, as explained to a third grader. Answering your fundamental Qs</title>
-      <link>https://www.nytimes.com/athletic/7546402/2026/08/28/prime-tire-mailbag/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7546402/2026/08/28/prime-tire-mailbag/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
