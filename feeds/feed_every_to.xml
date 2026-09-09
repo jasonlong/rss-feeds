@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:16:23 +0000</lastBuildDate>
     <item>
       <title>Compound Writing: The Ultimate Guide</title>
       <link>https://every.to/guides/compound-writing</link>
       <description>Use AI to make better editorial decisions, and carry what you learn into the next story</description>
       <guid isPermaLink="false">https://every.to/guides/compound-writing</guid>
+    </item>
+    <item>
+      <title>What Writers Who Use AI Want You to Know</title>
+      <link>https://every.to/p/what-writers-who-use-ai-want-you-to</link>
+      <description>Five professional writers share how they use AI, where it disappoints them, and what they still insist on doing themselves</description>
+      <guid isPermaLink="false">https://every.to/p/what-writers-who-use-ai-want-you-to</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>To Read—Or Not to Read the Code?</title>
@@ -182,13 +189,6 @@
       <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
       <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Science of Why AI Still Can't Write Like You</title>
-      <link>https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</link>
-      <description>New research on writing style reveals that the most distinctive parts of your prose are the ones you don't even think about</description>
-      <guid isPermaLink="false">https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
