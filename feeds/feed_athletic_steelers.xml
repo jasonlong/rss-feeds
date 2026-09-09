@@ -8,12 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 21:14:58 +0000</lastBuildDate>
-    <item>
-      <title>NFL 2026 schedule, weekly game projections and live scores</title>
-      <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/scores-schedule-win-probabilities/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/scores-schedule-win-probabilities/</guid>
-    </item>
+    <lastBuildDate>Wed, 09 Sep 2026 22:16:12 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
@@ -178,6 +173,13 @@
       <link>https://www.nytimes.com/athletic/7542090/2026/08/27/the-athletic-football-show-previews-the-2026-pittsburgh-steelers/</link>
       <description>The Steelers are trying to fight their way out of playoff purgatory this season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7542090/2026/08/27/the-athletic-football-show-previews-the-2026-pittsburgh-steelers/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tight end Jonnu Smith agrees to deal with Packers: Source</title>
+      <link>https://www.nytimes.com/athletic/7091965/2026/08/27/packers-sign-jonnu-smith-tight-end/</link>
+      <description>Smith spent last season with the Steelers after being acquired in a trade with the Dolphins.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7091965/2026/08/27/packers-sign-jonnu-smith-tight-end/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
