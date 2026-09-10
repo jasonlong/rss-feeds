@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:19:07 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Which players will NFL scouts be watching during Saturday's Ohio State-Texas showdown?</title>
+      <link>https://www.nytimes.com/athletic/7578406/2026/09/10/nfl-draft-2027-texas-ohio-state-prospects/</link>
+      <description>There will be no shortage of potential top-100 talent on the field Saturday night in Austin.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7578406/2026/09/10/nfl-draft-2027-texas-ohio-state-prospects/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Texas wins late, Oklahoma wins easily: College football Week 2 oddly specific predictions</title>
+      <link>https://www.nytimes.com/athletic/7578296/2026/09/10/college-football-predictions-texas-ohio-state-texas-michigan/</link>
+      <description>Memphis, which already has a win at UNLV, will ruin the 40th anniversary of the blue turf in Boise and establish itself as the top G6 team.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7578296/2026/09/10/college-football-predictions-texas-ohio-state-texas-michigan/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: LSU rises, Oregon drops and Michigan plummets out of rankings after Week 1</title>
@@ -167,20 +181,6 @@
       <description>CFP expansion drama has extended an already awkward bowl arrangement as contracts shaken up by realignment await permanent updates.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7542838/2026/08/30/college-football-bowl-projections-preseason-schedule/</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>At the sprawling Big Ten TV deal's halfway point, here's what's working and what's changing</title>
-      <link>https://www.nytimes.com/athletic/7534020/2026/08/29/big-ten-tv-contracts-schedule-fridays/</link>
-      <description>Get ready for new faces, a deeper Friday night lineup and the potential for a lot of Top 25 clashes as the Big Ten kicks off.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7534020/2026/08/29/big-ten-tv-contracts-schedule-fridays/</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>He's the hottest football recruit in the nation — and he's never played in a game</title>
-      <link>https://www.nytimes.com/athletic/7136381/2026/08/28/college-football-recruiting-neff-giwa-rugby-ireland/</link>
-      <description>Just a few months ago, no college coach knew that Neff Giwa existed. Now, he has offers from Miami, South Carolina, Tennessee and others.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7136381/2026/08/28/college-football-recruiting-neff-giwa-rugby-ireland/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
