@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 03:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:22:23 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>Alleged victim forgives Antonio Brown, won't participate in attempted murder case</title>
+      <link>https://www.nytimes.com/athletic/7580506/2026/09/10/antonio-brown-alleged-victim-forgives/</link>
+      <description>Brown, a former NFL star receiver, still faces up to 30 years in prison, with a 20-year mandatory minimum sentence, if convicted.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7580506/2026/09/10/antonio-brown-alleged-victim-forgives/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Intel on all 32 NFL teams: Ashton Jeanty breakout, Kyler Murray buzz and more</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7542090/2026/08/27/the-athletic-football-show-previews-the-2026-pittsburgh-steelers/</link>
       <description>The Steelers are trying to fight their way out of playoff purgatory this season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7542090/2026/08/27/the-athletic-football-show-previews-the-2026-pittsburgh-steelers/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tight end Jonnu Smith agrees to deal with Packers: Source</title>
-      <link>https://www.nytimes.com/athletic/7091965/2026/08/27/packers-sign-jonnu-smith-tight-end/</link>
-      <description>Smith spent last season with the Steelers after being acquired in a trade with the Dolphins.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7091965/2026/08/27/packers-sign-jonnu-smith-tight-end/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
