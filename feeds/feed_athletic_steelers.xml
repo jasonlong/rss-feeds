@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:21:03 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>Inside DK Metcalf's mind and Pablo Torre on the Clippers on 'The Athletic Show'</title>
+      <link>https://www.nytimes.com/athletic/7579264/2026/09/10/inside-dk-metcalfs-mind-and-pablo-torre-on-the-clippers-on-the-athletic-show/</link>
+      <description>After an inaugural season that took viewers inside the Curry familiy with an exclusive sit down with Steph and Dell, backstage of the fun, frantic world of NFL RedZone, and center court at the arenas defining the WNBA labor dispute, “The Athletic Show” returns for a brand new year of insider sports content.
+In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NBA, with writers from The Athletic and sports figures around the world joining the show each week to bring you insight into stories as they develop.
+“I’m excited for the show to continue...</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7579264/2026/09/10/inside-dk-metcalfs-mind-and-pablo-torre-on-the-clippers-on-the-athletic-show/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Alleged victim forgives Antonio Brown, won't participate in attempted murder case</title>
@@ -173,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7544881/2026/08/27/steelers-53-man-roster-projection-joey-porter-jr/</link>
       <description>A look at how the Steelers' roster is shaping up with cut-down day looming.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7544881/2026/08/27/steelers-53-man-roster-projection-joey-porter-jr/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'The Athletic Football Show' previews the 2026 Pittsburgh Steelers</title>
-      <link>https://www.nytimes.com/athletic/7542090/2026/08/27/the-athletic-football-show-previews-the-2026-pittsburgh-steelers/</link>
-      <description>The Steelers are trying to fight their way out of playoff purgatory this season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7542090/2026/08/27/the-athletic-football-show-previews-the-2026-pittsburgh-steelers/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
