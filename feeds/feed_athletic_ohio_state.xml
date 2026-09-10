@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:17:06 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>What makes Ohio State different? Ryan Day is hiring NFL coaches under him</title>
+      <link>https://www.nytimes.com/athletic/7579633/2026/09/10/ohio-state-nfl-coordinators-smith-patricia/</link>
+      <description>Day went from calling offensive plays as Ohio State's head coach to entrusting both coordinator roles to former NFL head coaches.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7579633/2026/09/10/ohio-state-nfl-coordinators-smith-patricia/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Which players will NFL scouts be watching during Saturday's Ohio State-Texas showdown?</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7551315/2026/08/30/submit-a-question-for-stewart-mandels-college-football-mailbag-357/</link>
       <description>Week 0 is in the books, and Virginia looks like the 2026 national champion. But maybe we should get to Week 1 first. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7551315/2026/08/30/submit-a-question-for-stewart-mandels-college-football-mailbag-357/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football bowl projections 2026: First look at this year's complex postseason picture</title>
-      <link>https://www.nytimes.com/athletic/7542838/2026/08/30/college-football-bowl-projections-preseason-schedule/</link>
-      <description>CFP expansion drama has extended an already awkward bowl arrangement as contracts shaken up by realignment await permanent updates.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7542838/2026/08/30/college-football-bowl-projections-preseason-schedule/</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
