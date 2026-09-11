@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 12:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:18:39 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
@@ -27,13 +27,6 @@
       <description>Congratulations. If you’re reading this, you’ve made it through the Steelers’ third coaching change since 1969, an offseason of Aaron Rodgers’ indecision, the four-quarterback preseason debates, and the ongoing Joey Porter Jr. negotiations. As we count down the hours until kickoff, friends and family members keep asking me the same question: “What do you think about the Steelers this year?”
 Answering in a few words isn’t easy. Instead, I’ve compiled many of my thoughts into one piece. Here’s what I’m seeing from the Steelers this...</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7582797/2026/09/11/pittsburgh-steelers-season-preview-aaron-rodgers/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch Falcons vs. Steelers: TV channel and streaming options for September 13</title>
-      <link>https://www.nytimes.com/athletic/7583868/2026/09/11/falcons-vs-steelers-stream-how-to-watch-sept-13/</link>
-      <description>Find out how to watch the Atlanta Falcons play the Pittsburgh Steelers, with time, TV channel and streaming information.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7583868/2026/09/11/falcons-vs-steelers-stream-how-to-watch-sept-13/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -184,6 +177,13 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <description>A look at the Steelers' initial 14-man practice squad — one that doesn't include Elandon Roberts.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7554159/2026/09/01/pittsburgh-steelers-practice-squad-roster/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steelers initial 53: Four QBs, Eli Heidenreich in; Joey Porter Jr. activated off PUP</title>
+      <link>https://www.nytimes.com/athletic/7551161/2026/08/30/pittsburgh-steelers-initial-53-man-roster-breakdown/</link>
+      <description>Breaking down the Steelers' surprising initial roster.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7551161/2026/08/30/pittsburgh-steelers-initial-53-man-roster-breakdown/</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
