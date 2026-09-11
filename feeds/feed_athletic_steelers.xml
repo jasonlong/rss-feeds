@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 05:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:32:03 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>How to watch Falcons vs. Steelers: TV channel and streaming options for September 13</title>
+      <link>https://www.nytimes.com/athletic/7583868/2026/09/11/falcons-vs-steelers-stream-how-to-watch-sept-13/</link>
+      <description>Find out how to watch the Atlanta Falcons play the Pittsburgh Steelers, with time, TV channel and streaming information.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7583868/2026/09/11/falcons-vs-steelers-stream-how-to-watch-sept-13/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mike Tomlin's NFL debut for NBC: He needs the 'tapeworm' to reach his TV potential</title>
@@ -176,13 +183,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <description>The Packers add some insurance amid the possibility of a Josh Jacobs suspension. Johnson was a 2025 third-round pick out of Iowa.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7550504/2026/08/30/kaleb-johnson-trade-steelers-packers/</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cowboys add depth to line, acquire OT Broderick Jones from Steelers</title>
-      <link>https://www.nytimes.com/athletic/7548891/2026/08/29/steelers-cowboys-broderick-jones-trade/</link>
-      <description>Jones never quite developed in Pittsburgh, but adds depth to a Dallas unit that needs it.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7548891/2026/08/29/steelers-cowboys-broderick-jones-trade/</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
