@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 09:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:19:04 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>What to expect from Arch Manning and Julian Sayin in Texas-Ohio State rematch</title>
+      <link>https://www.nytimes.com/athletic/7582840/2026/09/11/texas-ohio-state-arch-manning-julian-saying-qaurterbacks/</link>
+      <description>Last year, neither coaching staff asked their QB to do too much when Ohio State hosted Texas. Things should be different this season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7582840/2026/09/11/texas-ohio-state-arch-manning-julian-saying-qaurterbacks/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How College Football Playoff contenders are situated at backup quarterback</title>
+      <link>https://www.nytimes.com/athletic/7581899/2026/09/11/college-football-playoff-contenders-backup-quarterback-situation/</link>
+      <description>Which teams will be in decent shape if their starting QB goes down? Which teams will be in trouble?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7581899/2026/09/11/college-football-playoff-contenders-backup-quarterback-situation/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Week 2’s top 10 college football games: Ohio State-Texas, Oklahoma-Michigan and more</title>
+      <link>https://www.nytimes.com/athletic/7582386/2026/09/11/college-football-top-games-week-2/</link>
+      <description>A pair of top-five teams and title contenders meet Saturday night when Ohio State visits Texas and Arch Manning.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7582386/2026/09/11/college-football-top-games-week-2/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What makes Ohio State different? Ryan Day is hiring NFL coaches under him</title>
@@ -160,27 +181,6 @@
       <description>We surveyed 18 coaches about what will happen this season. Many are high on Oregon. Some are out on Lane Kiffin and LSU.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7556551/2026/09/02/college-football-predictions-coach-survey-2026/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Final Ohio State depth chart and season predictions ahead of Week 1 vs. Ball State</title>
-      <link>https://www.nytimes.com/athletic/7551237/2026/09/01/ohio-state-football-depth-chart-predictions/</link>
-      <description>Game week is here. What will Ohio State look like in Week 1 and beyond, with Texas looming in Week 2? Here are my final predictions.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7551237/2026/09/01/ohio-state-football-depth-chart-predictions/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>25 college football coaches whose names you should learn before they rise to bigger jobs</title>
-      <link>https://www.nytimes.com/athletic/7541253/2026/08/31/college-football-coaching-carousel-risers/</link>
-      <description>Last year was one of the busiest college football coaching carousels ever, but there should be no shortage of moves in 2026, either.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7541253/2026/08/31/college-football-coaching-carousel-risers/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7551315/2026/08/30/submit-a-question-for-stewart-mandels-college-football-mailbag-357/</link>
-      <description>Week 0 is in the books, and Virginia looks like the 2026 national champion. But maybe we should get to Week 1 first. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7551315/2026/08/30/submit-a-question-for-stewart-mandels-college-football-mailbag-357/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
