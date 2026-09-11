@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:16:07 +0000</lastBuildDate>
+    <item>
+      <title>Bad crashes? No overtaking? Fun to drive? Observations from Madring</title>
+      <link>https://www.nytimes.com/athletic/7585387/2026/09/11/madring-observations-spanish-grand-prix-prime-tire/</link>
+      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7585387/2026/09/11/madring-observations-spanish-grand-prix-prime-tire/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lewis Hamilton and Charles Leclerc made F1 peace, but should Ferrari intervene?</title>
       <link>https://www.nytimes.com/athletic/7582130/2026/09/11/f1-lewis-hamilton-charles-leclerc-ferrari/</link>
@@ -176,13 +183,6 @@
       <description>Red Bull Formula 1 driver Isack Hadjar missed August's Dutch Grand Prix at Zandvoort due to the wrist injury.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7559129/2026/09/02/italian-grand-prix-hadjar-injury-miss-race/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The F1 trophy made out of dishes. Plus: Ferrari's changing its livery (again)</title>
-      <link>https://www.nytimes.com/athletic/7558069/2026/09/01/italian-grand-prix-trophy-f1-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7558069/2026/09/01/italian-grand-prix-trophy-f1-prime-tire/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
