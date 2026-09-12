@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:24:43 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>The Bears hear your ‘regression’ talk, and they have two words in response</title>
+      <link>https://www.nytimes.com/athletic/7585799/2026/09/12/chicago-bears-comebacks-lamar-jackson-contract/</link>
+      <description>Plus, the latest on Lamar Jackson's and Joey Porter Jr.'s contract situations, Anthony Richardson Sr.'s standing with the Colts, and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7585799/2026/09/12/chicago-bears-comebacks-lamar-jackson-contract/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The most underrated quarterback in the NFL is the one on your team</title>
@@ -178,13 +185,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <link>https://www.nytimes.com/athletic/7553901/2026/09/01/nfl-rosters-four-quarterbacks-eagles-steelers-falcons-browns/</link>
       <description>With teams placing a high value on quarterback development, decision makers are leery of letting a good one get away.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7553901/2026/09/01/nfl-rosters-four-quarterbacks-eagles-steelers-falcons-browns/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking the Steelers' practice-squad players based on their chances of contributing</title>
-      <link>https://www.nytimes.com/athletic/7554159/2026/09/01/pittsburgh-steelers-practice-squad-roster/</link>
-      <description>A look at the Steelers' initial 14-man practice squad — one that doesn't include Elandon Roberts.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7554159/2026/09/01/pittsburgh-steelers-practice-squad-roster/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
