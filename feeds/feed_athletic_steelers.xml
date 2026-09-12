@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:18:24 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>The most underrated quarterback in the NFL is the one on your team</title>
+      <link>https://www.nytimes.com/athletic/7582077/2026/09/12/the-most-underrated-quarterback-in-the-nfl-is-the-one-on-your-team/</link>
+      <description>Last month, The Athletic released Mike Sando’s Quarterback Tiers — the definitive annual survey assessing NFL quarterbacks, according to a panel of NFL coaches, executives and other insiders.
+Quarterback Tiers has been going strong for more than a decade. But this year, we tried something new: We invited readers to weigh in, too, by giving them an option to place quarterbacks in the tier where they thought they belonged, ranging from Tier 1 (elite, franchise quarterbacks) to Tier 5 (not an NFL starter). In all, more than 45,000 readers cast more than half a million votes.
+In general,...</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7582077/2026/09/12/the-most-underrated-quarterback-in-the-nfl-is-the-one-on-your-team/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AFC North Whiparound: Bengals and Ravens top writers' division-winner predictions</title>
@@ -177,13 +186,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <description>A look at the Steelers' initial 14-man practice squad — one that doesn't include Elandon Roberts.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7554159/2026/09/01/pittsburgh-steelers-practice-squad-roster/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers initial 53: Four QBs, Eli Heidenreich in; Joey Porter Jr. activated off PUP</title>
-      <link>https://www.nytimes.com/athletic/7551161/2026/08/30/pittsburgh-steelers-initial-53-man-roster-breakdown/</link>
-      <description>Breaking down the Steelers' surprising initial roster.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7551161/2026/08/30/pittsburgh-steelers-initial-53-man-roster-breakdown/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
