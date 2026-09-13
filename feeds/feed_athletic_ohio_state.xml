@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 17:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 18:20:40 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>AP Top 25: Texas leaps to No. 1 as Ohio State, Oregon fall and Michigan moves into poll</title>
+      <link>https://www.nytimes.com/athletic/7589655/2026/09/13/ap-top-25-college-football-week-2-2/</link>
+      <description>Texas leaped to the top of the AP poll, followed by Georgia, Notre Dame, Indiana and Miami. Here's what to know about the latest rankings.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589655/2026/09/13/ap-top-25-college-football-week-2-2/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Two kinds of Big Ten meltdown, plus the rest of Week 2 college football</title>
@@ -29,7 +36,7 @@
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>College football Week 2 winners and losers: Big Ten’s slipping reputation and bad QB investments</title>
+      <title>College football Week 2 winners and losers: Big Ten sliding and it's not just Ohio State's fault</title>
       <link>https://www.nytimes.com/athletic/7588231/2026/09/13/college-football-week-2-winners-losers/</link>
       <description>The Big Ten has just three wins against nonconference Power 4 opponents this season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7588231/2026/09/13/college-football-week-2-winners-losers/</guid>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7562187/2026/09/04/ryan-day-ohio-state-transfer-portal-draft/</link>
       <description>Day spoke to The Athletic about evolving roster building as Ohio State deals with losing 25 picks in two years while trying to get older.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7562187/2026/09/04/ryan-day-ohio-state-transfer-portal-draft/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football's most honest transaction: A likely loss for a guaranteed check</title>
-      <link>https://www.nytimes.com/athletic/7559844/2026/09/04/college-football-guarantee-game-underdog-powerhouse-payday/</link>
-      <description>This is not scheduling. It's fundraising with shoulder pads. The modern term is a guarantee game. The honest term is a purchased beating.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7559844/2026/09/04/college-football-guarantee-game-underdog-powerhouse-payday/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
