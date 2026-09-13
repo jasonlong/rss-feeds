@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 09:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:21:50 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football Week 2 winners and losers: Big Ten’s slipping reputation and bad QB investments</title>
+      <link>https://www.nytimes.com/athletic/7588231/2026/09/13/college-football-week-2-winners-losers/</link>
+      <description>The Big Ten has just three wins against nonconference Power 4 opponents this season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7588231/2026/09/13/college-football-week-2-winners-losers/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 thoughts from college football Week 2: What do you think of Arch Manning now?</title>
+      <link>https://www.nytimes.com/athletic/7588900/2026/09/13/arch-manning-texas-week-2-college-football-thoughts/</link>
+      <description>Ohio State's collapse, Oklahoma State's stunning upset of Oregon, standout performers and everything else you need to know in Week 2.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7588900/2026/09/13/arch-manning-texas-week-2-college-football-thoughts/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Redemption for Arch Manning? Reason to worry about Ohio State? Fallout from Texas' 20-point comeback</title>
@@ -166,20 +180,6 @@
       <link>https://www.nytimes.com/athletic/7555417/2026/09/03/college-football-2026-rankings-fan-predictions-playoffs/</link>
       <description>To no one surprise, Indiana fans are feeling pretty good about their team? Which team's fans are the most pessimistic?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7555417/2026/09/03/college-football-2026-rankings-fan-predictions-playoffs/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 college football study guide: 100 things, coaches, players and teams to know</title>
-      <link>https://www.nytimes.com/athletic/7559867/2026/09/03/college-football-2026-study-guide/</link>
-      <description>It's been a long offseason since Indiana claimed a shocking national title. What do you need to know before kickoff? Let us be your guide.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7559867/2026/09/03/college-football-2026-study-guide/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football QB tiers: Ranking the top 10 quarterbacks entering Week 1 of 2026 season</title>
-      <link>https://www.nytimes.com/athletic/7552692/2026/09/03/college-football-qb-tiers-2026/</link>
-      <description>Our QB rankings factor in evaluations from dozens of coaches, general managers and personnel staffers around the country.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7552692/2026/09/03/college-football-qb-tiers-2026/</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
