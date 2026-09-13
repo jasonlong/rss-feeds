@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:15:52 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Two kinds of Big Ten meltdown, plus the rest of Week 2 college football</title>
+      <link>https://www.nytimes.com/athletic/7589603/2026/09/13/ohio-state-oregon-results-until-saturday/</link>
+      <description>Until Saturday is The Athletic's free college football newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589603/2026/09/13/ohio-state-oregon-results-until-saturday/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ohio State was one play away. Now the Buckeyes may live on edge all season</title>
@@ -174,13 +181,6 @@
       <description>This is not scheduling. It's fundraising with shoulder pads. The modern term is a guarantee game. The honest term is a purchased beating.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7559844/2026/09/04/college-football-guarantee-game-underdog-powerhouse-payday/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transfer portal? Recruiting? How each college football Top 25 team landed its starting QB</title>
-      <link>https://www.nytimes.com/athletic/7559675/2026/09/03/college-football-recruiting-transfer-portal-qb-top-25-teams/</link>
-      <description>Transfers have been declared the starters or are projected to start at 97 of the 138 programs this fall.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7559675/2026/09/03/college-football-recruiting-transfer-portal-qb-top-25-teams/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
