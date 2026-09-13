@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:15:12 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>T.J. Watt takes over late as Steelers hold on for sloppy win over Falcons</title>
+      <link>https://www.nytimes.com/athletic/7590357/2026/09/13/falcons-steelers-nfl-2026-score-result-takeaways/</link>
+      <description>Pittsburgh notched a 20-13 win over the Cooper Rush-led Falcons to start the Mike McCarthy era.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7590357/2026/09/13/falcons-steelers-nfl-2026-score-result-takeaways/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steelers' Joey Porter Jr. inactive for season opener vs. Falcons</title>
@@ -178,13 +185,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <link>https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-week-1-contract-negotiation/</link>
       <description>The Steelers' top cornerback is still looking for a contract extension — and the team won't negotiate once the season starts.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-week-1-contract-negotiation/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch the 2026 Pittsburgh Steelers: A TV guide for Terrible Towel wavers</title>
-      <link>https://www.nytimes.com/athletic/7546692/2026/09/01/pittsburgh-steelers-2026-rodgers-metcalf-how-to-watch/</link>
-      <description>The Steelers are going for their third AFC North title of the 2020s. Here's a look at their schedule and the cost to watch their games.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7546692/2026/09/01/pittsburgh-steelers-2026-rodgers-metcalf-how-to-watch/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
