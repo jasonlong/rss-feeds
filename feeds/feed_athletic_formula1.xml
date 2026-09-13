@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:18:05 +0000</lastBuildDate>
+    <item>
+      <title>Lewis Hamilton concedes F1 title fight to Kimi Antonelli and Mercedes: 'There's no stopping them'</title>
+      <link>https://www.nytimes.com/athletic/7590164/2026/09/13/hamilton-antonelli-ferrari-mercedes-spanish-gp-f1/</link>
+      <description>Antonelli won the Spanish Grand Prix to extend his championship lead to 81 points, while Hamilton retired with a brake issue after six laps</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7590164/2026/09/13/hamilton-antonelli-ferrari-mercedes-spanish-gp-f1/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spanish GP: Submit your questions for our F1 mailbag</title>
       <link>https://www.nytimes.com/athletic/7589964/2026/09/13/spanish-gp-f1-mailbag/</link>
@@ -18,9 +25,9 @@
     </item>
     <item>
       <title>Spanish Grand Prix briefing: Antonelli wins, Norris' pitstop woes, Hamilton's DNF</title>
-      <link>https://www.nytimes.com/athletic/7589661/2026/09/13/spanish-grand-prix-briefing-antonelli-wins/</link>
-      <description>Antonelli extends his lead in the drivers' championship, while Hamilton retires for the first time this season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589661/2026/09/13/spanish-grand-prix-briefing-antonelli-wins/</guid>
+      <link>https://www.nytimes.com/athletic/7589661/2026/09/13/f1-spanish-grand-prix-results/</link>
+      <description>Kimi Antonelli extends his lead in the drivers' championship, while Lewis Hamilton retires for the first time this season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589661/2026/09/13/f1-spanish-grand-prix-results/</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -168,13 +175,6 @@
       <link>https://www.nytimes.com/athletic/7565039/2026/09/04/f1-milan-event-event-announcement/</link>
       <description>The event will take place in the Italian city from Feb. 18-20, 2027 - the exact location has not been announced yet</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7565039/2026/09/04/f1-milan-event-event-announcement/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pierre Gasly stripped of Monaco podium, Isack Hadjar reinstated after FIA court ruling</title>
-      <link>https://www.nytimes.com/athletic/7564923/2026/09/04/gasly-hadjar-monaco-f1-fia/</link>
-      <description>Gasly has lost nine points after Friday's decision, impacting Alpine's standing in the F1 constructors' championship.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7564923/2026/09/04/gasly-hadjar-monaco-f1-fia/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
