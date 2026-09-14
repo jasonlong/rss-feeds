@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 19:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:18:05 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>How to watch Kent State vs. No. 6 Ohio State: TV channel and streaming options for September 19</title>
+      <link>https://www.nytimes.com/athletic/7594630/2026/09/14/kent-state-vs-ohio-state-stream-how-to-watch-sept-19/</link>
+      <description>Find out how to watch the Kent State Golden Flashes play the Ohio State Buckeyes, with time, TV channel and streaming information.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7594630/2026/09/14/kent-state-vs-ohio-state-stream-how-to-watch-sept-19/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steve Sarkisian: Ohio State should be rewarded for playing Texas</title>
@@ -174,13 +181,6 @@
       <description>The importance of this weekend cannot be understated for CFP positioning and perhaps what it means for the last at-large berth.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7573600/2026/09/08/big-ten-week-2-importance-stats-status/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football history is rich with controversial endings. Welcome to the club, Michigan-WMU</title>
-      <link>https://www.nytimes.com/athletic/7571072/2026/09/07/college-football-biggest-controversies-michigan-clock/</link>
-      <description>Here are 10 more college football games altered in the final seconds by penalties and no-calls.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7571072/2026/09/07/college-football-biggest-controversies-michigan-clock/</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
