@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:19:31 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Hello Kamario Taylor: Ranking college football's top 10 quarterbacks after 2 weeks</title>
+      <link>https://www.nytimes.com/athletic/7591762/2026/09/14/college-football-best-quarterbacks-kamario-taylor/</link>
+      <description>Taylor, who led Mississippi State to an impressive win at Minnesota, was ranked No. 32 among QBs in the preseason. Now he's in the top 10.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7591762/2026/09/14/college-football-best-quarterbacks-kamario-taylor/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams after Week 2: A 20-point comeback vaults Texas to No. 1</title>
+      <link>https://www.nytimes.com/athletic/7592160/2026/09/14/college-football-team-rankings-texas-fbs-week-2/</link>
+      <description>Two weeks into the college football season, it feels like we know nothing. Ain’t it great?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7592160/2026/09/14/college-football-team-rankings-texas-fbs-week-2/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -167,20 +181,6 @@
       <description>Most of the attention was on Kiffin's LSU debut and what went down in Ann Arbor, but there was plenty to pick from on a wild Saturday.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7569484/2026/09/06/college-football-week-1-winners-losers/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeremiah Smith strikes Heisman pose, opens campaign with 2 TDs as Ohio State rolls</title>
-      <link>https://www.nytimes.com/athletic/7568533/2026/09/05/ohio-state-jeremiah-smith-heisman-trophy-2/</link>
-      <description>Ohio State's stars delivered in a stress-free 56-3 win over Ball State.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7568533/2026/09/05/ohio-state-jeremiah-smith-heisman-trophy-2/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>From Death Valley(s) to The Swamp, how college football stadiums got their nicknames</title>
-      <link>https://www.nytimes.com/athletic/7563333/2026/09/05/college-football-stadium-names-death-valley-swamp/</link>
-      <description>They emerged from blowouts and marketing pitches, architectural quirks and television broadcasts, each becoming entrenched in tradition.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7563333/2026/09/05/college-football-stadium-names-death-valley-swamp/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
