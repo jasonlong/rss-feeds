@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:20:36 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7592917/2026/09/14/submit-a-question-for-stewart-mandels-college-football-mailbag-359/</link>
+      <description>Week 2 reminded us to expect the unexpected in college football. What does the sport have planned for Week 3? Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7592917/2026/09/14/submit-a-question-for-stewart-mandels-college-football-mailbag-359/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: Texas leaps to No. 1 as Ohio State, Oregon fall and Michigan moves into poll</title>
@@ -174,13 +181,6 @@
       <description>They emerged from blowouts and marketing pitches, architectural quirks and television broadcasts, each becoming entrenched in tradition.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7563333/2026/09/05/college-football-stadium-names-death-valley-swamp/</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State is No. 1 despite record draft picks, roster changes. How is Ryan Day adapting?</title>
-      <link>https://www.nytimes.com/athletic/7562187/2026/09/04/ryan-day-ohio-state-transfer-portal-draft/</link>
-      <description>Day spoke to The Athletic about evolving roster building as Ohio State deals with losing 25 picks in two years while trying to get older.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7562187/2026/09/04/ryan-day-ohio-state-transfer-portal-draft/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
