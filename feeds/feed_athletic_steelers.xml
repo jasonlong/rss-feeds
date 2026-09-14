@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:56:34 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>Mike McCarthy starts new Steelers era with win. Could another Pittsburgh native's run be ending?</title>
+      <link>https://www.nytimes.com/athletic/7591866/2026/09/13/mike-mccarthy-steelers-joey-porter-jr/</link>
+      <description>Mike McCarthy's debut ended with a win, but it wasn't pretty, and Joey Porter Jr.'s contract situation has yet to be resolved.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7591866/2026/09/13/mike-mccarthy-steelers-joey-porter-jr/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>T.J. Watt dominates Falcons offense slowed by QB issues. Is Steelers star poised for bounce-back?</title>
@@ -179,13 +186,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <description>Levon Kirkland played in the NFL from 1992 to 2002, mostly with the Pittsburgh Steelers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7555646/2026/09/02/levon-kirkland-best-leaders-nfl/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Steelers CB Joey Porter Jr. play without a new contract? 'For sure... maybe'</title>
-      <link>https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-week-1-contract-negotiation/</link>
-      <description>The Steelers' top cornerback is still looking for a contract extension — and the team won't negotiate once the season starts.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7557119/2026/09/01/joey-porter-jr-steelers-week-1-contract-negotiation/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
