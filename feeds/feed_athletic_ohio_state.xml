@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:21:22 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Are Ohio State's problems fixable? Positives, negatives and panic buttons from Texas</title>
+      <link>https://www.nytimes.com/athletic/7593437/2026/09/14/ohio-state-problems-texas-film/</link>
+      <description>Thre's one thing I think that can doom Ohio State’s season if it doesn’t make an adjustment. Here's what I learned upon rewatching Texas.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7593437/2026/09/14/ohio-state-problems-texas-film/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Hello Kamario Taylor: Ranking college football's top 10 quarterbacks after 2 weeks</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7569241/2026/09/06/college-football-scores-week-1-michigan-kiffin/</link>
       <description>Michigan's miracle finish was overshadowed by officiating controversy while Kiffin routed Clemson in his LSU debut (without NFL players).</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7569241/2026/09/06/college-football-scores-week-1-michigan-kiffin/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football Week 1 winners and losers: Lane Kiffin, conspiracy theories, Heisman poses</title>
-      <link>https://www.nytimes.com/athletic/7569484/2026/09/06/college-football-week-1-winners-losers/</link>
-      <description>Most of the attention was on Kiffin's LSU debut and what went down in Ann Arbor, but there was plenty to pick from on a wild Saturday.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7569484/2026/09/06/college-football-week-1-winners-losers/</guid>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
