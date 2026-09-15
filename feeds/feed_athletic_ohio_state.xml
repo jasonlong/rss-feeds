@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:17:57 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff odds: Texas still trails Ohio State in national title chances</title>
+      <link>https://www.nytimes.com/athletic/7594635/2026/09/15/college-football-playoff-odds-texas-ohio-state-oregon/</link>
+      <description>Ohio State has retained the top spot in the odds to win the national title, but the Buckeyes' chances of making the CFP got a little longer.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7594635/2026/09/15/college-football-playoff-odds-texas-ohio-state-oregon/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Submit your Ohio State football questions for Cameron Teague Robinson’s mailbag</title>
+      <link>https://www.nytimes.com/athletic/7596694/2026/09/15/ohio-state-football-mailbag-questions-11/</link>
+      <description>How do you feel about Ohio State after the loss in Austin?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7596694/2026/09/15/ohio-state-football-mailbag-questions-11/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steve Sarkisian: Ohio State 'should be rewarded' for playing Texas despite loss</title>
@@ -167,20 +181,6 @@
       <description>LSU's dominant performance against Clemson jumps them up the rankings. Rutgers blowout loss to UMass sets a new low for Power 4 teams.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7573830/2026/09/08/college-football-team-rankings-lsu-rutgers/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>For the Big Ten, Week 2 is the season's most important conference bragging rights battleground</title>
-      <link>https://www.nytimes.com/athletic/7573600/2026/09/08/big-ten-week-2-importance-stats-status/</link>
-      <description>The importance of this weekend cannot be understated for CFP positioning and perhaps what it means for the last at-large berth.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7573600/2026/09/08/big-ten-week-2-importance-stats-status/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football history is rich with controversial endings. Welcome to the club, Michigan-WMU</title>
-      <link>https://www.nytimes.com/athletic/7571072/2026/09/07/college-football-biggest-controversies-michigan-clock/</link>
-      <description>Here are 10 more college football games altered in the final seconds by penalties and no-calls.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7571072/2026/09/07/college-football-biggest-controversies-michigan-clock/</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
