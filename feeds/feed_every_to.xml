@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:20:20 +0000</lastBuildDate>
     <item>
       <title>What Playing With AI Taught Me About My Work</title>
       <link>https://every.to/working-overtime/what-playing-with-ai-taught-me-about-my-work</link>
@@ -64,13 +64,6 @@
       <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
       <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent-rerun</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits</title>
-      <link>https://every.to/vibe-check/gpt-6-astra-vibe-check</link>
-      <description>OpenAI’s new model impressed us with writing, operating software, and visual design. Anthropic’s Fable still has better instincts for building a product.</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/gpt-6-astra-vibe-check</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Fable 5.1—Anthropic Is So Back (Again)</title>
@@ -157,32 +150,11 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Moral of Fable</title>
-      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
-      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Microsoft Is Building for a World of Metered Intelligence</title>
-      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
-      <description>The company gets pragmatic in AI’s expensive era</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Compound Engineering Gets an Upgrade</title>
       <link>https://every.to/p/compound-engineering-gets-an-upgrade</link>
       <description>The AI-native engineering philosophy has expanded from four steps to eight</description>
       <guid isPermaLink="false">https://every.to/p/compound-engineering-gets-an-upgrade</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Notes From the Foothills of the Singularity</title>
-      <link>https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</link>
-      <description>Google I/O wasn't flashy, but it might be the most important yet</description>
-      <guid isPermaLink="false">https://every.to/playtesting/notes-from-the-foothills-of-the-singularity</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.</title>
