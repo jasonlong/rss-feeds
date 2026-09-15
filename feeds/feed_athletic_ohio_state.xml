@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:18:28 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ryan Day says Ohio State should have let Texas score go-ahead touchdown earlier</title>
+      <link>https://www.nytimes.com/athletic/7597372/2026/09/15/ryan-day-ohio-state-texas-mistake/</link>
+      <description>The Buckeyes’ coach acknowledged the plain reality that trying to get a stop near the goal line with the game on the line did not work.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7597372/2026/09/15/ryan-day-ohio-state-texas-mistake/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff odds: Texas still trails Ohio State in national title chances</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7573859/2026/09/08/heisman-odds-darian-mensah-jeremiah-smith-arch-manning/</link>
       <description>Miami's blowout win at Stanford was enough to make Darian Mensah the new favorite to win the Heisman Trophy.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7573859/2026/09/08/heisman-odds-darian-mensah-jeremiah-smith-arch-manning/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-ranking 138 college football teams after Week 1: LSU starts on top, Rutgers hits a new low</title>
-      <link>https://www.nytimes.com/athletic/7573830/2026/09/08/college-football-team-rankings-lsu-rutgers/</link>
-      <description>LSU's dominant performance against Clemson jumps them up the rankings. Rutgers blowout loss to UMass sets a new low for Power 4 teams.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7573830/2026/09/08/college-football-team-rankings-lsu-rutgers/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
