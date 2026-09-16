@@ -8,19 +8,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:19:45 +0000</lastBuildDate>
     <item>
-      <title>Mini-Vibe Check: TypeSafe's Jev Judged Everything I’ve Written in 0.7 Seconds</title>
-      <link>https://every.to/also-true-for-humans/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds</link>
-      <description>Its new model turns fuzzy questions into probabilities fast and cheaply enough to check an AI agent’s work as it goes</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Show Us Your Folders</title>
+      <link>https://every.to/context-window/show-us-your-folders</link>
+      <description>Plus: 13 beliefs about writing with AI, and an antivirus for the AI age</description>
+      <guid isPermaLink="false">https://every.to/context-window/show-us-your-folders</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 Beliefs About AI Writing</title>
+      <link>https://every.to/also-true-for-humans/ai-writing-beliefs</link>
+      <description>How I went from ‘this is slop’ to work I’m willing to publish under my name</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-writing-beliefs</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>You're Probably Sleeping On Computer Use</title>
       <link>https://every.to/context-window/you-re-probably-sleeping-on-computer-use</link>
       <description>Plus: Mike's vibe check of a model that answers in probabilities; the computer chores our agents do for us now; and a workflow for making a solid deck with AI</description>
       <guid isPermaLink="false">https://every.to/context-window/you-re-probably-sleeping-on-computer-use</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mini-Vibe Check: TypeSafe's Jev Judged Everything I’ve Written in 0.7 Seconds</title>
+      <link>https://every.to/also-true-for-humans/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds</link>
+      <description>Its new model turns fuzzy questions into probabilities fast and cheaply enough to check an AI agent’s work as it goes</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -43,13 +57,6 @@
       <description>Usage limits give my best questions—and my more questionable ideas—time to develop</description>
       <guid isPermaLink="false">https://every.to/p/what-i-learn-when-i-run-out-of-ai</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evals for Everyone</title>
-      <link>https://every.to/context-window/evals-for-everyone</link>
-      <description>Why we’re building personal benchmarks for every employee, and how to start testing AI against your standards </description>
-      <guid isPermaLink="false">https://every.to/context-window/evals-for-everyone</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Writers Who Use AI Want You to Know</title>
