@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:19:23 +0000</lastBuildDate>
     <item>
       <title>Does your college football roster cost $8M or $50M? Here’s our report on 68 teams</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Big Ten football roster budgets show a clear top 2 — but Indiana is catching up</title>
+      <link>https://www.nytimes.com/athletic/7595072/2026/09/17/big-ten-football-roster-spending-nil/</link>
+      <description>Five thoughts on what Big Ten teams are spending on their football rosters, from Ohio State and Oregon to the bottom half.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7595072/2026/09/17/big-ten-football-roster-spending-nil/</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ohio State-Oregon, Texas-LSU highlight college football games with most expensive rosters in 2026</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7579633/2026/09/10/ohio-state-nfl-coordinators-smith-patricia/</link>
       <description>Day went from calling offensive plays as Ohio State's head coach to entrusting both coordinator roles to former NFL head coaches.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7579633/2026/09/10/ohio-state-nfl-coordinators-smith-patricia/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which players will NFL scouts be watching during Saturday's Ohio State-Texas showdown?</title>
-      <link>https://www.nytimes.com/athletic/7578406/2026/09/10/nfl-draft-2027-texas-ohio-state-prospects/</link>
-      <description>There will be no shortage of potential top-100 talent on the field Saturday night in Austin.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7578406/2026/09/10/nfl-draft-2027-texas-ohio-state-prospects/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
