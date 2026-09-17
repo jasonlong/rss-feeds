@@ -8,18 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 01:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:27:06 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
-    </item>
-    <item>
-      <title>NFL spread, straight-up picks: 49ers, Eagles top confidence rankings for Week 2</title>
-      <link>https://www.nytimes.com/athletic/7600534/2026/09/16/nfl-confidence-picks-week-2-49ers-eagles/</link>
-      <description>Whether you're trying to win your office pool, playing for bragging rights or looking for the best best, we have you covered for NFL Week 2.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7600534/2026/09/16/nfl-confidence-picks-week-2-49ers-eagles/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Super Bowl odds: Rams still favored while Bears, Giants, Steelers jump up the board</title>
@@ -186,6 +179,13 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <description>Also, the 49ers' D-line looks to get back to being disruptive and the Colts will find out if Daniel Jones is really the guy.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7568408/2026/09/07/nfl-team-questions-2026-season/</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL Hope-O-Meter 2026 results: Rams fans are feeling good; Browns backers? Not as much</title>
+      <link>https://www.nytimes.com/athletic/7566537/2026/09/06/nfl-predictions-2026-fan-rankings-survey/</link>
+      <description>The start of any season is all about hope. Which teams' fans are optimistic ahead of Week 1, and which are not feeling as good?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7566537/2026/09/06/nfl-predictions-2026-fan-rankings-survey/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
