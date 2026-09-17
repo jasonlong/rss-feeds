@@ -8,19 +8,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:23:33 +0000</lastBuildDate>
     <item>
-      <title>Show Us Your Folders</title>
-      <link>https://every.to/context-window/show-us-your-folders</link>
-      <description>Plus: 13 beliefs about writing with AI, and an antivirus for the AI age</description>
-      <guid isPermaLink="false">https://every.to/context-window/show-us-your-folders</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Why You Should Burn More Tokens</title>
+      <link>https://every.to/context-window/why-you-should-burn-more-tokens</link>
+      <description>When expensive experimentation is worth it and when to rein in your tokenmaxxing</description>
+      <guid isPermaLink="false">https://every.to/context-window/why-you-should-burn-more-tokens</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>13 Beliefs About AI Writing</title>
       <link>https://every.to/also-true-for-humans/ai-writing-beliefs</link>
       <description>How I went from ‘this is slop’ to work I’m willing to publish under my name</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-writing-beliefs</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Show Us Your Folders</title>
+      <link>https://every.to/context-window/show-us-your-folders</link>
+      <description>Plus: 13 beliefs about writing with AI, and an antivirus for the AI age</description>
+      <guid isPermaLink="false">https://every.to/context-window/show-us-your-folders</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -50,13 +57,6 @@
       <description>Maggie Appleton and Kevin Roose on AI, personal benchmarks, and the Navier–Stokes proof</description>
       <guid isPermaLink="false">https://every.to/context-window/what-to-make-of-the-anthropic-warning</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What I Learn When I Run Out of AI</title>
-      <link>https://every.to/p/what-i-learn-when-i-run-out-of-ai</link>
-      <description>Usage limits give my best questions—and my more questionable ideas—time to develop</description>
-      <guid isPermaLink="false">https://every.to/p/what-i-learn-when-i-run-out-of-ai</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Writers Who Use AI Want You to Know</title>
