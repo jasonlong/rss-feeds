@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:19:35 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
@@ -19,13 +19,6 @@
       <link>https://www.nytimes.com/athletic/7602187/2026/09/17/dk-metcalf-week-1-drops-pittsburgh-steelers/</link>
       <description>The star receiver struggled against the Falcons, but remains a focal point of the offense going forward.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7602187/2026/09/17/dk-metcalf-week-1-drops-pittsburgh-steelers/</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 2 picks: Why I’m betting against the teams everyone thinks will bounce back</title>
-      <link>https://www.nytimes.com/athletic/7598662/2026/09/17/nfl-week-2-predictions-betting-picks/</link>
-      <description>The Rams, Packers, Cowboys, Broncos and others disappointed in Week 1. Don't be so sure they'll bounce back in Week 2.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7598662/2026/09/17/nfl-week-2-predictions-betting-picks/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -185,6 +178,13 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <link>https://www.nytimes.com/athletic/7565781/2026/09/07/nfl-2026-bold-season-predictions/</link>
       <description>Our writers also predict a top-five offense for the Chargers, a dominant Eagles defense and Malik Nabers as Comeback Player of the Year.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7565781/2026/09/07/nfl-2026-bold-season-predictions/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The biggest question for each NFL team: Andy Reid's evolution, Caleb Downs' value</title>
+      <link>https://www.nytimes.com/athletic/7568408/2026/09/07/nfl-team-questions-2026-season/</link>
+      <description>Also, the 49ers' D-line looks to get back to being disruptive and the Colts will find out if Daniel Jones is really the guy.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7568408/2026/09/07/nfl-team-questions-2026-season/</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
