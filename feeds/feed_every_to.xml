@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:16:02 +0000</lastBuildDate>
+    <item>
+      <title>Vibe Check: Is Astra a Breakthrough for Indie Filmmakers?</title>
+      <link>https://every.to/p/vibe-check-is-astra-a-breakthrough-for-indie-filmmakers</link>
+      <description>A professional creative studio puts GPT-6 to the test</description>
+      <guid isPermaLink="false">https://every.to/p/vibe-check-is-astra-a-breakthrough-for-indie-filmmakers</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why You Should Burn More Tokens</title>
       <link>https://every.to/context-window/why-you-should-burn-more-tokens</link>
@@ -50,13 +57,6 @@
       <description>AI can turn work into play—and distract me from the work I need to do. Here’s how I’m learning to bring something back from those detours.</description>
       <guid isPermaLink="false">https://every.to/working-overtime/what-playing-with-ai-taught-me-about-my-work</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to Make of the Anthropic Warning</title>
-      <link>https://every.to/context-window/what-to-make-of-the-anthropic-warning</link>
-      <description>Maggie Appleton and Kevin Roose on AI, personal benchmarks, and the Navier–Stokes proof</description>
-      <guid isPermaLink="false">https://every.to/context-window/what-to-make-of-the-anthropic-warning</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Writers Who Use AI Want You to Know</title>
@@ -176,13 +176,6 @@
       <description>What the most powerful model yet teaches us about the future of knowledge work</description>
       <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Microsoft Is Building for a World of Metered Intelligence</title>
-      <link>https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</link>
-      <description>The company gets pragmatic in AI’s expensive era</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-microsoft-is-building-for-a-world-of-metered-intelligence</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compound Engineering Gets an Upgrade</title>
