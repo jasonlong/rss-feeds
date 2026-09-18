@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:16:43 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>Steelers CB Joey Porter Jr. ruled out for Week 2 due to back injury</title>
+      <link>https://www.nytimes.com/athletic/7608529/2026/09/18/joey-porter-jr-week-2-steelers-patriots/</link>
+      <description>Porter, who is also in a contract dispute with the Steelers, will miss a second straight game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7608529/2026/09/18/joey-porter-jr-week-2-steelers-patriots/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AFC North Week 2: What we learned from the opener, what we're overreacting to and what's next</title>
@@ -178,13 +185,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <link>https://www.nytimes.com/athletic/7552755/2026/09/08/nfl-power-rankings-week-1-rams-seahawks-bills/</link>
       <description>Sean McVay's Rams seem to have the makings of a Super Bowl champion. Can all of his stars shine in Los Angeles this season?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7552755/2026/09/08/nfl-power-rankings-week-1-rams-seahawks-bills/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DK Metcalf on anger management, Aaron Rodgers, Antarctica — and your opinion of him</title>
-      <link>https://www.nytimes.com/athletic/7569398/2026/09/08/dk-metcalf-steelers-conspiracy-theories-career/</link>
-      <description>The Pittsburgh Steelers' star receiver also makes one thing clear: He's not changing.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7569398/2026/09/08/dk-metcalf-steelers-conspiracy-theories-career/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
