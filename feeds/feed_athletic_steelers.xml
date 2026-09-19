@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:19:04 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>What I’m hearing on the Broncos' panic level, a mild-mannered Baker Mayfield, Joey Porter Jr.</title>
+      <link>https://www.nytimes.com/athletic/7609294/2026/09/19/baker-mayfield-denver-broncos-joey-porter/</link>
+      <description>Plus, the Bengals learned a lesson in a Week 1 win, and the Steelers' limited options with Joey Porter Jr.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7609294/2026/09/19/baker-mayfield-denver-broncos-joey-porter/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Steelers CB Joey Porter Jr. ruled out for Week 2 due to back injury</title>
@@ -178,13 +185,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <link>https://www.nytimes.com/athletic/7573732/2026/09/08/dk-metcalf-antarctica/</link>
       <description>“I think there is another civilization inside of Earth,” the Steelers receiver said about Antarctica.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7573732/2026/09/08/dk-metcalf-antarctica/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 1 power rankings: Rams a superteam at the top, but lots of questions below them</title>
-      <link>https://www.nytimes.com/athletic/7552755/2026/09/08/nfl-power-rankings-week-1-rams-seahawks-bills/</link>
-      <description>Sean McVay's Rams seem to have the makings of a Super Bowl champion. Can all of his stars shine in Los Angeles this season?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7552755/2026/09/08/nfl-power-rankings-week-1-rams-seahawks-bills/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
