@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 19:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:17:09 +0000</lastBuildDate>
     <item>
       <title>Does your college football roster cost $8M or $50M? Here’s our report on 68 teams</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>As Jeremiah Smith breaks Ohio State record, was Buckeyes' rout of Kent State satisfying?</title>
+      <link>https://www.nytimes.com/athletic/7610564/2026/09/19/ohio-state-kent-state-score-jeremiah-smith/</link>
+      <description>Ohio State bounced back from the Texas loss with a 59-3 blowout of Kent State. Here's what we learned about the Buckeyes.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7610564/2026/09/19/ohio-state-kent-state-score-jeremiah-smith/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ohio State football mailbag: Why does Ryan Day coach 'tight'? Was the defense exposed?</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7582840/2026/09/11/texas-ohio-state-arch-manning-julian-saying-qaurterbacks/</link>
       <description>Last year, neither coaching staff asked their QB to do too much when Ohio State hosted Texas. Things should be different this season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7582840/2026/09/11/texas-ohio-state-arch-manning-julian-saying-qaurterbacks/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How College Football Playoff contenders are situated at backup quarterback</title>
-      <link>https://www.nytimes.com/athletic/7581899/2026/09/11/college-football-playoff-contenders-backup-quarterback-situation/</link>
-      <description>Which teams will be in decent shape if their starting QB goes down? Which teams will be in trouble?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7581899/2026/09/11/college-football-playoff-contenders-backup-quarterback-situation/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
