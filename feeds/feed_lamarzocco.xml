@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 01:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 02:25:35 +0000</lastBuildDate>
     <item>
       <title>Pick of the Orchard</title>
       <link>https://home.lamarzoccousa.com/pick-of-the-orchard/</link>
@@ -152,6 +152,12 @@
       <link>https://home.lamarzoccousa.com/local-mode-smart-scheduling/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/local-mode-smart-scheduling/</guid>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Tale of the Dirty Solenoid</title>
+      <link>https://home.lamarzoccousa.com/backflush-from-the-living-dead-tales-of-the-dirty-solenoid/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/backflush-from-the-living-dead-tales-of-the-dirty-solenoid/</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>bluebeard coffee roasters x la marzocco home</title>
@@ -434,6 +440,12 @@
       <link>https://home.lamarzoccousa.com/stereoscope-x-la-marzocco-home/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/stereoscope-x-la-marzocco-home/</guid>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>rising above: the remarkable story of caitlin campbell</title>
+      <link>https://home.lamarzoccousa.com/the-remarkable-story-of-caitlin-campbell/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-remarkable-story-of-caitlin-campbell/</guid>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Calibration: Fine-Tuning Your Pico</title>
@@ -790,6 +802,12 @@
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Espresso, Sneakers, and Nail Art</title>
+      <link>https://home.lamarzoccousa.com/espresso-sneakers-nail-art-laha-cafe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-sneakers-nail-art-laha-cafe/</guid>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Thunder x La Marzocco Home</title>
       <link>https://home.lamarzoccousa.com/november-roaster-22/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/november-roaster-22/</guid>
@@ -998,6 +1016,12 @@
       <link>https://home.lamarzoccousa.com/march-2021-brandywine/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/march-2021-brandywine/</guid>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support the Coffee Center at UC Davis</title>
+      <link>https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>02 Coffee Encounters</title>
@@ -1282,6 +1306,12 @@
       <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Home Espresso Field Trip: Los Angeles</title>
+      <link>https://home.lamarzoccousa.com/home-espresso-field-trip-los-angeles/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/home-espresso-field-trip-los-angeles/</guid>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Bonanza x ONIBUS: June 2019</title>
       <link>https://home.lamarzoccousa.com/bonanza-x-onibus-june-2019/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/bonanza-x-onibus-june-2019/</guid>
@@ -1417,6 +1447,12 @@
       <title>White Chocolate + Orange Madeleines</title>
       <link>https://home.lamarzoccousa.com/white-chocolate-orange-madeleines/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/white-chocolate-orange-madeleines/</guid>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spiced Vanilla Bean Shortbread</title>
+      <link>https://home.lamarzoccousa.com/spiced-vanilla-bean-shortbread/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/spiced-vanilla-bean-shortbread/</guid>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1760,6 +1796,12 @@
       <link>https://home.lamarzoccousa.com/welcomehome/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/welcomehome/</guid>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the La Marzocco Home Espresso Subscription</title>
+      <link>https://home.lamarzoccousa.com/introducing-the-espresso-subscription/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/introducing-the-espresso-subscription/</guid>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>April 2017: Tim Wendelboe Espresso Specs</title>
