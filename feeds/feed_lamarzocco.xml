@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 20:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:15:47 +0000</lastBuildDate>
     <item>
       <title>Pick of the Orchard</title>
       <link>https://home.lamarzoccousa.com/pick-of-the-orchard/</link>
@@ -658,6 +658,12 @@
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Madcap x La Marzocco Home</title>
+      <link>https://home.lamarzoccousa.com/july-roaster-2023/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/july-roaster-2023/</guid>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Tale of the Leaky Gasket</title>
       <link>https://home.lamarzoccousa.com/the-tale-of-the-leaky-gasket/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/the-tale-of-the-leaky-gasket/</guid>
@@ -1010,6 +1016,12 @@
       <link>https://home.lamarzoccousa.com/march-2021-brandywine/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/march-2021-brandywine/</guid>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support the Coffee Center at UC Davis</title>
+      <link>https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>02 Coffee Encounters</title>
