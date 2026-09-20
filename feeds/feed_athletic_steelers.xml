@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 19:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:17:37 +0000</lastBuildDate>
     <item>
       <title>Pittsburgh Steelers 2026 NFL Playoff Simulator</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/</guid>
+    </item>
+    <item>
+      <title>Patriots smother the Steelers, but is it time to worry about Drake Maye?</title>
+      <link>https://www.nytimes.com/athletic/7613821/2026/09/20/steelers-patriots-nfl-2026-score-result-takeaways/</link>
+      <description>The New England defense led the way Sunday in a 20-3 win over Pittsburgh.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7613821/2026/09/20/steelers-patriots-nfl-2026-score-result-takeaways/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL Week 2 betting primer: 15 games, trends and key numbers</title>
@@ -179,13 +186,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <description>The second-rounder from Alabama understands the unique position he is in.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7576400/2026/09/09/germie-bernard-pittsburgh-steelers-rookie/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers rookie Max Iheanachor’s Pittsburgh home burglarized: Source</title>
-      <link>https://www.nytimes.com/athletic/7575960/2026/09/08/max-iheanachor-burglary-steelers/</link>
-      <description>Approximately $150,000 to $200,000 worth of jewelry and designer bags were missing, police said.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7575960/2026/09/08/max-iheanachor-burglary-steelers/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
