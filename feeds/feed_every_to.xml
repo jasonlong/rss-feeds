@@ -8,37 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:24:55 +0000</lastBuildDate>
-    <item>
-      <title>Agents Find a W ay</title>
-      <link>https://every.to/context-window/openai-hugging-face-hack</link>
-      <guid isPermaLink="false">https://every.to/context-window/openai-hugging-face-hack</guid>
-    </item>
-    <item>
-      <title>Introducing T hesis: 2027</title>
-      <link>https://every.to/on-every/introducing-thesis-2027</link>
-      <guid isPermaLink="false">https://every.to/on-every/introducing-thesis-2027</guid>
-    </item>
-    <item>
-      <title>What Does H uman Work Look Like After Automation?</title>
-      <link>https://every.to/on-every/what-does-human-work-look-like-after-automation</link>
-      <guid isPermaLink="false">https://every.to/on-every/what-does-human-work-look-like-after-automation</guid>
-    </item>
-    <item>
-      <title>How I Escaped A I Autopilot</title>
-      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
-      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
-    </item>
-    <item>
-      <title>I Tried the AI Model Built to F ix AI Writing</title>
-      <link>https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing</link>
-      <guid isPermaLink="false">https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing</guid>
-    </item>
-    <item>
-      <title>What Writers Who Use AI W ant You to Know</title>
-      <link>https://every.to/p/what-writers-who-use-ai-want-you-to</link>
-      <guid isPermaLink="false">https://every.to/p/what-writers-who-use-ai-want-you-to</guid>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 19:16:27 +0000</lastBuildDate>
     <item>
       <title>How to Create Your Own Personal AI Benchmark</title>
       <link>https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark</link>
@@ -89,6 +59,13 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>What Writers Who Use AI Want You to Know</title>
+      <link>https://every.to/p/what-writers-who-use-ai-want-you-to</link>
+      <description>Five professional writers share how they use AI, where it disappoints them, and what they still insist on doing themselves</description>
+      <guid isPermaLink="false">https://every.to/p/what-writers-who-use-ai-want-you-to</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>To Read—Or Not to Read the Code?</title>
       <link>https://every.to/source-code/to-read-or-not-to-read-the-code</link>
       <description>AI is ready to run your work in the dark. Don't let it turn the lights out in your head, too.</description>
@@ -117,11 +94,39 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>I Tried the AI Model Built to Fix AI Writing</title>
+      <link>https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing</link>
+      <description>A new lab says the sameness of AI prose is a training problem. It made the writing less predictable—but not necessarily any better.</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/i-tried-the-ai-model-built-to-fix-ai-writing</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>An Engineering Team for the Cost of Codex</title>
       <link>https://every.to/context-window/an-engineering-team-for-the-cost-of-codex</link>
       <description>Plus: How AI helped build the Thesis website, an alien companion bringing in $4 million a year, and why the future of harness engineering is doing less</description>
       <guid isPermaLink="false">https://every.to/context-window/an-engineering-team-for-the-cost-of-codex</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Does Human Work Look Like After Automation?</title>
+      <link>https://every.to/on-every/what-does-human-work-look-like-after-automation</link>
+      <description>100 thinkers and builders call their shot on the future of great human work with AI</description>
+      <guid isPermaLink="false">https://every.to/on-every/what-does-human-work-look-like-after-automation</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Thesis: 2027</title>
+      <link>https://every.to/on-every/introducing-thesis-2027</link>
+      <description>A conference dedicated to the future of work after automation</description>
+      <guid isPermaLink="false">https://every.to/on-every/introducing-thesis-2027</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agents Find a Way</title>
+      <link>https://every.to/context-window/openai-hugging-face-hack</link>
+      <description>Plus: AI dictation etiquette, Microsoft’s vision for the agentic web, and the models we’re reaching for this week</description>
+      <guid isPermaLink="false">https://every.to/context-window/openai-hugging-face-hack</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Vibe Coded a Security Risk</title>
@@ -192,6 +197,13 @@
       <description>How one general manager runs a full product using AI for planning, monitoring, and research </description>
       <guid isPermaLink="false">https://every.to/source-code/claude-code-for-product-managers</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Escaped AI Autopilot</title>
+      <link>https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</link>
+      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it. </description>
+      <guid isPermaLink="false">https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
