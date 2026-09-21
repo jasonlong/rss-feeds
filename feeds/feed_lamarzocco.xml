@@ -8,13 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:21:00 +0000</lastBuildDate>
-    <item>
-      <title>Pick of the Orchard</title>
-      <link>https://home.lamarzoccousa.com/pick-of-the-orchard/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/pick-of-the-orchard/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 21 Sep 2026 17:15:21 +0000</lastBuildDate>
     <item>
       <title>broadsheet coffee roasters x la marzocco home</title>
       <link>https://home.lamarzoccousa.com/broadsheet-coffee-roasters-x-la-marzocco-home/</link>
@@ -2168,6 +2162,12 @@
       <link>https://home.lamarzoccousa.com/coffees_we_love_holiday/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/coffees_we_love_holiday/</guid>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brew Ratios Around the World</title>
+      <link>https://home.lamarzoccousa.com/brew-ratios-around-world/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/brew-ratios-around-world/</guid>
+      <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Story Behind the GS3</title>
