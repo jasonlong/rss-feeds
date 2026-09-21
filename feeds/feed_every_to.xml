@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:18:21 +0000</lastBuildDate>
+    <item>
+      <title>How to Create Your Own Personal AI Benchmark</title>
+      <link>https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark</link>
+      <description>Choose the best model for the work you do</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Copy Our Homework</title>
       <link>https://every.to/context-window/copy-our-homework</link>
@@ -43,13 +50,6 @@
       <description>Plus: 13 beliefs about writing with AI, and an antivirus for the AI age</description>
       <guid isPermaLink="false">https://every.to/context-window/show-us-your-folders</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>You're Probably Sleeping On Computer Use</title>
-      <link>https://every.to/context-window/you-re-probably-sleeping-on-computer-use</link>
-      <description>Plus: Mike's vibe check of a model that answers in probabilities; the computer chores our agents do for us now; and a workflow for making a solid deck with AI</description>
-      <guid isPermaLink="false">https://every.to/context-window/you-re-probably-sleeping-on-computer-use</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mini-Vibe Check: TypeSafe's Jev Judged Everything I’ve Written in 0.7 Seconds</title>
