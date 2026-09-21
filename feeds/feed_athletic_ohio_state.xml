@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:20:51 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
@@ -18,6 +18,13 @@
       <title>Does your college football roster cost $8M or $50M? Here’s our report on 68 teams</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams after Week 3: Ole Miss, Kentucky and more SEC surprises</title>
+      <link>https://www.nytimes.com/athletic/7615752/2026/09/21/college-football-team-rankings-fbs-ole-miss-kentucky/</link>
+      <description>I very much considered the Rebels for No. 1 after taking down former coach Lane Kiffin, a sign of how perceptions have changed in the SEC.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7615752/2026/09/21/college-football-team-rankings-fbs-ole-miss-kentucky/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: Ole Miss climbs to No. 4 after win over LSU. How far did Tigers fall in poll?</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7588231/2026/09/13/college-football-week-2-winners-losers/</link>
       <description>The Big Ten has just three wins against nonconference Power 4 opponents this season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7588231/2026/09/13/college-football-week-2-winners-losers/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>20 thoughts from college football Week 2: What do you think of Arch Manning now?</title>
-      <link>https://www.nytimes.com/athletic/7588900/2026/09/13/arch-manning-texas-week-2-college-football-thoughts/</link>
-      <description>Ohio State's collapse, Oklahoma State's stunning upset of Oregon, standout performers and everything else you need to know in Week 2.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7588900/2026/09/13/arch-manning-texas-week-2-college-football-thoughts/</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
