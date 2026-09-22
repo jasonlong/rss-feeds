@@ -8,7 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:27:29 +0000</lastBuildDate>
+    <item>
+      <title>The M oral of Fable</title>
+      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
+      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
+    </item>
+    <item>
+      <title>How I P olish Software That Agents Built</title>
+      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
+      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
+    </item>
+    <item>
+      <title>The Folder Is the A gent</title>
+      <link>https://every.to/source-code/the-folder-is-the-agent-rerun</link>
+      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent-rerun</guid>
+    </item>
+    <item>
+      <title>To Read—Or N ot to Read the Code?</title>
+      <link>https://every.to/source-code/to-read-or-not-to-read-the-code</link>
+      <guid isPermaLink="false">https://every.to/source-code/to-read-or-not-to-read-the-code</guid>
+    </item>
+    <item>
+      <title>Show Us Y our Folders</title>
+      <link>https://every.to/context-window/show-us-your-folders</link>
+      <guid isPermaLink="false">https://every.to/context-window/show-us-your-folders</guid>
+    </item>
+    <item>
+      <title>Why You Should B urn More Tokens</title>
+      <link>https://every.to/context-window/why-you-should-burn-more-tokens</link>
+      <guid isPermaLink="false">https://every.to/context-window/why-you-should-burn-more-tokens</guid>
+    </item>
     <item>
       <title>How to Create Your Own Personal AI Benchmark</title>
       <link>https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark</link>
@@ -31,24 +61,10 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why You Should Burn More Tokens</title>
-      <link>https://every.to/context-window/why-you-should-burn-more-tokens</link>
-      <description>When expensive experimentation is worth it and when to rein in your tokenmaxxing</description>
-      <guid isPermaLink="false">https://every.to/context-window/why-you-should-burn-more-tokens</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>13 Beliefs About AI Writing</title>
       <link>https://every.to/also-true-for-humans/ai-writing-beliefs</link>
       <description>How I went from ‘this is slop’ to work I’m willing to publish under my name</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/ai-writing-beliefs</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Show Us Your Folders</title>
-      <link>https://every.to/context-window/show-us-your-folders</link>
-      <description>Plus: 13 beliefs about writing with AI, and an antivirus for the AI age</description>
-      <guid isPermaLink="false">https://every.to/context-window/show-us-your-folders</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -64,20 +80,6 @@
       <description>Five professional writers share how they use AI, where it disappoints them, and what they still insist on doing themselves</description>
       <guid isPermaLink="false">https://every.to/p/what-writers-who-use-ai-want-you-to</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>To Read—Or Not to Read the Code?</title>
-      <link>https://every.to/source-code/to-read-or-not-to-read-the-code</link>
-      <description>AI is ready to run your work in the dark. Don't let it turn the lights out in your head, too.</description>
-      <guid isPermaLink="false">https://every.to/source-code/to-read-or-not-to-read-the-code</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Folder Is the Agent</title>
-      <link>https://every.to/source-code/the-folder-is-the-agent-rerun</link>
-      <description>I'm running 44 AI agents across multiple projects. Each one is just a model pointed at a folder.</description>
-      <guid isPermaLink="false">https://every.to/source-code/the-folder-is-the-agent-rerun</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits</title>
@@ -150,25 +152,11 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How I Polish Software That Agents Built</title>
-      <link>https://every.to/source-code/how-i-polish-software-that-agents-built</link>
-      <description>Polish is the final step of compound engineering: using the app myself and telling the agent what feels off until it doesn't</description>
-      <guid isPermaLink="false">https://every.to/source-code/how-i-polish-software-that-agents-built</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code Is the OpenClaw Alternative You Already Have</title>
       <link>https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</link>
       <description>Anthropic shipped it over a year ago. Most people just didn't notice.</description>
       <guid isPermaLink="false">https://every.to/source-code/claude-code-is-the-openclaw-alternative-you-already-have</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Moral of Fable</title>
-      <link>https://every.to/chain-of-thought/the-moral-of-fable</link>
-      <description>What the most powerful model yet teaches us about the future of knowledge work</description>
-      <guid isPermaLink="false">https://every.to/chain-of-thought/the-moral-of-fable</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Compound Engineering Gets an Upgrade</title>
