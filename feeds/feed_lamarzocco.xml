@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:17:49 +0000</lastBuildDate>
     <item>
       <title>Pick of the Orchard</title>
       <link>https://home.lamarzoccousa.com/pick-of-the-orchard/</link>
@@ -88,12 +88,6 @@
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Available Now: Acaia Lunar to La Marzocco Connected Scale Upgrade</title>
-      <link>https://home.lamarzoccousa.com/available-now-acaia-lunar-to-la-marzocco-connected-scale-upgrade/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/available-now-acaia-lunar-to-la-marzocco-connected-scale-upgrade/</guid>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>driftaway coffee x la marzocco home</title>
       <link>https://home.lamarzoccousa.com/drift-away-coffee-roasters-x-la-marzocco-home-2/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/drift-away-coffee-roasters-x-la-marzocco-home-2/</guid>
@@ -152,6 +146,12 @@
       <link>https://home.lamarzoccousa.com/local-mode-smart-scheduling/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/local-mode-smart-scheduling/</guid>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Tale of the Dirty Solenoid</title>
+      <link>https://home.lamarzoccousa.com/backflush-from-the-living-dead-tales-of-the-dirty-solenoid/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/backflush-from-the-living-dead-tales-of-the-dirty-solenoid/</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>bluebeard coffee roasters x la marzocco home</title>
@@ -313,6 +313,12 @@
       <title>Connect Your Coffee Station</title>
       <link>https://home.lamarzoccousa.com/connect-your-coffee-station/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/connect-your-coffee-station/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grind-by-Weight on the Pico</title>
+      <link>https://home.lamarzoccousa.com/grind-by-weight-on-the-pico/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/grind-by-weight-on-the-pico/</guid>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -505,12 +511,6 @@
       <title>Espresso as a Cocktail Ingredient</title>
       <link>https://home.lamarzoccousa.com/espresso-as-a-cocktail-ingredient/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-as-a-cocktail-ingredient/</guid>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preparing for an Espresso Pop-Up with the Linea Mini</title>
-      <link>https://home.lamarzoccousa.com/preparing-for-an-espresso-pop-up-with-the-linea-mini/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/preparing-for-an-espresso-pop-up-with-the-linea-mini/</guid>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -784,6 +784,12 @@
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Espresso, Sneakers, and Nail Art</title>
+      <link>https://home.lamarzoccousa.com/espresso-sneakers-nail-art-laha-cafe/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/espresso-sneakers-nail-art-laha-cafe/</guid>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Thunder x La Marzocco Home</title>
       <link>https://home.lamarzoccousa.com/november-roaster-22/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/november-roaster-22/</guid>
@@ -922,12 +928,6 @@
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Counter Culture Coffee: October 2021</title>
-      <link>https://home.lamarzoccousa.com/october-counter-culture-coffee/</link>
-      <guid isPermaLink="false">https://home.lamarzoccousa.com/october-counter-culture-coffee/</guid>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Upper Left Roasters: September 2021</title>
       <link>https://home.lamarzoccousa.com/september-upperleft/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/september-upperleft/</guid>
@@ -992,6 +992,12 @@
       <link>https://home.lamarzoccousa.com/march-2021-brandywine/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/march-2021-brandywine/</guid>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Support the Coffee Center at UC Davis</title>
+      <link>https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-coffee-center-at-uc-davis/</guid>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>02 Coffee Encounters</title>
@@ -1130,6 +1136,12 @@
       <link>https://home.lamarzoccousa.com/latte-art-basics-online-class/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/latte-art-basics-online-class/</guid>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Fittest Home Barista on Earth</title>
+      <link>https://home.lamarzoccousa.com/the-fittest-home-barista-on-earth/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/the-fittest-home-barista-on-earth/</guid>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sisters Coffee: April 2020</title>
@@ -1345,6 +1357,12 @@
       <title>Open House Denver</title>
       <link>https://home.lamarzoccousa.com/open-house-denver/</link>
       <guid isPermaLink="false">https://home.lamarzoccousa.com/open-house-denver/</guid>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open House Chicago</title>
+      <link>https://home.lamarzoccousa.com/open-house-chicago/</link>
+      <guid isPermaLink="false">https://home.lamarzoccousa.com/open-house-chicago/</guid>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
     </item>
     <item>
