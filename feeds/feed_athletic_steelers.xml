@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:20:46 +0000</lastBuildDate>
+    <item>
+      <title>NFL Week 3 power rankings: Vikings, Bengals, Browns make huge leaps; Ravens, Bears fall</title>
+      <link>https://www.nytimes.com/athletic/7617606/2026/09/22/nfl-power-rankings-week-3-vikings-bengals-browns/</link>
+      <description>The Week 3 NFL power rankings see the Vikings and Bengals on the rise, while quarterback problems — and injuries — drag other teams down.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7617606/2026/09/22/nfl-power-rankings-week-3-vikings-bengals-browns/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Aaron Rodgers' new low: Even Deshaun Watson looked better on Sunday</title>
       <link>https://www.nytimes.com/athletic/7616853/2026/09/21/aaron-rodgers-mike-mccarthy-steelers/</link>
@@ -180,13 +187,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
       <link>https://www.nytimes.com/athletic/7553540/2026/09/09/nfl-teams-rumors-buzz-ashton-jeanty-kyler-murray/</link>
       <description>Dozens of NFL executives and coaches weighed in to help us provide insight into how the 2026 season will unfold for each team.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7553540/2026/09/09/nfl-teams-rumors-buzz-ashton-jeanty-kyler-murray/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Rodgers made it clear what Steelers rookie WR Germie Bernard needs to do</title>
-      <link>https://www.nytimes.com/athletic/7576400/2026/09/09/germie-bernard-pittsburgh-steelers-rookie/</link>
-      <description>The second-rounder from Alabama understands the unique position he is in.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7576400/2026/09/09/germie-bernard-pittsburgh-steelers-rookie/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
