@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 09:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>What we learned about Jalen Hurts, the Steelers' O-line and more in Week 2: Quick Outs</title>
+      <link>https://www.nytimes.com/athletic/7620068/2026/09/23/nfl-news-week-2-hurts/</link>
+      <description>Hurts spent more time attacking the middle of the field and playing from under center in Week 2.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7620068/2026/09/23/nfl-news-week-2-hurts/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What the sacks say about the current state of the Steelers on both sides of the ball</title>
+      <link>https://www.nytimes.com/athletic/7621576/2026/09/23/pittsburgh-steelers-sacks-film-breakdown/</link>
+      <description>Work to do for the Steelers' offensive line, and how the new defensive coordinator is creating pressure with his scheme.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7621576/2026/09/23/pittsburgh-steelers-sacks-film-breakdown/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL Week 3 power rankings: Vikings, Bengals, Browns make huge leaps; Ravens, Bears fall</title>
       <link>https://www.nytimes.com/athletic/7617606/2026/09/22/nfl-power-rankings-week-3-vikings-bengals-browns/</link>
@@ -174,20 +188,6 @@ In Season 2, hosts Zena Keita and Robert Mays will dive deep into the NFL and NB
 “I’m excited for the show to continue...</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7579264/2026/09/10/inside-dk-metcalfs-mind-and-pablo-torre-on-the-clippers-on-the-athletic-show/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alleged victim forgives Antonio Brown, won't participate in attempted murder case</title>
-      <link>https://www.nytimes.com/athletic/7580506/2026/09/10/antonio-brown-alleged-victim-forgives/</link>
-      <description>Brown, a former NFL star receiver, still faces up to 30 years in prison, with a 20-year mandatory minimum sentence, if convicted.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7580506/2026/09/10/antonio-brown-alleged-victim-forgives/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intel on all 32 NFL teams: Ashton Jeanty breakout, Kyler Murray buzz and more</title>
-      <link>https://www.nytimes.com/athletic/7553540/2026/09/09/nfl-teams-rumors-buzz-ashton-jeanty-kyler-murray/</link>
-      <description>Dozens of NFL executives and coaches weighed in to help us provide insight into how the 2026 season will unfold for each team.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7553540/2026/09/09/nfl-teams-rumors-buzz-ashton-jeanty-kyler-murray/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
