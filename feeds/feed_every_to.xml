@@ -8,19 +8,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 20:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:18:50 +0000</lastBuildDate>
     <item>
-      <title>How to Get the Most Out of Jev</title>
-      <link>https://every.to/context-window/how-to-get-the-most-out-of-jev</link>
-      <description>Why the classification model is blowing up your timeline, how to turn subjective questions into Jev checks, and the dawn of intent-based software</description>
-      <guid isPermaLink="false">https://every.to/context-window/how-to-get-the-most-out-of-jev</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Why Evals Are So Hot Right Now</title>
+      <link>https://every.to/context-window/why-evals-are-so-hot-right-now</link>
+      <description>Plus: Where we stand on Grok 4.7, a workflow for going viral on social media, and why every company needs a Slack agent </description>
+      <guid isPermaLink="false">https://every.to/context-window/why-evals-are-so-hot-right-now</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Good Writing With AI Starts Before the Prompt</title>
       <link>https://every.to/also-true-for-humans/good-writing-with-ai-starts-before-the-prompt</link>
       <description>A look inside Mike Taylor’s writing workflow—and the work he still does himself</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/good-writing-with-ai-starts-before-the-prompt</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Get the Most Out of Jev</title>
+      <link>https://every.to/context-window/how-to-get-the-most-out-of-jev</link>
+      <description>Why the classification model is blowing up your timeline, how to turn subjective questions into Jev checks, and the dawn of intent-based software</description>
+      <guid isPermaLink="false">https://every.to/context-window/how-to-get-the-most-out-of-jev</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
