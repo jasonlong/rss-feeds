@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 22:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:16:22 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
@@ -18,13 +18,6 @@
       <title>Does your college football roster cost $8M or $50M? Here’s our report on 68 teams</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</guid>
-    </item>
-    <item>
-      <title>How to watch Illinois vs. No. 7 Ohio State: TV channel and streaming options for September 26</title>
-      <link>https://www.nytimes.com/athletic/7626244/2026/09/24/illinois-vs-ohio-state-stream-how-to-watch-sept-26/</link>
-      <description>Find out how to watch the Illinois Fighting Illini play the Ohio State Buckeyes, with time, TV channel and streaming information.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7626244/2026/09/24/illinois-vs-ohio-state-stream-how-to-watch-sept-26/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Not everyone was happy with Ohio State's blowout. Are its short-yardage problems real?</title>
@@ -178,6 +171,13 @@
       <link>https://www.nytimes.com/athletic/7589655/2026/09/13/ap-top-25-college-football-week-2-2/</link>
       <description>Texas leaped to the top of the AP poll, followed by Georgia, Notre Dame, Indiana and Miami. Here's what to know about the latest rankings.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7589655/2026/09/13/ap-top-25-college-football-week-2-2/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two kinds of Big Ten meltdown, plus the rest of Week 2 college football</title>
+      <link>https://www.nytimes.com/athletic/7589603/2026/09/13/ohio-state-oregon-results-until-saturday/</link>
+      <description>Until Saturday is The Athletic's free college football newsletter.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589603/2026/09/13/ohio-state-oregon-results-until-saturday/</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
