@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:22:42 +0000</lastBuildDate>
+    <item>
+      <title>How to watch Bengals vs. Steelers: TV channel and streaming options for September 27</title>
+      <link>https://www.nytimes.com/athletic/7630190/2026/09/25/bengals-vs-steelers-stream-how-to-watch-sept-27/</link>
+      <description>Find out how to watch the Cincinnati Bengals play the Pittsburgh Steelers, with time, TV channel and streaming information.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7630190/2026/09/25/bengals-vs-steelers-stream-how-to-watch-sept-27/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ravens' chances in Brazil; can Deshaun Watson and the Browns make it two straight wins?</title>
       <link>https://www.nytimes.com/athletic/7628240/2026/09/25/afc-north-deshaun-watson-browns/</link>
@@ -178,13 +185,6 @@ Paul Dehner Jr. (Bengals): The Bengals currently rank in the top 10 of the NFL i
       <description>Porter entered Sunday with a questionable game status after the Steelers said his recovery from a back injury was the issue.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7590138/2026/09/13/joey-porter-jr-injury-status-steelers-falcons/</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Bears hear your ‘regression’ talk, and they have two words in response</title>
-      <link>https://www.nytimes.com/athletic/7585799/2026/09/12/chicago-bears-comebacks-lamar-jackson-contract/</link>
-      <description>Plus, the latest on Lamar Jackson's and Joey Porter Jr.'s contract situations, Anthony Richardson Sr.'s standing with the Colts, and more.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7585799/2026/09/12/chicago-bears-comebacks-lamar-jackson-contract/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
