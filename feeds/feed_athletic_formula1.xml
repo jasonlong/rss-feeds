@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:16:53 +0000</lastBuildDate>
+    <item>
+      <title>Lando Norris calls for race bans after Colapinto crash: "Some drivers shouldn't be in Formula 1"</title>
+      <link>https://www.nytimes.com/athletic/7632410/2026/09/26/lando-norris-azerbaijan-gp-colapinto-crash/</link>
+      <description>A late lock-up from Franco Colapinto ended the days of Norris and Pierre Gasly in Azerbaijan</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7632410/2026/09/26/lando-norris-azerbaijan-gp-colapinto-crash/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Azerbaijan Grand Prix: Russell holds off Verstappen in super-close finish, Norris crashes out</title>
       <link>https://www.nytimes.com/athletic/7632250/2026/09/26/azerbaijan-grand-prix-briefing-george-russell-wins/</link>
-      <description>Russell holds off Max Verstappen to win the Azerbaijan Grand Prix by less than two-tenths of a second.</description>
+      <description>George Russell held off Max Verstappen to win the Azerbaijan Grand Prix by less than two-tenths of a second.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7632250/2026/09/26/azerbaijan-grand-prix-briefing-george-russell-wins/</guid>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -168,13 +175,6 @@
       <link>https://www.nytimes.com/athletic/7589964/2026/09/13/spanish-gp-f1-mailbag/</link>
       <description>What’s on your mind after the 2026 Spanish Grand Prix? Send us your questions and we’ll answer</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7589964/2026/09/13/spanish-gp-f1-mailbag/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spanish Grand Prix briefing: Antonelli wins, Norris' pitstop woes, Hamilton's DNF</title>
-      <link>https://www.nytimes.com/athletic/7589661/2026/09/13/f1-spanish-grand-prix-results/</link>
-      <description>Kimi Antonelli extends his lead in the drivers' championship, while Lewis Hamilton retires for the first time this season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589661/2026/09/13/f1-spanish-grand-prix-results/</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
