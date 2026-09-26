@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 03:21:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:21:00 +0000</lastBuildDate>
+    <item>
+      <title>How the war in Iran is creating chaos and uncertainty in sport</title>
+      <link>https://www.nytimes.com/athletic/7626223/2026/09/26/iran-us-israel-war-sport/</link>
+      <description>Analysing the potential impact on a range of events in the coming months, including F1, golf, tennis and cycling</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7626223/2026/09/26/iran-us-israel-war-sport/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Prime Tire: Russell’s big Baku chance</title>
       <link>https://www.nytimes.com/athletic/7630061/2026/09/25/f1-2026-azerbaijan-gp-george-russell/</link>
@@ -169,13 +176,6 @@
       <description>Lando Norris reversed McLaren's early Madrid F1 struggles to surge to pole position for the 2026 Spanish GP</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7587361/2026/09/12/madrid-f1-qualifying-results-lando-norris/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bad crashes? No overtaking? Fun to drive? Observations from Madring</title>
-      <link>https://www.nytimes.com/athletic/7585387/2026/09/11/madring-observations-spanish-grand-prix-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7585387/2026/09/11/madring-observations-spanish-grand-prix-prime-tire/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
