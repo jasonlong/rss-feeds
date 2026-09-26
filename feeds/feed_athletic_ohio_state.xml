@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:17:16 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
@@ -18,6 +18,13 @@
       <title>Does your college football roster cost $8M or $50M? Here’s our report on 68 teams</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets/</guid>
+    </item>
+    <item>
+      <title>Jeremiah Smith's Heisman moment? Ohio State WR ties school record with 4 TDs in rout of Illinois</title>
+      <link>https://www.nytimes.com/athletic/7632789/2026/09/26/ohio-state-illinois-score-result-takeaways/</link>
+      <description>Smith scored TDs in all kinds of ways against an Illinois defense that had no answers.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7632789/2026/09/26/ohio-state-illinois-score-result-takeaways/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Ohio State's defense is searching for creative ways to blitz after Texas loss</title>
@@ -172,13 +179,6 @@
       <description>Week 2 reminded us to expect the unexpected in college football. What does the sport have planned for Week 3? Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7592917/2026/09/14/submit-a-question-for-stewart-mandels-college-football-mailbag-359/</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Texas leaps to No. 1 as Ohio State, Oregon fall and Michigan moves into poll</title>
-      <link>https://www.nytimes.com/athletic/7589655/2026/09/13/ap-top-25-college-football-week-2-2/</link>
-      <description>Texas leaped to the top of the AP poll, followed by Georgia, Notre Dame, Indiana and Miami. Here's what to know about the latest rankings.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7589655/2026/09/13/ap-top-25-college-football-week-2-2/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
