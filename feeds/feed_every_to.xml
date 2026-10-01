@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 14:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Getting Started With Open Models</title>
+      <link>https://every.to/guides/getting-started-with-open-models</link>
+      <description>A practical guide to commodity intelligence, owning your AI stack, and deciding when to still reach for the frontier</description>
+      <guid isPermaLink="false">https://every.to/guides/getting-started-with-open-models</guid>
+    </item>
     <item>
       <title>Vibe Check: Dots—Always-on Agents in ChatGPT</title>
       <link>https://every.to/vibe-check/vibe-check-dots-always-on-agents-in-chatgpt</link>
@@ -43,13 +49,6 @@
       <description>Can Microsoft make workplace agents useful at scale?</description>
       <guid isPermaLink="false">https://every.to/p/copilot-gets-a-seat-in-the-org-chart</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Evals Are So Hot Right Now</title>
-      <link>https://every.to/context-window/why-evals-are-so-hot-right-now</link>
-      <description>Plus: Where we stand on Grok 4.7, a workflow for going viral on social media, and why every company needs a Slack agent </description>
-      <guid isPermaLink="false">https://every.to/context-window/why-evals-are-so-hot-right-now</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Good Writing With AI Starts Before the Prompt</title>
@@ -113,13 +112,6 @@
       <description>Plus: How AI helped build the Thesis website, an alien companion bringing in $4 million a year, and why the future of harness engineering is doing less</description>
       <guid isPermaLink="false">https://every.to/context-window/an-engineering-team-for-the-cost-of-codex</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agents Find a Way</title>
-      <link>https://every.to/context-window/openai-hugging-face-hack</link>
-      <description>Plus: AI dictation etiquette, Microsoft’s vision for the agentic web, and the models we’re reaching for this week</description>
-      <guid isPermaLink="false">https://every.to/context-window/openai-hugging-face-hack</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>I Vibe Coded a Security Risk</title>
