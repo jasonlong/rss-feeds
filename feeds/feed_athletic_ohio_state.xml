@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:21:49 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>How to watch No. 5 Ohio State vs. No. 14 Iowa: TV channel and streaming options for October 3</title>
+      <link>https://www.nytimes.com/athletic/7650232/2026/10/01/ohio-state-vs-iowa-stream-how-to-watch-oct-3/</link>
+      <description>Find out how to watch the Ohio State Buckeyes play the Iowa Hawkeyes, with time, TV channel and streaming information.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7650232/2026/10/01/ohio-state-vs-iowa-stream-how-to-watch-oct-3/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ohio State, Alabama post big road wins: College football Week 5 oddly specific predictions</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7601045/2026/09/16/college-football-nil-most-expensive-rosters-games/</link>
       <description>Last week's game between Texas and Ohio State featured two teams spending between $94 million and $109 million combined on their rosters.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7601045/2026/09/16/college-football-nil-most-expensive-rosters-games/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who's in college football's $50 million roster club? Depends on whom you ask</title>
-      <link>https://www.nytimes.com/athletic/7596861/2026/09/16/college-football-most-expensive-rosters-50-million/</link>
-      <description>Compiling the true value of some 100 college football players’ deals can get quite murky, and so much ends up open to interpretation.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7596861/2026/09/16/college-football-most-expensive-rosters-50-million/</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
