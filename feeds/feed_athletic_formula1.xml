@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:23:49 +0000</lastBuildDate>
+    <item>
+      <title>AI race cars are gaining on F1-caliber drivers. Will they ever replace them?</title>
+      <link>https://www.nytimes.com/athletic/7646221/2026/10/01/ai-racing-f1-changing-lanes/</link>
+      <description>A racing series based in Abu Dhabi is seeing AI-driven cars setting closer lap times to human drivers</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7646221/2026/10/01/ai-racing-f1-changing-lanes/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why is F1's Bahrain Grand Prix actually in Malaysia? Sepang's unusual return explained</title>
       <link>https://www.nytimes.com/athletic/7647896/2026/10/01/bahrain-malaysia-grand-prix-location-explained/</link>
@@ -176,13 +183,6 @@
       <description>Red Bull have now officially announced his contract extension ahead of this weekend’s Azerbaijan GP.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7622546/2026/09/23/isack-hadjar-red-bull-contract-agree/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wait, shorter F1 races? We can explain. Plus: Hadjar is back</title>
-      <link>https://www.nytimes.com/athletic/7620962/2026/09/22/f1-race-length-shorter-2027-prime-tire/</link>
-      <description>Welcome to Prime Tire, The Athletic's Formula 1 newsletter.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7620962/2026/09/22/f1-race-length-shorter-2027-prime-tire/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
