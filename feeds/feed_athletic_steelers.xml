@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:31:15 +0000</lastBuildDate>
     <item>
       <title>With Joey Porter Jr. trade, Steelers couldn't set pride and precedent aside</title>
       <link>https://www.nytimes.com/athletic/7648254/2026/10/01/joey-porter-jr-pittsburgh-steelers-contract-standoff/</link>
       <description>The star cornerback and the team dug in, leaving them with only one way out: a trade.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7648254/2026/10/01/joey-porter-jr-pittsburgh-steelers-contract-standoff/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mike Tomlin spent 12 years building a Minecraft city. Over 19 minutes, he showed it off to the world</title>
+      <link>https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/</link>
+      <description>The former Steelers coach went deep sharing his passion project on YouTube, and teased more to come.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -177,13 +184,6 @@ Paul Dehner Jr. (Bengals): The Bengals currently rank in the top 10 of the NFL i
       <link>https://www.nytimes.com/athletic/7615621/2026/09/20/steelers-patriots-offense-mike-mccarthy-aaron-rodgers/</link>
       <description>From miscommunications to dropped passes, the Pittsburgh offense struggled on nearly every front in Sunday's 20-3 loss in New England.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7615621/2026/09/20/steelers-patriots-offense-mike-mccarthy-aaron-rodgers/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patriots smother the Steelers, but is Drake Maye’s slump fully behind him?</title>
-      <link>https://www.nytimes.com/athletic/7613821/2026/09/20/steelers-patriots-nfl-2026-score-result-takeaways/</link>
-      <description>The New England defense led the way Sunday in a 20-3 win over Pittsburgh.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7613821/2026/09/20/steelers-patriots-nfl-2026-score-result-takeaways/</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
