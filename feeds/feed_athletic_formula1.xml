@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:29:18 +0000</lastBuildDate>
+    <item>
+      <title>Why is F1's Bahrain Grand Prix actually in Malaysia? Sepang's unusual return explained</title>
+      <link>https://www.nytimes.com/athletic/7647896/2026/10/01/bahrain-malaysia-grand-prix-location-explained/</link>
+      <description>The trophy, the rosewater and the marshals are all coming from Bahrain. Only the track is Malaysian</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7647896/2026/10/01/bahrain-malaysia-grand-prix-location-explained/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>'Taking Formula E out of the echo chamber' - a series built around sustainability changes tack</title>
       <link>https://www.nytimes.com/athletic/7645749/2026/09/30/formula-e-gen4-car-tracks/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7620962/2026/09/22/f1-race-length-shorter-2027-prime-tire/</link>
       <description>Welcome to Prime Tire, The Athletic's Formula 1 newsletter.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7620962/2026/09/22/f1-race-length-shorter-2027-prime-tire/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Red Bull 'delighted' Isack Hadjar will return for Azerbaijan Grand Prix</title>
-      <link>https://www.nytimes.com/athletic/7619536/2026/09/22/isack-hadjar-red-bull-azerbaijan-grand-prix/</link>
-      <description>Hadjar missed three races with a wrist injury but returns for this weekend's grand prix.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7619536/2026/09/22/isack-hadjar-red-bull-azerbaijan-grand-prix/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
