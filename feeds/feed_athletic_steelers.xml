@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 04:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:20:27 +0000</lastBuildDate>
+    <item>
+      <title>Mike McCarthy on profane exchange with Aaron Rodgers: 'Wish I wouldn't use those words'</title>
+      <link>https://www.nytimes.com/athletic/7651604/2026/10/02/pittsburgh-steelers-mike-mccarthy-aaron-rodgers-exchange/</link>
+      <description>The Steelers coach and quarterback had a heated back-and-forth during the first quarter Thursday night.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7651604/2026/10/02/pittsburgh-steelers-mike-mccarthy-aaron-rodgers-exchange/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Deshaun Watson cements himself as QB1 as Browns top Steelers, take AFC North lead</title>
       <link>https://www.nytimes.com/athletic/7651055/2026/10/01/steelers-browns-score-results-deshaun-watson-aaron-rodgers/</link>
@@ -178,13 +185,6 @@ Paul Dehner Jr. (Bengals): The Bengals currently rank in the top 10 of the NFL i
       <description>Work to do for the Steelers' offensive line, and how the new defensive coordinator is creating pressure with his scheme.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7621576/2026/09/23/pittsburgh-steelers-sacks-film-breakdown/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 3 power rankings: Vikings, Bengals, Browns make huge leaps; Ravens, Bears fall</title>
-      <link>https://www.nytimes.com/athletic/7617606/2026/09/22/nfl-power-rankings-week-3-vikings-bengals-browns/</link>
-      <description>The Week 3 NFL power rankings see the Vikings and Bengals on the rise, while quarterback problems — and injuries — drag other teams down.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7617606/2026/09/22/nfl-power-rankings-week-3-vikings-bengals-browns/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
