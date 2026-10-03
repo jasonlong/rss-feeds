@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 22:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 23:56:49 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>As Jeremiah Smith breaks more Ohio State records, is Iowa's Kinnick magic fading?</title>
+      <link>https://www.nytimes.com/athletic/7656445/2026/10/03/ohio-state-iowa-cfb-score-recap/</link>
+      <description>No. 5 Ohio State avoided an Iowa upset trap in a 31-14 victory headlined by Jeremiah Smith's record-breaking performance.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7656445/2026/10/03/ohio-state-iowa-cfb-score-recap/</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Is Jeremiah Smith unstoppable? Ohio State's star WR is college football's toughest cover</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7604038/2026/09/18/ohio-state-texas-ryan-day-defense/</link>
       <description>Ohio State has lost three of its last four games, all to ranked opponents, following a heartbreaking 24-23 loss to Texas. What's next?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7604038/2026/09/18/ohio-state-texas-ryan-day-defense/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football roster valuation is a nearly impossible task. Here's one attempt to solve it</title>
-      <link>https://www.nytimes.com/athletic/7596472/2026/09/18/college-football-roster-valuation-model-rankings/</link>
-      <description>Accurately projecting valuations gets tricky quickly when you factor in the lack of a true cap and the dearth of public player pay data.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7596472/2026/09/18/college-football-roster-valuation-model-rankings/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
