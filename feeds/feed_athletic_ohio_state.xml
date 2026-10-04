@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 18:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:02:46 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings</title>
+      <link>https://www.nytimes.com/athletic/7658478/2026/10/04/ap-top-25-college-football-week-5-predictions/</link>
+      <description>The top five of the AP poll stayed the same this week, but Alabama moved ahead of Indiana to No. 6. Here are the full rankings.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7658478/2026/10/04/ap-top-25-college-football-week-5-predictions/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How good (or average) is the Big Ten after Ohio State? CFP candidates could be sparse</title>
@@ -174,13 +181,6 @@
       <description>Ole Miss took LSU's spot as a team favored to make the 12-team CFP in the betting odds. What other movement took place after Week 3?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7618268/2026/09/22/college-football-playoff-odds-ole-miss-lsu/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-ranking 138 college football teams after Week 3: Ole Miss, Kentucky and more SEC surprises</title>
-      <link>https://www.nytimes.com/athletic/7615752/2026/09/21/college-football-team-rankings-fbs-ole-miss-kentucky/</link>
-      <description>I very much considered the Rebels for No. 1 after taking down former coach Lane Kiffin, a sign of how perceptions have changed in the SEC.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7615752/2026/09/21/college-football-team-rankings-fbs-ole-miss-kentucky/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
