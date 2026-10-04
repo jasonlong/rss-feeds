@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:43:08 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football winners and losers: September darlings, Big Ten coaches and Northwestern fans</title>
+      <link>https://www.nytimes.com/athletic/7656579/2026/10/04/college-football-winners-losers-week-5/</link>
+      <description>It was a tough weekend for young quarterbacks. It was a great weekend to be a Boilermaker. And Missouri voters got some vindication.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7656579/2026/10/04/college-football-winners-losers-week-5/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>As Jeremiah Smith breaks more Ohio State records, is Iowa's Kinnick magic fading?</title>
@@ -174,13 +181,6 @@
       <description>Ohio State bounced back from the Texas loss with a 59-3 blowout of Kent State. Here's what we learned about the Buckeyes.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7610564/2026/09/19/ohio-state-kent-state-score-jeremiah-smith/</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State football mailbag: Why does Ryan Day coach 'tight'? Was the defense exposed?</title>
-      <link>https://www.nytimes.com/athletic/7604038/2026/09/18/ohio-state-texas-ryan-day-defense/</link>
-      <description>Ohio State has lost three of its last four games, all to ranked opponents, following a heartbreaking 24-23 loss to Texas. What's next?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7604038/2026/09/18/ohio-state-texas-ryan-day-defense/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
