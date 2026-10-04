@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 05:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:11:09 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff bracket projections: Who's rising, who's falling after Week 5</title>
+      <link>https://www.nytimes.com/athletic/7657458/2026/10/04/college-football-playoff-projections-week-5/</link>
+      <description>Georgia holds on to the top spot, and Florida falls out of the bracket after a humbling setback at Missouri.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7657458/2026/10/04/college-football-playoff-projections-week-5/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football winners and losers: September darlings, Big Ten coaches and Northwestern fans</title>
@@ -174,13 +181,6 @@
       <description>Three full weeks into the season, the SEC has earned the benefit of doubt with multiple big nonconference wins.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7611932/2026/09/20/college-football-playoff-bracket-prediction-projections/</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Jeremiah Smith breaks Ohio State record, was Buckeyes' rout of Kent State satisfying?</title>
-      <link>https://www.nytimes.com/athletic/7610564/2026/09/19/ohio-state-kent-state-score-jeremiah-smith/</link>
-      <description>Ohio State bounced back from the Texas loss with a 59-3 blowout of Kent State. Here's what we learned about the Buckeyes.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7610564/2026/09/19/ohio-state-kent-state-score-jeremiah-smith/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
