@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:01:27 +0000</lastBuildDate>
+    <item>
+      <title>Bahrain GP in Malaysia: Submit your questions for our F1 mailbag</title>
+      <link>https://www.nytimes.com/athletic/7658105/2026/10/04/bahrain-gp-malaysia-f1-mailbag/</link>
+      <description>What’s on your mind after the 2026 Bahrain Grand Prix in Malaysia? Send us your questions and we’ll answer</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7658105/2026/10/04/bahrain-gp-malaysia-f1-mailbag/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verstappen wins, Hamilton shines, rain causes software glitches: Bahrain Grand Prix briefing</title>
+      <link>https://www.nytimes.com/athletic/7657887/2026/10/04/bahrain-grand-prix-verstappen-wins/</link>
+      <description>The start of the race was delayed because of heavy rain and software issues that caused confusion over the grid order</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7657887/2026/10/04/bahrain-grand-prix-verstappen-wins/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bahrain flew furniture and a falconer to feel at home in Malaysia, where F1 fans face long queues</title>
       <link>https://www.nytimes.com/athletic/7655289/2026/10/03/f1-bahrain-gp-malaysia/</link>
@@ -24,7 +38,7 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>F1 steps back in time. Plus: Verstappen leads early in Not Bahrain</title>
+      <title>Prime Tire: F1 steps back in time</title>
       <link>https://www.nytimes.com/athletic/7653081/2026/10/02/bahrain-gp-malaysia-sepang-track-prime-tire/</link>
       <description>Welcome to Prime Tire, The Athletic's F1 newsletter.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7653081/2026/10/02/bahrain-gp-malaysia-sepang-track-prime-tire/</guid>
@@ -141,48 +155,6 @@
       <description>What's on your mind after the Azerbaijan GP?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7632687/2026/09/26/azerbaijan-gp-f1-mailbag/</guid>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explained: Why FIA didn’t deploy VSC for Valtteri Bottas’s late Baku crash</title>
-      <link>https://www.nytimes.com/athletic/7632476/2026/09/26/valtteri-bottas-f1-crash-virtual-safety-car-fia/</link>
-      <description>Bottas hit the barrier at Turn 15 after locking his front-left tire and failing to make the corner, leaving his car stricken on the track.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7632476/2026/09/26/valtteri-bottas-f1-crash-virtual-safety-car-fia/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lando Norris calls for race bans after Colapinto crash: 'Some drivers shouldn't be in Formula 1'</title>
-      <link>https://www.nytimes.com/athletic/7632410/2026/09/26/lando-norris-azerbaijan-gp-colapinto-crash/</link>
-      <description>A late lock-up from Franco Colapinto ended the days of Norris and Pierre Gasly in Azerbaijan.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7632410/2026/09/26/lando-norris-azerbaijan-gp-colapinto-crash/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azerbaijan Grand Prix: Russell holds off Verstappen in super-close finish, Norris crashes out</title>
-      <link>https://www.nytimes.com/athletic/7632250/2026/09/26/azerbaijan-grand-prix-briefing-george-russell-wins/</link>
-      <description>George Russell held off Max Verstappen to win the Azerbaijan Grand Prix by less than two-tenths of a second.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7632250/2026/09/26/azerbaijan-grand-prix-briefing-george-russell-wins/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the war in Iran is creating chaos and uncertainty in sport</title>
-      <link>https://www.nytimes.com/athletic/7626223/2026/09/26/iran-us-israel-war-sport/</link>
-      <description>Analysing the potential impact on a range of events in the coming months, including F1, golf, tennis and cycling</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7626223/2026/09/26/iran-us-israel-war-sport/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prime Tire: Russell’s big Baku chance</title>
-      <link>https://www.nytimes.com/athletic/7630061/2026/09/25/f1-2026-azerbaijan-gp-george-russell/</link>
-      <description>George Russell led the way in F1 qualifying in Baku, while Kimi Antonelli made a rare 2026 mistake. But can Russell now seize his moment?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7630061/2026/09/25/f1-2026-azerbaijan-gp-george-russell/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>George Russell takes commanding Azerbaijan F1 pole, as Kimi Antonelli crashes out</title>
-      <link>https://www.nytimes.com/athletic/7629427/2026/09/25/f1-azerbaijan-gp-qualifying-results/</link>
-      <description>George Russell flew to pole position at Formula 1's 2026 Azerbaijan Grand Prix, as his Mercedes teammate Kimi Antonelli crashed out</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7629427/2026/09/25/f1-azerbaijan-gp-qualifying-results/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
