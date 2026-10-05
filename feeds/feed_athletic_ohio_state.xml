@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:23:41 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams after Week 5: Who's for real in the crowded SEC?</title>
+      <link>https://www.nytimes.com/athletic/7661462/2026/10/05/college-football-team-rankings-missouri-florida/</link>
+      <description>A week after losing at Mississippi State, the Tigers get a big bump for beating Florida. The SEC results make it much harder to place teams.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7661462/2026/10/05/college-football-team-rankings-missouri-florida/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Heisman Trophy odds: Jeremiah Smith doubles his implied chances after striking the pose</title>
@@ -174,13 +181,6 @@
       <description>A reloading Ohio State defense is searching for new ways to generate pressure as the Buckeyes enter Big Ten play.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7626651/2026/09/25/ohio-state-defense-creative-ways-to-blitz/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Not everyone was happy with Ohio State's blowout. Are its short-yardage problems real?</title>
-      <link>https://www.nytimes.com/athletic/7620859/2026/09/23/ohio-state-running-game-problems/</link>
-      <description>Ohio State won one of the most lopsided games of Week 3. But not everyone was happy — including coach Ryan Day.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7620859/2026/09/23/ohio-state-running-game-problems/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
