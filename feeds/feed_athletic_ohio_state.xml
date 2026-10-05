@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:22:49 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>How much credit should Ohio State get for stopping Iowa's offense? 3 things we learned</title>
+      <link>https://www.nytimes.com/athletic/7662746/2026/10/05/ohio-state-iowa-defense-julian-sayin/</link>
+      <description>It can be hard to assess a defense's growth against Iowa's offense. Here are final thoughts on the Ohio State defense, plus Julian Sayin.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7662746/2026/10/05/ohio-state-iowa-defense-julian-sayin/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Re-ranking 138 college football teams after Week 5: Who's for real in the crowded SEC?</title>
@@ -174,13 +181,6 @@
       <description>Smith scored TDs in all kinds of ways against an Illinois defense that had no answers.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7632789/2026/09/26/ohio-state-illinois-score-result-takeaways/</guid>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Ohio State's defense is searching for creative ways to blitz after Texas loss</title>
-      <link>https://www.nytimes.com/athletic/7626651/2026/09/25/ohio-state-defense-creative-ways-to-blitz/</link>
-      <description>A reloading Ohio State defense is searching for new ways to generate pressure as the Buckeyes enter Big Ten play.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7626651/2026/09/25/ohio-state-defense-creative-ways-to-blitz/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
