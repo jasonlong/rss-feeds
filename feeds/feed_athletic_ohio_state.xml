@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:33:05 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Heisman Trophy odds: Jeremiah Smith doubles his implied chances after striking the pose</title>
+      <link>https://www.nytimes.com/athletic/7661962/2026/10/05/heisman-trophy-odds-jeremiah-smith-pose/</link>
+      <description>After striking the Heisman pose in a lopsided win at Iowa, Jeremiah Smith is the clear favorite to win the award.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7661962/2026/10/05/heisman-trophy-odds-jeremiah-smith-pose/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings</title>
@@ -174,13 +181,6 @@
       <description>Ohio State won one of the most lopsided games of Week 3. But not everyone was happy — including coach Ryan Day.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7620859/2026/09/23/ohio-state-running-game-problems/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff odds: Ole Miss takes LSU's place, but Tigers still in the mix</title>
-      <link>https://www.nytimes.com/athletic/7618268/2026/09/22/college-football-playoff-odds-ole-miss-lsu/</link>
-      <description>Ole Miss took LSU's spot as a team favored to make the 12-team CFP in the betting odds. What other movement took place after Week 3?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7618268/2026/09/22/college-football-playoff-odds-ole-miss-lsu/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
