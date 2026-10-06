@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:20:08 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff odds: Why Notre Dame and Miami are already viewed as near-locks</title>
+      <link>https://www.nytimes.com/athletic/7663568/2026/10/06/college-football-playoff-odds-notre-dame-miami-georgia-alabama/</link>
+      <description>Notre Dame and Miami are overwhelming favorites to make the CFP even though the season isn't half over. A look into the numbers shows why.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7663568/2026/10/06/college-football-playoff-odds-notre-dame-miami-georgia-alabama/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who's winning the Heisman after Week 5? Ranking the top 10 players</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7634366/2026/09/27/college-football-playoff-bracket-updated-prediction-projections/</link>
       <description>Florida jumped into the projected bracket with an impressive win over Ole Miss, while Indiana dropped two spots after beating Northwestern.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7634366/2026/09/27/college-football-playoff-bracket-updated-prediction-projections/</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CFB Week 4 winners and losers: Cowbells, collapses and uncalled-for celebrations</title>
-      <link>https://www.nytimes.com/athletic/7633838/2026/09/27/college-football-winners-losers-week-4/</link>
-      <description>It was a weekend of individual brilliance, coaching carousel pivot points and a few overzealous gestures after the whistle.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7633838/2026/09/27/college-football-winners-losers-week-4/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
