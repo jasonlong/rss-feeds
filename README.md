@@ -12,6 +12,7 @@
 | [Every](https://every.to/) | [feed_every_to.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_every_to.xml) |
 | [La Marzocco Blog](https://home.lamarzoccousa.com/blog/) | [feed_lamarzocco.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_lamarzocco.xml) |
 | [Rauno – Craft](https://rauno.me/craft) | [feed_rauno_craft.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_rauno_craft.xml) |
+| [Rauno – Field Notes](https://rauno.me/notes) | [feed_rauno_notes.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_rauno_notes.xml) |
 | [Shu Ding – Thoughts](https://shud.in/thoughts) | [feed_shuding.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_shuding.xml) |
 | [Tom Sachs Store](https://store.tomsachs.com/) | [feed_tomsachs.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_tomsachs.xml) |
 

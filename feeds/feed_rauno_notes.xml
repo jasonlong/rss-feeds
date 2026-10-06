@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Rauno – Field Notes</title>
+    <link>https://rauno.me/notes</link>
+    <description>Field notes by Rauno Freiberg</description>
+    <atom:link href="https://jasonlong.github.io/rss-feeds/feeds/feed_rauno_notes.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Oct 2026 14:30:33 +0000</lastBuildDate>
+    <item>
+      <title>Field note #5</title>
+      <link>https://rauno.me/notes/5</link>
+      <description>Our dashboard at Vercel has a sidebar. All kinds of important notices or promotions live on the sidebar surface. There can often be many of them, so there needs to be a way to navigate through several cards.</description>
+      <guid isPermaLink="true">https://rauno.me/notes/5</guid>
+    </item>
+    <item>
+      <title>Field note #4</title>
+      <link>https://rauno.me/notes/4</link>
+      <description>I started another project at Vercel. Jumping into a new surface area is always hard for me. There's so much to absorb and I feel like I don't know anything.</description>
+      <guid isPermaLink="true">https://rauno.me/notes/4</guid>
+    </item>
+    <item>
+      <title>Field note #3</title>
+      <link>https://rauno.me/notes/3</link>
+      <description>Hi! This rainy Saturday I made some posters for History of Software Design .</description>
+      <guid isPermaLink="true">https://rauno.me/notes/3</guid>
+    </item>
+    <item>
+      <title>Field note #2</title>
+      <link>https://rauno.me/notes/2</link>
+      <description>I started by tweaking the padding and co-located information to reduce the vertical space occupied by each card. Some data was also omitted, for example we realised that we don't need to show the project branch on the card which is generally always "main".</description>
+      <guid isPermaLink="true">https://rauno.me/notes/2</guid>
+    </item>
+    <item>
+      <title>Field note #1</title>
+      <link>https://rauno.me/notes/1</link>
+      <description>Can we provide a link to pull me up to the start of the answer? I asked a question with a long-ish response and I’m left at the end but now need to scroll up indeterminately.</description>
+      <guid isPermaLink="true">https://rauno.me/notes/1</guid>
+    </item>
+  </channel>
+</rss>

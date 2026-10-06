@@ -65,6 +65,13 @@ feeds_rauno_craft: ## Generate RSS feed for Rauno Craft
 	$(Q)python feed_generators/rauno_craft.py
 	$(call print_success,Rauno Craft feed generated)
 
+.PHONY: feeds_rauno_notes
+feeds_rauno_notes: ## Generate RSS feed for Rauno Field Notes
+	$(call check_venv)
+	$(call print_info,Generating Rauno Field Notes feed)
+	$(Q)python feed_generators/rauno_notes.py
+	$(call print_success,Rauno Field Notes feed generated)
+
 .PHONY: feeds_shuding
 feeds_shuding: ## Generate RSS feed for Shu Ding's blog
 	$(call check_venv)
