@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:17:52 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who's winning the Heisman after Week 5? Ranking the top 10 players</title>
+      <link>https://www.nytimes.com/athletic/7664532/2026/10/06/heisman-watch-2026-jeremiah-smith-darian-mensah/</link>
+      <description>Ohio State's Jeremiah Smith is threatening to run away with this Heisman race before midseason after another dominant showing.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7664532/2026/10/06/heisman-watch-2026-jeremiah-smith-darian-mensah/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How much credit should Ohio State get for stopping Iowa's offense? 3 things we learned</title>
@@ -174,13 +181,6 @@
       <description>It was a weekend of individual brilliance, coaching carousel pivot points and a few overzealous gestures after the whistle.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7633838/2026/09/27/college-football-winners-losers-week-4/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeremiah Smith's Heisman moment? Ohio State WR ties school record with 4 TDs in rout of Illinois</title>
-      <link>https://www.nytimes.com/athletic/7632789/2026/09/26/ohio-state-illinois-score-result-takeaways/</link>
-      <description>Smith scored TDs in all kinds of ways against an Illinois defense that had no answers.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7632789/2026/09/26/ohio-state-illinois-score-result-takeaways/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
