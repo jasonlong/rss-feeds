@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:19:51 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>From Ohio State to Alabama (?), the college football teams that can actually win it all</title>
+      <link>https://www.nytimes.com/athletic/7666389/2026/10/07/national-championship-contenders-ohio-state-alabama/</link>
+      <description>There are six teams on the list of title contenders, with a possible seventh — check back on that one after Saturday.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7666389/2026/10/07/national-championship-contenders-ohio-state-alabama/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff odds: Why Notre Dame and Miami are already viewed as near-locks</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7635288/2026/09/27/ap-top-25-college-football-week-4/</link>
       <description>Texas, Georgia, Notre Dame, Miami and Ohio State are atop the post-Week 4 AP Top 25 college football rankings.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7635288/2026/09/27/ap-top-25-college-football-week-4/</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predicting the College Football Playoff bracket: SEC grabs 6 spots in latest projections</title>
-      <link>https://www.nytimes.com/athletic/7634366/2026/09/27/college-football-playoff-bracket-updated-prediction-projections/</link>
-      <description>Florida jumped into the projected bracket with an impressive win over Ole Miss, while Indiana dropped two spots after beating Northwestern.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7634366/2026/09/27/college-football-playoff-bracket-updated-prediction-projections/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
