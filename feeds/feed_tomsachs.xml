@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:24:12 +0000</lastBuildDate>
-    <item>
-      <title>Rocket Factory Uniform T-Shirt</title>
-      <link>https://store.tomsachs.com/products/rocket-factory-uniform-t-shirt-ungated</link>
-      <description>$50.00 — The official uniform t-shirt of the Tom Sachs Rocket Factory. Full Tom Sachs: Rocket Factory Shop coming soon. Material: 100% cotton Available sizes: XS, S, M, L, XL and XXL Printed by LQQK Studio in Brooklyn, NY. Learn more at tomsachsrocketfactory.com</description>
-      <guid isPermaLink="false">https://store.tomsachs.com/products/rocket-factory-uniform-t-shirt-ungated</guid>
-      <pubDate>Thu, 15 Feb 2024 12:00:04 -0500</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Oct 2026 14:21:34 +0000</lastBuildDate>
     <item>
       <title>Rocket Factory Uniform Hat</title>
       <link>https://store.tomsachs.com/products/rocket-factory-uniform-hat-ungated</link>
@@ -358,6 +351,13 @@
       <description>$20.00 — The seventh issue of Bricolage Magazine. In print since 2009. Proceeds from the sale of this zine will go to Printed Matter, Inc. Publication © 2026All artwork © Tom Sachs Design by Tom SachsEdited by Tom Sachs and Nikhil Paladugu 8.5 H x 5.5 W inches48 Pages Printed and bound by Offset Press Printing 300 copies printed in USA Product ships in 7-10 business days</description>
       <guid isPermaLink="false">https://store.tomsachs.com/products/bricolage-magazine-7</guid>
       <pubDate>Fri, 25 Sep 2026 11:29:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tom Sachs “31 Rue Cambon“ Prototype Zine</title>
+      <link>https://store.tomsachs.com/products/prototype-zine</link>
+      <description>$100.00 — Published by Prototypeon the occasion of Tom Sachs “31 Rue Cambon“On view at 245 Centre St., NYC September 11 – October 10, 2026 11.8 H x 8.7 W inches118 pages 300 color copies All artwork by Tom SachsPhotography by Mario SorrentiText by Naomi Fry Copyright © 2026 Prototype Publishing Inc. trading as prototype_. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of the copyright owner.</description>
+      <guid isPermaLink="false">https://store.tomsachs.com/products/prototype-zine</guid>
+      <pubDate>Thu, 08 Oct 2026 09:54:53 -0400</pubDate>
     </item>
   </channel>
 </rss>
