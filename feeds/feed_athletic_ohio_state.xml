@@ -8,18 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 04:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:21:53 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
-    </item>
-    <item>
-      <title>How to watch Maryland vs. No. 5 Ohio State: TV channel and streaming options for October 10</title>
-      <link>https://www.nytimes.com/athletic/7673038/2026/10/08/maryland-vs-ohio-state-stream-how-to-watch-oct-10/</link>
-      <description>Find out how to watch the Maryland Terrapins play the Ohio State Buckeyes, with time, TV channel and streaming information.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7673038/2026/10/08/maryland-vs-ohio-state-stream-how-to-watch-oct-10/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Are Ohio State's transfers living up to expectations? Ranking the top 5 so far</title>
@@ -180,6 +173,13 @@
       <link>https://www.nytimes.com/athletic/7638484/2026/09/28/college-football-team-rankings-florida-texas/</link>
       <description>The Gators' rout of Ole Miss is the second most impressive win of September, behind only Texas topping Ohio State.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7638484/2026/09/28/college-football-team-rankings-florida-texas/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7639016/2026/09/28/submit-a-question-for-stewart-mandels-college-football-mailbag-361/</link>
+      <description>Hard to believe September is already in the books. What’s ahead for college football next month? Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7639016/2026/09/28/submit-a-question-for-stewart-mandels-college-football-mailbag-361/</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
