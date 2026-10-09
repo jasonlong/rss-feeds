@@ -8,12 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:15:48 +0000</lastBuildDate>
     <item>
-      <title>Getting Started With Open Models</title>
-      <link>https://every.to/guides/getting-started-with-open-models</link>
-      <description>A practical guide to commodity intelligence, owning your AI stack, and deciding when to still reach for the frontier</description>
-      <guid isPermaLink="false">https://every.to/guides/getting-started-with-open-models</guid>
+      <title>You Already Signed This Off (In the Simulation)</title>
+      <link>https://every.to/also-true-for-humans/you-already-signed-this-off-in-the-simulation</link>
+      <description>I made AI clones of my boss, a GitHub exec, and my CEO. They knew every rule the real people follow but never knew when to break one.</description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/you-already-signed-this-off-in-the-simulation</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why We Handed Our Agent’s Infrastructure to Anthropic</title>

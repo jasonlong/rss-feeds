@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:15:22 +0000</lastBuildDate>
+    <item>
+      <title>‘Human error’ in Singapore F1 sprint qualifying leads to second FIA systems issue in one week</title>
+      <link>https://www.nytimes.com/athletic/7675032/2026/10/09/singapore-f1-system-issue-sprint-qualifying/</link>
+      <description>The start of Sunday’s Bahrain GP in Malaysia was delayed after a software bug linked to the running of F1’s all-new engines for 2026 emerged</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7675032/2026/10/09/singapore-f1-system-issue-sprint-qualifying/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Toto Wolff slams idea of Mercedes favoring Kimi Antonelli over George Russell: 'Go watch Mickey Mouse'</title>
       <link>https://www.nytimes.com/athletic/7674498/2026/10/09/mercedes-wolff-russell-antonelli/</link>
@@ -169,13 +176,6 @@
       <description>F1 returns to Malaysia this weekend after nine years, as the temporary home of the delayed Bahrain GP. Its layout tests both man and machine</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7649337/2026/10/02/f1-malaysian-track-sepang/</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Lewis Hamilton backs Fred Vasseur, is Ferrari's real problem above its F1 team?</title>
-      <link>https://www.nytimes.com/athletic/7648941/2026/10/01/f1-lewis-hamilton-fred-vasseur-ferrari/</link>
-      <description>F1's most dominant teams in recent years have thrived when a shield was placed between big corporate structures and their racing teams.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7648941/2026/10/01/f1-lewis-hamilton-fred-vasseur-ferrari/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
