@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 23:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:01:40 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ohio State steamrolls Maryland, sets up showdown with Indiana as Jeremiah Smith runs wild</title>
+      <link>https://www.nytimes.com/athletic/7678649/2026/10/10/ohio-state-maryland-score-result-takeaways/</link>
+      <description>The Heisman candidate showed off his yards-after-catch skills as Ryan Day's squad won its fourth straight ahead of a visit to Bloomington.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7678649/2026/10/10/ohio-state-maryland-score-result-takeaways/</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Chambliss' rising NFL Draft stock, Jeremiah's Smith star power: What we're hearing in CFB Week 6</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7639262/2026/09/28/heisman-trophy-odds-jeremiah-smith/</link>
       <description>Ohio State wide receiver Jeremiah Smith is the betting favorite to win the Heisman Trophy, taking the top spot from Trinidad Chambliss.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7639262/2026/09/28/heisman-trophy-odds-jeremiah-smith/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-ranking 138 college football teams after Week 4: We should have seen Florida coming</title>
-      <link>https://www.nytimes.com/athletic/7638484/2026/09/28/college-football-team-rankings-florida-texas/</link>
-      <description>The Gators' rout of Ole Miss is the second most impressive win of September, behind only Texas topping Ohio State.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7638484/2026/09/28/college-football-team-rankings-florida-texas/</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
