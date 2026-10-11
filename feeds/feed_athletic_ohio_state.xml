@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 10:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:16:58 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff bracket predictions: UCLA in, LSU out in Week 6's top 12 shakeup</title>
+      <link>https://www.nytimes.com/athletic/7679370/2026/10/11/college-football-playoff-bracket-predictions-ucla-texas/</link>
+      <description>The first “Separation Saturday” of the 2026 season gave us a lot to chew on.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7679370/2026/10/11/college-football-playoff-bracket-predictions-ucla-texas/</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ohio State steamrolls Maryland, sets up showdown with Indiana as Jeremiah Smith runs wild</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7639909/2026/09/28/ohio-state-illinois-julian-sayin/</link>
       <description>What we learned rewatching Ohio State's brilliant day passing against Illinois — with mixed results and questions on defense.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7639909/2026/09/28/ohio-state-illinois-julian-sayin/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heisman Trophy odds: Jeremiah Smith becomes the favorite after four-touchdown showing</title>
-      <link>https://www.nytimes.com/athletic/7639262/2026/09/28/heisman-trophy-odds-jeremiah-smith/</link>
-      <description>Ohio State wide receiver Jeremiah Smith is the betting favorite to win the Heisman Trophy, taking the top spot from Trinidad Chambliss.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7639262/2026/09/28/heisman-trophy-odds-jeremiah-smith/</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
