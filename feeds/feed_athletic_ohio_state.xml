@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:24:52 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams after Week 6: Prove-it time for Notre Dame, Indiana</title>
+      <link>https://www.nytimes.com/athletic/7682730/2026/10/12/college-football-team-rankings-notre-dame-indiana/</link>
+      <description>Georgia takes the top spot after beating Alabama. Now it's on other teams in the top 10 to start making big statements.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7682730/2026/10/12/college-football-team-rankings-notre-dame-indiana/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7646919/2026/10/01/julian-sayin-ohio-state-running-iowa/</link>
       <description>Julian Sayin may never win games with his legs, but the Ohio State QB is showing ability to move that can unlock the Buckeyes' offense.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7646919/2026/10/01/julian-sayin-ohio-state-running-iowa/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football ATS picks Week 5: Alabama-Mississippi State, Ohio State-Iowa and more predictions</title>
-      <link>https://www.nytimes.com/athletic/7646641/2026/10/01/college-football-picks-spread-week-5-alabama-osu-iowa/</link>
-      <description>The Week 5 slate features some huge ranked matchups. Our college football staff picks all of them against the spread.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7646641/2026/10/01/college-football-picks-spread-week-5-alabama-osu-iowa/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
