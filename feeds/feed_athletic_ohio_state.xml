@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:26:27 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff odds: Texas' spot in question as Georgia, Alabama move up</title>
+      <link>https://www.nytimes.com/athletic/7686716/2026/10/13/college-football-playoff-odds-texas-georgia-alabama/</link>
+      <description>A few results shook up the odds to make the College Football Playoff, with Texas dropping a lot with its loss to Oklahoma.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7686716/2026/10/13/college-football-playoff-odds-texas-georgia-alabama/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who's winning the Heisman Trophy? Ranking the top 9 contenders after Week 6</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7649308/2026/10/02/college-football-top-games-week-5/</link>
       <description>Can Florida keep it rolling at Missouri? Will James Franklin and Virginia Tech knock off Pitt in Blacksburg? Can Clemson make Miami sweat?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7649308/2026/10/02/college-football-top-games-week-5/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the pink locker room at Iowa's Kinnick Stadium, opponents face a colorful tradition</title>
-      <link>https://www.nytimes.com/athletic/7646119/2026/10/02/iowa-football-pink-locker-room-visitors/</link>
-      <description>The SW 6302 Innocence-colored walls that welcome Iowa opponents are a quirky and occasionally controversial part of college football lore.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7646119/2026/10/02/iowa-football-pink-locker-room-visitors/</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
