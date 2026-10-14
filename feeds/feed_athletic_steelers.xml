@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:16:14 +0000</lastBuildDate>
+    <item>
+      <title>NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings</title>
+      <link>https://www.nytimes.com/athletic/7689979/2026/10/14/nfl-spread-straight-up-picks-confidence-rankings-week-6/</link>
+      <description>From Seahawks-Broncos on Thursday through Commanders-49ers on Monday, Nick Kostos makes straight-up and spread picks for every Week 6 game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7689979/2026/10/14/nfl-spread-straight-up-picks-confidence-rankings-week-6/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Week 6 NFL power rankings: 5-0 Vikings continue rise as Bears, Raiders, Cowboys stumble</title>
       <link>https://www.nytimes.com/athletic/7684474/2026/10/13/nfl-power-rankings-week-6-vikings-bears-raiders-cowboys/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7643421/2026/10/01/nfl-week-4-predictions-betting-picks/</link>
       <description>Brock Bowers deserves a raise. Our NFL picks? Maybe not yet.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7643421/2026/10/01/nfl-week-4-predictions-betting-picks/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dear body, here’s the truth. From a retiring NFL player</title>
-      <link>https://www.nytimes.com/athletic/7646085/2026/10/01/levi-wallace-nfl-retirement-letter/</link>
-      <description>Levi Wallace went from a college walk-on to a seven-year NFL career. When he decided to retire, he wrote a letter from his mind to his body.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7646085/2026/10/01/levi-wallace-nfl-retirement-letter/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
