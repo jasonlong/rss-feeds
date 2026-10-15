@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:26:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:20:52 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football picks ATS Week 7: Ohio State-Indiana, Notre Dame-BYU, more predictions</title>
+      <link>https://www.nytimes.com/athletic/7690277/2026/10/15/college-football-picks-spread-week-7-ohio-state-indiana-notre-dame-byu/</link>
+      <description>College football's Week 7 has six matchups featuring two ranked teams. See which our experts are backing to cover.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7690277/2026/10/15/college-football-picks-spread-week-7-ohio-state-indiana-notre-dame-byu/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff odds: Texas' spot in question as Georgia, Alabama move up</title>
@@ -172,13 +179,6 @@
       <description>No. 5 Ohio State avoided an Iowa upset trap in a 31-14 victory headlined by Jeremiah Smith's record-breaking performance.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7656445/2026/10/03/ohio-state-iowa-cfb-score-recap/</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Jeremiah Smith unstoppable? Ohio State's star WR is college football's toughest cover</title>
-      <link>https://www.nytimes.com/athletic/7649681/2026/10/02/jeremiah-smith-ohio-state-unstoppable/</link>
-      <description>Smith may be the best player in the country and one of the best wide receiver prospects in the history of college football.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7649681/2026/10/02/jeremiah-smith-ohio-state-unstoppable/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
