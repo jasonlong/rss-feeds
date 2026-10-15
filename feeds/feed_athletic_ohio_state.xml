@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:18:34 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,20 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>You have to win a college football game. Which coach do you pick? We asked the experts</title>
+      <link>https://www.nytimes.com/athletic/7689970/2026/10/15/college-football-best-coach-to-win-game-survey-response/</link>
+      <description>The two most recent national championship-winning coaches square off this weekend. But which one do peers trust most to win the big game?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7689970/2026/10/15/college-football-best-coach-to-win-game-survey-response/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Jeremiah Smith Ohio State's best player ever? 'It’s him, Orlando Pace and Archie Griffin'</title>
+      <link>https://www.nytimes.com/athletic/7686230/2026/10/15/jeremiah-smith-ohio-state-best-players/</link>
+      <description>“It’s him, Orlando Pace and Archie Griffin,” Pro Football Hall of Famer Cris Carter said of Smith when talking about Ohio State's best ever.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7686230/2026/10/15/jeremiah-smith-ohio-state-best-players/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football picks ATS Week 7: Ohio State-Indiana, Notre Dame-BYU, more predictions</title>
@@ -165,20 +179,6 @@
       <description>Georgia holds on to the top spot, and Florida falls out of the bracket after a humbling setback at Missouri.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7657458/2026/10/04/college-football-playoff-projections-week-5/</guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football winners and losers: September darlings, Big Ten coaches and Northwestern fans</title>
-      <link>https://www.nytimes.com/athletic/7656579/2026/10/04/college-football-winners-losers-week-5/</link>
-      <description>It was a tough weekend for young quarterbacks. It was a great weekend to be a Boilermaker. And Missouri voters got some vindication.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7656579/2026/10/04/college-football-winners-losers-week-5/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Jeremiah Smith breaks more Ohio State records, is Iowa's Kinnick magic fading?</title>
-      <link>https://www.nytimes.com/athletic/7656445/2026/10/03/ohio-state-iowa-cfb-score-recap/</link>
-      <description>No. 5 Ohio State avoided an Iowa upset trap in a 31-14 victory headlined by Jeremiah Smith's record-breaking performance.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7656445/2026/10/03/ohio-state-iowa-cfb-score-recap/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
