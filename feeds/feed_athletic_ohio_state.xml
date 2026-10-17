@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:13:46 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Every college football Top 25 score and result from Week 7's games</title>
+      <link>https://www.nytimes.com/athletic/7699451/2026/10/17/cfb-scores-results-week-7/</link>
+      <description>Catch up on Week 7's scores, game action and news right here.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7699451/2026/10/17/cfb-scores-results-week-7/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who is Luke Fahey? Ohio State's backup QB enters spotlight with Julian Sayin out several weeks</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7662746/2026/10/05/ohio-state-iowa-defense-julian-sayin/</link>
       <description>It can be hard to assess a defense's growth against Iowa's offense. Here are final thoughts on the Ohio State defense, plus Julian Sayin.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7662746/2026/10/05/ohio-state-iowa-defense-julian-sayin/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-ranking 138 college football teams after Week 5: Who's for real in the crowded SEC?</title>
-      <link>https://www.nytimes.com/athletic/7661462/2026/10/05/college-football-team-rankings-missouri-florida/</link>
-      <description>A week after losing at Mississippi State, the Tigers get a big bump for beating Florida. The SEC results make it much harder to place teams.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7661462/2026/10/05/college-football-team-rankings-missouri-florida/</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
