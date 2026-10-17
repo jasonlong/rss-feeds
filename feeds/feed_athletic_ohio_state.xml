@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 19:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:17:03 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ohio State ends Indiana's 22-game win streak by a single step; Julian Sayin injured</title>
+      <link>https://www.nytimes.com/athletic/7698874/2026/10/17/ohio-state-indiana-result-score-takeaways/</link>
+      <description>Julian Sayin was knocked out of the game with a right arm injury in the fourth quarter and returned to the sidelines in a sling.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7698874/2026/10/17/ohio-state-indiana-result-score-takeaways/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NCAA sues Ohio Gov. Mike DeWine after executive order flouting new eligibility rules</title>
@@ -172,13 +179,6 @@
       <description>After striking the Heisman pose in a lopsided win at Iowa, Jeremiah Smith is the clear favorite to win the award.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7661962/2026/10/05/heisman-trophy-odds-jeremiah-smith-pose/</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Alabama jumps Indiana, Missouri surges and Pitt is in college football rankings</title>
-      <link>https://www.nytimes.com/athletic/7658478/2026/10/04/ap-top-25-college-football-week-5-predictions/</link>
-      <description>The top five of the AP poll stayed the same this week, but Alabama moved ahead of Indiana to No. 6. Here are the full rankings.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7658478/2026/10/04/ap-top-25-college-football-week-5-predictions/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
