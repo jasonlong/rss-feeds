@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:28:54 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,20 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ohio State-Indiana ended the way it usually does. But everything about it felt different</title>
+      <link>https://www.nytimes.com/athletic/7699663/2026/10/17/ohio-state-indiana-new-rivalry/</link>
+      <description>This is no longer the same sport that it’s always been, which means there are real new dynamics.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7699663/2026/10/17/ohio-state-indiana-new-rivalry/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ryan Day built his name on QB excellence. With no Julian Sayin, he faces his toughest test</title>
+      <link>https://www.nytimes.com/athletic/7699536/2026/10/17/ohio-state-julian-sayin-qb-excellence-test/</link>
+      <description>Ohio State was a step away from having two losses and no Sayin for weeks. But now Day will have to figure it out with a freshman QB.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7699536/2026/10/17/ohio-state-julian-sayin-qb-excellence-test/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Every college football Top 25 score and result from Week 7's games</title>
@@ -165,20 +179,6 @@
       <description>Notre Dame and Miami are overwhelming favorites to make the CFP even though the season isn't half over. A look into the numbers shows why.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7663568/2026/10/06/college-football-playoff-odds-notre-dame-miami-georgia-alabama/</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who's winning the Heisman after Week 5? Ranking the top 10 players</title>
-      <link>https://www.nytimes.com/athletic/7664532/2026/10/06/heisman-watch-2026-jeremiah-smith-darian-mensah/</link>
-      <description>Ohio State's Jeremiah Smith is threatening to run away with this Heisman race before midseason after another dominant showing.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7664532/2026/10/06/heisman-watch-2026-jeremiah-smith-darian-mensah/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How much credit should Ohio State get for stopping Iowa's offense? 3 things we learned</title>
-      <link>https://www.nytimes.com/athletic/7662746/2026/10/05/ohio-state-iowa-defense-julian-sayin/</link>
-      <description>It can be hard to assess a defense's growth against Iowa's offense. Here are final thoughts on the Ohio State defense, plus Julian Sayin.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7662746/2026/10/05/ohio-state-iowa-defense-julian-sayin/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
