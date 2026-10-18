@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:14:00 +0000</lastBuildDate>
+    <item>
+      <title>Steelers-Saints game in Paris still on despite unrest in France, NFL says</title>
+      <link>https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/</link>
+      <description>The matchup between Pittsburgh and New Orleans will be the first regular-season NFL game played in France.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings</title>
       <link>https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7648254/2026/10/01/joey-porter-jr-pittsburgh-steelers-contract-standoff/</link>
       <description>The star cornerback and the team dug in, leaving them with only one way out: a trade.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7648254/2026/10/01/joey-porter-jr-pittsburgh-steelers-contract-standoff/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Tomlin spent 12 years building a Minecraft city. Over 19 minutes, he showed it off to the world</title>
-      <link>https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/</link>
-      <description>The former Steelers coach went deep sharing his passion project on YouTube, and teased more to come.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
