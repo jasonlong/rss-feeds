@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:33:17 +0000</lastBuildDate>
+    <item>
+      <title>Is this what the Steelers offense will look like against every quality defense?</title>
+      <link>https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/</link>
+      <description>The Steelers' overtime win in Tampa Bay did little to alleviate concerns about the offense.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers get OT win but leave Tampa Bay with more offensive questions than answers</title>
       <link>https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/</link>
@@ -176,13 +183,6 @@
       <description>The Steelers coach and quarterback had a heated back-and-forth during the first quarter Thursday night.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7651604/2026/10/02/pittsburgh-steelers-mike-mccarthy-aaron-rodgers-exchange/</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deshaun Watson cements himself as QB1 as Browns top Steelers, take AFC North lead</title>
-      <link>https://www.nytimes.com/athletic/7651055/2026/10/01/steelers-browns-score-results-deshaun-watson-aaron-rodgers/</link>
-      <description>Watson led another game-winning drive to help lift Cleveland over Pittsburgh and improve to 3-1.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7651055/2026/10/01/steelers-browns-score-results-deshaun-watson-aaron-rodgers/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
