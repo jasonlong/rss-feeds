@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:27:52 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Heisman Trophy odds: Darian Mensah, Trinidad Chambliss close in on Jeremiah Smith</title>
+      <link>https://www.nytimes.com/athletic/7703132/2026/10/19/heisman-trophy-odds-mensah-chambliss-smith/</link>
+      <description>Smith is still favored to win the Heisman Trophy, but Mensah and Chambliss closed some ground in the odds.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703132/2026/10/19/heisman-trophy-odds-mensah-chambliss-smith/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -172,13 +179,6 @@
       <description>The first “Separation Saturday” of the 2026 season gave us a lot to chew on.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7679370/2026/10/11/college-football-playoff-bracket-predictions-ucla-texas/</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State steamrolls Maryland, sets up showdown with Indiana as Jeremiah Smith runs wild</title>
-      <link>https://www.nytimes.com/athletic/7678649/2026/10/10/ohio-state-maryland-score-result-takeaways/</link>
-      <description>The Heisman candidate showed off his yards-after-catch skills as Ryan Day's squad won its fourth straight ahead of a visit to Bloomington.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7678649/2026/10/10/ohio-state-maryland-score-result-takeaways/</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
