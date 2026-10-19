@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 18:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:14:10 +0000</lastBuildDate>
+    <item>
+      <title>Submit your questions for Mike DeFabo’s Steelers mailbag</title>
+      <link>https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/</link>
+      <description>The Steelers are preparing for Sunday's Paris game, with a chance to move to 5-2.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL Wake-up Call: Week 6 smashed narratives and showed how little we know</title>
       <link>https://www.nytimes.com/athletic/7703754/2026/10/19/nfl-week-6-takeaways-winners-losers/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7651856/2026/10/02/steelers-defense-joey-porter-trade-browns/</link>
       <description>The Steelers felt the loss of their former star cornerback in Thursday night's 27-24 defeat to the Browns.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7651856/2026/10/02/steelers-defense-joey-porter-trade-browns/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why does the Bills' new Highmark Stadium mix red and blue seats randomly?</title>
-      <link>https://www.nytimes.com/athletic/7647512/2026/10/02/bills-highmark-stadium-seats-random-colors-pattern/</link>
-      <description>The red-and-blue pattern of Buffalo's new Highmark Stadium is designed to emulate the "heat coming off the field."</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7647512/2026/10/02/bills-highmark-stadium-seats-random-colors-pattern/</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
