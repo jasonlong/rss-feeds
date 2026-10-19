@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:24:46 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7703631/2026/10/18/submit-a-question-for-stewart-mandels-college-football-mailbag-364/</link>
+      <description>Week 7 was as good as it gets. I may need a week to recover. Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703631/2026/10/18/submit-a-question-for-stewart-mandels-college-football-mailbag-364/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: Miami No. 1 for first time since 2002; BYU takes Notre Dame's spot at No. 2</title>
@@ -172,13 +179,6 @@
       <description>The Heisman candidate showed off his yards-after-catch skills as Ryan Day's squad won its fourth straight ahead of a visit to Bloomington.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7678649/2026/10/10/ohio-state-maryland-score-result-takeaways/</guid>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chambliss' rising NFL Draft stock, Jeremiah's Smith star power: What we're hearing in CFB Week 6</title>
-      <link>https://www.nytimes.com/athletic/7675374/2026/10/09/ohio-state-alabama-texas-tech-what-im-hearing/</link>
-      <description>Plus, what we heard on Dylan Raiola, Alabama and Penn State.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7675374/2026/10/09/ohio-state-alabama-texas-tech-what-im-hearing/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
