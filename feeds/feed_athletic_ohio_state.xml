@@ -8,16 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:18:55 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
     </item>
     <item>
-      <title>2026 College Football Playoff projection bracket</title>
-      <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+      <title>2026 midseason college football superlatives: Biggest surprise, best celly, worst flop</title>
+      <link>https://www.nytimes.com/athletic/7702766/2026/10/19/2026-college-football-midseason-best-team-best-coach/</link>
+      <description>UCLA, the only unbeaten team in the Big Ten, has been the biggest surprise in 2026. The best team (for now) can be found in the ACC.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7702766/2026/10/19/2026-college-football-midseason-best-team-best-coach/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams at midseason, from Ohio State to Northern Illinois</title>
+      <link>https://www.nytimes.com/athletic/7703258/2026/10/19/college-football-midseason-138-team-rankings/</link>
+      <description>The season's at its midpoint, and it’s not clear how good anyone is. We love it.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703258/2026/10/19/college-football-midseason-138-team-rankings/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Heisman Trophy odds: Darian Mensah, Trinidad Chambliss close in on Jeremiah Smith</title>
@@ -171,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7680169/2026/10/11/ap-top-25-college-football-week-6/</link>
       <description>Georgia is back atop the AP Top 25 college football rankings, with Notre Dame, Miami, Ohio State and Indiana rounding out the top five.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7680169/2026/10/11/ap-top-25-college-football-week-6/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff bracket 2026: Latest predictions with UCLA in, LSU out in top 12 shakeup</title>
-      <link>https://www.nytimes.com/athletic/7679370/2026/10/11/college-football-playoff-bracket-predictions-ucla-texas/</link>
-      <description>The first “Separation Saturday” of the 2026 season gave us a lot to chew on.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7679370/2026/10/11/college-football-playoff-bracket-predictions-ucla-texas/</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

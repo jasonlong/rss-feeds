@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:19:01 +0000</lastBuildDate>
+    <item>
+      <title>NFL Wake-up Call: Week 6 smashed narratives and showed how little we know</title>
+      <link>https://www.nytimes.com/athletic/7703754/2026/10/19/nfl-week-6-takeaways-winners-losers/</link>
+      <description>Prematurely writing off an NFL coach, player or team in is fraught with peril. Week 6 was just the latest reminder.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703754/2026/10/19/nfl-week-6-takeaways-winners-losers/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Is this what the Steelers offense will look like against every quality defense?</title>
       <link>https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7647512/2026/10/02/bills-highmark-stadium-seats-random-colors-pattern/</link>
       <description>The red-and-blue pattern of Buffalo's new Highmark Stadium is designed to emulate the "heat coming off the field."</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7647512/2026/10/02/bills-highmark-stadium-seats-random-colors-pattern/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike McCarthy addresses heated, profane Aaron Rodgers exchange: 'Wish I wouldn't use those words'</title>
-      <link>https://www.nytimes.com/athletic/7651604/2026/10/02/pittsburgh-steelers-mike-mccarthy-aaron-rodgers-exchange/</link>
-      <description>The Steelers coach and quarterback had a heated back-and-forth during the first quarter Thursday night.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7651604/2026/10/02/pittsburgh-steelers-mike-mccarthy-aaron-rodgers-exchange/</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
