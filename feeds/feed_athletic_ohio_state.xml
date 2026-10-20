@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:16:53 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
+    </item>
+    <item>
+      <title>College football midseason bowl projections: USC-Texas in Vegas? A James Franklin reunion?</title>
+      <link>https://www.nytimes.com/athletic/7705582/2026/10/20/college-football-bowl-projections-midseason-matchups/</link>
+      <description>USC-Texas in Las Vegas, the Mike Elko Bowl and a James Franklin reunion in Charlotte highlight the non-CFP matchups in play for now.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7705582/2026/10/20/college-football-bowl-projections-midseason-matchups/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff odds: Why Alabama is still favored to get in, but Texas isn't</title>
@@ -174,13 +181,6 @@
       <description>Georgia takes the top spot after beating Alabama. Now it's on other teams in the top 10 to start making big statements.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7682730/2026/10/12/college-football-team-rankings-notre-dame-indiana/</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7683044/2026/10/11/submit-a-question-for-stewart-mandels-college-football-mailbag-363/</link>
-      <description>Week 6 was the most gripping to date, and Week 7 brings us Ohio State-Indiana, Notre Dame-BYU and four other Top 25 games. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7683044/2026/10/11/submit-a-question-for-stewart-mandels-college-football-mailbag-363/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
