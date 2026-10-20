@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 23:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:48:17 +0000</lastBuildDate>
+    <item>
+      <title>Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source</title>
+      <link>https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/</link>
+      <description>The veteran receiver is expected to join the Steelers' practice squad.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Submit your questions for Mike DeFabo’s Steelers mailbag</title>
       <link>https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/</link>
@@ -176,13 +183,6 @@
       <description>Plus, the Giants' real price for J.J. McCarthy, the Packers' gain much-needed wisdom, and more.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7654156/2026/10/03/nfl-insider-joey-porter-jr-trade-puka-nacua-jayden-daniels/</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Steelers defense cracks in its first test of the post-Joey Porter Jr. era</title>
-      <link>https://www.nytimes.com/athletic/7651856/2026/10/02/steelers-defense-joey-porter-trade-browns/</link>
-      <description>The Steelers felt the loss of their former star cornerback in Thursday night's 27-24 defeat to the Browns.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7651856/2026/10/02/steelers-defense-joey-porter-trade-browns/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
