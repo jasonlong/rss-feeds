@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:19:58 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff odds: Why Alabama is still favored to get in, but Texas isn't</title>
+      <link>https://www.nytimes.com/athletic/7705316/2026/10/20/college-football-playoff-odds-alabama-texas-byu-ole-miss/</link>
+      <description>After several top teams went down in Week 7, the race to make the College Football Playoff looks different. Here's how the odds have it.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7705316/2026/10/20/college-football-playoff-odds-alabama-texas-byu-ole-miss/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2026 midseason college football superlatives: Biggest surprise, best celly, worst flop</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7683044/2026/10/11/submit-a-question-for-stewart-mandels-college-football-mailbag-363/</link>
       <description>Week 6 was the most gripping to date, and Week 7 brings us Ohio State-Indiana, Notre Dame-BYU and four other Top 25 games. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7683044/2026/10/11/submit-a-question-for-stewart-mandels-college-football-mailbag-363/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Georgia is No. 1 in rankings as Texas tumbles, LSU hangs on, Oregon drops out</title>
-      <link>https://www.nytimes.com/athletic/7680169/2026/10/11/ap-top-25-college-football-week-6/</link>
-      <description>Georgia is back atop the AP Top 25 college football rankings, with Notre Dame, Miami, Ohio State and Indiana rounding out the top five.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7680169/2026/10/11/ap-top-25-college-football-week-6/</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
