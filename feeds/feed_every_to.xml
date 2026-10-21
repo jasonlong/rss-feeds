@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:47:32 +0000</lastBuildDate>
     <item>
       <title>Why We Replaced Personal Agents With One for the Whole Company</title>
-      <link>https://every.to/p/why-we-replaced-personal-agents-with-one-for-the-whole-company</link>
-      <description>Moving from single-player agents to a shared Slack coworker made us rethink how conversations, connections, and permissions actually work</description>
-      <guid isPermaLink="false">https://every.to/p/why-we-replaced-personal-agents-with-one-for-the-whole-company</guid>
+      <link>https://every.to/source-code/why-we-replaced-personal-agents-with-one-for-the-whole-company</link>
+      <description>Moving from single-player agents to a shared Slack coworker made us rethink how conversations, connections, and permissions work</description>
+      <guid isPermaLink="false">https://every.to/source-code/why-we-replaced-personal-agents-with-one-for-the-whole-company</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>

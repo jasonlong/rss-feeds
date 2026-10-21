@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:47:08 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
+    </item>
+    <item>
+      <title>Julian Sayin out 'indefinitely'; Buckeyes preparing to play rest of season without him</title>
+      <link>https://www.nytimes.com/athletic/7707857/2026/10/20/ohio-state-julian-sayin-injury-update/</link>
+      <description>Sayin has not been officially ruled out for the season, but coach Ryan Day gave a more concerning update Tuesday.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7707857/2026/10/20/ohio-state-julian-sayin-injury-update/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who's winning the Heisman Trophy? Three WRs lead rankings after Week 7</title>
@@ -174,13 +181,6 @@
       <description>There is a wide receiver dominating the nation and rising up the Heisman board, and it's not who you think.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7685272/2026/10/13/heisman-trophy-rankings-jeremiah-smith-jesse-legree/</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Will Ohio State get revenge on Indiana? An expert's first look at a top-5 matchup</title>
-      <link>https://www.nytimes.com/athletic/7682391/2026/10/12/ohio-state-indiana-prediction-film-football/</link>
-      <description>What studying Ohio State and Indiana says about the biggest game in Memorial Stadium history. Here are four keys and an early prediction.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7682391/2026/10/12/ohio-state-indiana-prediction-film-football/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
