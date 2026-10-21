@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:18:16 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
+    </item>
+    <item>
+      <title>College football midseason All-America teams: Jeremiah Smith, Colin Simmons lead first-half stars</title>
+      <link>https://www.nytimes.com/athletic/7708206/2026/10/21/college-football-all-america-teams-midseason-2026/</link>
+      <description>The 50 players on this list come from 34 different programs, with no team having more than three representatives.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7708206/2026/10/21/college-football-all-america-teams-midseason-2026/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Julian Sayin out 'indefinitely'; Buckeyes preparing to play rest of season without him</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7686716/2026/10/13/college-football-playoff-odds-texas-georgia-alabama/</link>
       <description>A few results shook up the odds to make the College Football Playoff, with Texas dropping a lot with its loss to Oklahoma.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7686716/2026/10/13/college-football-playoff-odds-texas-georgia-alabama/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who's winning the Heisman Trophy? Ranking the top 9 contenders after Week 6</title>
-      <link>https://www.nytimes.com/athletic/7685272/2026/10/13/heisman-trophy-rankings-jeremiah-smith-jesse-legree/</link>
-      <description>There is a wide receiver dominating the nation and rising up the Heisman board, and it's not who you think.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7685272/2026/10/13/heisman-trophy-rankings-jeremiah-smith-jesse-legree/</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
