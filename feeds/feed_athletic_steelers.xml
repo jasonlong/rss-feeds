@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:20:44 +0000</lastBuildDate>
+    <item>
+      <title>NFL Week 7 ATS picks: Throw the NFC East's bad records (and the teams, too) in the trash</title>
+      <link>https://www.nytimes.com/athletic/7709332/2026/10/22/nfl-week-7-predictions-betting-picks/</link>
+      <description>Should we take a sucker bet on the Cowboys against the Eagles on Monday night? Meanwhile, it's time for a Rams bounce back.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7709332/2026/10/22/nfl-week-7-predictions-betting-picks/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NFL will proceed with plans for Steelers-Saints game in Paris despite unrest</title>
       <link>https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7663177/2026/10/06/nfl-power-rankings-week-5-patriots-panthers-lions-eagles/</link>
       <description>In this week's power rankings, we gauge the level of concern each team is facing. The Patriots and Panthers are on the rise after big wins.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7663177/2026/10/06/nfl-power-rankings-week-5-patriots-panthers-lions-eagles/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What, specifically, are the issues plaguing the Steelers' offense?</title>
-      <link>https://www.nytimes.com/athletic/7664231/2026/10/06/steelers-offense-problems-aaron-rodgers-mike-mccarthy/</link>
-      <description>A look at what's going wrong after four uneven performances to start the Mike McCathy era.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7664231/2026/10/06/steelers-offense-problems-aaron-rodgers-mike-mccarthy/</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
