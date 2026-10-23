@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:18:05 +0000</lastBuildDate>
+    <item>
+      <title>'Would have been nice one time to come over on a Monday': Steelers race to acclimate to Paris</title>
+      <link>https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/</link>
+      <description>The New Orleans Saints — the designated home team — arrived on Monday. The Steelers took a different approach.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals</title>
       <link>https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7669581/2026/10/08/aaron-rodgers-mike-mccarthy-steelers-heated-exchanges/</link>
       <description>There were multiple emotional moments between players and coaches during Thursday's loss to the Browns.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7669581/2026/10/08/aaron-rodgers-mike-mccarthy-steelers-heated-exchanges/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ranking 32 NFL backup QBs: Where do Mac Jones, Tyson Bagent, and others fall on the list?</title>
-      <link>https://www.nytimes.com/athletic/7669355/2026/10/08/nfl-backup-quarterback-rankings-jones-winston-bagent/</link>
-      <description>Jones proved his worth last year with the 49ers, but Winston, despite winning two starts, has not impressed in replacing Jaxson Dart.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7669355/2026/10/08/nfl-backup-quarterback-rankings-jones-winston-bagent/</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
