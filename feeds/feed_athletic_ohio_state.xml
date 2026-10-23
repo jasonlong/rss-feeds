@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:17:53 +0000</lastBuildDate>
     <item>
-      <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
-      <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
+      <title>Overrated or underrated? Unpacking the Big Ten’s midseason identity crisis</title>
+      <link>https://www.nytimes.com/athletic/7715394/2026/10/23/big-10-overrated-underrated-ucla-ohio-state-michigan/</link>
+      <description>How should the conference be regarded at midseason? Like throughout college football, the answer remains ambiguous.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7715394/2026/10/23/big-10-overrated-underrated-ucla-ohio-state-michigan/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Midseason College Football Playoff, Heisman and bold predictions: How much has changed?</title>
+      <link>https://www.nytimes.com/athletic/7714848/2026/10/23/college-football-playoff-midseason-predictions-heisman/</link>
+      <description>Who will win the national championship? Can Jeremiah Smith take home the Heisman? And what will happen to Arch Manning and Texas?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7714848/2026/10/23/college-football-playoff-midseason-predictions-heisman/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Darian Mensah, Xavier Gilliam lead college football midseason All-Transfer team</title>
@@ -173,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7686230/2026/10/15/jeremiah-smith-ohio-state-best-players/</link>
       <description>“It’s him, Orlando Pace and Archie Griffin,” Pro Football Hall of Famer Cris Carter said of Smith when talking about Ohio State's best ever.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7686230/2026/10/15/jeremiah-smith-ohio-state-best-players/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football picks ATS Week 7: Ohio State-Indiana, Notre Dame-BYU, more predictions</title>
-      <link>https://www.nytimes.com/athletic/7690277/2026/10/15/college-football-picks-spread-week-7-ohio-state-indiana-notre-dame-byu/</link>
-      <description>College football's Week 7 has six matchups featuring two ranked teams. See which our experts are backing to cover.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7690277/2026/10/15/college-football-picks-spread-week-7-ohio-state-indiana-notre-dame-byu/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
