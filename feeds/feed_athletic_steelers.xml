@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:14:55 +0000</lastBuildDate>
+    <item>
+      <title>Steelers use strong run game to beat Saints in Paris, win third in a row</title>
+      <link>https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/</link>
+      <description>The Steelers used the legs of Jaylen Warren, Rico Dowdle and even Aaron Rodgers to win 16-10 in the NFL's first game in Paris.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details</title>
       <link>https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/</link>
@@ -176,13 +183,6 @@
       <description>Warren tallied tallied 188 yards from scrimmage and two touchdowns against the reeling Colts defense.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7680988/2026/10/11/colts-steelers-nfl-week-5-result-takeaways/</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AFC North Whiparound: Altered predictions, underrated heroes, cleaning the houses</title>
-      <link>https://www.nytimes.com/athletic/7672053/2026/10/09/afc-north-whiparound-bengals-browns-ravens-steelers-week-5/</link>
-      <description>Mike McCarthy said the Steelers need to clean their own house. Our writers point out what each team must straighten out.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7672053/2026/10/09/afc-north-whiparound-bengals-browns-ravens-steelers-week-5/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
