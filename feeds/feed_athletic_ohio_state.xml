@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:15:00 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff bracket projections: Who’s rising, who’s falling after Week 8</title>
+      <link>https://www.nytimes.com/athletic/7722530/2026/10/25/college-football-playoff-projections-week-8/</link>
+      <description>Wake Forest, which had an off week after a 6-1 start, is the No. 10 seed in this week's bracket.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7722530/2026/10/25/college-football-playoff-projections-week-8/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football's top 25 rivalry trophies: Ranking the tools and tokens of heated traditions</title>
@@ -174,13 +181,6 @@
       <description>DeWine’s executive order comes against a backdrop of eligibility chaos that has enveloped college sports this summer.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7696200/2026/10/16/ncaa-sues-ohio-governor-mike-dewine/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who would have made a 24-team field in the College Football Playoff era? Try 80 different teams</title>
-      <link>https://www.nytimes.com/athletic/7295785/2026/10/15/college-football-playoff-24-teams-history-expansion/</link>
-      <description>Eighty teams would have made a 24-team CFP over the last 12 seasons. Here's what we learned from mocking 12 years of brackets.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7295785/2026/10/15/college-football-playoff-24-teams-history-expansion/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
