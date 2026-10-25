@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:19:57 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings</title>
+      <link>https://www.nytimes.com/athletic/7722928/2026/10/25/ap-top-25-college-football-week-8/</link>
+      <description>Miami leads Ohio State, Georgia, Indiana and Notre Dame in the latest AP Top 25 college football rankings after an upset-filled Week 8.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7722928/2026/10/25/ap-top-25-college-football-week-8/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Playoff bracket projections after Week 8 of College Football: Who’s rising and who’s falling</title>
@@ -174,13 +181,6 @@
       <description>Julian Sayin was knocked out of the game with a right arm injury in the fourth quarter and returned to the sideline in a sling.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7698874/2026/10/17/ohio-state-indiana-result-score-takeaways/</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCAA sues Ohio Gov. Mike DeWine after executive order flouting new eligibility rules</title>
-      <link>https://www.nytimes.com/athletic/7696200/2026/10/16/ncaa-sues-ohio-governor-mike-dewine/</link>
-      <description>DeWine’s executive order comes against a backdrop of eligibility chaos that has enveloped college sports this summer.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7696200/2026/10/16/ncaa-sues-ohio-governor-mike-dewine/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
