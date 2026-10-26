@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 08:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:29:42 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Heisman Trophy odds: Can Darian Mensah and Malachi Toney give Miami two finalists?</title>
+      <link>https://www.nytimes.com/athletic/7723945/2026/10/26/heisman-trophy-odds-darian-mensah-malachi-toney-miami/</link>
+      <description>Jeremiah Smith is still the favorite to win the Heisman Trophy, but a pair of Miami Hurricane stars had big games to narrow the gap.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7723945/2026/10/26/heisman-trophy-odds-darian-mensah-malachi-toney-miami/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7699451/2026/10/17/cfb-scores-results-week-7/</link>
       <description>Catch up on Week 7's scores, game action and news right here.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7699451/2026/10/17/cfb-scores-results-week-7/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is Luke Fahey? Ohio State's backup QB enters spotlight with Julian Sayin out several weeks</title>
-      <link>https://www.nytimes.com/athletic/7699226/2026/10/17/luke-fahey-ohio-state-backup-qb-sayin-injury/</link>
-      <description>Ohio State could be relying on a quarterback who was playing California high school football this time last year.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7699226/2026/10/17/luke-fahey-ohio-state-backup-qb-sayin-injury/</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
