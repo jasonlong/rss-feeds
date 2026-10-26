@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 03:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:23:44 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7725666/2026/10/26/submit-a-question-for-stewart-mandels-college-football-mailbag-365/</link>
+      <description>Eight weeks in, only three teams haven’t lost. That’s some crazy parity. Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7725666/2026/10/26/submit-a-question-for-stewart-mandels-college-football-mailbag-365/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7699226/2026/10/17/luke-fahey-ohio-state-backup-qb-sayin-injury/</link>
       <description>Ohio State could be relying on a quarterback who was playing California high school football this time last year.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7699226/2026/10/17/luke-fahey-ohio-state-backup-qb-sayin-injury/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State beats Indiana by a single step but loses Julian Sayin in the process</title>
-      <link>https://www.nytimes.com/athletic/7698874/2026/10/17/ohio-state-indiana-result-score-takeaways/</link>
-      <description>Julian Sayin was knocked out of the game with a right arm injury in the fourth quarter and returned to the sideline in a sling.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7698874/2026/10/17/ohio-state-indiana-result-score-takeaways/</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
