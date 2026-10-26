@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:29:14 +0000</lastBuildDate>
+    <item>
+      <title>NFL Simulator 2026: Live forecast of the playoff picture and outcomes for every team</title>
+      <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</link>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</guid>
+    </item>
     <item>
       <title>NFL’s most pleasant surprises: How real are Steelers, Browns, Giants, Vikings? Pick Six</title>
       <link>https://www.nytimes.com/athletic/7725854/2026/10/26/nfl-week-7-steelers-giants-vikings-browns/</link>
@@ -175,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7684474/2026/10/13/nfl-power-rankings-week-6-vikings-bears-raiders-cowboys/</link>
       <description>In this week’s power rankings, we look at who each team has beaten to get a better sense of how they all stack up. The Vikings are soaring.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7684474/2026/10/13/nfl-power-rankings-week-6-vikings-bears-raiders-cowboys/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers DC Patrick Graham moved to the sideline with the hope of more change to follow</title>
-      <link>https://www.nytimes.com/athletic/7685194/2026/10/13/steelers-defensive-coordinator-patrick-graham-sideline/</link>
-      <description>Graham came downstairs for Sunday's win over the Colts.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7685194/2026/10/13/steelers-defensive-coordinator-patrick-graham-sideline/</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>

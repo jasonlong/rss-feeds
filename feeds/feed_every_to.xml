@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:29:35 +0000</lastBuildDate>
     <item>
       <title>Dots: A Guide for Putting OpenAI’s Always-on Agents to Work</title>
       <link>https://every.to/guides/openai-dots-guide</link>
       <description>How Every’s team uses Dots to catch mistakes, answer email, book appointments, and run tasks from Slack</description>
       <guid isPermaLink="false">https://every.to/guides/openai-dots-guide</guid>
+    </item>
+    <item>
+      <title>Is Anthropic Worth $2 Trillion?</title>
+      <link>https://every.to/napkin-math/is-anthropic-worth-2-trillion</link>
+      <description>Its IPO filing reveals a remarkable business—and how much has to go right to justify its price</description>
+      <guid isPermaLink="false">https://every.to/napkin-math/is-anthropic-worth-2-trillion</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anthropic’s Duet Gets to Work</title>
@@ -49,13 +56,6 @@
       <description>The good and bad of persistent agents in a showdown between Astra and Opus</description>
       <guid isPermaLink="false">https://every.to/playtesting/we-caught-an-ai-cheating-by-watching-it-play-starcraft</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Codex’s Comeback Up Close</title>
-      <link>https://every.to/context-window/codex-s-comeback-up-close</link>
-      <description>Plus: Our Gemini 4 Argon Vibe Check, why technical founders win when startups pivot, and seven new Thesis Statements</description>
-      <guid isPermaLink="false">https://every.to/context-window/codex-s-comeback-up-close</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Codex Happened</title>
