@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:13:06 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who will Ohio State start at QB vs. USC with Julian Sayin out? Ryan Day isn't saying</title>
+      <link>https://www.nytimes.com/athletic/7729690/2026/10/27/ohio-state-starting-qb-usc-fahey-st-clair/</link>
+      <description>Freshman Luke Fahey replaced Sayin during Ohio State's win at Indiana, but Day has yet to name him the new starter over Tavien St. Clair.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7729690/2026/10/27/ohio-state-starting-qb-usc-fahey-st-clair/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who's winning the Heisman Trophy? Ranking the top contenders after Week 8</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/</link>
       <description>On a Saturday in which five of the top seven teams in the AP poll went down, the Hurricanes survived and advanced to the No. 1 spot.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff bracket projections: Who’s rising, who’s falling after Week 7</title>
-      <link>https://www.nytimes.com/athletic/7700783/2026/10/18/college-football-playoff-projections-week-7/</link>
-      <description>There's a new, shaky, top seed this week, and two SEC powerhouses unexpectedly fell out of the projections all together.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7700783/2026/10/18/college-football-playoff-projections-week-7/</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
