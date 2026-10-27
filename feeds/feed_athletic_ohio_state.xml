@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:21:34 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff odds: Georgia is national title favorite, Texas projected to make 12-team field</title>
+      <link>https://www.nytimes.com/athletic/7727202/2026/10/27/college-football-playoff-odds-georgia-texas-alabama/</link>
+      <description>A number of upsets shook up the College Football Playoff race, but there are 12 teams at even money or better to make the field.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7727202/2026/10/27/college-football-playoff-odds-georgia-texas-alabama/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football bowl projections: 15 ranked teams lost in two weeks. Now what?</title>
@@ -174,13 +181,6 @@
       <description>Week 7 had no shortage of storylines, even setting aside the slew of highly ranked teams that were knocked from their perch.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7700169/2026/10/18/college-football-winners-losers-dylan-raiola/</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State-Indiana ended the way it usually does. But everything about it felt different</title>
-      <link>https://www.nytimes.com/athletic/7699663/2026/10/17/ohio-state-indiana-new-rivalry/</link>
-      <description>This is no longer the same sport that it’s always been, which means there are real new dynamics.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7699663/2026/10/17/ohio-state-indiana-new-rivalry/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
