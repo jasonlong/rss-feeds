@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:17:43 +0000</lastBuildDate>
+    <item>
+      <title>NFL Week 8 Power Rankings: You Decide</title>
+      <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
+    </item>
     <item>
       <title>NFL Simulator 2026: Live forecast of the playoff picture and outcomes for every team</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</link>
@@ -173,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7691084/2026/10/15/germie-bernard-pittsburgh-steelers-wr-injuries/</link>
       <description>The rookie receiver has a chance to capitalize on Sunday's breakout performance.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7691084/2026/10/15/germie-bernard-pittsburgh-steelers-wr-injuries/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 6 ATS picks: Why Chiefs RB Kenneth Walker III deserves more love</title>
-      <link>https://www.nytimes.com/athletic/7690220/2026/10/15/nfl-week-6-predictions-betting-picks/</link>
-      <description>We like Walker and the Chiefs to keep rolling over the Chargers, but maybe pump the brakes on the Patriots and Bills.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7690220/2026/10/15/nfl-week-6-predictions-betting-picks/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
