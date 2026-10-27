@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 18:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:12:14 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Why didn't Giants QB J.J. McCarthy wear his signature eye black vs. Texans?</title>
+      <link>https://www.nytimes.com/athletic/7727326/2026/10/27/new-york-giants-j-j-mccarthy-eye-black-michigan-ohio-state-c-j-stroud/</link>
+      <description>It's a Michigan-Ohio State thing.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7727326/2026/10/27/new-york-giants-j-j-mccarthy-eye-black-michigan-ohio-state-c-j-stroud/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who will Ohio State start at QB vs. USC with Julian Sayin out? Ryan Day isn't saying</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7703631/2026/10/18/submit-a-question-for-stewart-mandels-college-football-mailbag-364/</link>
       <description>Week 7 was as good as it gets. I may need a week to recover. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7703631/2026/10/18/submit-a-question-for-stewart-mandels-college-football-mailbag-364/</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Miami No. 1 for first time since 2002; BYU takes Notre Dame's spot at No. 2</title>
-      <link>https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/</link>
-      <description>On a Saturday in which five of the top seven teams in the AP poll went down, the Hurricanes survived and advanced to the No. 1 spot.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7700780/2026/10/18/ap-top-25-college-football-week-7/</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
