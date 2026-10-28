@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:15:55 +0000</lastBuildDate>
+    <item>
+      <title>Why F1 out-engineers NASA, according to Artemis II’s Reid Wiseman</title>
+      <link>https://www.nytimes.com/athletic/7730073/2026/10/28/reid-wiseman-mercedes-f1-astronaut-nasa/</link>
+      <description>Months after breaking Apollo 13’s distance record, the astronaut has joined Mercedes, and he’s taking notes</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7730073/2026/10/28/reid-wiseman-mercedes-f1-astronaut-nasa/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why F1’s rule-makers are turning to AI to keep up with the teams and close loopholes</title>
       <link>https://www.nytimes.com/athletic/7730074/2026/10/28/f1-fia-ai-aws-loopholes-track-limits/</link>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7695587/2026/10/16/f1-rafa-camara-haas-2027/</link>
       <description>Haas will replace Esteban Ocon with Rafael Câmara in F1 2027. But only after the Brazilian beat other rapid candidates in a series of tests.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7695587/2026/10/16/f1-rafa-camara-haas-2027/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F1 mailbag: Will we have a multi-driver 2027 title fight? Can control software cause favoritism?</title>
-      <link>https://www.nytimes.com/athletic/7692544/2026/10/16/f1-mailbag-2027-drivers-title-control-software/</link>
-      <description>When can Antonelli win the 2026 title? And what's going on with Ferrari's strategy? We cover all this and more in our latest mailbag...</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7692544/2026/10/16/f1-mailbag-2027-drivers-title-control-software/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
