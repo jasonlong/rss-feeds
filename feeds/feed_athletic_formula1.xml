@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:18:49 +0000</lastBuildDate>
+    <item>
+      <title>Why F1’s rule-makers are turning to AI to keep up with the teams and close loopholes</title>
+      <link>https://www.nytimes.com/athletic/7730074/2026/10/28/f1-fia-ai-aws-loopholes-track-limits/</link>
+      <description>The FIA’s new AWS deal could shrink months of rule testing into hours and speed up track-limit calls. Will humans still have the final say?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7730074/2026/10/28/f1-fia-ai-aws-loopholes-track-limits/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Was Fernando Alonso's dig justified? Plus: Max Verstappen's out of the fight</title>
       <link>https://www.nytimes.com/athletic/7730229/2026/10/27/fernando-alonso-united-states-gp-back-grid-dig-prime-tire/</link>
@@ -176,13 +183,6 @@
       <description>When can Antonelli win the 2026 title? And what's going on with Ferrari's strategy? We cover all this and more in our latest mailbag...</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7692544/2026/10/16/f1-mailbag-2027-drivers-title-control-software/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>F1's African Grand Prix in Rwanda labelled 'morally indefensible' by DR Congo minister</title>
-      <link>https://www.nytimes.com/athletic/7692686/2026/10/15/dr-congo-rwanda-african-grand-prix-f1/</link>
-      <description>Kayikwamba Wagner has expressed concerns due to links between DR Congo rebel group M23 and the Rwandan government, which they deny.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7692686/2026/10/15/dr-congo-rwanda-african-grand-prix-f1/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
