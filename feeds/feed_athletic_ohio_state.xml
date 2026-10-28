@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:13:06 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who is Luke Fahey? Meet the 3-star freshman Ohio State's CFP hopes could be riding on</title>
+      <link>https://www.nytimes.com/athletic/7729465/2026/10/28/ohio-state-quarterback-luke-fahey-julian-sayin/</link>
+      <description>Five-star sophomore Tavien St. Clair was thought to be Ohio State's QB of the future, but the Buckeyes may turn to freshman Luke Fahey.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7729465/2026/10/28/ohio-state-quarterback-luke-fahey-julian-sayin/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why didn't Giants QB J.J. McCarthy wear his signature eye black vs. Texans?</title>
@@ -174,13 +181,6 @@
       <description>Smith is still favored to win the Heisman Trophy, but Mensah and Chambliss closed some ground in the odds.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7703132/2026/10/19/heisman-trophy-odds-mensah-chambliss-smith/</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7703631/2026/10/18/submit-a-question-for-stewart-mandels-college-football-mailbag-364/</link>
-      <description>Week 7 was as good as it gets. I may need a week to recover. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703631/2026/10/18/submit-a-question-for-stewart-mandels-college-football-mailbag-364/</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
