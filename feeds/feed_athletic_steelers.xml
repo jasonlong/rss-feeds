@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:14:30 +0000</lastBuildDate>
     <item>
       <title>NFL Week 8 Power Rankings: You Decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
@@ -18,6 +18,13 @@
       <title>NFL Simulator 2026: Live forecast of the playoff picture and outcomes for every team</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</guid>
+    </item>
+    <item>
+      <title>NFL Week 7 Quick Outs: J.J. McCarthy shows improvement, Steelers' O-line keeps rolling</title>
+      <link>https://www.nytimes.com/athletic/7729572/2026/10/28/nfl-week-7-recap-mccarthy-giants-steelers/</link>
+      <description>McCarthy finished 20-for-28 passing for 252 yards in his first Giants start, while Jaxon Smith-Njigba remains a coverage nightmare.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7729572/2026/10/28/nfl-week-7-recap-mccarthy-giants-steelers/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL Power Rankings: A new No. 1 for Week 8, plus something spooky about each team</title>
@@ -172,13 +179,6 @@
       <description>Over the past decade, Henry has found himself in an invaluable yet inescapable role.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7691693/2026/10/16/adam-henry-pittsburgh-steelers-receivers-coach/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With Steelers WR corps struck by injuries, how many questions can Germie Bernard answer?</title>
-      <link>https://www.nytimes.com/athletic/7691084/2026/10/15/germie-bernard-pittsburgh-steelers-wr-injuries/</link>
-      <description>The rookie receiver has a chance to capitalize on Sunday's breakout performance.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7691084/2026/10/15/germie-bernard-pittsburgh-steelers-wr-injuries/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
