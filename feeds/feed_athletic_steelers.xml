@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:14:25 +0000</lastBuildDate>
     <item>
       <title>NFL Week 8 Power Rankings: You Decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
@@ -18,6 +18,20 @@
       <title>NFL Simulator 2026: Live forecast of the playoff picture and outcomes for every team</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</guid>
+    </item>
+    <item>
+      <title>Why the Browns rematch will show exactly how far the Steelers offense has come</title>
+      <link>https://www.nytimes.com/athletic/7734164/2026/10/29/steelers-browns-rematch-man-coverage-aaron-rodgers/</link>
+      <description>How the offense fares against the man-coverage-happy Browns defense will be a litmus test for whether the Steelers' offense needs a change.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7734164/2026/10/29/steelers-browns-rematch-man-coverage-aaron-rodgers/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL Week 8 ATS picks: The peculiar case of Kevin O'Connell's undefeated Vikings</title>
+      <link>https://www.nytimes.com/athletic/7730149/2026/10/29/nfl-week-8-predictions-betting-picks/</link>
+      <description>The Vikings are the NFL's last unbeaten team, but O'Connell isn't getting much credit, and everyone seems to be picking the Lions this week.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7730149/2026/10/29/nfl-week-8-predictions-betting-picks/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL staff picks for Week 8: Vikings-Lions, Ravens-Bills, Chiefs-Broncos, Bears-Seahawks</title>
@@ -165,20 +179,6 @@
       <description>The matchup between Pittsburgh and New Orleans will be the first regular-season NFL game played in France.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings</title>
-      <link>https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/</link>
-      <description>From Seahawks-Broncos on Thursday through Commanders-49ers on Monday, Nick Kostos makes straight-up and spread picks for every Week 6 game.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AFC North Whiparound: Ravens are getting healthier, Steelers are surging and pressure on Chase Brown</title>
-      <link>https://www.nytimes.com/athletic/7692663/2026/10/16/afc-north-whiparound-bengals-browns-ravens-steelers-week-6/</link>
-      <description>Our AFC North writers address the most pressing questions and biggest storylines entering Week 6.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7692663/2026/10/16/afc-north-whiparound-bengals-browns-ravens-steelers-week-6/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
