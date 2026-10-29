@@ -1,11 +1,7 @@
 import logging
 
-from athletic_utils import (
-    fetch_blog_content,
-    generate_rss_feed,
-    parse_blog_posts,
-    save_rss_feed,
-)
+from athletic_utils import (fetch_blog_content, generate_rss_feed,
+                            parse_blog_posts, save_rss_feed)
 
 # Set up logging
 logging.basicConfig(
