@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:16:05 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football picks ATS Week 9: Georgia-Florida, Ohio State-USC, more</title>
+      <link>https://www.nytimes.com/athletic/7732916/2026/10/29/college-football-picks-spread-week-9-florida-georgia/</link>
+      <description>Here's how our staff picked Florida vs. Georgia, USC vs. Ohio State, Texas Tech vs. Arizona and other games against the spread.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7732916/2026/10/29/college-football-picks-spread-week-9-florida-georgia/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who is Luke Fahey? Meet the 3-star freshman Ohio State's CFP hopes could be riding on</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7703258/2026/10/19/college-football-midseason-138-team-rankings/</link>
       <description>The season's at its midpoint, and it’s not clear how good anyone is. We love it.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7703258/2026/10/19/college-football-midseason-138-team-rankings/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heisman Trophy odds: Darian Mensah, Trinidad Chambliss close in on Jeremiah Smith</title>
-      <link>https://www.nytimes.com/athletic/7703132/2026/10/19/heisman-trophy-odds-mensah-chambliss-smith/</link>
-      <description>Smith is still favored to win the Heisman Trophy, but Mensah and Chambliss closed some ground in the odds.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7703132/2026/10/19/heisman-trophy-odds-mensah-chambliss-smith/</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
