@@ -37,6 +37,13 @@ feeds_athletic_steelers: ## Generate RSS feed for The Athletic Pittsburgh Steele
 	$(Q)python feed_generators/athletic_steelers_blog.py
 	$(call print_success,The Athletic Pittsburgh Steelers feed generated)
 
+.PHONY: feeds_brandidentity
+feeds_brandidentity: ## Generate RSS feed for The Brand Identity Features
+	$(call check_venv)
+	$(call print_info,Generating The Brand Identity Features feed)
+	$(Q)python feed_generators/brandidentity_blog.py
+	$(call print_success,The Brand Identity Features feed generated)
+
 .PHONY: feeds_every_to
 feeds_every_to: ## Generate RSS feed for Every
 	$(call check_venv)

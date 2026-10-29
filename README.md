@@ -14,6 +14,7 @@
 | [Rauno – Craft](https://rauno.me/craft) | [feed_rauno_craft.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_rauno_craft.xml) |
 | [Rauno – Field Notes](https://rauno.me/notes) | [feed_rauno_notes.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_rauno_notes.xml) |
 | [Shu Ding – Thoughts](https://shud.in/thoughts) | [feed_shuding.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_shuding.xml) |
+| [The Brand Identity – Features](https://the-brandidentity.com/features) | [feed_brandidentity.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_brandidentity.xml) |
 | [Tom Sachs Store](https://store.tomsachs.com/) | [feed_tomsachs.xml](https://jasonlong.github.io/rss-feeds/feeds/feed_tomsachs.xml) |
 
 RSS feeds for sites that don't provide them. A GitHub Action runs hourly to regenerate feeds.
