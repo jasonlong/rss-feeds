@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Fernando Alonso says F1 has a driver quality problem, but the grid isn’t buying it</title>
+      <link>https://www.nytimes.com/athletic/7736740/2026/10/30/f1-fernando-alonso-driver-problem/</link>
+      <description>Alonso doubled down after his Austin clash with Albon, but Pérez, Leclerc and others say the back of the field is as strong as ever</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7736740/2026/10/30/f1-fernando-alonso-driver-problem/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Defying F1 retirement talk, Sergio Pérez is all-in on Cadillac. But for how long?</title>
       <link>https://www.nytimes.com/athletic/7732238/2026/10/28/sergio-perez-cadillac-f1-contract-retirement-talk/</link>
@@ -176,13 +183,6 @@
       <description>The F1 driver talks about his path in the sport, racing against championship leader Kimi Antonelli, last-minute airport arrivals and more.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7707572/2026/10/21/ollie-bearman-kimi-antonelli-haas-f1-team-12-questions/</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimi Antonelli could clinch the F1 title Sunday. But first, he’ll hand-wash his car</title>
-      <link>https://www.nytimes.com/athletic/7706594/2026/10/20/kimi-antonelli-f1-title-superstitions-mercedes/</link>
-      <description>After a rookie year that left him doubting himself, the Mercedes driver has found calm in routine, superstition and pranks</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7706594/2026/10/20/kimi-antonelli-f1-title-superstitions-mercedes/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to F1's new era of 'speed chess,' where every pass comes with a price</title>
