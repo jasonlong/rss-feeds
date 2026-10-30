@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:39:10 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>How to watch No. 2 Ohio State vs. USC: TV channel and streaming options for October 31</title>
+      <link>https://www.nytimes.com/athletic/7737206/2026/10/29/ohio-state-vs-usc-stream-how-to-watch-oct-31/</link>
+      <description>Find out how to watch the Ohio State Buckeyes play the USC Trojans, with time, TV channel and streaming information.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7737206/2026/10/29/ohio-state-vs-usc-stream-how-to-watch-oct-31/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How many games will Ohio State win without Julian Sayin? Predictions for USC and beyond</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7707857/2026/10/20/ohio-state-julian-sayin-injury-update/</link>
       <description>Sayin has not been officially ruled out for the season, but coach Ryan Day gave a more concerning update Tuesday.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7707857/2026/10/20/ohio-state-julian-sayin-injury-update/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who's winning the Heisman Trophy? Three WRs lead rankings after Week 7</title>
-      <link>https://www.nytimes.com/athletic/7707152/2026/10/20/heisman-trophy-rankings-week-7-jeremiah-smith-malachi-toney/</link>
-      <description>Jeremiah Smith, Jesse Legree and Malachi Toney have been the most outstanding players in college football in the eyes of our voters.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7707152/2026/10/20/heisman-trophy-rankings-week-7-jeremiah-smith-malachi-toney/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
