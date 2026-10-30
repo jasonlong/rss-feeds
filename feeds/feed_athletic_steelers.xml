@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:11:31 +0000</lastBuildDate>
     <item>
       <title>NFL Week 8 Power Rankings: You Decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
@@ -46,6 +46,13 @@
       <description>The undefeated Vikings are underdogs against a division foe plus the Seahawks take on the Bears on Monday night. Here are our staff picks.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7730468/2026/10/29/nfl-staff-picks-week-8-chiefs-broncos-bears-seahawks/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL spread, straight-up picks: Bengals, Patriots, Rams top Week 8 confidence rankings</title>
+      <link>https://www.nytimes.com/athletic/7732601/2026/10/28/nfl-spread-straight-up-picks-confidence-rankings-bengals-week-8/</link>
+      <description>Nick Kostos gives his confidence picks rankings for NFL Week 8 both straight-up and against the spread.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7732601/2026/10/28/nfl-spread-straight-up-picks-confidence-rankings-bengals-week-8/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL Week 7 Quick Outs: J.J. McCarthy shows improvement, Steelers' O-line keeps rolling</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/</link>
       <description>The Steelers offense struggled throughout the game but came alive in overtime.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike McCarthy spends halftime of Steelers-Bucs game in medical tent: 'I don't recommend it'</title>
-      <link>https://www.nytimes.com/athletic/7702079/2026/10/18/mike-mccarthy-injury-halftime-medical-tent-steelers/</link>
-      <description>The Steelers coach had his foot stepped on and never went to the locker room at halftime during Pittsburgh's OT win on the road.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7702079/2026/10/18/mike-mccarthy-injury-halftime-medical-tent-steelers/</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
