@@ -8,17 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:13:16 +0000</lastBuildDate>
-    <item>
-      <title>How to Get B etter at AI by Asking AI</title>
-      <link>https://every.to/p/codex-graded-my-ai-habits-then-it-became-my-coach</link>
-      <guid isPermaLink="false">https://every.to/p/codex-graded-my-ai-habits-then-it-became-my-coach</guid>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 16:14:59 +0000</lastBuildDate>
     <item>
       <title>Dots: A Guide for Putting OpenAI’s Always-on Agents to Work</title>
       <link>https://every.to/guides/openai-dots-guide</link>
       <description>How Every’s team uses Dots to catch mistakes, answer email, book appointments, and run tasks from Slack</description>
       <guid isPermaLink="false">https://every.to/guides/openai-dots-guide</guid>
+    </item>
+    <item>
+      <title>What Karl Marx Would Say About My Coding Agents</title>
+      <link>https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents</link>
+      <description>Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand</description>
+      <guid isPermaLink="false">https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>My First Week With an AI Coworker</title>
@@ -96,6 +98,13 @@
       <description>An agentic coworker in Slack built to be the fastest way to AI-pill your company</description>
       <guid isPermaLink="false">https://every.to/on-every/introducing-the-every-agent</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Get Better at AI by Asking AI</title>
+      <link>https://every.to/p/codex-graded-my-ai-habits-then-it-became-my-coach</link>
+      <description>Five prompts that took me from one-off chats to delegating whole projects to teams of agents</description>
+      <guid isPermaLink="false">https://every.to/p/codex-graded-my-ai-habits-then-it-became-my-coach</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Good Writing With AI Starts Before the Prompt</title>
