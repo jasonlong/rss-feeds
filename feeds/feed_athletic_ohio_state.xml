@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:10:39 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Ohio State lost at USC because of problems that go way beyond Luke Fahey</title>
+      <link>https://www.nytimes.com/athletic/7743582/2026/11/01/ohio-state-football-luke-fahey-bigger-problems/</link>
+      <description>With two losses entering November, the Buckeyes are no longer working with a slim margin for error. It’s non-existent.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7743582/2026/11/01/ohio-state-football-luke-fahey-bigger-problems/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Big Ten removes its mask to reveal frighteningly unsightly football and … two Playoff teams?</title>
@@ -174,13 +181,6 @@
       <description>Players, coaches and fans do strange things during rivalries when there’s hardware on the line.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7708290/2026/10/24/college-football-top-25-rivalry-trophies-rankings/</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State may have lost its starting QB, but the defense can carry it to the Playoff</title>
-      <link>https://www.nytimes.com/athletic/7716858/2026/10/23/ohio-state-defense-julian-sayin-injury/</link>
-      <description>Ohio State's revamped defense is playing better every week, giving the Buckeyes hope they can overcome Julian Sayin's injury.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7716858/2026/10/23/ohio-state-defense-julian-sayin-injury/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
