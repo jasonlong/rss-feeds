@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 03:16:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:14:39 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Biggest USC win under Lincoln Riley puts Ohio State in rare territory on Playoff bubble</title>
+      <link>https://www.nytimes.com/athletic/7742858/2026/10/31/ohio-state-usc-score-recap-football/</link>
+      <description>USC toppled No. 2 Ohio State 30-18 on Saturday night as the Buckeyes played without Julian Sayin. Their problems extended beyond the QB.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7742858/2026/10/31/ohio-state-usc-score-recap-football/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Big Ten's messy College Football Playoff picture and the teams still hoping to stay in it</title>
@@ -174,13 +181,6 @@
       <description>Undefeated UCLA leads the way with four selections followed by defending national champion Indiana with three.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7710399/2026/10/22/college-football-best-transfers-2026-mensah-gilliam/</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football midseason All-America teams: Jeremiah Smith, Colin Simmons lead first-half stars</title>
-      <link>https://www.nytimes.com/athletic/7708206/2026/10/21/college-football-all-america-teams-midseason-2026/</link>
-      <description>The 50 players on this list come from 34 different programs, with no team having more than three representatives.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7708206/2026/10/21/college-football-all-america-teams-midseason-2026/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
