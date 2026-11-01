@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 11:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:16:42 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Big Ten removes its mask to reveal frighteningly unsightly football and … two Playoff teams?</title>
+      <link>https://www.nytimes.com/athletic/7742892/2026/11/01/big-ten-college-football-playoff-indiana/</link>
+      <description>It was an awful Halloween of football for a conference that should scare no one but Tony Petitti, at this point.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7742892/2026/11/01/big-ten-college-football-playoff-indiana/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>College Football Playoff bracket prediction: Who's rising, falling after Week 9?</title>
+      <link>https://www.nytimes.com/athletic/7743109/2026/11/01/college-football-playoff-bracket-projection-week-9/</link>
+      <description>No. 1 Miami hung on to stay unbeaten, but No. 2 Ohio State is tumbling in College Football Playoff bracket projections.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7743109/2026/11/01/college-football-playoff-bracket-projection-week-9/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What we learned about the College Football Playoff race: What now, Ohio State?</title>
@@ -166,20 +180,6 @@
       <link>https://www.nytimes.com/athletic/7716858/2026/10/23/ohio-state-defense-julian-sayin-injury/</link>
       <description>Ohio State's revamped defense is playing better every week, giving the Buckeyes hope they can overcome Julian Sayin's injury.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7716858/2026/10/23/ohio-state-defense-julian-sayin-injury/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Overrated or underrated? Unpacking the Big Ten’s midseason identity crisis</title>
-      <link>https://www.nytimes.com/athletic/7715394/2026/10/23/big-10-overrated-underrated-ucla-ohio-state-michigan/</link>
-      <description>How should the conference be regarded at midseason? Like throughout college football, the answer remains ambiguous.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7715394/2026/10/23/big-10-overrated-underrated-ucla-ohio-state-michigan/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Midseason College Football Playoff, Heisman and bold predictions: How much has changed?</title>
-      <link>https://www.nytimes.com/athletic/7714848/2026/10/23/college-football-playoff-midseason-predictions-heisman/</link>
-      <description>Who will win the national championship? Can Jeremiah Smith take home the Heisman? And what will happen to Arch Manning and Texas?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7714848/2026/10/23/college-football-playoff-midseason-predictions-heisman/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
