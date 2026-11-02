@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:11:07 +0000</lastBuildDate>
+    <item>
+      <title>What AI Is Teaching Us About Management</title>
+      <link>https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun</link>
+      <description>The skills that make AI agents reliable are identical to the skills that make human teams effective </description>
+      <guid isPermaLink="false">https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Agents Choose What You Read Now</title>
       <link>https://every.to/context-window/agents-choose-what-you-read-now</link>
@@ -50,13 +57,6 @@
       <description>Its IPO filing reveals a remarkable business—and how much has to go right to justify its price</description>
       <guid isPermaLink="false">https://every.to/napkin-math/is-anthropic-worth-2-trillion</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic’s Duet Gets to Work</title>
-      <link>https://every.to/context-window/anthropic-s-duet-gets-to-work</link>
-      <description>Plus: Why Plus One gave way to a shared agent, our frontier team’s latest experiments, and Mike Taylor's new book on DSPy</description>
-      <guid isPermaLink="false">https://every.to/context-window/anthropic-s-duet-gets-to-work</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>🎧 Keeping Up With AI Is a Full-time Job</title>
