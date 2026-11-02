@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:12:14 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams ahead of the most pivotal weekend of the season</title>
+      <link>https://www.nytimes.com/athletic/7746438/2026/11/02/college-football-fbs-rankings-138-teams/</link>
+      <description>If you don’t like your team’s ranking, just wait. There’s a good chance the opportunity to prove it wrong will come this Saturday.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7746438/2026/11/02/college-football-fbs-rankings-138-teams/</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -174,13 +181,6 @@
       <description>Eight weeks in, only three teams haven’t lost. That’s some crazy parity. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7725666/2026/10/26/submit-a-question-for-stewart-mandels-college-football-mailbag-365/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: BYU tumbles below Notre Dame as Utah, UCLA rise in college football rankings</title>
-      <link>https://www.nytimes.com/athletic/7722928/2026/10/25/ap-top-25-college-football-week-8/</link>
-      <description>Miami leads Ohio State, Georgia, Indiana and Notre Dame in the latest AP Top 25 college football rankings after an upset-filled Week 8.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7722928/2026/10/25/ap-top-25-college-football-week-8/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
