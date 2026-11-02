@@ -8,9 +8,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 23:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:34:28 +0000</lastBuildDate>
     <item>
-      <title>How Kimi Antonelli became Formula 1’s youngest champion, surprising even himself</title>
+      <title>Kimi Antonelli wins the F1 title: Submit your questions for our F1 mailbag</title>
+      <link>https://www.nytimes.com/athletic/7745866/2026/11/01/kimi-antonelli-f1-title-mailbag/</link>
+      <description>What’s on your mind after the Mexico Grand Prix? Send us your questions and we’ll answer</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7745866/2026/11/01/kimi-antonelli-f1-title-mailbag/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Kimi Antonelli’s unexpected run to becoming Formula 1’s youngest champion</title>
       <link>https://www.nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story/</link>
       <description>Kimi Antonelli has sealed the 2026 F1 world title in just his second season. The story of his campaign is just as sensational.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story/</guid>
@@ -168,13 +175,6 @@
       <link>https://www.nytimes.com/athletic/7724307/2026/10/25/us-grand-prix-briefing-kimi-antonelli-wins/</link>
       <description>Results further down the order meant that Antonelli did not win the title in Austin, though he has the chance to seal it in Mexico City.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7724307/2026/10/25/us-grand-prix-briefing-kimi-antonelli-wins/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the home of F1’s U.S. Grand Prix wants a second race track</title>
-      <link>https://www.nytimes.com/athletic/7721839/2026/10/25/cota-second-race-track-f1-us-grand-prix-austin/</link>
-      <description>Hosting F1, MotoGP and Taylor Swift has made the track a tough fit for car clubs. The answer: build a smaller, cheaper one next door</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7721839/2026/10/25/cota-second-race-track-f1-us-grand-prix-austin/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
