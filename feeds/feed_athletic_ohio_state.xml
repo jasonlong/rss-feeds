@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:14:43 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Heisman Trophy odds after Week 9: Darian Mensah new favorite after Jeremiah Smith, OSU loses</title>
+      <link>https://www.nytimes.com/athletic/7745924/2026/11/02/heisman-trophy-odds-week-9-darian-mensah-jeremiah-smith/</link>
+      <description>Miami's Darian Mensah has taken the top spot in the Heisman race from Jeremiah Smith. Malachi Toney is also close in the odds.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7745924/2026/11/02/heisman-trophy-odds-week-9-darian-mensah-jeremiah-smith/</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Can Ohio State win with Luke Fahey? What he did well at USC and what he must improve</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7725752/2026/10/26/college-football-teams-ranking-week-8/</link>
       <description>The Longhorns have some of the best wins in the country and two baffling losses, which encapsulates the 2026 college football season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7725752/2026/10/26/college-football-teams-ranking-week-8/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heisman Trophy odds: Can Darian Mensah and Malachi Toney catch Jeremiah Smith?</title>
-      <link>https://www.nytimes.com/athletic/7723945/2026/10/26/heisman-trophy-odds-darian-mensah-malachi-toney-miami/</link>
-      <description>Jeremiah Smith is still the favorite to win the Heisman Trophy, but a pair of Miami Hurricane stars had big games to narrow the gap.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7723945/2026/10/26/heisman-trophy-odds-darian-mensah-malachi-toney-miami/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
