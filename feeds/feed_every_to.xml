@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:13:54 +0000</lastBuildDate>
+    <item>
+      <title>How I Escaped AI Autopilot</title>
+      <link>https://every.to/working-overtime/how-i-escaped-ai-autopilot-rerun</link>
+      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it.</description>
+      <guid isPermaLink="false">https://every.to/working-overtime/how-i-escaped-ai-autopilot-rerun</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What AI Is Teaching Us About Management</title>
       <link>https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun</link>
@@ -50,13 +57,6 @@
       <description>The seven rules for getting Claude and ChatGPT to cite you based on 2,484 tests</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/how-to-get-ai-agents-to-recommend-your-articles</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Anthropic Worth $2 Trillion?</title>
-      <link>https://every.to/napkin-math/is-anthropic-worth-2-trillion</link>
-      <description>Its IPO filing reveals a remarkable business—and how much has to go right to justify its price</description>
-      <guid isPermaLink="false">https://every.to/napkin-math/is-anthropic-worth-2-trillion</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>🎧 Keeping Up With AI Is a Full-time Job</title>
