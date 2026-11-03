@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:12:42 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff rankings prediction: What will the committee's first Top 25 be?</title>
+      <link>https://www.nytimes.com/athletic/7749032/2026/11/03/college-football-playoff-predictions-bracket/</link>
+      <description>The first College Football Playoff rankings of the 2026 season will be revealed at 7 p.m. ET Tuesday. Here's what our model predicts.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7749032/2026/11/03/college-football-playoff-predictions-bracket/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who's winning the Heisman Trophy after Week 9? Ranking the top 7 players</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7729690/2026/10/27/ohio-state-starting-qb-usc-fahey-st-clair/</link>
       <description>Freshman Luke Fahey replaced Sayin during Ohio State's win at Indiana, but Day has yet to name him the new starter over Tavien St. Clair.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7729690/2026/10/27/ohio-state-starting-qb-usc-fahey-st-clair/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who's winning the Heisman Trophy? Ranking the top contenders after Week 8</title>
-      <link>https://www.nytimes.com/athletic/7727457/2026/10/27/heisman-trophy-rankings-malachi-toney-jeremiah-smith/</link>
-      <description>While Jeremiah Smith was off last week, Miami's Malachi Toney made up ground in the race to crown college football's most outstanding player</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7727457/2026/10/27/heisman-trophy-rankings-malachi-toney-jeremiah-smith/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
