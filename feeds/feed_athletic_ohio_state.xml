@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:17:39 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who's winning the Heisman Trophy after Week 9? Ranking the top 7 players</title>
+      <link>https://www.nytimes.com/athletic/7749077/2026/11/03/heisman-watch-2026-jeremiah-smith-malachi-toney/</link>
+      <description>Can Ohio State wide receiver Jeremiah Smith hold off the Miami duo of Malachi Toney and Darian Mensah in the race for the Heisman Trophy?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7749077/2026/11/03/heisman-watch-2026-jeremiah-smith-malachi-toney/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kyle Whittingham is right about Michigan's biggest rivalry game ... but maybe not this year</title>
+      <link>https://www.nytimes.com/athletic/7748868/2026/11/03/michigan-msu-osu-rivalries-kye-whittingham/</link>
+      <description>Unfortunately for Whittingham, this might be the rare year where beating Michigan State is more important than Ohio State.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7748868/2026/11/03/michigan-msu-osu-rivalries-kye-whittingham/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff odds: Ohio State appears safe for now despite USC loss</title>
@@ -167,20 +181,6 @@
       <description>While Jeremiah Smith was off last week, Miami's Malachi Toney made up ground in the race to crown college football's most outstanding player</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7727457/2026/10/27/heisman-trophy-rankings-malachi-toney-jeremiah-smith/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff odds: Georgia is national title favorite, Texas projected to make 12-team field</title>
-      <link>https://www.nytimes.com/athletic/7727202/2026/10/27/college-football-playoff-odds-georgia-texas-alabama/</link>
-      <description>A number of upsets shook up the College Football Playoff race, but there are 12 teams at even money or better to make the field.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7727202/2026/10/27/college-football-playoff-odds-georgia-texas-alabama/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football bowl projections: 15 ranked teams lost in two weeks. Now what?</title>
-      <link>https://www.nytimes.com/athletic/7725648/2026/10/26/college-football-bowl-projections-week-8/</link>
-      <description>The last two weeks upended the top of the sport. What does bowl season look like after the bedlam?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7725648/2026/10/26/college-football-bowl-projections-week-8/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
