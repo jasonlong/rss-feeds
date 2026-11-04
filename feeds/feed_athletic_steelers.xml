@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:13:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:12:21 +0000</lastBuildDate>
     <item>
       <title>NFL Week 9 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-9/</link>
@@ -25,11 +25,18 @@
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
     </item>
     <item>
-      <title>Kyler Murray's woes and how the Lions cracked the Vikings' defense: Week 8 film review</title>
-      <link>https://www.nytimes.com/athletic/7746830/2026/11/03/week-8-film-review-vikings-lions-kyler-murray/</link>
-      <description>Also, what the Steelers need to be Super Bowl contenders and Cam Ward shows progress in career-best game.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7746830/2026/11/03/week-8-film-review-vikings-lions-kyler-murray/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <title>How Patrick Graham turned the Steelers defense into one of the NFL's best</title>
+      <link>https://www.nytimes.com/athletic/7752019/2026/11/04/patrick-graham-pittsburgh-steelers-defense/</link>
+      <description>After a Thursday night meltdown in Cleveland, Pittsburgh's defense has been one of the NFL's best.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7752019/2026/11/04/patrick-graham-pittsburgh-steelers-defense/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which NFL teams should be buyers, sellers or stand pat at the trade deadline?</title>
+      <link>https://www.nytimes.com/athletic/7750337/2026/11/04/nfl-trade-deadline-team-buyers-sellers/</link>
+      <description>Plenty of potential buyers — the Chiefs, Bengals, Bears and Rams among them — are looking for a move to strengthen their playoff push.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7750337/2026/11/04/nfl-trade-deadline-team-buyers-sellers/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL Power Rankings: Broncos bullish, Vikings sinking as we offer Week 9 reality checks</title>
@@ -169,13 +176,6 @@
       <link>https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/</link>
       <description>NFL VP Peter O'Reilly said Tuesday that the league has been working with local authorities to prepare security Sunday's game.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Week 7 NFL power rankings: Bears bounce back as Seahawks, Rams, Eagles continue free fall</title>
-      <link>https://www.nytimes.com/athletic/7704974/2026/10/20/nfl-power-rankings-week-7-bears-seahawks-rams-eagles/</link>
-      <description>Caleb Williams returned with a flourish, but the Seahawks, Rams and Eagles continue to drop as we identify a fantasy standout for each team.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7704974/2026/10/20/nfl-power-rankings-week-7-bears-seahawks-rams-eagles/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
