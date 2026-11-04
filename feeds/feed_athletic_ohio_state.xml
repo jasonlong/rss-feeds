@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:17:49 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff Bubble Watch: Which teams have most at stake in a stacked Week 10?</title>
+      <link>https://www.nytimes.com/athletic/7752747/2026/11/04/college-football-playoff-bubble-watch/</link>
+      <description>Saturday has seven matchups between ranked teams, all including teams near the College Football Playoff bubble.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7752747/2026/11/04/college-football-playoff-bubble-watch/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ohio State is first team out of College Football Playoff rankings. What happens next?</title>
+      <link>https://www.nytimes.com/athletic/7752084/2026/11/04/ohio-state-ranking-college-football-playoff/</link>
+      <description>Where Ohio State stands in the College Football Playoff picture after a rare second loss heading into November.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7752084/2026/11/04/ohio-state-ranking-college-football-playoff/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What would a 24-team College Football Playoff look like after Tuesday's rankings?</title>
@@ -167,20 +181,6 @@
       <description>Some of the top programs in the sport will be in need of an experienced quarterback when the portal opens in January.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7732345/2026/10/29/transfer-portal-quarterback-teams-in-need/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football picks ATS Week 9: Georgia-Florida, Ohio State-USC, more</title>
-      <link>https://www.nytimes.com/athletic/7732916/2026/10/29/college-football-picks-spread-week-9-florida-georgia/</link>
-      <description>Here's how our staff picked Florida vs. Georgia, USC vs. Ohio State, Texas Tech vs. Arizona and other games against the spread.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7732916/2026/10/29/college-football-picks-spread-week-9-florida-georgia/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is Luke Fahey? Meet the 3-star freshman Ohio State's CFP hopes could be riding on</title>
-      <link>https://www.nytimes.com/athletic/7729465/2026/10/28/ohio-state-quarterback-luke-fahey-julian-sayin/</link>
-      <description>Five-star sophomore Tavien St. Clair was thought to be Ohio State's QB of the future, but the Buckeyes may turn to freshman Luke Fahey.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7729465/2026/10/28/ohio-state-quarterback-luke-fahey-julian-sayin/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
