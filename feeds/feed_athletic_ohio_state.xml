@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 03:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:14:44 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>USC's Lincoln Riley on heated exchange with Ohio State AD: 'It's a non-issue'</title>
+      <link>https://www.nytimes.com/athletic/7752150/2026/11/03/usc-lincoln-riley-confrontation-ohio-state-athletic-director/</link>
+      <description>Coach Riley shouted some expletives toward Ross Bjork after the Trojans' win Saturday and said it was "typical emotions after the game."</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7752150/2026/11/03/usc-lincoln-riley-confrontation-ohio-state-athletic-director/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Miami tops first College Football Playoff rankings, with Alabama, Notre Dame among surprises</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7727326/2026/10/27/new-york-giants-j-j-mccarthy-eye-black-michigan-ohio-state-c-j-stroud/</link>
       <description>It's a Michigan-Ohio State thing.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7727326/2026/10/27/new-york-giants-j-j-mccarthy-eye-black-michigan-ohio-state-c-j-stroud/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who will Ohio State start at QB vs. USC with Julian Sayin out? Ryan Day isn't saying</title>
-      <link>https://www.nytimes.com/athletic/7729690/2026/10/27/ohio-state-starting-qb-usc-fahey-st-clair/</link>
-      <description>Freshman Luke Fahey replaced Sayin during Ohio State's win at Indiana, but Day has yet to name him the new starter over Tavien St. Clair.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7729690/2026/10/27/ohio-state-starting-qb-usc-fahey-st-clair/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
