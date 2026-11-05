@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:17:45 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>How serious are Ohio State's problems ahead of Oregon? Separating fact vs. fiction</title>
+      <link>https://www.nytimes.com/athletic/7754786/2026/11/05/ohio-state-problems-stats-oregon/</link>
+      <description>From the red zone to the offensive line to defensive lapses, digging into the problems facing Ohio State down the stretch.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7754786/2026/11/05/ohio-state-problems-stats-oregon/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Miami damages Notre Dame's CFP hopes: College football Week 10 oddly specific predictions</title>
+      <link>https://www.nytimes.com/athletic/7754346/2026/11/05/college-football-predictions-week-10-miami/</link>
+      <description>The CFP committee showed its love of the SEC on Tuesday, but the No. 1 team comes from the ACC — and will remain No. 1 after this weekend.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7754346/2026/11/05/college-football-predictions-week-10-miami/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football picks ATS Week 10: Notre Dame-Miami, LSU-Alabama, Utah-BYU, more</title>
@@ -167,20 +181,6 @@
       <description>How will Ohio State fare minus Julian Sayin at USC? Which Florida team shows up against Georgia in Atlanta?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7736365/2026/10/30/college-football-top-games-week-9/</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How many games will Ohio State win without Julian Sayin? Predictions for USC and beyond</title>
-      <link>https://www.nytimes.com/athletic/7733444/2026/10/29/ohio-state-football-predictions-schedule-2026/</link>
-      <description>With Sayin injured and some Big Ten teams faltering, Ohio State's season looks different than we thought. But does that change predictions?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7733444/2026/10/29/ohio-state-football-predictions-schedule-2026/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wisconsin wins again! USC loses again! College football Week 9 oddly specific predictions</title>
-      <link>https://www.nytimes.com/athletic/7733312/2026/10/29/college-football-week-9-predictions/</link>
-      <description>Can Florida play its way back into the SEC title race? Can Clemson win at Florida State in a game that used to have national relevance?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7733312/2026/10/29/college-football-week-9-predictions/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
