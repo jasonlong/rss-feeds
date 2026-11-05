@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 10:13:06 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football picks ATS Week 10: Notre Dame-Miami, LSU-Alabama, Utah-BYU, more</title>
+      <link>https://www.nytimes.com/athletic/7754117/2026/11/05/college-football-picks-spread-week-10-miami-notre-dame-lsu-alabama/</link>
+      <description>It's a huge week in college football and our staff has made picks against the spread for the biggest matchups.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7754117/2026/11/05/college-football-picks-spread-week-10-miami-notre-dame-lsu-alabama/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heading to Ohio State for a football game? What to do, eat, drink and see in Columbus</title>
+      <link>https://www.nytimes.com/athletic/7753343/2026/11/05/ohio-state-football-travel-guide-restaurants/</link>
+      <description>Our travel guide for heading to Columbus for an Ohio State football game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7753343/2026/11/05/ohio-state-football-travel-guide-restaurants/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff Bubble Watch: Which teams have most at stake in a stacked Week 10?</title>
@@ -166,20 +180,6 @@
       <link>https://www.nytimes.com/athletic/7733312/2026/10/29/college-football-week-9-predictions/</link>
       <description>Can Florida play its way back into the SEC title race? Can Clemson win at Florida State in a game that used to have national relevance?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7733312/2026/10/29/college-football-week-9-predictions/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In sports, money talks. It’s why we’re hearing unnecessary apologies</title>
-      <link>https://www.nytimes.com/athletic/7732513/2026/10/29/pat-mcafee-utah-kylian-mbappe-apology/</link>
-      <description>Both the University of Utah and Kylian Mbappe apologized this week after seemingly playful acts and comments. They yielded to the dollar.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7732513/2026/10/29/pat-mcafee-utah-kylian-mbappe-apology/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Which teams will be in the market for a transfer QB? Plus Group of 6 players to watch: Portal Buzz</title>
-      <link>https://www.nytimes.com/athletic/7732345/2026/10/29/transfer-portal-quarterback-teams-in-need/</link>
-      <description>Some of the top programs in the sport will be in need of an experienced quarterback when the portal opens in January.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7732345/2026/10/29/transfer-portal-quarterback-teams-in-need/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
