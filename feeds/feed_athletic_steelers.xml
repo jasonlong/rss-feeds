@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 10:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:11:09 +0000</lastBuildDate>
     <item>
       <title>NFL Week 9 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-9/</link>
@@ -23,6 +23,13 @@
       <title>NFL Week 8 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
+    </item>
+    <item>
+      <title>Drafting the first-year NFL coordinators: Who is making a real impact?</title>
+      <link>https://www.nytimes.com/athletic/7753441/2026/11/05/nfl-first-year-coordinators-ranked-declay-doyle-jonathan-gannon/</link>
+      <description>Jourdan Rodrigue and Ted Nguyen have their say on the best showings so far by the dozens of new NFL coordinators.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7753441/2026/11/05/nfl-first-year-coordinators-ranked-declay-doyle-jonathan-gannon/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How Patrick Graham turned the Steelers defense into one of the NFL's best</title>
@@ -170,13 +177,6 @@
       <description>Plus, sorting out the WR depth chart once everyone's healthy, T.J. Watt's future and more.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL will proceed with plans for Steelers-Saints game in Paris despite unrest</title>
-      <link>https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/</link>
-      <description>NFL VP Peter O'Reilly said Tuesday that the league has been working with local authorities to prepare security Sunday's game.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
