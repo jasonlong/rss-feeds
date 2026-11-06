@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:17:07 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projection bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Week 10’s top 10 college football games: The best Saturday of the season</title>
+      <link>https://www.nytimes.com/athletic/7756652/2026/11/06/college-football-week-10-predictions-notre-dame-miami/</link>
+      <description>Welcome to the best and biggest college football Saturday of the season, featuring seven College Football Playoff-ranked matchups.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7756652/2026/11/06/college-football-week-10-predictions-notre-dame-miami/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pressure is on Ryan Day and Ohio State. How will the Buckeyes respond?</title>
+      <link>https://www.nytimes.com/athletic/7757156/2026/11/06/ohio-state-oregon-ryan-day-pressure/</link>
+      <description>"Everybody understands what's at stake," Day said of Saturday's game at Oregon. "They understand that our backs are up against the wall."</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7757156/2026/11/06/ohio-state-oregon-ryan-day-pressure/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How serious are Ohio State's problems ahead of Oregon? Separating fact vs. fiction</title>
@@ -167,20 +181,6 @@
       <description>USC toppled No. 2 Ohio State 30-18 on Saturday night as the Buckeyes played without Julian Sayin. Their problems extended beyond the QB.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7742858/2026/10/31/ohio-state-usc-score-recap-football/</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Big Ten's messy College Football Playoff picture and the teams still hoping to stay in it</title>
-      <link>https://www.nytimes.com/athletic/7734349/2026/10/30/big-ten-college-football-playoff-race-odds/</link>
-      <description>The 18-team league has nine teams with two losses or less, but several need a November revival and serious chaos to dream of a CFP spot.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7734349/2026/10/30/big-ten-college-football-playoff-race-odds/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football Week 9 top 10 games: Florida-Georgia, Ohio State-USC and more</title>
-      <link>https://www.nytimes.com/athletic/7736365/2026/10/30/college-football-top-games-week-9/</link>
-      <description>How will Ohio State fare minus Julian Sayin at USC? Which Florida team shows up against Georgia in Atlanta?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7736365/2026/10/30/college-football-top-games-week-9/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
