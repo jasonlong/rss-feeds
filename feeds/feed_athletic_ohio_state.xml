@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:34:35 +0000</lastBuildDate>
     <item>
-      <title>2026 College Football Playoff projection bracket</title>
+      <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>What happened to Ohio State? Preseason No. 1 falls apart in shambolic loss to Oregon</title>
+      <link>https://www.nytimes.com/athletic/7762176/2026/11/07/ohio-state-oregon-football-score-results-ryan-day/</link>
+      <description>Ohio State jumped out to a 14-0 lead but gave up 38 straight points to Oregon in a deflating home loss. What now for the Buckeyes?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7762176/2026/11/07/ohio-state-oregon-football-score-results-ryan-day/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff Bubble Watch: Which teams have most at stake in a stacked Week 10?</title>
@@ -174,13 +181,6 @@
       <description>This college football season is all about surviving and advancing. Here's how Week 9 shook up the Playoff race.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7743133/2026/11/01/college-football-playoff-race-ohio-state/</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biggest USC win under Lincoln Riley puts Ohio State in rare territory on Playoff bubble</title>
-      <link>https://www.nytimes.com/athletic/7742858/2026/10/31/ohio-state-usc-score-recap-football/</link>
-      <description>USC toppled No. 2 Ohio State 30-18 on Saturday night as the Buckeyes played without Julian Sayin. Their problems extended beyond the QB.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7742858/2026/10/31/ohio-state-usc-score-recap-football/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
