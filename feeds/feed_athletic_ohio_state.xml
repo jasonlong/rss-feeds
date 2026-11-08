@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:09:31 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Did Notre Dame, Alabama lock up College Football Playoff bids? What we learned in Week 10</title>
+      <link>https://www.nytimes.com/athletic/7762714/2026/11/08/college-football-playoff-thoughts-notre-dame-alabama/</link>
+      <description>The biggest weekend of the season rearranged the College Football Playoff race and provided a clear national championship favorite.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7762714/2026/11/08/college-football-playoff-thoughts-notre-dame-alabama/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Everything Ohio State did this offseason was wrong. And it falls on Ryan Day</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7742892/2026/11/01/big-ten-college-football-playoff-indiana/</link>
       <description>It was an awful Halloween of football for a conference that should scare no one but Tony Petitti, at this point.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7742892/2026/11/01/big-ten-college-football-playoff-indiana/</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff bracket prediction: Who's rising, falling after Week 9?</title>
-      <link>https://www.nytimes.com/athletic/7743109/2026/11/01/college-football-playoff-bracket-projection-week-9/</link>
-      <description>No. 1 Miami hung on to stay unbeaten, but No. 2 Ohio State is tumbling in College Football Playoff bracket projections.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7743109/2026/11/01/college-football-playoff-bracket-projection-week-9/</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
