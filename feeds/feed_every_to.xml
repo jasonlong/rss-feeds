@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:10:17 +0000</lastBuildDate>
+    <item>
+      <title>What You May Have Missed at Thesis: 2027</title>
+      <link>https://every.to/context-window/what-you-may-have-missed-at-thesis-2027</link>
+      <description>New ways to organize work, old questions about the meaning of art, and difficult choices about what comes next</description>
+      <guid isPermaLink="false">https://every.to/context-window/what-you-may-have-missed-at-thesis-2027</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why Some AI Workflows Stick—And Others Don’t</title>
       <link>https://every.to/working-overtime/why-some-ai-workflows-stick-and-others-don-t-rerun</link>
@@ -43,13 +50,6 @@
       <description>Plus: Every automates our memes, an Emmy-winning TV writer’s AI writers’ room, and what Anthropic’s buy of a one-person biotech means</description>
       <guid isPermaLink="false">https://every.to/context-window/agents-choose-what-you-read-now</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Karl Marx Would Say About My Coding Agents</title>
-      <link>https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents</link>
-      <description>Four ways AI disconnects you from your code—and when to automate, supervise, or code by hand</description>
-      <guid isPermaLink="false">https://every.to/source-code/what-karl-marx-would-say-about-my-coding-agents</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Every Model Has a Six-month Shelf Life Now</title>
