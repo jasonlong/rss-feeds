@@ -8,7 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:11:20 +0000</lastBuildDate>
+    <item>
+      <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
+      <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
+    </item>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
@@ -173,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7743582/2026/11/01/ohio-state-football-luke-fahey-bigger-problems/</link>
       <description>With two losses entering November, the Buckeyes are no longer working with a slim margin for error. It’s non-existent.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7743582/2026/11/01/ohio-state-football-luke-fahey-bigger-problems/</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Ten removes its mask to reveal frighteningly unsightly football and … two Playoff teams?</title>
-      <link>https://www.nytimes.com/athletic/7742892/2026/11/01/big-ten-college-football-playoff-indiana/</link>
-      <description>It was an awful Halloween of football for a conference that should scare no one but Tony Petitti, at this point.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7742892/2026/11/01/big-ten-college-football-playoff-indiana/</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
