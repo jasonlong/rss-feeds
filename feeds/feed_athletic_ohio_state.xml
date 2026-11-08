@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 19:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:10:45 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>AP Top 25: Georgia returns to No. 1 as Ohio State plummets in college football rankings</title>
+      <link>https://www.nytimes.com/athletic/7763661/2026/11/08/ap-top-25-college-football-week-10/</link>
+      <description>Georgia is No. 1 in the latest AP Top 25 college football rankings, followed by Utah, Notre Dame, UCLA and Miami.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7763661/2026/11/08/ap-top-25-college-football-week-10/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Did Notre Dame, Alabama lock up College Football Playoff bids? What we learned in Week 10</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7743735/2026/11/01/ap-top-25-college-football-week-9/</link>
       <description>Miami remains No. 1 in the AP Top 25 college football poll, ahead of Georgia, Utah, Notre Dame and UCLA in the fop five.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7743735/2026/11/01/ap-top-25-college-football-week-9/</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State lost at USC because of problems that go way beyond Luke Fahey</title>
-      <link>https://www.nytimes.com/athletic/7743582/2026/11/01/ohio-state-football-luke-fahey-bigger-problems/</link>
-      <description>With two losses entering November, the Buckeyes are no longer working with a slim margin for error. It’s non-existent.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7743582/2026/11/01/ohio-state-football-luke-fahey-bigger-problems/</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
