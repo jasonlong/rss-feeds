@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:12:12 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams after Week 10: Is Georgia's title run inevitable?</title>
+      <link>https://www.nytimes.com/athletic/7765710/2026/11/09/college-football-rankings-georgia-title/</link>
+      <description>Georgia's rout at Ole Miss vaulted the Dawgs to No. 1. Is a familiar ending to a college football season coming into focus?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7765710/2026/11/09/college-football-rankings-georgia-title/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7746438/2026/11/02/college-football-fbs-rankings-138-teams/</link>
       <description>If you don’t like your team’s ranking, just wait. There’s a good chance the opportunity to prove it wrong will come this Saturday.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7746438/2026/11/02/college-football-fbs-rankings-138-teams/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7746792/2026/11/02/submit-a-question-for-stewart-mandels-college-football-mailbag-366/</link>
-      <description>I’ve been looking forward to Nov. 7 since the day last season ended. It’s here, and it’s spectacular. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7746792/2026/11/02/submit-a-question-for-stewart-mandels-college-football-mailbag-366/</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
