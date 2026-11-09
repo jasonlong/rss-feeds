@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:27:41 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,13 @@
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7766796/2026/11/09/submit-a-question-for-stewart-mandels-college-football-mailbag-367/</link>
+      <description>Ohio State is done. Michigan is something worse than that. But we’re letting them keep playing anyway. Please leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7766796/2026/11/09/submit-a-question-for-stewart-mandels-college-football-mailbag-367/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: Georgia returns to No. 1 as Ohio State plummets in college football rankings</title>
@@ -172,13 +179,6 @@
       <description>I’ve been looking forward to Nov. 7 since the day last season ended. It’s here, and it’s spectacular. Leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7746792/2026/11/02/submit-a-question-for-stewart-mandels-college-football-mailbag-366/</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Ohio State's top-10 streak ends as New Mexico earns first football ranking ever</title>
-      <link>https://www.nytimes.com/athletic/7743735/2026/11/01/ap-top-25-college-football-week-9/</link>
-      <description>Miami remains No. 1 in the AP Top 25 college football poll, ahead of Georgia, Utah, Notre Dame and UCLA in the fop five.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7743735/2026/11/01/ap-top-25-college-football-week-9/</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
