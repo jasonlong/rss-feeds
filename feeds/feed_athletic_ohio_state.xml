@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:17:12 +0000</lastBuildDate>
     <item>
       <title>How much do college football roster budgets matter? We’re tracking the results, game by game</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</link>
@@ -18,6 +18,20 @@
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who's winning the Heisman Trophy? Jeremiah Smith, CJ Carr lead 9 contenders after Week 10</title>
+      <link>https://www.nytimes.com/athletic/7768872/2026/11/10/heisman-trophy-candidates-race-cj-carr-jeremiah-smith/</link>
+      <description>The Heisman ceremony will be held Dec. 12.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7768872/2026/11/10/heisman-trophy-candidates-race-cj-carr-jeremiah-smith/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ohio State isn't done, but it has too many problems to count: Final thoughts after Oregon</title>
+      <link>https://www.nytimes.com/athletic/7768863/2026/11/10/ohio-state-oregon-takeaways-ryan-day/</link>
+      <description>For a team ranked No. 1 in the preseason, three losses in nine games is a failure. So what's going wrong for Ohio State?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7768863/2026/11/10/ohio-state-oregon-takeaways-ryan-day/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Heisman Trophy odds: CJ Carr leaps Jeremiah Smith as new favorite after big Notre Dame win</title>
@@ -165,20 +179,6 @@
       <description>Unfortunately for Whittingham, this might be the rare year where beating Michigan State is more important than Ohio State.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7748868/2026/11/03/michigan-msu-osu-rivalries-kye-whittingham/</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff odds: Ohio State appears safe for now despite USC loss</title>
-      <link>https://www.nytimes.com/athletic/7748391/2026/11/03/cfp-odds-ohio-state-miami-georgia-indiana/</link>
-      <description>Ahead of a massive week of college football, 11 teams are currently favored to make the CFP. How many of those will make it?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7748391/2026/11/03/cfp-odds-ohio-state-miami-georgia-indiana/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heisman Trophy odds after Week 9: Darian Mensah new favorite after Jeremiah Smith, OSU loses</title>
-      <link>https://www.nytimes.com/athletic/7745924/2026/11/02/heisman-trophy-odds-week-9-darian-mensah-jeremiah-smith/</link>
-      <description>Miami's Darian Mensah has taken the top spot in the Heisman race from Jeremiah Smith. Malachi Toney is also close in the odds.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7745924/2026/11/02/heisman-trophy-odds-week-9-darian-mensah-jeremiah-smith/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
