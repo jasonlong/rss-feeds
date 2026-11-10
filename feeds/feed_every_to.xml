@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 23:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Vibe Check: Fable 5.2 Is a Paradigm Shift—If You Know What to Do With It</title>
+      <link>https://every.to/vibe-check/fable-5-2</link>
+      <description>Anthropic’s new frontier model can work unattended overnight—or all weekend—and come back with professional-grade software. But getting the most out of it requires us to change how we work.</description>
+      <guid isPermaLink="false">https://every.to/vibe-check/fable-5-2</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What You May Have Missed at Thesis: 2027</title>
       <link>https://every.to/context-window/what-you-may-have-missed-at-thesis-2027</link>
@@ -43,13 +50,6 @@
       <description>The skills that make AI agents reliable are identical to the skills that make human teams effective </description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management-rerun</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agents Choose What You Read Now</title>
-      <link>https://every.to/context-window/agents-choose-what-you-read-now</link>
-      <description>Plus: Every automates our memes, an Emmy-winning TV writer’s AI writers’ room, and what Anthropic’s buy of a one-person biotech means</description>
-      <guid isPermaLink="false">https://every.to/context-window/agents-choose-what-you-read-now</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Every Model Has a Six-month Shelf Life Now</title>
@@ -127,13 +127,6 @@
       <description>A professional creative studio puts GPT-6 to the test</description>
       <guid isPermaLink="false">https://every.to/vibe-check/vibe-check-is-astra-a-breakthrough-for-indie-filmmakers</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mini-Vibe Check: TypeSafe's Jev Judged Everything I’ve Written in 0.7 Seconds</title>
-      <link>https://every.to/vibe-check/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds</link>
-      <description>Its new model turns fuzzy questions into probabilities fast and cheaply enough to check an AI agent’s work as it goes</description>
-      <guid isPermaLink="false">https://every.to/vibe-check/mini-vibe-check-typesafe-s-jev-judged-everything-i-ve-written-in-0-7-seconds</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Writers Who Use AI Want You to Know</title>
