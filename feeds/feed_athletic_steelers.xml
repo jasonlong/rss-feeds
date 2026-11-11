@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:12:28 +0000</lastBuildDate>
     <item>
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
@@ -28,6 +28,13 @@
       <title>NFL Week 8 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
+    </item>
+    <item>
+      <title>It was a quiet trade deadline for the Steelers. Will they regret it?</title>
+      <link>https://www.nytimes.com/athletic/7771428/2026/11/10/pittsburgh-steelers-trade-deadline-wrs-receivers/</link>
+      <description>The Steelers are trying to execute a win-now strategy while keeping assets for the future. In the end, will they accomplish either goal?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7771428/2026/11/10/pittsburgh-steelers-trade-deadline-wrs-receivers/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL Week 10 power rankings: Bengals, Packers looking strong as we hand out midseason grades</title>
@@ -168,13 +175,6 @@
       <description>Here's what to know about the NFL's Week 7 game in Paris.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to know about Saints-Steelers NFL Paris game amid unrest, protests in city</title>
-      <link>https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/</link>
-      <description>The Steelers canceled a fan event scheduled in Paris but otherwise everything remains as planned for Sunday's game.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
