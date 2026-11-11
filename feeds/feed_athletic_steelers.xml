@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:15:47 +0000</lastBuildDate>
     <item>
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
@@ -28,6 +28,13 @@
       <title>NFL Week 8 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
+    </item>
+    <item>
+      <title>Mike Tomlin: 'I haven’t given one iota of thought' about return to coaching</title>
+      <link>https://www.nytimes.com/athletic/7774268/2026/11/11/mike-tomlin-return-to-coaching/</link>
+      <description>The longtime Steelers coach is halfway through his first season with NBC.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774268/2026/11/11/mike-tomlin-return-to-coaching/</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL spread, straight-up picks: Rams, Jaguars, Bills top Week 10 confidence rankings</title>
@@ -167,13 +174,6 @@
       <link>https://www.nytimes.com/athletic/7724515/2026/10/25/pittsburgh-steelers-saints-win-browns-rematch/</link>
       <description>Pittsburgh beat New Orleans 16-10 for its third straight win, setting up a battle for the AFC North lead next week against the Browns.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7724515/2026/10/25/pittsburgh-steelers-saints-win-browns-rematch/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers use strong run game to beat Saints in Paris, win third in a row</title>
-      <link>https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/</link>
-      <description>The Steelers used the legs of Jaylen Warren, Rico Dowdle and even Aaron Rodgers to win 16-10 in the NFL's first game in Paris.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
