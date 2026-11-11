@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:26:21 +0000</lastBuildDate>
+    <item>
+      <title>What's Left for Humans After Automation</title>
+      <link>https://every.to/context-window/what-s-left-for-humans-after-automation</link>
+      <description>Plus: Turn your AI corrections into tests, where the hours saved by AI agents actually go, and a CEO's surprise job-interview question</description>
+      <guid isPermaLink="false">https://every.to/context-window/what-s-left-for-humans-after-automation</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vibe Check: Gemini 4 Carbon's Coding Outpaces Its Judgment</title>
       <link>https://every.to/vibe-check/vibe-check-gemini-4-carbon-doesn-t-know-when-to-stop</link>
@@ -45,25 +52,11 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How I Escaped AI Autopilot</title>
-      <link>https://every.to/working-overtime/how-i-escaped-ai-autopilot-rerun</link>
-      <description>The more reliable AI gets, the less we check its work. Research explains why, and what to do about it.</description>
-      <guid isPermaLink="false">https://every.to/working-overtime/how-i-escaped-ai-autopilot-rerun</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Every Model Has a Six-month Shelf Life Now</title>
       <link>https://every.to/context-window/every-model-has-a-six-month-shelf-life-now</link>
       <description>Plus: The shoggoth strategy for generalists, moving your website off Webflow with Claude, and what the Every team couldn't stop talking about.</description>
       <guid isPermaLink="false">https://every.to/context-window/every-model-has-a-six-month-shelf-life-now</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎧 Keeping Up With AI Is a Full-time Job</title>
-      <link>https://every.to/context-window/keeping-up-with-ai-is-a-full-time-job</link>
-      <description> Plus: A coding skill for non-coders, using AI to address a cybersecurity incident, what happens after engineering</description>
-      <guid isPermaLink="false">https://every.to/context-window/keeping-up-with-ai-is-a-full-time-job</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Vibe Check: Duet—Anthropic's Always-on Agent</title>
