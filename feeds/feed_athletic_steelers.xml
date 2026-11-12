@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:10:05 +0000</lastBuildDate>
     <item>
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
@@ -28,6 +28,13 @@
       <title>NFL Week 8 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
+    </item>
+    <item>
+      <title>Dick Hoak, longest-tenured Steelers coach and 5-time Super Bowl champ, dies at 86</title>
+      <link>https://www.nytimes.com/athletic/7776635/2026/11/12/dick-hoak-steelers-coach-death/</link>
+      <description>Hoak served as Pittsburgh's running backs coach from 1972 to 2006.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776635/2026/11/12/dick-hoak-steelers-coach-death/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
@@ -168,13 +175,6 @@
       <description>McCarthy finished 20-for-28 passing for 252 yards in his first Giants start, while Jaxon Smith-Njigba remains a coverage nightmare.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7729572/2026/10/28/nfl-week-7-recap-mccarthy-giants-steelers/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Power Rankings: A new No. 1 for Week 8, plus something spooky about each team</title>
-      <link>https://www.nytimes.com/athletic/7727004/2026/10/27/nfl-power-rankings-week-8-halloween-spooky/</link>
-      <description>There's a new No. 1 after three of our top-five teams lost this weekend. The Giants continue to look bullish as the Jets and Raiders tumble.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7727004/2026/10/27/nfl-power-rankings-week-8-halloween-spooky/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
