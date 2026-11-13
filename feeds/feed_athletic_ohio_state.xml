@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:11:21 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
@@ -20,11 +20,18 @@
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-nil-spending-budgets-records-tracker/</guid>
     </item>
     <item>
-      <title>How to watch Northwestern vs. No. 21 Ohio State: TV channel and streaming options for November 14</title>
-      <link>https://www.nytimes.com/athletic/7776436/2026/11/12/northwestern-vs-ohio-state-stream-how-to-watch-nov-14/</link>
-      <description>Find out how to watch the Northwestern Wildcats play the Ohio State Buckeyes, with time, TV channel and streaming information.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776436/2026/11/12/northwestern-vs-ohio-state-stream-how-to-watch-nov-14/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more</title>
+      <link>https://www.nytimes.com/athletic/7776674/2026/11/13/college-football-top-games-week-11/</link>
+      <description>This Saturday features five Top 25 ranked meetings and College Football Playoff implications galore.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776674/2026/11/13/college-football-top-games-week-11/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chip Kelly won it all with Ohio State in 2024. Can his Northwestern offense knock out Buckeyes in 2026?</title>
+      <link>https://www.nytimes.com/athletic/7776643/2026/11/13/chip-kelly-northwestern-ohio-state-prediction/</link>
+      <description>Saturday, Ohio State has to force Northwestern to work its way down the field and adapt to its motions and creativity.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776643/2026/11/13/chip-kelly-northwestern-ohio-state-prediction/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Texas adds to Lane Kiffin's misery: College football Week 11 oddly specific predictions</title>
@@ -172,13 +179,6 @@
       <description>Our travel guide for heading to Columbus for an Ohio State football game.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7753343/2026/11/05/ohio-state-football-travel-guide-restaurants/</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State is first team out of College Football Playoff rankings. What happens next?</title>
-      <link>https://www.nytimes.com/athletic/7752084/2026/11/04/ohio-state-ranking-college-football-playoff/</link>
-      <description>Where Ohio State stands in the College Football Playoff picture after a rare second loss heading into November.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7752084/2026/11/04/ohio-state-ranking-college-football-playoff/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:11:37 +0000</lastBuildDate>
     <item>
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
@@ -25,9 +25,18 @@
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</guid>
     </item>
     <item>
-      <title>NFL Week 8 Power Rankings: You decide</title>
-      <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/</guid>
+      <title>Has the AFC North become a 2-team race between the Steelers and Bengals? Whiparound</title>
+      <link>https://www.nytimes.com/athletic/7776953/2026/11/13/afc-north-steelers-bengals-browns-ravens/</link>
+      <description>Plus, reacting to the trade deadline and making predictions for this week's slate, which includes Steelers-Bengals on Sunday night.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776953/2026/11/13/afc-north-steelers-bengals-browns-ravens/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terry Bradshaw is happy. He hopes his memoir helps others get to the same place</title>
+      <link>https://www.nytimes.com/athletic/7775771/2026/11/13/terry-bradshaw-memoir-depression-fox-nfl/</link>
+      <description>Bradshaw is known for keeping the mood light as an analyst for "Fox NFL Sunday." His new book details why that wasn't always easy for him.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7775771/2026/11/13/terry-bradshaw-memoir-depression-fox-nfl/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dick Hoak, longest-tenured Steelers coach and 5-time Super Bowl champ, dies at 86</title>
@@ -167,13 +176,6 @@
       <link>https://www.nytimes.com/athletic/7732601/2026/10/28/nfl-spread-straight-up-picks-confidence-rankings-bengals-week-8/</link>
       <description>Nick Kostos gives his confidence picks rankings for NFL Week 8 both straight-up and against the spread.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7732601/2026/10/28/nfl-spread-straight-up-picks-confidence-rankings-bengals-week-8/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 7 Quick Outs: J.J. McCarthy shows improvement, Steelers' O-line keeps rolling</title>
-      <link>https://www.nytimes.com/athletic/7729572/2026/10/28/nfl-week-7-recap-mccarthy-giants-steelers/</link>
-      <description>McCarthy finished 20-for-28 passing for 252 yards in his first Giants start, while Jaxon Smith-Njigba remains a coverage nightmare.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7729572/2026/10/28/nfl-week-7-recap-mccarthy-giants-steelers/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
