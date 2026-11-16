@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 04:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:14:18 +0000</lastBuildDate>
     <item>
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
@@ -23,6 +23,13 @@
       <title>NFL Simulator 2026: Live forecast of the playoff picture and outcomes for every team</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</guid>
+    </item>
+    <item>
+      <title>Joe Burrow flashes MVP form as Bengals embarrass Steelers to seize AFC North lead</title>
+      <link>https://www.nytimes.com/athletic/7785234/2026/11/15/steelers-bengals-nfl-week-10-score-result-takeaways/</link>
+      <description>By halftime, Cincinnati had more first downs (22) than Pittsburgh had run plays (20), with the Bengals outgaining the Steelers 337-40.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7785234/2026/11/15/steelers-bengals-nfl-week-10-score-result-takeaways/</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to watch Steelers vs. Bengals: TV channel and streaming options for November 15</title>
@@ -60,17 +67,17 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
-      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
-      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype</title>
       <link>https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</link>
       <description>The Packers aren't exactly planning a picnic for Cousins while looking to avenge their Week 1 loss in Minnesota.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
+      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
+      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -169,13 +176,6 @@
       <link>https://www.nytimes.com/athletic/7734164/2026/10/29/steelers-browns-rematch-man-coverage-aaron-rodgers/</link>
       <description>How the offense fares against the man-coverage-happy Browns defense will be a litmus test for whether the Steelers' offense needs a change.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7734164/2026/10/29/steelers-browns-rematch-man-coverage-aaron-rodgers/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 8 ATS picks: The peculiar case of Kevin O'Connell's undefeated Vikings</title>
-      <link>https://www.nytimes.com/athletic/7730149/2026/10/29/nfl-week-8-predictions-betting-picks/</link>
-      <description>The Vikings are the NFL's last unbeaten team, but O'Connell isn't getting much credit, and everyone seems to be picking the Lions this week.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7730149/2026/10/29/nfl-week-8-predictions-betting-picks/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
