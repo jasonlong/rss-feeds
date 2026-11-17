@@ -8,21 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:11:33 +0000</lastBuildDate>
+    <item>
+      <title>NFL Week 11 Power Rankings: You decide</title>
+      <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
     <item>
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</guid>
     </item>
     <item>
-      <title>NFL Week 9 Power Rankings: You decide</title>
-      <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-9/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-9/</guid>
+      <title>Mason McCormick's injury will test Steelers' biggest strength: Their offensive line</title>
+      <link>https://www.nytimes.com/athletic/7788109/2026/11/17/mason-mccormick-injury-pittsburgh-steelers/</link>
+      <description>During Sunday night's blowout loss in Cincinnati, the Steelers also suffered an injury that could alter their season.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7788109/2026/11/17/mason-mccormick-injury-pittsburgh-steelers/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NFL Simulator 2026: Live forecast of the playoff picture and outcomes for every team</title>
-      <link>https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/</guid>
+      <title>NFL Week 11 power rankings: Bills, 49ers still on top, but Kirk Cousins' Vikings on rise</title>
+      <link>https://www.nytimes.com/athletic/7786923/2026/11/17/nfl-power-rankings-week-11-bills-49ers-vikings-cousins/</link>
+      <description>In this week's power rankings, we pick a breakout player for each of the 32 teams, while Kirk Cousins and the Vikings move up the standings.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7786923/2026/11/17/nfl-power-rankings-week-11-bills-49ers-vikings-cousins/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Rodgers' shaky, cranky Steelers play leaves us no choice but to remember his past</title>
+      <link>https://www.nytimes.com/athletic/7787646/2026/11/17/aaron-rodgers-performance-steelers-bengals/</link>
+      <description>Rodgers' 22nd season deserves the truth. He's tough to watch, his QB ratings have plummeted, and he should've retired three years ago.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7787646/2026/11/17/aaron-rodgers-performance-steelers-bengals/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL lauds officials who pulled double-duty due to FAA reassignments on Sunday</title>
@@ -163,20 +179,6 @@
       <description>Plenty of potential buyers — the Chiefs, Bengals, Bears and Rams among them — are looking for a move to strengthen their playoff push.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7750337/2026/11/04/nfl-trade-deadline-team-buyers-sellers/</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Power Rankings: Broncos bullish, Vikings sinking as we offer Week 9 reality checks</title>
-      <link>https://www.nytimes.com/athletic/7747669/2026/11/03/nfl-power-rankings-week-9-broncos-vikings-reality-check/</link>
-      <description>It's time for a reality check. Denver is on the rise after its comeback win, while Minnesota falls following its first loss of the season.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7747669/2026/11/03/nfl-power-rankings-week-9-broncos-vikings-reality-check/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers lead the AFC North, and are playing a brand of football built to last</title>
-      <link>https://www.nytimes.com/athletic/7746001/2026/11/01/steelers-win-browns-afc-north-lead/</link>
-      <description>Pittsburgh is running the ball with confidence and playing stout defense, which has led to a four-game winning streak.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7746001/2026/11/01/steelers-win-browns-afc-north-lead/</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
