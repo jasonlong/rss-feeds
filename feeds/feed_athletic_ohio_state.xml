@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:13:46 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff odds: Wake Forest, Texas, Utah, Indiana make moves</title>
+      <link>https://www.nytimes.com/athletic/7790087/2026/11/18/college-football-playoff-odds-wake-forest-texas-utah-indiana/</link>
+      <description>There are 11 teams favored to make the College Football Playoff while two Big 12 teams appear to be fighting for the last at-large spot.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7790087/2026/11/18/college-football-playoff-odds-wake-forest-texas-utah-indiana/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Eight from the SEC? How a 24-team CFP bracket would look with committee's new rankings</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7765710/2026/11/09/college-football-rankings-georgia-title/</link>
       <description>Georgia's rout at Ole Miss vaulted the Dawgs to No. 1. Is a familiar ending to a college football season coming into focus?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7765710/2026/11/09/college-football-rankings-georgia-title/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7766796/2026/11/09/submit-a-question-for-stewart-mandels-college-football-mailbag-367/</link>
-      <description>Ohio State is done. Michigan is something worse than that. But we’re letting them keep playing anyway. Please leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7766796/2026/11/09/submit-a-question-for-stewart-mandels-college-football-mailbag-367/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
