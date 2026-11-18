@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:11:09 +0000</lastBuildDate>
     <item>
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
@@ -18,6 +18,13 @@
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</guid>
+    </item>
+    <item>
+      <title>NFL spread, straight-up picks: Chiefs, Bills, Texans top Week 11 confidence rankings</title>
+      <link>https://www.nytimes.com/athletic/7792384/2026/11/18/nfl-spread-straight-up-picks-confidence-chiefs-bills-texans-week-11/</link>
+      <description>Nick Kostos ranks straight up and against the spread picks for every Week 11 NFL game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7792384/2026/11/18/nfl-spread-straight-up-picks-confidence-chiefs-bills-texans-week-11/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Arrest warrants issued for burglary at Max Iheanachor's Pittsburgh home</title>
@@ -111,17 +118,17 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
-      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
-      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype</title>
       <link>https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</link>
       <description>The Packers aren't exactly planning a picnic for Cousins while looking to avenge their Week 1 loss in Minnesota.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
+      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
+      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -172,13 +179,6 @@
       <description>Jourdan Rodrigue and Ted Nguyen have their say on the best showings so far by the dozens of new NFL coordinators.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7753441/2026/11/05/nfl-first-year-coordinators-ranked-declan-doyle-jonathan-gannon/</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Patrick Graham turned the Steelers defense into one of the NFL's best</title>
-      <link>https://www.nytimes.com/athletic/7752019/2026/11/04/patrick-graham-pittsburgh-steelers-defense/</link>
-      <description>After a Thursday night meltdown in Cleveland, Pittsburgh's defense has been one of the NFL's best.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7752019/2026/11/04/patrick-graham-pittsburgh-steelers-defense/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
