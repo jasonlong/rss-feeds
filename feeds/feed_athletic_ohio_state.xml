@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:12:10 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Eight from the SEC? How a 24-team CFP bracket would look with committee's new rankings</title>
+      <link>https://www.nytimes.com/athletic/7791863/2026/11/18/college-football-playoff-rankings-24-bracket-projection/</link>
+      <description>Only 22 Power 4 teams have three losses or fewer with two weeks left, which would guarantee at least one four-loss Playoff participant.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7791863/2026/11/18/college-football-playoff-rankings-24-bracket-projection/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We looked at College Football Playoff blind resumes. The results were surprising: Bubble Watch</title>
@@ -174,13 +181,6 @@
       <description>Ohio State is done. Michigan is something worse than that. But we’re letting them keep playing anyway. Please leave your questions here. Please include your city.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7766796/2026/11/09/submit-a-question-for-stewart-mandels-college-football-mailbag-367/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Georgia returns to No. 1 as Ohio State plummets in college football rankings</title>
-      <link>https://www.nytimes.com/athletic/7763661/2026/11/08/ap-top-25-college-football-week-10/</link>
-      <description>Georgia is No. 1 in the latest AP Top 25 college football rankings, followed by Utah, Notre Dame, UCLA and Miami.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7763661/2026/11/08/ap-top-25-college-football-week-10/</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
