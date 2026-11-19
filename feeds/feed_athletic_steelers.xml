@@ -8,16 +8,46 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:11:32 +0000</lastBuildDate>
     <item>
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
     </item>
     <item>
-      <title>NFL Week 10 Power Rankings: You decide</title>
-      <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</guid>
+      <title>What makes an NFL player a great leader? Where they sit in the cafeteria</title>
+      <link>https://www.nytimes.com/athletic/7793678/2026/11/19/hines-ward-leadership-nfl-cafeteria/</link>
+      <description>For a leader in a locker room seeking better insight on men he calls his brothers, the cafeteria is a terrarium.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7793678/2026/11/19/hines-ward-leadership-nfl-cafeteria/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL QB Betrayal Index: Kirk Cousins' new world and Dak Prescott's familiar uphill battle</title>
+      <link>https://www.nytimes.com/athletic/7793537/2026/11/19/nfl-qb-betrayal-index-kirk-cousins-new-world-and-dak-prescotts-familiar-uphill-battle/</link>
+      <description>We rank all NFL QBs by their own performance and the support from their defense and special teams. Prescott is the most betrayed yet again.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7793537/2026/11/19/nfl-qb-betrayal-index-kirk-cousins-new-world-and-dak-prescotts-familiar-uphill-battle/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colts-Texans and the remaining NFL primetime games we'd love to see flexed out</title>
+      <link>https://www.nytimes.com/athletic/7792769/2026/11/19/colts-texans-nfl-primetime-flex-schedule/</link>
+      <description>The NFL is scheduled to serve up some rough primetime games down the stretch, but there is still time for something to be done.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7792769/2026/11/19/colts-texans-nfl-primetime-flex-schedule/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL Week 11 ATS picks: Which bad teams will 'win' on this week's cruel spin of the wheel?</title>
+      <link>https://www.nytimes.com/athletic/7790086/2026/11/19/nfl-week11-predictions-betting-picks/</link>
+      <description>Spin the Wheel of Misfortune: Backup QBs, double-digit spreads and our Week 11 NFL picks against the spread.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7790086/2026/11/19/nfl-week11-predictions-betting-picks/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Michael Pittman Jr. and Roman Wilson, reinforcements are on the way for Steelers at WR</title>
+      <link>https://www.nytimes.com/athletic/7793686/2026/11/19/pittsburgh-steelers-wrs-injuries/</link>
+      <description>The returns of a savvy veteran and a shifty young wideout could kickstart Pittsburgh's struggling passing game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7793686/2026/11/19/pittsburgh-steelers-wrs-injuries/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who are the NFL's contenders and pretenders? Sorting out Giants, Steelers, Rams and more</title>
@@ -125,17 +155,17 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype</title>
-      <link>https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</link>
-      <description>The Packers aren't exactly planning a picnic for Cousins while looking to avenge their Week 1 loss in Minnesota.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
       <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
       <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype</title>
+      <link>https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</link>
+      <description>The Packers aren't exactly planning a picnic for Cousins while looking to avenge their Week 1 loss in Minnesota.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -151,34 +181,6 @@
       <description>Nick Kostos outlines his confidence picks for NFL Week 10 -- both straight-up and against the spread.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7773571/2026/11/11/nfl-spread-straight-up-picks-confidence-rankings-rams-jaguars-bills-week-10/</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It was a quiet trade deadline for the Steelers. Will they regret it?</title>
-      <link>https://www.nytimes.com/athletic/7771428/2026/11/10/pittsburgh-steelers-trade-deadline-wrs-receivers/</link>
-      <description>The Steelers are trying to execute a win-now strategy while keeping assets for the future. In the end, will they accomplish either goal?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7771428/2026/11/10/pittsburgh-steelers-trade-deadline-wrs-receivers/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 10 power rankings: Bengals, Packers looking strong as we hand out midseason grades</title>
-      <link>https://www.nytimes.com/athletic/7768226/2026/11/10/nfl-power-rankings-week-10-bengals-packers-midseason-grades/</link>
-      <description>In this week's rankings, the Bengals and Packers look like legitimate contenders thanks to their QBs, while the Patriots fall hard at home.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7768226/2026/11/10/nfl-power-rankings-week-10-bengals-packers-midseason-grades/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who should the Steelers target at the trade deadline? Options at WR, CB, safety</title>
-      <link>https://www.nytimes.com/athletic/7756906/2026/11/06/pittsburgh-steelers-wr-trade-deadline-targets/</link>
-      <description>Pittsburgh is in position to make a move before Tuesday's trade deadline.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7756906/2026/11/06/pittsburgh-steelers-wr-trade-deadline-targets/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AFC North Whiparound: What the Steelers-Browns game told us and division trade talk</title>
-      <link>https://www.nytimes.com/athletic/7753107/2026/11/05/afc-north-whiparound-browns-steelers-trade-deadline/</link>
-      <description>Also, what division player each writer thinks would help their team the most and predictions for this weekend.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7753107/2026/11/05/afc-north-whiparound-browns-steelers-trade-deadline/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
