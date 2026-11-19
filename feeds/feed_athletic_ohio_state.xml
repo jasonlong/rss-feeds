@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:11:47 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football picks ATS Week 12: LSU-Tennessee, Ohio State-Nebraska, more</title>
+      <link>https://www.nytimes.com/athletic/7792817/2026/11/19/college-football-picks-spread-week-12-lsu-tennessee-ohio-state-nebraska/</link>
+      <description>Several CFP contenders are on the road against respectable opposition in Week 12. Our staff has picks against the spread for all of them.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7792817/2026/11/19/college-football-picks-spread-week-12-lsu-tennessee-ohio-state-nebraska/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff odds: Wake Forest, Texas, Utah, Indiana make moves</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7767329/2026/11/09/ohio-state-fires-robby-discher-special-teams-coach/</link>
       <description>Special teams coordinator Robby Discher is out at Ohio State, two days after Oregon dominated the Buckeyes following a fake punt.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7767329/2026/11/09/ohio-state-fires-robby-discher-special-teams-coach/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-ranking 138 college football teams after Week 10: Is Georgia's title run inevitable?</title>
-      <link>https://www.nytimes.com/athletic/7765710/2026/11/09/college-football-rankings-georgia-title/</link>
-      <description>Georgia's rout at Ole Miss vaulted the Dawgs to No. 1. Is a familiar ending to a college football season coming into focus?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7765710/2026/11/09/college-football-rankings-georgia-title/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
