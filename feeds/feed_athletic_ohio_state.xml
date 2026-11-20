@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 10:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:11:37 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football Week 12 top 10 games: Georgia-South Carolina, LSU-Tennessee and more</title>
+      <link>https://www.nytimes.com/athletic/7795512/2026/11/20/college-football-week-12-top-10-games-georgia-south-carolina-lsu-tennessee-and-more/</link>
+      <description>The weekend slate has only one ranked matchup, but it's rife with games that have CFP and conference title implications.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7795512/2026/11/20/college-football-week-12-top-10-games-georgia-south-carolina-lsu-tennessee-and-more/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nebraska beats Ohio State! Really! College football Week 12 oddly specific predictions</title>
@@ -174,13 +181,6 @@
       <description>For a team ranked No. 1 in the preseason, three losses in nine games is a failure. So what's going wrong for Ohio State?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7768863/2026/11/10/ohio-state-oregon-takeaways-ryan-day/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heisman Trophy odds: CJ Carr leaps Jeremiah Smith as new favorite after big Notre Dame win</title>
-      <link>https://www.nytimes.com/athletic/7766856/2026/11/09/heisman-trophy-odds-carr-smith-mensah/</link>
-      <description>CJ Carr is the new Heisman Trophy favorite after a big win and another loss for Jeremiah Smith's Ohio State.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7766856/2026/11/09/heisman-trophy-odds-carr-smith-mensah/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

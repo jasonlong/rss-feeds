@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 10:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:11:54 +0000</lastBuildDate>
     <item>
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
@@ -18,6 +18,13 @@
       <title>NFL Week 10 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-10/</guid>
+    </item>
+    <item>
+      <title>Burrow for MVP, and Cleveland's DPOY candidate: AFC North Whiparound</title>
+      <link>https://www.nytimes.com/athletic/7796196/2026/11/20/afc-north-postseason-awards-bengals-steelers-ravens-browns/</link>
+      <description>Plus, what each team needs to see down the stretch.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7796196/2026/11/20/afc-north-postseason-awards-bengals-steelers-ravens-browns/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What makes an NFL player a great leader? Where they sit in the cafeteria</title>
@@ -139,17 +146,17 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
-      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
-      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype</title>
       <link>https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</link>
       <description>The Packers aren't exactly planning a picnic for Cousins while looking to avenge their Week 1 loss in Minnesota.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
+      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
+      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7771428/2026/11/10/pittsburgh-steelers-trade-deadline-wrs-receivers/</link>
       <description>The Steelers are trying to execute a win-now strategy while keeping assets for the future. In the end, will they accomplish either goal?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7771428/2026/11/10/pittsburgh-steelers-trade-deadline-wrs-receivers/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 10 power rankings: Bengals, Packers looking strong as we hand out midseason grades</title>
-      <link>https://www.nytimes.com/athletic/7768226/2026/11/10/nfl-power-rankings-week-10-bengals-packers-midseason-grades/</link>
-      <description>In this week's rankings, the Bengals and Packers look like legitimate contenders thanks to their QBs, while the Patriots fall hard at home.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7768226/2026/11/10/nfl-power-rankings-week-10-bengals-packers-midseason-grades/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
