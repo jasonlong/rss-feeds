@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:09:49 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Nebraska finally does it: First ranked win since 2016 ends Ohio State's CFP hopes for good</title>
+      <link>https://www.nytimes.com/athletic/7800881/2026/11/21/ohio-state-nebraska-score-football-recap/</link>
+      <description>Nebraska upset No. 14 Ohio State 31-28 on Saturday for the biggest win of the Matt Rhule era, knocking the Buckeyes off the Playoff bubble.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7800881/2026/11/21/ohio-state-nebraska-score-football-recap/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We looked at College Football Playoff blind resumes. The results were surprising: Bubble Watch</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7768872/2026/11/10/heisman-trophy-candidates-race-cj-carr-jeremiah-smith/</link>
       <description>The Heisman ceremony will be held Dec. 12.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7768872/2026/11/10/heisman-trophy-candidates-race-cj-carr-jeremiah-smith/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State isn't done, but it has too many problems to count: Final thoughts after Oregon</title>
-      <link>https://www.nytimes.com/athletic/7768863/2026/11/10/ohio-state-oregon-takeaways-ryan-day/</link>
-      <description>For a team ranked No. 1 in the preseason, three losses in nine games is a failure. So what's going wrong for Ohio State?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7768863/2026/11/10/ohio-state-oregon-takeaways-ryan-day/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
