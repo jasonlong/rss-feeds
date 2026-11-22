@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:10:28 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Yes, the Big Ten and SEC championship races are quite complicated. Here are some scenarios</title>
+      <link>https://www.nytimes.com/athletic/7801782/2026/11/22/conference-championship-tiebreakers-big-ten-sec-big-12/</link>
+      <description>Three of the four power conferences will enter Week 12 with their conference title matchups undecided. It could get complicated.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7801782/2026/11/22/conference-championship-tiebreakers-big-ten-sec-big-12/</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What happened to Ohio State? 4 reasons the Buckeyes will miss the College Football Playoff</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7770739/2026/11/10/college-football-playoff-rankings-november-10/</link>
       <description>Georgia, Utah, Alabama, UCLA and Notre Dame are the top five teams in the latest College Football Playoff rankings released Tuesday night.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7770739/2026/11/10/college-football-playoff-rankings-november-10/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohio State sticks with Luke Fahey as starting QB vs. Northwestern</title>
-      <link>https://www.nytimes.com/athletic/7771244/2026/11/10/ohio-state-luke-fahey-start-northwestern/</link>
-      <description>Coach Ryan Day said Fahey is not the reason for Ohio State’s first two-game regular-season losing streak since 2011</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7771244/2026/11/10/ohio-state-luke-fahey-start-northwestern/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
