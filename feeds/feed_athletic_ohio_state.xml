@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:09:53 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Submit your Michigan-Ohio State rivalry questions for our pregame mailbag</title>
+      <link>https://www.nytimes.com/athletic/7806787/2026/11/23/michigan-ohio-state-preview-mailbag-questions/</link>
+      <description>Ohio State and Michigan have both dealt with a lot of angst this season. What questions about the Buckeyes and Wolverines do you have?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7806787/2026/11/23/michigan-ohio-state-preview-mailbag-questions/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Heisman Trophy odds: Jeremiah Smith is clear favorite, but Devon Dampier is making his case</title>
@@ -174,13 +181,6 @@
       <description>The win keeps the Buckeyes alive in the College Football Playoff and Big Ten title races.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7781785/2026/11/14/ohio-state-northwestern-football-score-results/</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more</title>
-      <link>https://www.nytimes.com/athletic/7776674/2026/11/13/college-football-top-games-week-11/</link>
-      <description>This Saturday features five Top 25 ranked meetings and College Football Playoff implications galore.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776674/2026/11/13/college-football-top-games-week-11/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
