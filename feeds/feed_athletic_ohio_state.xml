@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:11:09 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Re-ranking 138 college football teams: Big Ten's bad luck and a showdown to avoid No. 138</title>
+      <link>https://www.nytimes.com/athletic/7805058/2026/11/23/college-football-fbs-team-rankings-138/</link>
+      <description>There's one week left to go in the FBS regular season. Where does everyone stand?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7805058/2026/11/23/college-football-fbs-team-rankings-138/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
@@ -174,13 +181,6 @@
       <description>Saturday, Ohio State has to force Northwestern to work its way down the field and adapt to its motions and creativity.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7776643/2026/11/13/chip-kelly-northwestern-ohio-state-prediction/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas adds to Lane Kiffin's misery: College football Week 11 oddly specific predictions</title>
-      <link>https://www.nytimes.com/athletic/7774517/2026/11/12/college-football-week-11-predictions/</link>
-      <description>Wake Forest's magical run hits a speed bump in Dallas. Utah stays unbeaten. Miami survives a scare from Duke.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774517/2026/11/12/college-football-week-11-predictions/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

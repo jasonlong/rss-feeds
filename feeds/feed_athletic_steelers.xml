@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:10:54 +0000</lastBuildDate>
     <item>
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
+    <item>
+      <title>Stacking AFC contenders: Who is most dangerous in a historically great conference? Pick Six</title>
+      <link>https://www.nytimes.com/athletic/7805640/2026/11/23/afc-playoffs-bills-chiefs-bengals-broncos-jaguars/</link>
+      <description>All eyes are on the Chiefs-Bills showdown, but what about the Bengals? Plus, the 49ers' rout in Mexico, a Tom Jackson tribute and much more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7805640/2026/11/23/afc-playoffs-bills-chiefs-bengals-broncos-jaguars/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NFL Wake-up Call: Week 11 brought blowouts, flips and one seismic splash</title>
+      <link>https://www.nytimes.com/athletic/7805244/2026/11/23/nfl-week-11-takeaways-winners-losers/</link>
+      <description>The 49ers look like they might be the best team in football after smashing the Vikings in Mexico City Sunday night.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7805244/2026/11/23/nfl-week-11-takeaways-winners-losers/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>NFL playoff picture, Week 11: 49ers look like class of NFC; can anyone catch Bills in AFC?</title>
@@ -167,20 +181,6 @@
       <description>Bradshaw is known for keeping the mood light as an analyst for "Fox NFL Sunday." His new book details why that wasn't always easy for him.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7775771/2026/11/13/terry-bradshaw-memoir-depression-fox-nfl/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dick Hoak, longest-tenured Steelers coach and 5-time Super Bowl champ, dies at 86</title>
-      <link>https://www.nytimes.com/athletic/7776635/2026/11/12/dick-hoak-steelers-coach-death/</link>
-      <description>Hoak served as Pittsburgh's running backs coach from 1972 to 2006.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776635/2026/11/12/dick-hoak-steelers-coach-death/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 10 ATS picks: Why the Packers will snuff out the Kirk Cousins reunion hype</title>
-      <link>https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</link>
-      <description>The Packers aren't exactly planning a picnic for Cousins while looking to avenge their Week 1 loss in Minnesota.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7773589/2026/11/12/nfl-week-10-predictions-betting-picks/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
