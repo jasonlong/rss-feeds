@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 04:16:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:14:22 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
+      <link>https://www.nytimes.com/athletic/7805366/2026/11/22/submit-a-question-for-stewart-mandels-college-football-mailbag-369/</link>
+      <description>We’re almost at the finish line. What’s on your mind? Leave your questions here. Please include your city.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7805366/2026/11/22/submit-a-question-for-stewart-mandels-college-football-mailbag-369/</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AP Top 25: UCLA, Indiana tumble as Wake Forest earns best college football ranking ever</title>
@@ -174,13 +181,6 @@
       <description>Wake Forest's magical run hits a speed bump in Dallas. Utah stays unbeaten. Miami survives a scare from Duke.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7774517/2026/11/12/college-football-week-11-predictions/</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What would a 24-team College Football Playoff bracket look like after Tuesday’s rankings?</title>
-      <link>https://www.nytimes.com/athletic/7773043/2026/11/11/college-football-playoff-24-team-bracket-schedule/</link>
-      <description>Looking for late-season stakes? There are 34 power-conference teams with three losses or fewer who would be squarely in the hunt next year.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7773043/2026/11/11/college-football-playoff-24-team-bracket-schedule/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
