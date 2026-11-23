@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 20:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:10:32 +0000</lastBuildDate>
+    <item>
+      <title>Your AI Agents Can Multitask. Can You?</title>
+      <link>https://every.to/p/your-ai-agents-can-multitask-can-you</link>
+      <description>Managing several agents means constant context switching. Here’s how nine people at Every handle it.</description>
+      <guid isPermaLink="false">https://every.to/p/your-ai-agents-can-multitask-can-you</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stop Telling AI How You Write. Show It.</title>
       <link>https://every.to/context-window/stop-telling-ai-how-you-write-show-it</link>
@@ -50,13 +57,6 @@
       <description>Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.</description>
       <guid isPermaLink="false">https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Age of Artisanal AI Is Coming</title>
-      <link>https://every.to/context-window/the-age-of-artisanal-ai-is-coming</link>
-      <description>Plus: The two new levels of AI adoption, the Gemini model that doesn’t know when to stop, and how to turn your corrections into checks</description>
-      <guid isPermaLink="false">https://every.to/context-window/the-age-of-artisanal-ai-is-coming</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's Left for Humans After Automation</title>
