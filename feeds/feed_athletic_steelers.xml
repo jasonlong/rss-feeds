@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:18:49 +0000</lastBuildDate>
     <item>
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
+    <item>
+      <title>DK Metcalf's ejection is a fitting snapshot of the state of the Steelers' offense</title>
+      <link>https://www.nytimes.com/athletic/7804636/2026/11/22/steelers-dk-metcalf-ejection-offense-eagles/</link>
+      <description>Metcalf had five catches in the previous three games combined and added just one Sunday in the loss to the Eagles.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7804636/2026/11/22/steelers-dk-metcalf-ejection-offense-eagles/</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Eagles snap 7-game losing streak, extending Steelers’ longtime woes in Philadelphia</title>
@@ -174,13 +181,6 @@
       <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Tomlin: 'I haven’t given one iota of thought' about return to coaching</title>
-      <link>https://www.nytimes.com/athletic/7774268/2026/11/11/mike-tomlin-return-to-coaching/</link>
-      <description>The longtime Steelers coach is halfway through his first season with NBC.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774268/2026/11/11/mike-tomlin-return-to-coaching/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
