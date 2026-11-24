@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 22:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:10:17 +0000</lastBuildDate>
+    <item>
+      <title>Google's Neon Is Great… On a Short Leash</title>
+      <link>https://every.to/context-window/google-s-neon-is-great-on-a-short-leash</link>
+      <description>Plus: How to make a commercial by directing Claude and why Duet didn't stick</description>
+      <guid isPermaLink="false">https://every.to/context-window/google-s-neon-is-great-on-a-short-leash</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Your AI Agents Can Multitask. Can You?</title>
       <link>https://every.to/p/your-ai-agents-can-multitask-can-you</link>
@@ -50,13 +57,6 @@
       <description>GPT-6.2 Astra and Sol handle bounded tasks efficiently. The work we most want help with still demands more judgment and follow-through.</description>
       <guid isPermaLink="false">https://every.to/vibe-check/vibe-check-gpt-6-2-astra-and-sol-leave-us-wanting-more</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I Finally Got AI to Write Like Me</title>
-      <link>https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me</link>
-      <description>Six years of trying, four optimizers, and one blind judge. Here’s the process, step by step.</description>
-      <guid isPermaLink="false">https://every.to/also-true-for-humans/how-i-finally-got-ai-to-write-like-me</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's Left for Humans After Automation</title>
