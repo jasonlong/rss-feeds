@@ -8,11 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:19:04 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Who's winning Heisman Trophy? Devon Dampier moves up, Jeremiah Smith runaway after Week 12</title>
+      <link>https://www.nytimes.com/athletic/7807427/2026/11/24/heisman-trophy-race-candidates-devon-dampier-jeremiah-smith-week-12/</link>
+      <description>Dampier appears closer than any of the contenders behind Smith to securing an invite to New York as a finalist.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7807427/2026/11/24/heisman-trophy-race-candidates-devon-dampier-jeremiah-smith-week-12/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is being an Ohio State Buckeyes football fan actually fun?</title>
+      <link>https://www.nytimes.com/athletic/7806413/2026/11/24/ohio-state-football-fans/</link>
+      <description>Few programs know winning like Ohio State. But does the stress around losses outweigh the highs of winning for fans? It depends who you ask.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7806413/2026/11/24/ohio-state-football-fans/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ranking college football's top 25 rivalries right now. Is Michigan-Ohio State still No. 1?</title>
@@ -167,20 +181,6 @@
       <description>You can debate the order of the top 12, but who is in the top 12 is pretty simple. It's the rest of the rankings that are a struggle.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7785832/2026/11/16/college-football-team-138-rankings-fbs/</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Submit a question for Stewart Mandel's College Football Mailbag</title>
-      <link>https://www.nytimes.com/athletic/7786048/2026/11/15/submit-a-question-for-stewart-mandels-college-football-mailbag-368/</link>
-      <description>Hopefully everyone had better luck than Ole Miss getting to their various destinations last weekend. Leave your questions here. Please include your city.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7786048/2026/11/15/submit-a-question-for-stewart-mandels-college-football-mailbag-368/</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can the Big Ten get 3 teams into the College Football Playoff? Week 11 bracket projections</title>
-      <link>https://www.nytimes.com/athletic/7783181/2026/11/15/college-football-playoff-bracket-projections-big-ten/</link>
-      <description>Can either Iowa or Oregon play their way into the field and give the Big Ten a third team? What about BYU from the Big 12?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7783181/2026/11/15/college-football-playoff-bracket-projections-big-ten/</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
