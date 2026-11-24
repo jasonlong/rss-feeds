@@ -8,11 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:11:56 +0000</lastBuildDate>
+    <item>
+      <title>NFL Week 12 Power Rankings: You decide</title>
+      <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</guid>
+    </item>
     <item>
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
+    <item>
+      <title>NFL Week 12 power rankings: 49ers back on top, Giants climbing and Thanksgiving spirit</title>
+      <link>https://www.nytimes.com/athletic/7806316/2026/11/24/nfl-power-rankings-week-12-49ers-giants-steelers-thanksgiving/</link>
+      <description>The 49ers reclaim the top spot, the Giants could be legitimate contenders, and we find something for which each NFL team should be thankful.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7806316/2026/11/24/nfl-power-rankings-week-12-49ers-giants-steelers-thanksgiving/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>No suspension for Steelers’ DK Metcalf, who denies trying to poke Cooper DeJean in eye</title>
@@ -167,20 +179,6 @@
       <description>Bradshaw is known for keeping the mood light as an analyst for "Fox NFL Sunday." His new book details why that wasn't always easy for him.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7775771/2026/11/13/terry-bradshaw-memoir-depression-fox-nfl/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dick Hoak, longest-tenured Steelers coach and 5-time Super Bowl champ, dies at 86</title>
-      <link>https://www.nytimes.com/athletic/7776635/2026/11/12/dick-hoak-steelers-coach-death/</link>
-      <description>Hoak served as Pittsburgh's running backs coach from 1972 to 2006.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776635/2026/11/12/dick-hoak-steelers-coach-death/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Steelers need from DK Metcalf and the WRs after failing to trade for one at the deadline</title>
-      <link>https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</link>
-      <description>With a dominant defense and run game, Pittsburgh needs to solve it's shortcomings through the air.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7774798/2026/11/12/steelers-trade-deadline-wrs-dk-metcalf/</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
