@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:11:59 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>2027 NFL mock draft, top 10: Drew Mestemaker, CJ Carr go 1-2, Jeremiah Smith to Chargers</title>
+      <link>https://www.nytimes.com/athletic/7807361/2026/11/24/url-nfl-mock-draft-2027-jets-chargers-jeremiah-smith/</link>
+      <description>Whichever team lands at No. 1 will have to decide if it can pass on Smith, the likely Heisman winner.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7807361/2026/11/24/url-nfl-mock-draft-2027-jets-chargers-jeremiah-smith/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Submit your Michigan-Ohio State rivalry questions for our pregame mailbag</title>
@@ -174,13 +181,6 @@
       <description>Smith played like he had no intentions of taking his foot off the gas, while the safeties put on a show in Texas' dramatic win at LSU.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7782510/2026/11/15/nfl-draft-2027-arch-manning-lsu-texas/</guid>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeremiah Smith sets another record, powers Ohio State to win over Northwestern</title>
-      <link>https://www.nytimes.com/athletic/7781785/2026/11/14/ohio-state-northwestern-football-score-results/</link>
-      <description>The win keeps the Buckeyes alive in the College Football Playoff and Big Ten title races.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7781785/2026/11/14/ohio-state-northwestern-football-score-results/</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
