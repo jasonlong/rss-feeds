@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:11:47 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
@@ -20,9 +20,16 @@
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
     </item>
     <item>
-      <title>Steelers expected to release Aaron Rodgers after QB accuses Mike McCarthy of sleeping in meetings</title>
+      <title>Pat McAfee gave Aaron Rodgers a clean pocket to unload during live interview of a lifetime</title>
+      <link>https://www.nytimes.com/athletic/7812438/2026/11/25/aaron-rodgers-pat-mcafee-interview-mike-mccarthy-steelers/</link>
+      <description>McAfee is typically the center of attention. In a stunning interview with Rodgers, the host smartly gave his guest room.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812438/2026/11/25/aaron-rodgers-pat-mcafee-interview-mike-mccarthy-steelers/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steelers release Aaron Rodgers after QB accuses Mike McCarthy of sleeping in meetings</title>
       <link>https://www.nytimes.com/athletic/7812374/2026/11/25/aaron-rodgers-mike-mccarthy-sleeping/</link>
-      <description>The benched quarterback tells "The Pat McAfee Show" on Wednesday "that ship has definitely sailed" on returning to Steelers.</description>
+      <description>The four-time MVP was released after a scorched-earth interview with Pat McAfee, saying his coach could be heard snoring in QB meetings.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7812374/2026/11/25/aaron-rodgers-mike-mccarthy-sleeping/</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
@@ -172,13 +179,6 @@
       <description>We also dig into the Steelers without Mike Tomlin, Fernando Mendoza's first start, a Justin Herbert comp, Puka Nacua's future and more.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7786176/2026/11/16/kirk-cousins-vikings-packers-nfl-trade-deadline/</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joe Burrow flashes MVP form as Bengals embarrass Steelers to seize AFC North lead</title>
-      <link>https://www.nytimes.com/athletic/7785234/2026/11/15/steelers-bengals-nfl-week-10-score-result-takeaways/</link>
-      <description>By halftime, Cincinnati had more first downs (22) than Pittsburgh had run plays (20), with the Bengals outgaining the Steelers 337-40.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7785234/2026/11/15/steelers-bengals-nfl-week-10-score-result-takeaways/</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
