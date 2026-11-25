@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:18:21 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College Football Playoff rankings: Texas, Tennessee jump Bama as Indiana falls out of bracket</title>
+      <link>https://www.nytimes.com/athletic/7807476/2026/11/24/college-football-playoff-bracket-predictions-latest/</link>
+      <description>Texas is up to No. 3 in the College Football Playoff rankings, while Alabama fell to No. 6 and Indiana plummeted to 14th.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7807476/2026/11/24/college-football-playoff-bracket-predictions-latest/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Who's winning Heisman Trophy? Devon Dampier moves up, Jeremiah Smith runaway after Week 12</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7785645/2026/11/16/ohio-state-jeremiah-smith-northwestern-playoff/</link>
       <description>What we learned from a 28-19 Ohio State win over Northwestern that snapped a rare two-game losing skid.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7785645/2026/11/16/ohio-state-jeremiah-smith-northwestern-playoff/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-ranking 138 college football teams after Week 11: Carnage in the back half of the top 25</title>
-      <link>https://www.nytimes.com/athletic/7785832/2026/11/16/college-football-team-138-rankings-fbs/</link>
-      <description>You can debate the order of the top 12, but who is in the top 12 is pretty simple. It's the rest of the rankings that are a struggle.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7785832/2026/11/16/college-football-team-138-rankings-fbs/</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
