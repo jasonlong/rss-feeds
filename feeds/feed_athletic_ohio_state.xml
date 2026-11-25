@@ -8,11 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:12:16 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Was J.T. Barrett short? An Ohio State-Michigan debate has raged for 10 years</title>
+      <link>https://www.nytimes.com/athletic/7809595/2026/11/25/ohio-state-michigan-2016-jt-barrett-spot/</link>
+      <description>Barrett, the head official and more reflect on one of the most memorable and controversial moments in Ohio State-Michigan history.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7809595/2026/11/25/ohio-state-michigan-2016-jt-barrett-spot/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mandel's Mailbag: Is Ohio State in danger of a slide? Will the SEC actually kick out LSU?</title>
+      <link>https://www.nytimes.com/athletic/7810822/2026/11/25/ohio-state-ryan-day-lsu-sec-mandels-mailbag/</link>
+      <description>Ohio State's problems, LSU's conflict with the SEC, Gio Lopez's breakout, Jeremiah Smith's Heisman chances and more of your CFB questions.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7810822/2026/11/25/ohio-state-ryan-day-lsu-sec-mandels-mailbag/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The comprehensive guide to the college football quarterback transfer market</title>
+      <link>https://www.nytimes.com/athletic/7808827/2026/11/25/college-football-quarterbacks-transfer-portal/</link>
+      <description>Some of college football's most prominent programs will look to the portal for a QB. Which ones might be available?</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7808827/2026/11/25/college-football-quarterbacks-transfer-portal/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College Football Playoff rankings: Texas, Tennessee jump Bama as Indiana falls out of bracket</title>
@@ -160,27 +181,6 @@
       <description>Nebraska coach Matt Rhule on Monday described Ohio State's Jeremiah Smith as “undoubtedly the best player in college football.”</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7788198/2026/11/17/heisman-trophy-race-candidates-jeremiah-smith-darian-mensah/</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AP Top 25: Wake Forest reaches top 10 in delayed college football rankings as LSU falls out</title>
-      <link>https://www.nytimes.com/athletic/7783772/2026/11/16/ap-top-25-college-football-week-11/</link>
-      <description>Georgia remains No. 1 in the AP Top 25, as the top nine spots stayed the same — but a lot changed after that. Here are the latest rankings.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7783772/2026/11/16/ap-top-25-college-football-week-11/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Another week, another Heisman Trophy favorite: Jeremiah Smith tops odds to win (again)</title>
-      <link>https://www.nytimes.com/athletic/7786161/2026/11/16/heisman-trophy-odds-week-11-jeremiah-smith-cj-carr/</link>
-      <description>Jeremiah Smith is back as the favorite to win the Heisman Trophy a week after CJ Carr took the top spot.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7786161/2026/11/16/heisman-trophy-odds-week-11-jeremiah-smith-cj-carr/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Jeremiah Smith starred again, did Ohio State solve its problems against Northwestern?</title>
-      <link>https://www.nytimes.com/athletic/7785645/2026/11/16/ohio-state-jeremiah-smith-northwestern-playoff/</link>
-      <description>What we learned from a 28-19 Ohio State win over Northwestern that snapped a rare two-game losing skid.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7785645/2026/11/16/ohio-state-jeremiah-smith-northwestern-playoff/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
