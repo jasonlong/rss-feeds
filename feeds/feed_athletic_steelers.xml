@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:13:26 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
@@ -18,6 +18,13 @@
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
+    <item>
+      <title>Steelers bench QB Aaron Rodgers vs. Broncos, plan to start Mason Rudolph</title>
+      <link>https://www.nytimes.com/athletic/7811024/2026/11/24/steelers-quarterback-aaron-rodgers-mason-rudolph-broncos/</link>
+      <description>Rodgers will be inactive for Friday's game after McCarthy played off the idea that the team could pivot from the 42-year-old.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7811024/2026/11/24/steelers-quarterback-aaron-rodgers-mason-rudolph-broncos/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A brief history of controversial calls and the NFL's changing definition of a catch</title>
@@ -172,13 +179,6 @@
       <description>Week 10 in the NFL features season-altering divisional showdowns, Deshaun Watson facing his former team and a new era in Las Vegas.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7776837/2026/11/15/nfl-week-10-preview-sunday-playbook/</guid>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Has the AFC North become a 2-team race between the Steelers and Bengals? Whiparound</title>
-      <link>https://www.nytimes.com/athletic/7776953/2026/11/13/afc-north-steelers-bengals-browns-ravens/</link>
-      <description>Plus, reacting to the trade deadline and making predictions for this week's slate, which includes Steelers-Bengals on Sunday night.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7776953/2026/11/13/afc-north-steelers-bengals-browns-ravens/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
