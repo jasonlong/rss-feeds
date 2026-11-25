@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:10:18 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
@@ -20,10 +20,17 @@
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
     </item>
     <item>
+      <title>Aaron Rodgers says Mike McCarthy fell asleep in Steelers meeting</title>
+      <link>https://www.nytimes.com/athletic/7812374/2026/11/25/aaron-rodgers-mike-mccarthy-sleeping/</link>
+      <description>The benched quarterback made claims about the head coach on "The Pat McAfee Show" on Wednesday.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812374/2026/11/25/aaron-rodgers-mike-mccarthy-sleeping/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What is next for Aaron Rodgers: Release? Free agency? Retirement?</title>
-      <link>https://www.nytimes.com/athletic/7811962/2026/11/25/what-is-next-for-aaron-rodgers-release-free-agency-retirement/</link>
-      <description>Have we seen the last of the four-time league MVP in the NFL?</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7811962/2026/11/25/what-is-next-for-aaron-rodgers-release-free-agency-retirement/</guid>
+      <link>https://www.nytimes.com/athletic/7811962/2026/11/25/aaron-rodgers-steelers-release-free-agent-retirement/</link>
+      <description>Have we seen the last of the four-time league MVP in the NFL? In the wake of his benching, it's one of the options on the table.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7811962/2026/11/25/aaron-rodgers-steelers-release-free-agent-retirement/</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -171,13 +178,6 @@
       <link>https://www.nytimes.com/athletic/7785234/2026/11/15/steelers-bengals-nfl-week-10-score-result-takeaways/</link>
       <description>By halftime, Cincinnati had more first downs (22) than Pittsburgh had run plays (20), with the Bengals outgaining the Steelers 337-40.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7785234/2026/11/15/steelers-bengals-nfl-week-10-score-result-takeaways/</guid>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch Steelers vs. Bengals: TV channel and streaming options for November 15</title>
-      <link>https://www.nytimes.com/athletic/7784137/2026/11/15/steelers-vs-bengals-stream-how-to-watch-nov-15/</link>
-      <description>Find out how to watch the Pittsburgh Steelers play the Cincinnati Bengals, with time, TV channel and streaming information.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7784137/2026/11/15/steelers-vs-bengals-stream-how-to-watch-nov-15/</guid>
       <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
