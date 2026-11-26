@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:31:24 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
@@ -18,6 +18,20 @@
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
+    <item>
+      <title>Aaron Rodgers went out the only way he could … in the most bizarre blaze of glory</title>
+      <link>https://www.nytimes.com/athletic/7812966/2026/11/25/aaron-rodgers-steelers-release-mike-mccarthy-career/</link>
+      <description>In perhaps his final act as an NFL quarterback, Rodgers burned down the Pittsburgh Steelers on live TV. It was an outrageously loud ending.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812966/2026/11/25/aaron-rodgers-steelers-release-mike-mccarthy-career/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rodgers-McCarthy meltdown reveals a Steelers organization in complete disarray</title>
+      <link>https://www.nytimes.com/athletic/7813027/2026/11/25/aaron-rodgers-mike-mccarthy-steelers-owners-rooney-family/</link>
+      <description>We might look back at this week's trainwreck as the moment we understood just how bad things have gotten in Steel City.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7813027/2026/11/25/aaron-rodgers-mike-mccarthy-steelers-owners-rooney-family/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pat McAfee gave Aaron Rodgers a clean pocket to unload during live interview of a lifetime</title>
@@ -164,20 +178,6 @@
       <link>https://www.nytimes.com/athletic/7787248/2026/11/16/nfl-faa-referee-offical/</link>
       <description>"I thought they did a great job of managing a really difficult game, very testy game on both sides," Bengals coach Zac Taylor said.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7787248/2026/11/16/nfl-faa-referee-offical/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steelers' blowout loss exposes roster weaknesses that won't be easily fixed</title>
-      <link>https://www.nytimes.com/athletic/7786245/2026/11/16/steelers-blowout-loss-bengals-rodgers/</link>
-      <description>The Bengals' high-flying offense exposed the Steelers' flaws that went unaddressed at Tuesday's trade deadline.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7786245/2026/11/16/steelers-blowout-loss-bengals-rodgers/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kirk Cousins' return revives Vikings, and other NFL trade deadline ripple effects: Pick Six</title>
-      <link>https://www.nytimes.com/athletic/7786176/2026/11/16/kirk-cousins-vikings-packers-nfl-trade-deadline/</link>
-      <description>We also dig into the Steelers without Mike Tomlin, Fernando Mendoza's first start, a Justin Herbert comp, Puka Nacua's future and more.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7786176/2026/11/16/kirk-cousins-vikings-packers-nfl-trade-deadline/</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
