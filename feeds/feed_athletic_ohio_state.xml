@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:11:44 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Week 13’s top 10 college football games: What’s at stake in conference title and CFP races?</title>
+      <link>https://www.nytimes.com/athletic/7812376/2026/11/26/college-football-week-13-top-games/</link>
+      <description>The most intriguing game of rivalry weekend is not Ohio State vs. Michigan or Alabama vs. Auburn. It can be found on the West Coast.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812376/2026/11/26/college-football-week-13-top-games/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Was J.T. Barrett short? An Ohio State-Michigan debate has raged for 10 years</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7788274/2026/11/17/college-football-playoff-rankings-predictions-november-17/</link>
       <description>Georgia, Utah, Alabama, UCLA and Texas are atop the latest College Football Playoff rankings. Here's the committee's full Top 25.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7788274/2026/11/17/college-football-playoff-rankings-predictions-november-17/</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who's winning the Heisman Trophy? Jeremiah Smith, Darian Mensah lead 10 contenders after Week 11</title>
-      <link>https://www.nytimes.com/athletic/7788198/2026/11/17/heisman-trophy-race-candidates-jeremiah-smith-darian-mensah/</link>
-      <description>Nebraska coach Matt Rhule on Monday described Ohio State's Jeremiah Smith as “undoubtedly the best player in college football.”</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7788198/2026/11/17/heisman-trophy-race-candidates-jeremiah-smith-darian-mensah/</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
