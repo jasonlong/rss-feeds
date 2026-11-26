@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:17:28 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
@@ -18,6 +18,27 @@
       <title>NFL Week 11 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-11/</guid>
+    </item>
+    <item>
+      <title>Aaron Rodgers' former teammates criticize interview on Pat McAfee Show: 'It's despicable'</title>
+      <link>https://www.nytimes.com/athletic/7813068/2026/11/25/aaron-rodgers-pat-mcafee-interview-teammates-criticism/</link>
+      <description>TJ Lang, a former Packers offensive guard, said Rodgers had a “victim mentality,” and Greg Jennings called the comments "distasteful."</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7813068/2026/11/25/aaron-rodgers-pat-mcafee-interview-teammates-criticism/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RIP, Steelers as we knew them. The 'standard is the standard' team is now a laughingstock</title>
+      <link>https://www.nytimes.com/athletic/7813066/2026/11/25/steelers-aaron-rodgers-rooney-family-mike-mccarthy-fallout/</link>
+      <description>On Wednesday, we buried the Steelers. Aaron Rodgers did the deed, gave the eulogy and shoveled the dirt on a once-great franchise.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7813066/2026/11/25/steelers-aaron-rodgers-rooney-family-mike-mccarthy-fallout/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aaron Rodgers, Mike McCarthy and scenes from the Steelers’ surreal day</title>
+      <link>https://www.nytimes.com/athletic/7812979/2026/11/25/aaron-rodgers-mike-mccarthy-mcafee-locker-room/</link>
+      <description>The now-former quarterback unloaded on the coach, as media members watched players looking on in real-time.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812979/2026/11/25/aaron-rodgers-mike-mccarthy-mcafee-locker-room/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Aaron Rodgers went out the only way he could … in the most bizarre blaze of glory</title>
@@ -158,27 +179,6 @@
       <description>During Sunday night's blowout loss in Cincinnati, the Steelers also suffered an injury that could alter their season.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7788109/2026/11/17/mason-mccormick-injury-pittsburgh-steelers/</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 11 power rankings: Bills, 49ers still on top, but Kirk Cousins' Vikings on rise</title>
-      <link>https://www.nytimes.com/athletic/7786923/2026/11/17/nfl-power-rankings-week-11-bills-49ers-vikings-cousins/</link>
-      <description>In this week's power rankings, we pick a breakout player for each of the 32 teams, while Kirk Cousins and the Vikings move up the standings.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7786923/2026/11/17/nfl-power-rankings-week-11-bills-49ers-vikings-cousins/</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aaron Rodgers' shaky, cranky Steelers play leaves us no choice but to remember his past</title>
-      <link>https://www.nytimes.com/athletic/7787646/2026/11/17/aaron-rodgers-performance-steelers-bengals/</link>
-      <description>Rodgers' 22nd season deserves the truth. He's tough to watch, his QB ratings have plummeted, and he should've retired three years ago.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7787646/2026/11/17/aaron-rodgers-performance-steelers-bengals/</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL lauds officials who pulled double-duty due to FAA reassignments on Sunday</title>
-      <link>https://www.nytimes.com/athletic/7787248/2026/11/16/nfl-faa-referee-offical/</link>
-      <description>"I thought they did a great job of managing a really difficult game, very testy game on both sides," Bengals coach Zac Taylor said.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7787248/2026/11/16/nfl-faa-referee-offical/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
