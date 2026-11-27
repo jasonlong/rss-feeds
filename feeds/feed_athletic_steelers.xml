@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:11:58 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</guid>
+    </item>
+    <item>
+      <title>How to watch Broncos vs. Steelers: TV channel and streaming options for November 27</title>
+      <link>https://www.nytimes.com/athletic/7816311/2026/11/27/broncos-vs-steelers-stream-how-to-watch-nov-27/</link>
+      <description>Find out how to watch the Denver Broncos play the Pittsburgh Steelers, with time, TV channel and streaming information.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7816311/2026/11/27/broncos-vs-steelers-stream-how-to-watch-nov-27/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Broncos vs. Steelers Black Friday game watch guide: Pittsburgh enters post-Aaron Rodgers era</title>
@@ -174,13 +181,6 @@
       <description>The 49ers reclaim the top spot, the Giants could be legitimate contenders, and we find something for which each NFL team should be thankful.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7806316/2026/11/24/nfl-power-rankings-week-12-49ers-giants-steelers-thanksgiving/</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>No suspension for Steelers’ DK Metcalf, who denies trying to poke Cooper DeJean in eye</title>
-      <link>https://www.nytimes.com/athletic/7806486/2026/11/23/dk-metcalf-eye-poke-cooper-dejean-steelers-eagles/</link>
-      <description>Metcalf said he doesn’t remember the interaction with DeJean but denies trying to poke him in the eye.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7806486/2026/11/23/dk-metcalf-eye-poke-cooper-dejean-steelers-eagles/</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
