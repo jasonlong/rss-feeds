@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:14:21 +0000</lastBuildDate>
     <item>
       <title>NFL Week 12 Power Rankings: You decide</title>
       <link>https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-12/</guid>
+    </item>
+    <item>
+      <title>Broncos vs. Steelers odds, picks, predictions for Black Friday</title>
+      <link>https://www.nytimes.com/athletic/7814560/2026/11/27/broncos-steelers-odds-picks-predictions-black-friday/</link>
+      <description>The NFL Thanksgiving week action keeps rolling. Here's what to know about Denver at Pittsburgh on Black Friday.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7814560/2026/11/27/broncos-steelers-odds-picks-predictions-black-friday/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mike Tomlin cites 'general sadness' in Aaron Rodgers-Steelers saga: 'It's a dumpster fire'</title>
@@ -174,13 +181,6 @@
       <description>Plus, what each team needs to see down the stretch.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7796196/2026/11/20/afc-north-postseason-awards-bengals-steelers-ravens-browns/</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What makes an NFL player a great leader? Where they sit in the cafeteria</title>
-      <link>https://www.nytimes.com/athletic/7793678/2026/11/19/hines-ward-leadership-nfl-cafeteria/</link>
-      <description>For a leader in a locker room seeking better insight on men he calls his brothers, the cafeteria is a terrarium.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7793678/2026/11/19/hines-ward-leadership-nfl-cafeteria/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
