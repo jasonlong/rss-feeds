@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:13:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:12:30 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>College football rivalry week picks against the spread: UCLA-USC, Michigan-Ohio State, Auburn-Alabama, more</title>
+      <link>https://www.nytimes.com/athletic/7812009/2026/11/27/college-football-picks-spread-ohio-state-michigan-usc-ucla/</link>
+      <description>Our college football staff has picks against the spread for the biggest games on rivalry week.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812009/2026/11/27/college-football-picks-spread-ohio-state-michigan-usc-ucla/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>DJ Jacobs, 5-star edge rusher, flips to Miami from Ohio State</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7790087/2026/11/18/college-football-playoff-odds-wake-forest-texas-utah-indiana/</link>
       <description>There are 11 teams favored to make the College Football Playoff while two Big 12 teams appear to be fighting for the last at-large spot.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7790087/2026/11/18/college-football-playoff-odds-wake-forest-texas-utah-indiana/</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eight from the SEC? How a 24-team CFP bracket would look with committee's new rankings</title>
-      <link>https://www.nytimes.com/athletic/7791863/2026/11/18/college-football-playoff-rankings-24-bracket-projection/</link>
-      <description>Only 22 Power 4 teams have three losses or fewer with two weeks left, which would guarantee at least one four-loss Playoff participant.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7791863/2026/11/18/college-football-playoff-rankings-24-bracket-projection/</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
