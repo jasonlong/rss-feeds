@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:11:40 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>In this Ohio State-Michigan matchup, how high are the stakes? Should a coach be fired?</title>
+      <link>https://www.nytimes.com/athletic/7813053/2026/11/27/ohio-state-michigan-mailbag-stakes-coach-firing/</link>
+      <description>This is the first time since 1966 that both Ohio State and Michigan enter their showdown with four or more losses.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7813053/2026/11/27/ohio-state-michigan-mailbag-stakes-coach-firing/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>College football rivalry week picks against the spread: UCLA-USC, Michigan-Ohio State, Auburn-Alabama, more</title>
@@ -174,13 +181,6 @@
       <description>Several CFP contenders are on the road against respectable opposition in Week 12. Our staff has picks against the spread for all of them.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7792817/2026/11/19/college-football-picks-spread-week-12-lsu-tennessee-ohio-state-nebraska/</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College Football Playoff odds: Wake Forest, Texas, Utah, Indiana make moves</title>
-      <link>https://www.nytimes.com/athletic/7790087/2026/11/18/college-football-playoff-odds-wake-forest-texas-utah-indiana/</link>
-      <description>There are 11 teams favored to make the College Football Playoff while two Big 12 teams appear to be fighting for the last at-large spot.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7790087/2026/11/18/college-football-playoff-odds-wake-forest-texas-utah-indiana/</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
