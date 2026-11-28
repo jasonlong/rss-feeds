@@ -8,11 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:12:26 +0000</lastBuildDate>
     <item>
       <title>2026 College Football Playoff projections: Latest odds for 12-team bracket</title>
       <link>https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</link>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/interactive/college-football-playoff-projection-bracket-2026/</guid>
+    </item>
+    <item>
+      <title>Big Ten title game scenarios reset: How Iowa, Wisconsin wins alter picture</title>
+      <link>https://www.nytimes.com/athletic/7817997/2026/11/27/big-ten-title-game-scenarios-after-iowa-wisconsin-wins/</link>
+      <description>Friday's results eliminated USC and Ohio State, but four Big Ten teams still have a chance to make the conference title game.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7817997/2026/11/27/big-ten-title-game-scenarios-after-iowa-wisconsin-wins/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>In this Ohio State-Michigan matchup, how high are the stakes? Should a coach be fired?</title>
@@ -173,13 +180,6 @@
       <link>https://www.nytimes.com/athletic/7792942/2026/11/19/college-football-week-12-predictions-nebraska/</link>
       <description>Can UCLA remain undefeated and win at Michigan? Will LSU hand Tennessee its third loss? Can Indiana survive a trip to Washington?</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7792942/2026/11/19/college-football-week-12-predictions-nebraska/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>College football picks ATS Week 12: LSU-Tennessee, Ohio State-Nebraska, more</title>
-      <link>https://www.nytimes.com/athletic/7792817/2026/11/19/college-football-picks-spread-week-12-lsu-tennessee-ohio-state-nebraska/</link>
-      <description>Several CFP contenders are on the road against respectable opposition in Week 12. Our staff has picks against the spread for all of them.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7792817/2026/11/19/college-football-picks-spread-week-12-lsu-tennessee-ohio-state-nebraska/</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
