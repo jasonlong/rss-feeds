@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:13:11 +0000</lastBuildDate>
+    <item>
+      <title>Al Michaels reads message he says is from Aaron Rodgers during Steelers-Broncos broadcast</title>
+      <link>https://www.nytimes.com/athletic/7817776/2026/11/27/al-michaels-aaron-rodgers-message-steelers-broncos/</link>
+      <description>Rodgers was released by the Steelers on Wednesday.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7817776/2026/11/27/al-michaels-aaron-rodgers-message-steelers-broncos/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Steelers dominate Broncos days after releasing Aaron Rodgers as Bo Nix struggles</title>
       <link>https://www.nytimes.com/athletic/7816826/2026/11/27/steelers-broncos-nfl-week-12-score-result-takeaways/</link>
@@ -31,17 +38,17 @@
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Who’s the real turkey in the Rodgers-McCarthy Steelers breakup? Plus AFC North bargains, picks</title>
-      <link>https://www.nytimes.com/athletic/7812674/2026/11/27/rodgers-mccarthy-steelers-breakup-afc-north-thanksgiving/</link>
-      <description>The AFC North Whiparound covers an explosive breakup, the division’s playoff future and more.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812674/2026/11/27/rodgers-mccarthy-steelers-breakup-afc-north-thanksgiving/</guid>
-      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Aaron Rodgers attempted a coup. Is there a team that would take him on now?</title>
       <link>https://www.nytimes.com/athletic/7815224/2026/11/27/aaron-rodgers-mike-mccarthy-power-struggle/</link>
       <description>Whether his actions were justified or not, they will be a factor for any team that might consider signing him.</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7815224/2026/11/27/aaron-rodgers-mike-mccarthy-power-struggle/</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Who’s the real turkey in the Rodgers-McCarthy Steelers breakup? Plus AFC North bargains, picks</title>
+      <link>https://www.nytimes.com/athletic/7812674/2026/11/27/rodgers-mccarthy-steelers-breakup-afc-north-thanksgiving/</link>
+      <description>The AFC North Whiparound covers an explosive breakup, the division’s playoff future and more.</description>
+      <guid isPermaLink="false">https://www.nytimes.com/athletic/7812674/2026/11/27/rodgers-mccarthy-steelers-breakup-afc-north-thanksgiving/</guid>
       <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -175,13 +182,6 @@
       <link>https://www.nytimes.com/athletic/7810095/2026/11/24/a-brief-history-of-controversial-calls-and-the-nfls-changing-definition-of-a-catch/</link>
       <description>From Mike Renfro to Bert Emanuel, Calvin Johnson to Parker Washington, the NFL has long-struggled to consistently define "a catch"</description>
       <guid isPermaLink="false">https://www.nytimes.com/athletic/7810095/2026/11/24/a-brief-history-of-controversial-calls-and-the-nfls-changing-definition-of-a-catch/</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NFL Week 12 power rankings: 49ers back on top, Giants climbing and Thanksgiving spirit</title>
-      <link>https://www.nytimes.com/athletic/7806316/2026/11/24/nfl-power-rankings-week-12-49ers-giants-steelers-thanksgiving/</link>
-      <description>The 49ers reclaim the top spot, the Giants could be legitimate contenders, and we find something for which each NFL team should be thankful.</description>
-      <guid isPermaLink="false">https://www.nytimes.com/athletic/7806316/2026/11/24/nfl-power-rankings-week-12-49ers-giants-steelers-thanksgiving/</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
